@@ -103,3 +103,9 @@ The interface uses [NN/g’s progressive disclosure guidance](https://www.nngrou
 ## Hosted release delivery
 
 The complete portable website is in `web/`. The Sites deployment uses `worker/asset-server.js` and platform object storage to deliver these exact files without one large media upload. `npm run build` prepares the small host artifact; authenticated, checksum-verified asset upload activates the new experience only when every file is present. See [publishing instructions](docs/Publish-Geeta.md).
+
+### Vercel
+
+Keep the Vercel project's Root Directory at the repository root. The checked-in `vercel.json` serves `web/` directly, including the scene, fonts and all narration recordings. It selects the Other framework preset and skips installation and compilation because these browser assets are already complete. No API keys or server runtime are required for playback.
+
+`npm run build` remains the Cloudflare/Sites packaging command; its Worker output is not the Vercel website. Vercel's configuration overrides that command and publishes only `web/`, keeping production scripts and local credentials outside the deployed directory. See [Vercel's static-build guidance](https://vercel.com/docs/builds/configure-a-build#skip-build-step).
