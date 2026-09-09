@@ -108,6 +108,6 @@ Visual and interaction references include [Lusion's AI Quest](https://ai-quest.l
 
 ## License and public-release status
 
-**Original application code, configuration, build/test scripts and documentation are licensed under the [MIT License](LICENSE).** Retain the copyright and license notice when reusing covered work. The repository remains private until the owner chooses to publish it.
+**Original application code, configuration, build/test scripts and documentation are licensed under the [MIT License](LICENSE).** Retain the copyright and license notice when reusing covered work. 
 
 Three.js and fonts retain their included MIT/OFL licenses. Generated recordings, voices, meshes and narrative/translation assets require their own rights review; they are not automatically covered by the original-code MIT license. See [licensing scope](docs/LICENSING.md) and the [public-release review](docs/PUBLIC-RELEASE-REVIEW.md).
