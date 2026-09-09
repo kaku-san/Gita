@@ -19,13 +19,13 @@ const $=s=>document.querySelector(s),all=s=>[...document.querySelectorAll(s)],st
 let saved={};try{saved=JSON.parse(localStorage.getItem(storageKey)||'{}')||{};}catch{}
 const deepLink=indexFromHash(location.hash),director=createJourney({initial:deepLink??savedIndex(saved)});
 const ambience=createSound(),reducedQuery=matchMedia('(prefers-reduced-motion: reduce)');
-let locale='en',localized=story,u=ui.en,x=experienceCopy.en,f=flowCopy.en,mode=saved.mode==='listen'?'listen':'read';
+let locale='en',localized=story,u=ui.en,x=experienceCopy.en,f=flowCopy.en,mode=saved.mode==='read'?'read':'listen';
 let lastBookmarkWrite=0;
 let openingAdvanceRequested=false,openingHiddenPause=false;
 let entered=false,world=null,sceneFailed=false,opening=-1,sourceOpen=false,readingTab='shloka',selectedVerse=null,dialogueHidden=false;
 let resumeBookmark={id:saved.passageId,time:Number(saved.audioTime)||0};
 let entryRestart=false,worldPromise=null,worldResolve=null,worldReject=null;
-let arrival=null,languageChosen=false,languagePending=false,entryStarting=false,entryError=false;
+let arrival=null,languageChosen=false,languagePending=false,gatePending=false,entryStarting=false,entryError=false;
 const audioCache=createAudioCache();
 let languageRequest=0,verseRequest=0,idleTimer=0,clockFrame=0,clockLast=0;
 const localizedCache={en:story};let manifest={languages:{}},audioState={status:'missing',time:0,duration:0,available:false};
@@ -260,7 +260,7 @@ function localize(){
   for(const [id,key] of Object.entries(map))$('#'+id).textContent=x[key];
   const newMap={'source-toggle':'sourceButton','tab-shloka':'original','tab-meaning':'sceneMeaning','verse-label':'verseNumber','replay-opening':'replayOpening','skip-opening':'skipOpening','read-pace-label':'readingPace'};for(const [id,key] of Object.entries(newMap))$('#'+id).textContent=f[key];
   $('#intro-kicker').textContent=x.title;$('#intro-meta').textContent=f.introMeta;$('#intro-source').textContent=x.source;
-  $('#mode-read').textContent=$('#intro-mode-read').textContent=u.read;$('#listen-label').textContent=$('#intro-mode-listen').textContent=u.listen;$('#intro-mode').setAttribute('aria-label',x.experienceMode);$('#speed-label').textContent=u.speed;$('#show-controls').textContent=u.show;
+  $('#mode-read').textContent=$('#intro-mode-read-label').textContent=u.read;$('#listen-label').textContent=$('#intro-mode-listen-label').textContent=u.listen;$('#intro-mode-recommended').textContent=({en:'Recommended',hi:'अनुशंसित',ja:'おすすめ','zh-Hans':'推荐',fr:'Recommandé'})[locale];$('#intro-mode').setAttribute('aria-label',x.experienceMode);$('#speed-label').textContent=u.speed;$('#show-controls').textContent=u.show;
   $('#home').setAttribute('aria-label',x.intro);$('#menu-open').setAttribute('aria-label',x.menu);$('#chapter-trigger').setAttribute('aria-label',x.contents);$('#stage').setAttribute('aria-label',u.scene);
   $('#mode-switch').setAttribute('aria-label',x.experienceMode);$('#reading-tabs').setAttribute('aria-label',x.passageView);$('#listen-panel').setAttribute('aria-label',x.playback);$('.camera-arrows').setAttribute('aria-label',x.moveCamera);$('#chapter-list').setAttribute('aria-label',x.contents);
   $('#source-close').setAttribute('aria-label',f.closeSource);$('#verse-back').setAttribute('aria-label',f.previousVerse);$('#verse-next').setAttribute('aria-label',f.nextVerse);$('#opening-next').setAttribute('aria-label',x.next);$('#audio-seek').setAttribute('aria-label',u.audioPosition);
@@ -287,7 +287,7 @@ function updateEntryState(){
  const ready=arrival?.isReady(entryKey())===true;
  $('#enter').disabled=!languageChosen||languagePending||!ready||entryStarting;
  $('#enter').setAttribute('aria-busy',String(entryStarting));
- all('[data-start-language]').forEach(button=>button.disabled=languagePending);
+ all('[data-start-language]').forEach(button=>button.disabled=languagePending||gatePending);
  $('#intro-retry').hidden=!entryError;$('#intro-retry').textContent=preparationCopy[locale].retry;
  if(languageChosen){$('#loading').hidden=ready||entryError;$('#loading').textContent=preparationCopy[locale].loading;}
 }
@@ -364,16 +364,29 @@ function ensureWorld(){
 }
 // Starts immediately on page arrival, independently of any click or saved language.
 arrival=createArrival(()=>Promise.all([ensureWorld(),manifestReady,import('./narrative/sanskrit.js'),preloadFieldRecordings().catch(()=>{})]));
-arrival.shared.then(()=>{$('#arrival-message').textContent='Ready';$('#arrival-progress').hidden=true;updateEntryState();}).catch(()=>{
+arrival.shared.then(()=>{if(!gatePending){$('#arrival-message').textContent='Choose a language to continue';$('#arrival-progress').hidden=true;}updateEntryState();}).catch(()=>{
  $('#arrival-message').textContent='The journey could not finish loading.';$('#arrival-progress').hidden=true;$('#arrival-retry').hidden=false;
  entryError=true;$('#intro-status').textContent=preparationCopy[locale].failed;updateEntryState();
 });
 all('[data-start-language]').forEach(button=>button.onclick=async()=>{
- if(languagePending)return;
- const selected=await setLanguage(button.dataset.startLanguage);
- if(!selected){$('#arrival-message').textContent='This language could not be loaded. Please try again.';return;}
- languageChosen=true;$('#language-gate').hidden=true;$('#intro').hidden=false;$('#intro').inert=false;
- updateEntryState();$('#intro-title').focus({preventScroll:true});
+ if(languagePending||gatePending)return;
+ gatePending=true;$('#language-options').setAttribute('aria-busy','true');
+ all('[data-start-language]').forEach(option=>option.setAttribute('aria-pressed',String(option===button)));
+ $('#arrival-message').textContent=`Loading ${button.textContent.trim()}…`;
+ $('#arrival-progress').hidden=false;$('#arrival-retry').hidden=true;updateEntryState();
+ try{
+  const selected=await setLanguage(button.dataset.startLanguage);
+  if(!selected)throw Error('Language unavailable');
+  await prepareEntry();
+  if(!arrival.isReady(entryKey()))throw Error('Journey unavailable');
+  languageChosen=true;$('#language-gate').hidden=true;$('#intro').hidden=false;$('#intro').inert=false;
+  $('#intro-title').focus({preventScroll:true});
+ }catch{
+  $('#arrival-message').textContent='The journey could not finish loading. Please try again.';
+  $('#arrival-retry').hidden=false;
+ }finally{
+  gatePending=false;$('#language-options').setAttribute('aria-busy','false');$('#arrival-progress').hidden=true;updateEntryState();
+ }
 });
 $('#arrival-retry').onclick=$('#intro-retry').onclick=()=>location.reload();
 updateEntryState();

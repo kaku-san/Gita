@@ -19,3 +19,25 @@
 svg[hidden],svg [hidden]{display:none!important}
 @media(max-height:540px) and (orientation:landscape){#language-gate{gap:12px}#language-gate .wordmark{font-size:2.5rem}#language-options{grid-template-columns:1fr 1fr;gap:0 24px;width:min(100%,560px)}#language-options button{min-height:48px}}
 #credits-wordmark strong[data-wordmark],#ending-title>[data-wordmark]{font-size:clamp(2.75rem,12vw,9rem);line-height:1.25;max-width:92vw}
+
+/* Keep the chosen language legible while its assets finish loading. */
+#language-options button{display:flex;align-items:center;justify-content:space-between;gap:16px}
+#language-options button[aria-pressed=true]{color:#f9f3e7;background:#293a30;border-bottom-color:#ddbe85;padding-inline:14px;opacity:1}
+#language-options button[aria-pressed=true]::after{content:'✓';color:#ddbe85}
+#language-options button:disabled{opacity:.65}
+#language-options button[aria-pressed=true]:disabled{opacity:1}
+
+/* An intro-only scrim keeps the bright field behind readable, opaque text. */
+#intro{background:linear-gradient(180deg,#09110de0 0%,#09110dcc 28%,#09110de6 70%,#09110df5 100%);color:#f9f3e7}
+#intro-title,#intro-body,#intro-sound-label,#intro-about,#intro .project-credits{color:#f9f3e7}
+#intro .intro-foot,#intro-framing{color:#deddd1}
+#intro .project-credits{margin-inline:auto;border-top-color:#f9f3e740}
+#intro-mode{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;width:min(100%,440px);margin:24px auto}
+#intro-mode button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;min-width:0;min-height:88px;padding:14px 12px;border:1px solid #f9f3e780;border-radius:6px;background:#101b15;color:#f9f3e7;font-size:1.125rem;font-weight:600;line-height:1.4;text-decoration:none;overflow-wrap:anywhere}
+#intro-mode button[aria-pressed=true]{background:#ddbe85;border:2px solid #ddbe85;color:#15251b;box-shadow:0 0 0 2px #101b15,0 0 0 3px #ddbe85}
+#intro-mode button:hover{border-color:#ddbe85}
+#intro-mode button::after{display:none}
+#intro-mode-recommended{font-size:.875rem;font-weight:400;line-height:1.4;color:inherit}
+#intro-mode button:focus-visible{outline:3px solid #f9f3e7;outline-offset:5px}
+@media(max-width:480px){#intro-mode{gap:10px;margin:20px auto}#intro-mode button{padding:12px 8px}#intro .entry-actions{gap:12px}#intro .entry-button{width:100%;justify-content:center}}
+@media(max-height:540px) and (orientation:landscape){#intro-mode{margin:16px auto}#intro-mode button{min-height:72px}}

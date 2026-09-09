@@ -1,9 +1,9 @@
 {
-  "id": "d018b729f4b68e881d98f689a50330b10ff3ef443a58f5195f68e1e96cd5ca07",
+  "id": "1013d87ffca360f8659f9cf6b0262d5f3e74320ab0923e57c920bf2af69bb242",
   "files": {
     "/app.js": {
-      "sha256": "210f72c9ed00f18854f2a2232738a6cb77b582d90b2acbfc237c2c6f5b9d6327",
-      "bytes": 48539,
+      "sha256": "73c74000b91f1ed8b6afc6dd0cbfb70fc302bf654657b1db38b8bc77d2180f8a",
+      "bytes": 49448,
       "type": "text/javascript; charset=utf-8"
     },
     "/assembly.js": {
@@ -5182,8 +5182,8 @@
       "type": "text/javascript; charset=utf-8"
     },
     "/experience/arrival.css": {
-      "sha256": "cb3819b8b3ed45ce5213545ea4111e4e355b8f78d86a5e158bac5c1fa018a0ec",
-      "bytes": 2689,
+      "sha256": "d76da337faedc889ea145521d8c13ec5fda01997f2a246ade80b0d45c2fe6764",
+      "bytes": 4743,
       "type": "text/css; charset=utf-8"
     },
     "/experience/arrival.js": {
@@ -5472,8 +5472,8 @@
       "type": "application/json; charset=utf-8"
     },
     "/index.html": {
-      "sha256": "12766eb117f5e0e83abc202fb0be1ba29aed022717719a68129724fcf6daaf9e",
-      "bytes": 15726,
+      "sha256": "597ea696e812dde7cd74ca33a10c3c26b466a239d33a283eb235b99c3e963061",
+      "bytes": 15864,
       "type": "text/html; charset=utf-8"
     },
     "/narrative/audio-player.js": {

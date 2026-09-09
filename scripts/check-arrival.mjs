@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
+import vm from 'node:vm';
 const source=await readFile(new URL('../web/experience/arrival.js',import.meta.url),'utf8');
 const {createArrival,setPlaybackButton,wordmarks}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 const deferred=()=>{let resolve,reject;const promise=new Promise((a,b)=>{resolve=a;reject=b});return {promise,resolve,reject};};
@@ -33,3 +34,31 @@ globalThis.location={href:'https://gita.test/',origin:'https://gita.test'};
 globalThis.fetch=async url=>{calls++;return String(url).includes('battlefield.json')?{ok:true,json:async()=>({layers:[{src:'./audio/field/test.mp3'}]})}:{ok:true,arrayBuffer:async()=>new Uint8Array([1,2,3]).buffer};};
 try{const field=await import(new URL('../web/experience/field-recordings.js',import.meta.url));await Promise.all([field.preloadFieldRecordings(),field.preloadFieldRecordings()]);assert.equal(calls,2,'Manifest and recording must each load only once');}finally{globalThis.fetch=nativeFetch;}
 console.log('Battlefield prefetch reuses compressed bytes and needs no audio gesture.');
+
+// Exercise the real language-click handler with delayed and failed dependencies.
+const handlerSource=app.slice(app.indexOf("all('[data-start-language]').forEach(button=>button.onclick=async()=>{"),app.indexOf("$('#arrival-retry').onclick="));
+for(const outcome of ['ready','locale-error','assets-error']){
+ const localeLoad=deferred(),assetsLoad=deferred();let ready=false,preparations=0,languageCalls=0;
+ const nodes=new Map();
+ const node=key=>{if(!nodes.has(key))nodes.set(key,{hidden:key==='#intro',inert:key==='#intro',attributes:{},setAttribute(k,v){this.attributes[k]=v;},focus(){this.focused=true;}});return nodes.get(key);};
+ const choices=Object.keys(wordmarks).map(lang=>({...node(lang),dataset:{startLanguage:lang},textContent:lang}));
+ const scope={gatePending:false,languagePending:false,languageChosen:false,$:node,all:()=>choices,updateEntryState(){},setLanguage:async()=>{languageCalls++;return localeLoad.promise;},prepareEntry:async()=>{preparations++;await assetsLoad.promise;},arrival:{isReady:()=>ready},entryKey:()=> 'hi:1'};
+ vm.createContext(scope);vm.runInContext(handlerSource,scope);
+ const click=choices[1].onclick();
+ assert.equal(scope.gatePending,true);assert.equal(node('#intro').hidden,true);
+ assert.equal(node('#language-options').attributes['aria-busy'],'true');
+ assert.equal(choices[1].attributes['aria-pressed'],'true');
+ await choices[2].onclick();assert.equal(languageCalls,1,'A second click cannot race the pending choice');
+ localeLoad.resolve(outcome!=='locale-error');
+ for(let i=0;i<6;i++)await Promise.resolve();
+ assert.equal(node('#intro').hidden,true,'Locale completion alone must not reveal the intro');
+ if(outcome==='ready'){ready=true;assetsLoad.resolve();}else if(outcome==='assets-error')assetsLoad.reject(Error('offline'));
+ await click;
+ assert.equal(node('#intro').hidden,outcome!=='ready');
+ assert.equal(scope.languageChosen,outcome==='ready');
+ assert.equal(scope.gatePending,false);assert.equal(node('#arrival-progress').hidden,true);
+ assert.equal(node('#language-options').attributes['aria-busy'],'false');
+ if(outcome==='ready'){assert.equal(node('#language-gate').hidden,true);assert.equal(node('#intro').inert,false);assert.equal(node('#intro-title').focused,true);}
+ else{assert.equal(node('#language-gate').hidden,false);assert.equal(node('#arrival-retry').hidden,false);}
+}
+console.log('Language selection stays covered through slow loading, rejects duplicate clicks, and remains retryable after locale or asset failure.');
