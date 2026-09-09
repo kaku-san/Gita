@@ -1,0 +1,32 @@
+name: Bug report
+description: Something is broken in the experience.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "For credentials or exploitable security problems, follow SECURITY.md. Never paste secrets into an issue."
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include the language, chapter/passage, and Listen or Read mode.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device, operating system and browser
+      placeholder: "iPhone 15, iOS version, Safari version"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or relevant console errors
+      description: Remove personal data, tokens and private URLs before attaching anything.

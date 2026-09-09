@@ -1,0 +1,16 @@
+title = "GITA secret detection"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "elevenlabs-secret-key"
+description = "ElevenLabs-style secret key, including unlabelled keys"
+regex = '''\bsk_[a-zA-Z0-9]{32,}\b'''
+keywords = ["sk_"]
+
+[[allowlists]]
+description = "Exact public localStorage namespace; grants no access"
+targetRules = ["generic-api-key"]
+regexTarget = "match"
+regexes = ['''^storageKey=['"]geeta-journey-v1['"]$''']

@@ -11,3 +11,15 @@ __pycache__/
 
 # Generated hosted worker and fallback assets
 /dist/
+
+# Local hosting credentials, keys, logs and scanner output
+.vercel/
+.wrangler/
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+gitleaks-report.*
+.openai/*credential*
+.openai/*token*

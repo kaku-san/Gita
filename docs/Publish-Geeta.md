@@ -1,43 +1,45 @@
-# Publishing Geeta
+# Deploying GITA
 
-The portable website is the contents of `web/`. It is a static HTML/JavaScript/Three.js experience with exported MP3 audio. It needs HTTPS hosting, not an ElevenLabs connection or a production backend. Audio synthesis costs are incurred during generation; replaying the website never calls ElevenLabs.
+## Vercel: current deployment
 
-## Git handoff
+Import `kaku-san/Gita` and leave the project's Root Directory at the repository root. The checked-in `vercel.json` specifies:
 
-The hosted Site uses a small Worker with the platform `BUCKET` object store. All 1,138 public files, including the 965 narration MP3s, are uploaded individually and verified against a SHA-256 manifest. The previous site remains the fallback until the complete release is activated. This avoids the large upload and source-fetch timeouts encountered with the single audio-heavy archive. The recordings are unchanged.
+| Setting | Value |
+| --- | --- |
+| Framework | Other (`null`) |
+| Install command | Empty; skipped |
+| Build command | Empty; skipped |
+| Output directory | `web` |
 
-The working checkout is `/workspace/sites/vishvarupa`. Its source is versioned in the existing private Sites Git repository. `/workspace/repos/geeta-private` is the user's separate local private clone. These are not a claim that a repository has been created under the user's GitHub account.
+The website is already complete HTML/CSS/JavaScript with local assets. Do not use `npm run build` for Vercel: that command creates the optional Cloudflare Worker package. Only `web/` should be publicly served; never set the output directory to the repository root.
 
-`Geeta-Source.zip` contains the exact committed source, generated audio, voice cast and production receipts. Extract it into the intended private GitHub repository, or push the existing local repository to a user-chosen GitHub remote. `Geeta-Website.zip` contains only the deployable site, with `index.html` at its root. Keep the production source and generation receipts outside a public web root.
+The Git integration deploys changes to `main` when enabled. Check the deployment result before announcing an update as live. Preview deployments from forks should require maintainer approval and receive no production credentials. Configure custom domains in the owning hosting account; no domain purchase or DNS changes are part of this repository setup.
 
-The real `.env` is local-only and excluded from Git and both archives. `.env.example` is an empty setup template. Keep the full source repository private unless you intend to release its scripts, translations, models and generated masters publicly.
+Security headers are versioned in `vercel.json`: MIME sniffing protection, a referrer policy, framing restrictions, and restrictions on objects, base URLs and form submissions. They intentionally do not block the existing module scripts, inline styles or local/blob audio. This is not a full restrictive script CSP.
 
-Run `npm run check:release` before a new release. Run `python scripts/package-release.py /absolute/output/folder` after committing to reproduce the two archives. Packaging refuses a dirty working tree or incomplete narration. A simple local server can serve `web/`; opening `index.html` directly as a `file://` URL does not provide the HTTP module and audio environment the experience needs.
+[Official static-build guidance](https://vercel.com/docs/builds/configure-a-build#skip-build-step), [project configuration](https://vercel.com/docs/project-configuration/vercel-json).
 
-## Hosting choices
+## Other static hosts
 
-For the current Sites project, keep the existing private hosted URL as the review surface. A custom hostname can be attached after the user chooses and owns it. The Sites domain operation returns the exact CNAME or apex A targets plus verification records; use those returned records. Do not guess an IP address or change nameservers based on generic instructions for another hosting product. A custom domain does not itself change who can view the Site.
+Serve the contents of `web/` over HTTPS. Keep their relative paths intact and serve JavaScript, JSON, WOFF2, binary mesh data and MP3 files with their correct MIME types. Support HTTP byte ranges for narration seeking. No ElevenLabs key or backend service is needed for playback.
 
-For independent hosting from GitHub, point a static host at this repository and publish directory `web`. There is no framework build command or package install required. For example, Cloudflare Pages supports Git-backed static hosting and custom domains; its apex-domain setup has specific nameserver requirements. Follow the host's actual instructions for the selected hostname. [Cloudflare custom-domain documentation](https://developers.cloudflare.com/pages/configuration/custom-domains/).
+## Optional Cloudflare/Sites publishing
 
-Every individual source asset must remain below the chosen Git host and static host's file limits. GitHub blocks ordinary Git files above 100 MiB; use LFS or separate object storage if future assets exceed that. Current narration is stored as short MP3 passages, rather than a single large audio file. [GitHub file limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
+The alternative backend in `worker/asset-server.js` uses the `BUCKET` object store and a content-addressed release manifest. It is independent of the Vercel deployment.
 
-## Domain shortlist — 9 September 2026
+1. Run `npm run build` to generate the small Worker artifact and `hosting/release.json`.
+2. Deploy through the owning Sites project with its real identity and bindings; do not reuse another owner's project ID for a fork.
+3. Configure the server-side `GEETA_PUBLISH_TOKEN` as a hosting secret and provide the matching value locally in ignored `.env`.
+4. Supply `GEETA_SITE_ORIGIN` and `GEETA_SITE_BEARER` through the local process environment when intentionally running `python3 scripts/upload-hosted-assets.py`.
+5. The uploader verifies object checksums and sizes. Activation is refused until every expected asset is present; the previous release remains available before activation.
 
-| Candidate | Reason | Lookup result |
-| --- | --- | --- |
-| `entergeeta.com` | Short invitation into an immersive experience | Verisign RDAP returned 404: no current registration record found |
-| `thegeetajourney.com` | Explicitly describes the chapter journey | Verisign RDAP returned 404: no current registration record found |
-| `experiencegeeta.com` | Clear description of the product | Lookup could not complete; registration status unknown |
+Do not paste tokens into command history, screenshots, logs, source files or Git. This path needs separate account access; contributors should use the static local preview instead. [R2 Worker API](https://developers.cloudflare.com/r2/api/workers/workers-api-reference/).
 
-These are shortlist results, not reservations or guaranteed checkout availability. Confirm availability and renewal price with the chosen registrar before buying. No domain has been purchased, attached, or made public in this work. The two completed lookups used the `.com` registry endpoints [entergeeta.com](https://rdap.verisign.com/com/v1/domain/entergeeta.com) and [thegeetajourney.com](https://rdap.verisign.com/com/v1/domain/thegeetajourney.com).
+## Release checks
 
-## Hosted media release
+```bash
+node scripts/check-arrival.mjs
+npm run check:release
+```
 
-`npm run build` creates `dist/server/index.js`, the previous-site fallback under `dist/client/_previous/`, and `hosting/release.json`. The hosted manifest declares the existing project and `r2: "BUCKET"`. The separate `GEETA_PUBLISH_TOKEN` is a private runtime secret for publishing fixed, checksum-verified files; the ElevenLabs key is never sent to the host. The upload endpoint cannot accept arbitrary paths or activate an incomplete release.
-
-After deployment, run `scripts/upload-hosted-assets.py` with `GEETA_SITE_ORIGIN` and the temporary Sites authorization bearer supplied only in the process environment. It resumes already uploaded objects, transfers the remaining files, checks every object before activation, and writes a local report under ignored `dist/`. Do not put either publishing credential into Git, website assets, or command examples. Normal visitors only use read routes.
-
-The portable ZIP still contains the complete static website and all audio, so independent static hosting does not require this Worker or object store.
-
-API references: [R2 Worker API](https://developers.cloudflare.com/r2/api/workers/workers-api-reference/) and [static asset binding](https://developers.cloudflare.com/workers/static-assets/binding/).
+After deployment, test the language gate, all five languages, Listen/Read selection, narration seeking and mobile layout. Automated validation is not a substitute for device or native-language review.

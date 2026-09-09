@@ -1,0 +1,21 @@
+name: Feature idea
+description: Suggest a focused improvement.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would this help a visitor do?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Include how it should work on phones and with all five languages.
+    validations:
+      required: true
+  - type: textarea
+    id: help
+    attributes:
+      label: Would you like to help implement or test it?

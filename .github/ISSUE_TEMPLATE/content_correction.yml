@@ -1,0 +1,31 @@
+name: Language or content correction
+description: Improve a translation, pronunciation, shloka reference or interpretation.
+title: "[Content] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Language and chapter/passage
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Current wording and proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason and supporting source
+      description: Explain meaning, grammar or pronunciation. Link sources and avoid pasting copyrighted translations.
+    validations:
+      required: true
+  - type: dropdown
+    id: audio
+    attributes:
+      label: Does the recorded narration also need updating?
+      options:
+        - "Yes"
+        - "No"
+        - "Not sure"

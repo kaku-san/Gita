@@ -12,6 +12,7 @@ GITA is an immersive retelling of the Bhagavad Gita. The credits describe this p
 
 ## Inspiration and text
 
+- [Lusion's AI Quest](https://ai-quest.lusion.co/): immersive browser storytelling reference.
 - [Astra](https://astra.directory/): immersive web experience reference supplied by the creator.
 - [The Gateless Gate 3D](https://killedbyapixel.github.io/GatelessGate/#preface): flowing surroundings reference supplied by the creator.
 - [Bhagavad Gita](https://vedabase.io/en/library/bg/): source linked by the experience. The dialogue is a retelling, with access to original Sanskrit.
@@ -19,6 +20,8 @@ GITA is an immersive retelling of the Bhagavad Gita. The credits describe this p
 ## Typography
 
 Source Sans 3, Source Serif 4, and Noto families for Devanagari, Japanese and Simplified Chinese. Preserve the existing font license notices in `web/fonts/licenses/` and the vendored Three.js license.
+
+Asset reuse and the proposed original-code license are described in [licensing status](LICENSING.md). A credit is not a substitute for permission or an asset license.
 
 ## Narration cast
 
