@@ -10,7 +10,7 @@ Use labels such as `bug`, `enhancement`, `documentation`, `accessibility`, `tran
 
 ## Owner settings before public contribution
 
-1. Resolve the license and asset rights in `LICENSING.md`.
+1. The MIT code license is adopted. Confirm the remaining asset rights in `LICENSING.md` before public distribution.
 2. Enable a `main` branch rule that requires a pull request, at least one approving review, dismissal of stale approvals, and successful `verify` and `Secret scan` checks. Block force pushes and deletion. The API reported that rulesets need GitHub Pro or a public repository for this account's current private repo, so configure these when available; they are not yet enforced by this change.
 3. Enable private vulnerability reporting, available secret scanning and push protection. Confirm the reporting link in `SECURITY.md` works for other users.
 4. Keep forked PR workflows unprivileged and require approval for first-time contributors. Review Vercel's fork-deployment controls before allowing public previews. Do not expose production credentials to preview builds.

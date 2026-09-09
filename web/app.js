@@ -1,5 +1,5 @@
 import {createArrival,setPlaybackButton,wordmarks} from './experience/arrival.js?v=14';
-import {renderCredits} from './experience/credits.js?v=14';
+import {renderCredits} from './experience/credits.js?v=16';
 import {preloadFieldRecordings} from './experience/field-recordings.js?v=14';
 import {createPreparation,createAudioCache,preparationCopy} from './experience/preparation.js?v=12';
 import {chapterTimeline,locateChapterTime,locateSkip,playbackSpeeds} from './experience/podcast.js';

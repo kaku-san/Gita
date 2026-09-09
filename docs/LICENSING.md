@@ -1,12 +1,16 @@
-# Licensing status and proposed release terms
+# Licensing scope
 
-The original project does not yet have an active open-source license. Making a repository visible on GitHub does not automatically grant general reuse or redistribution rights. Third-party components retain the licenses already included with them. [GitHub guidance](https://docs.github.com/articles/licensing-a-repository).
+The owner has approved the [MIT License](../LICENSE) for original application code, configuration, build/test scripts and documentation. You may reuse, modify and redistribute covered work, including commercially, while retaining the copyright and license notice. Contributors retain their copyright and submit covered contributions under the same terms unless otherwise agreed before merging.
 
-## Proposed decision for the owner
+## What MIT covers
 
-Use the MIT License for original application code, configuration, build/test scripts and documentation. This permits reuse, modification and commercial use with the copyright/license notice retained. The complete text is prepared in [LICENSE-MIT.proposed.txt](LICENSE-MIT.proposed.txt). It is a proposal only; the owner must approve its scope before it becomes the root `LICENSE`.
+The grant covers original executable code and configuration in this project, its build/test/generation scripts, and project documentation. This includes the original JavaScript, HTML and CSS that implement the website and the optional publishing backend. It does not replace a third party's license.
 
-Keep generated audio, voices, artwork/mesh assets, narrative text/translations, font files and vendored libraries outside that original-code grant until their relevant rights are confirmed. This avoids describing every bundled asset as MIT. The README should be updated when the decision is made.
+## What MIT does not cover
+
+Generated recordings, voice models, narration scripts and story/translation text, artwork, meshes, fonts and vendored third-party libraries are outside the original-code grant. This exclusion also applies to non-code content embedded in source files and to copies inside archives. Those materials retain their applicable ownership and terms; the MIT license does not grant access to a provider account, a voice model, trademarks or a person's likeness.
+
+Three.js has its own included MIT notice; the fonts have included SIL Open Font License notices. Public redistribution rights for other assets still need confirmation as recorded below. Attribution does not by itself establish reuse permission.
 
 ## Asset inventory
 

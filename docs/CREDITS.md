@@ -4,6 +4,8 @@ GITA is an immersive retelling of the Bhagavad Gita. The credits describe this p
 
 ## Technology
 
+Created by Akanshu Jain with [OpenAI Codex](https://openai.com/codex/)-assisted development.
+
 - [Three.js](https://threejs.org/): real-time 3D rendering.
 - HTML, CSS and JavaScript: responsive interface, language selection and story navigation.
 - Web Audio API: battlefield mixing and spatial sound.
@@ -21,7 +23,7 @@ GITA is an immersive retelling of the Bhagavad Gita. The credits describe this p
 
 Source Sans 3, Source Serif 4, and Noto families for Devanagari, Japanese and Simplified Chinese. Preserve the existing font license notices in `web/fonts/licenses/` and the vendored Three.js license.
 
-Asset reuse and the proposed original-code license are described in [licensing status](LICENSING.md). A credit is not a substitute for permission or an asset license.
+Asset reuse and the original-code MIT license are described in [licensing status](LICENSING.md). A credit is not a substitute for permission or an asset license.
 
 ## Narration cast
 

@@ -2,7 +2,7 @@
 
 Reviewed on 2026-09-09. Baseline GitHub commit: `e302f33d2f51f1c3e5f54b2b240ae5d7473f9307`.
 
-**Result:** no credentials detected in the inspected repository/history after two verified false positives were identified. The contribution structure and repository safeguards are prepared. The repository remains private; licensing and owner-controlled account settings still need decisions before a public launch.
+**Result:** no credentials detected in the inspected repository/history after two verified false positives were identified. The contribution structure and repository safeguards are prepared. The repository remains private; asset redistribution rights and owner-controlled account settings still need review before a public launch.
 
 ## Audit scope and evidence
 
@@ -29,11 +29,11 @@ The Gitleaks executable was downloaded from the official release and verified ag
 - Pinned CI actions, disabled persisted checkout credentials, retained read-only workflow permissions, and added Dependabot updates for GitHub Actions.
 - Expanded credential-file ignores and added Vercel response headers for MIME sniffing, referrer disclosure, framing, objects, base URLs and forms.
 - Replaced stale GitHub/hosting handoff instructions with the current `kaku-san/Gita` and Vercel workflow.
-- Prepared a proposed MIT license for original code/documentation and a separate asset-rights inventory. No license grant or repository visibility change was made.
+- Prepared an MIT license proposal and a separate asset-rights inventory. In the subsequent owner-approved update, MIT was adopted for original code/documentation. Repository visibility remains unchanged.
 
 ## Owner decisions before public launch
 
-1. **Approve the code license.** Read [LICENSING.md](LICENSING.md) and the complete [MIT proposal](LICENSE-MIT.proposed.txt). It permits modification, redistribution and commercial reuse of covered code. It is not active yet.
+1. **Code license adopted.** The owner approved [MIT](../LICENSE) for original code/documentation. Its exclusions are explicit in [LICENSING.md](LICENSING.md).
 2. **Confirm rights for bundled assets.** Check the ElevenLabs plan/voice/output terms applicable at generation time, plus the provenance of narrative translations and approved input meshes. Generation receipts are not a license certificate. Preserve the included Three.js and font licenses.
 3. **Review credentials outside Git.** Provider keys, chat attachments, local files and hosting secret stores are outside this scan. Rotate any credential previously shared outside its intended secret store; the existing recordings do not need an API key to play.
 4. **Enable account safeguards.** Require PR review and successful `verify`/`Secret scan` checks on `main`, enable available secret scanning/push protection and private vulnerability reporting, and review fork/preview deployment permissions. The rulesets API returned a plan/visibility restriction while the repo was private; these controls have not been enabled by this change.

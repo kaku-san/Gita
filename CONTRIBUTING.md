@@ -68,4 +68,4 @@ Do not add broad scanner exclusions. Report security problems through [SECURITY.
 
 Be respectful of contributors, cultures and religious interpretations. Critique the work, explain disagreements with evidence, and avoid harassment or personal attacks. The maintainer may close abusive or unrelated discussions.
 
-Submit only work you have the right to contribute. The original-project license is awaiting the owner's decision; see [licensing status](docs/LICENSING.md). The proposed MIT terms are not active yet. Agree the applicable license with the maintainer before a contribution is merged; nothing here asks you to transfer copyright.
+Submit only work you have the right to contribute. Unless explicitly agreed otherwise before merging, original code and documentation contributions are provided under the project's [MIT License](LICENSE). You retain your copyright. Narrative, audio, artwork and other asset contributions must document their applicable terms and provenance separately; see [licensing scope](docs/LICENSING.md).

@@ -86,7 +86,7 @@ You do not need to be a Three.js developer. Useful contributions include:
 
 **Open an issue → work in a fork or feature branch → submit a focused PR → maintainer review.** The templates ask for the context needed to reproduce and assess changes. Read [the contribution guide](CONTRIBUTING.md) before substantial work; discuss new features, visual redesigns and audio generation first.
 
-The original-project license is awaiting the owner's decision. The proposed MIT code license is documented below; agree the contribution terms before merging work.
+Original code and documentation contributions use the MIT License. Contributions to narrative, audio or other assets must identify their separate terms; see [licensing scope](docs/LICENSING.md).
 
 ## Deploy
 
@@ -108,6 +108,6 @@ Visual and interaction references include [Lusion's AI Quest](https://ai-quest.l
 
 ## License and public-release status
 
-**The repository is still private; an original-project license has not yet been adopted.** A complete [MIT proposal for original code and documentation](docs/LICENSE-MIT.proposed.txt) is ready for the owner's approval. It does not currently grant reuse rights.
+**Original application code, configuration, build/test scripts and documentation are licensed under the [MIT License](LICENSE).** Retain the copyright and license notice when reusing covered work. The repository remains private until the owner chooses to publish it.
 
-Three.js and fonts retain their included MIT/OFL licenses. Generated recordings, voices, meshes and narrative/translation assets require their own rights review; they are not automatically covered by the proposed code license. See [licensing scope](docs/LICENSING.md) and the [public-release review](docs/PUBLIC-RELEASE-REVIEW.md).
+Three.js and fonts retain their included MIT/OFL licenses. Generated recordings, voices, meshes and narrative/translation assets require their own rights review; they are not automatically covered by the original-code MIT license. See [licensing scope](docs/LICENSING.md) and the [public-release review](docs/PUBLIC-RELEASE-REVIEW.md).

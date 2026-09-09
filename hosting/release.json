@@ -1,8 +1,8 @@
 {
-  "id": "1013d87ffca360f8659f9cf6b0262d5f3e74320ab0923e57c920bf2af69bb242",
+  "id": "c9f6635eeccef02468276016cdf4b21033cd9856a5252216e005aadacd4e9f95",
   "files": {
     "/app.js": {
-      "sha256": "73c74000b91f1ed8b6afc6dd0cbfb70fc302bf654657b1db38b8bc77d2180f8a",
+      "sha256": "ac19bae5e4b828e19f4584c15946d35f155be2e8c971f9696a521edcd3a05e53",
       "bytes": 49448,
       "type": "text/javascript; charset=utf-8"
     },
@@ -5022,8 +5022,8 @@
       "type": "text/javascript; charset=utf-8"
     },
     "/credits.html": {
-      "sha256": "3596a9941aef3db315e3ecd104d21794229c173e24b43174d97aaede2029f9c4",
-      "bytes": 2658,
+      "sha256": "4d1aa228a2c6bd643903a537fdae25e7088292d06b67559a10e3339a639f8eb7",
+      "bytes": 4802,
       "type": "text/html; charset=utf-8"
     },
     "/downloads/Geeta-Narration-Scripts.zip": {
@@ -5202,8 +5202,8 @@
       "type": "text/javascript; charset=utf-8"
     },
     "/experience/credits.js": {
-      "sha256": "655fd8bb7e30856987c58e3aeb92dc5e3d5135aff5604724e6c8fa98392f9b39",
-      "bytes": 2394,
+      "sha256": "46832891d22710ff2149fa4df0cd84c08f033088a67767f5d59efd8424960481",
+      "bytes": 2978,
       "type": "text/javascript; charset=utf-8"
     },
     "/experience/daylight.js": {
@@ -5472,9 +5472,14 @@
       "type": "application/json; charset=utf-8"
     },
     "/index.html": {
-      "sha256": "597ea696e812dde7cd74ca33a10c3c26b466a239d33a283eb235b99c3e963061",
+      "sha256": "4c24b4450f0e7af161f080f5efe6b64d36c596f1351b3906a6088a71d22982c1",
       "bytes": 15864,
       "type": "text/html; charset=utf-8"
+    },
+    "/licenses/MIT.txt": {
+      "sha256": "6404da78b5e5155ac490e995c12cac1808630f17b79a90210d07b6b8a4198f60",
+      "bytes": 1086,
+      "type": "text/plain"
     },
     "/narrative/audio-player.js": {
       "sha256": "07b1070356fa80e42d72fc157e9ac47915e171255941ffe98629921c63b09aa7",
