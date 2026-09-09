@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "checks": [
+    "Approved Vishvarupa and story hashes",
+    "Level hero floor",
+    "Finite attributes and instances",
+    "Valid indices",
+    "Shader hook composition",
+    "Battlefield motion",
+    "Pause",
+    "Vision color and opacity restoration",
+    "Phone subject size and terrain clearance",
+    "Central chariot and both flanks in wide view",
+    "Expanded world bounds",
+    "Repeated disposal"
+  ],
+  "browserQA": "not performed",
+  "variants": [
+    {
+      "quality": "high",
+      "triangles": 2744382,
+      "drawObjects": 47,
+      "instances": 152810,
+      "representedArmy": 1909376,
+      "framing": [
+        {
+          "view": "clash",
+          "subjectHeightPixels": 100,
+          "phone": [
+            390,
+            844
+          ]
+        },
+        {
+          "view": "cavalry",
+          "subjectHeightPixels": 136,
+          "phone": [
+            390,
+            844
+          ]
+        },
+        {
+          "view": "elephants",
+          "subjectHeightPixels": 200,
+          "phone": [
+            390,
+            844
+          ]
+        },
+        {
+          "view": "wide",
+          "subjectHeightPixels": 13,
+          "phone": [
+            390,
+            844
+          ]
+        }
+      ]
+    },
+    {
+      "quality": "low",
+      "triangles": 1424521,
+      "drawObjects": 45,
+      "instances": 75909,
+      "representedArmy": 1446816,
+      "framing": [
+        {
+          "view": "clash",
+          "subjectHeightPixels": 100,
+          "phone": [
+            390,
+            844
+          ]
+        },
+        {
+          "view": "cavalry",
+          "subjectHeightPixels": 136,
+          "phone": [
+            390,
+            844
+          ]
+        },
+        {
+          "view": "elephants",
+          "subjectHeightPixels": 200,
+          "phone": [
+            390,
+            844
+          ]
+        },
+        {
+          "view": "wide",
+          "subjectHeightPixels": 13,
+          "phone": [
+            390,
+            844
+          ]
+        }
+      ]
+    }
+  ]
+}

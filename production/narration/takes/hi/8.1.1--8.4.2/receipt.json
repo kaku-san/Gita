@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "d7e1fcea1ae9b3d0bc09ea5a30f3d53944d3bba2e0f897e7e9a9b2071bb66e77",
+  "submitted_at": "2026-09-09T11:11:28.971356+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "ब्रह्म, आत्मा और कर्म से तुम्हारा क्या अर्थ है? शरीरधारी प्राणियों के संसार में तुम कैसे उपस्थित हो, और मृत्यु के समय तुम्हें कैसे जाना जा सकता है?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "ब्रह्म अविनाशी परम सत्य है। अध्यात्म का संबंध अपने भीतरी आध्यात्मिक स्वरूप से है। यहाँ कर्म उस सृजनकारी क्रिया का नाम है जिससे शरीरधारी प्राणी जन्म लेते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "बदलता हुआ संसार नाशवान है। एक चेतन अधिष्ठाता तत्व भी है, और शरीर में मैं यज्ञ के स्वामी के रूप में उपस्थित हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मृत्यु के समय चेतना की दिशा मायने रखती है। मनुष्य ने बार-बार जिसे मन में धारण किया है, वही उस अंतिम दिशा को आकार देता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "इसलिए हर समय मेरा स्मरण करो और अपने सामने का कर्म पूरा करो। मन और बुद्धि मुझे अर्पित करो। ऐसा स्मरण अभ्यास से बढ़ता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "साधक इंद्रियों और मन को अनुशासित करते हैं, अविनाशी सत्य और पवित्र नाद ओम का स्मरण करते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "काल के विशाल अंतरालों में लोक प्रकट होते हैं और फिर लीन हो जाते हैं। इन बदलावों से परे एक सनातन सत्य है, जो प्राणियों के नष्ट होने पर भी नष्ट नहीं होता। वही परम धाम है, जिस तक अनन्य भक्ति से पहुँचा जाता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उपदेश एक प्रकाशमय मार्ग का वर्णन करता है जिससे लौटना नहीं होता, और दूसरे मार्ग का भी, जिससे यात्री लौटता है। इन मार्गों को जानकर योगी भ्रमित नहीं होता।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "हर समय योग में स्थित रहो। यह समझ अनुष्ठान, अध्ययन, तप और दान के सीमित फलों से आगे, परम मूल की ओर ले जाती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "8.1.1",
+      "filename": "hi/8.1.1.mp3",
+      "textSha256": "8a2838b914427b24f756447640d0c5df30c58c0f46469d9cce95027559572cce",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "8.1.2",
+      "filename": "hi/8.1.2.mp3",
+      "textSha256": "04f9dad17c98966f71cc76250381529f14927bb4dbe20273e22c4c20d6deffc9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.1.3",
+      "filename": "hi/8.1.3.mp3",
+      "textSha256": "e55f81a4d42a4510560b9e1a2f94901531f58c29c58afcef7beae1227541121e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.2.1",
+      "filename": "hi/8.2.1.mp3",
+      "textSha256": "37339ef68da01a677083c020a28efa516693d73265fda94fdd2a0127825e6da2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.2.2",
+      "filename": "hi/8.2.2.mp3",
+      "textSha256": "e17d7ff2fbf4c611d0063cc82e7f1a66b7bc2b2f056f36a15f9eeed6edb7eb30",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.3.1",
+      "filename": "hi/8.3.1.mp3",
+      "textSha256": "074e80b2265892aac4157cc30df8cd1abe00bf847dbeb30be297dc80cfb40340",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.3.2",
+      "filename": "hi/8.3.2.mp3",
+      "textSha256": "e8aff0a3ed15151e8ce8dfd3cfc72b15f374567b4fe985acda87276cf700c11a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.4.1",
+      "filename": "hi/8.4.1.mp3",
+      "textSha256": "8e0fad17aa965b8bf0922059743684a8fffd1a258722f9dcb1f15c68f4dde084",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.4.2",
+      "filename": "hi/8.4.2.mp3",
+      "textSha256": "f57357c332840c4e8191f2fc2a1c5d05c1b544fd7a8e12de44594a773543998c",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "666",
+  "request_id": "8XWwMLzWHM75JRkDd1Ty",
+  "master_sha256": "9d7ed4f8ce07fea6684a696948c0e3f1f82c31b2345f7cb13b8482efa03f5dbc"
+}

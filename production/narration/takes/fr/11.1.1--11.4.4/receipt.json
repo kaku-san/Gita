@@ -1,0 +1,148 @@
+{
+  "status": "generated",
+  "fingerprint": "eeca1f021dc3b5d6ee8e1f10e3ab4e614b2c69103fb0971b7ef0560c9a433d4e",
+  "submitted_at": "2026-09-09T11:27:02.494008+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Ce que tu m’as enseigné a dissipé une grande part de ma confusion. J’ai entendu comment les êtres apparaissent et disparaissent. Je veux contempler ta forme souveraine. Si tu penses que je peux la supporter, montre-la-moi.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Contemple mes formes, dans leurs innombrables couleurs et variétés. Vois le monde entier rassemblé ici, et des merveilles que tu n’as jamais vues.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Tes yeux ordinaires ne peuvent accueillir cette vision. Je t’accorde la vision divine.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Alors Krishna révéla la forme universelle. Son éclat dépassait toute lumière que le champ de bataille avait connue.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Je vois en toi des êtres et des puissances divines. Je ne peux trouver ton commencement, ton milieu ni ta fin. Ton éclat emplit toutes les directions.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Et je vois nos guerriers entrer dans la destruction. Bhishma, Drona, les fils de Dhritarashtra se précipitent vers elle comme les fleuves vers la mer.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Je ne trouve pas la paix. Dis-moi qui tu es sous cette forme terrible.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Je suis le Temps, qui conduit les mondes à leur fin. Les guerriers rangés ici ne demeureront pas, même sans toi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Relève-toi, Arjuna. Deviens un instrument. Ces guerriers sont déjà pris dans cette fin. Fais face au combat qui t’attend.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je t’ai appelé mon ami et je t’ai parlé avec légèreté, sans connaître la grandeur qui se tenait devant moi. Pardonne ce que je n’ai pas su comprendre.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Je suis rempli d’émerveillement et ébranlé par la peur. Montre-moi à nouveau une forme que je puisse supporter : couronnée, avec une massue et un disque, et quatre bras.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Laisse cette peur s’apaiser. Contemple à nouveau la forme que tu as demandée.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "En voyant ta douce forme humaine, je peux retrouver mes esprits.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "11.1.1",
+      "filename": "fr/11.1.1.mp3",
+      "textSha256": "c8369e93e68d5a6eef276ea41825a2e92acf0d600003d9d3c9f41c23714c13ff",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.1.2",
+      "filename": "fr/11.1.2.mp3",
+      "textSha256": "9614019d9767972d2b2778da9af5840d17d629b85bbcce3bd5043717280bdda9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.3",
+      "filename": "fr/11.1.3.mp3",
+      "textSha256": "79f8c5afeae2f7c249dc1bc4c9db9fb9e330bfa227f76e1fe49b8ce8f23dc5f0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.4",
+      "filename": "fr/11.1.4.mp3",
+      "textSha256": "7881037f7fdd18f4bfe266c3b03668738a71741b76f95fe3558bcc4cc5fbfda9",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "11.2.1",
+      "filename": "fr/11.2.1.mp3",
+      "textSha256": "cd13260fbd4be7910099468dca0561adc4ce5a81ea2b2947008278c0da610e16",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.2",
+      "filename": "fr/11.2.2.mp3",
+      "textSha256": "ec37dfcc8ac29fee122f9648e61938f36058d374a61d6b1df34d5c56858c2f99",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.3",
+      "filename": "fr/11.2.3.mp3",
+      "textSha256": "0c3bd5ac4a8cce72b98dbb55cfcea8b9dc767e5c9560f33b1e06a7cc6efd077f",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.3.1",
+      "filename": "fr/11.3.1.mp3",
+      "textSha256": "1a79d0d6844e8b9748be9f111cb19ef8051f7751dd7c3ea146434737c8757f7e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.3.2",
+      "filename": "fr/11.3.2.mp3",
+      "textSha256": "371d181e4c847ebbf7a5eee1bbd77cef3b57b6013d361cbab233665b65f54f7b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.1",
+      "filename": "fr/11.4.1.mp3",
+      "textSha256": "7fbbeb07bacbe537b99e5fe31059c87bd7d7cd4ce4ba70d0392cf8456e6b8a2b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.2",
+      "filename": "fr/11.4.2.mp3",
+      "textSha256": "a64a18c3aed830c4a4b8a89ce071b6185b222b2236085c872a17d01c95760b17",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.3",
+      "filename": "fr/11.4.3.mp3",
+      "textSha256": "2f2bd683d7c7aadc49f8307059867cbb9c989ab61e4dc57c7de245ccd2cee5c9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.4",
+      "filename": "fr/11.4.4.mp3",
+      "textSha256": "9f106cfdc04bd3aaee1e0aafec41697a38a5e970803ad0751609d84bc16da141",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "898",
+  "request_id": "depJsj8sqqHDaVGmMdVQ",
+  "master_sha256": "e76c64c4f0b560723d4fb861324ee8cf29e0e732b2eaeb1c09b230ac9563cb90"
+}

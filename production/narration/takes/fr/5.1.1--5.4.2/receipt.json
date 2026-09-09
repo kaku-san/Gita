@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "09c99aca9cfb5e3b9f3f92059408bf7a34b241f07ceab9847dff84411af58923",
+  "submitted_at": "2026-09-09T11:21:00.021937+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Tu fais l’éloge du renoncement, et tu fais aussi l’éloge de l’action. Quelle voie dois-je suivre ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Les deux peuvent conduire au bien suprême, mais la discipline de l’action est ici la voie la plus praticable. Celui qui renonce véritablement n’est pas dévoré par l’attirance et l’aversion.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La sagesse et l’action disciplinée ne conduisent pas nécessairement à des destinations différentes. Apprends à reconnaître ce qu’il faut abandonner au sein de la vie que tu mènes.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Agis avec ton corps, ton esprit et ta compréhension, en abandonnant l’attachement possessif. Offre l’action au divin. Comme l’eau sur une feuille de lotus, elle peut ne pas adhérer à toi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "S’agripper au fruit enchaîne. Relâcher cette emprise apporte la paix.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les sages portent un regard égal sur une personne instruite, une vache, un éléphant, un chien et une personne que la société traite en paria.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Leurs formes et leurs conditions diffèrent. La sagesse ne se laisse pas enfermer dans ces différences. Lorsque la compréhension repose dans le divin, le plaisir extérieur n’a plus à porter tout le poids du bonheur.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les plaisirs nés du contact ont un commencement et une fin. Apprends à supporter le désir et la colère sans devenir leur serviteur.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ceux qui se tournent vers l’intérieur, qui œuvrent au bien-être des êtres, qui me connaissent comme celui qui reçoit le sacrifice, le seigneur des mondes et l’ami de tous les êtres, trouvent la paix.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "5.1.1",
+      "filename": "fr/5.1.1.mp3",
+      "textSha256": "960ff5d73356c3a25c11427499235d79c58e0a2629e52c7bac8018b904fb441a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "5.1.2",
+      "filename": "fr/5.1.2.mp3",
+      "textSha256": "d6c6c996f419b3401b76f87c6c1bc52f9b73857a5ffab6cf8a015b999aea85cd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.1.3",
+      "filename": "fr/5.1.3.mp3",
+      "textSha256": "9f6c90d0867b3921a215072b673413e57821e23527fccb717bf737753c2ee7f0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.2.1",
+      "filename": "fr/5.2.1.mp3",
+      "textSha256": "481ee62596dce12d9c3f4ba1841b45f7f6eaa244871093da62247a29296ce9f1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.2.2",
+      "filename": "fr/5.2.2.mp3",
+      "textSha256": "d13495857d46ca4be7e127ea91da9b2863f2293804878adf4d4f2ea2db2b95b2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.3.1",
+      "filename": "fr/5.3.1.mp3",
+      "textSha256": "586014f4164598d4f347e201266f20dc83887953dbb717d43b864fc1a8e638ba",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.3.2",
+      "filename": "fr/5.3.2.mp3",
+      "textSha256": "ae56387c4c42bcbf919c5e183af860bc7ad5c594ff4e09a3c407690b653f46c9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.4.1",
+      "filename": "fr/5.4.1.mp3",
+      "textSha256": "67eb865fc9f05609e719845f7131654bdb9919859a0f4ee8c0b80597bfaa453d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.4.2",
+      "filename": "fr/5.4.2.mp3",
+      "textSha256": "5bd2a7365844777932bb073ce9cf67a3641fc85eadc983c6fb60166d0eb48ed1",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "774",
+  "request_id": "vvoXNMY6lTQpIOu1q1jE",
+  "master_sha256": "999398bcfbc5e39236f6c76f4f94d4f7fd647f943838500e5557e61ad8f042da"
+}

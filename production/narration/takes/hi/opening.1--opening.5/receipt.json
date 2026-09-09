@@ -1,0 +1,68 @@
+{
+  "status": "generated",
+  "fingerprint": "d8492897b281a9b71d62c7a6b9fb6c920a2e711ba5eab6365c4ff748f88eb86e",
+  "submitted_at": "2026-09-09T11:25:48.483625+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "कुरुक्षेत्र में पांडव और कौरव आमने-सामने हैं। दोनों ओर अपने संबंधी, गुरु और मित्र खड़े हैं।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "एक राजकुमार और महान धनुर्धर। वे युद्ध के लिए तैयार थे, जब तक उन्होंने सामने खड़े अपनों को नहीं देखा।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "उनके मित्र, सारथी और मार्गदर्शक। जब केवल बल से सही कर्म का निर्णय नहीं हो पाता, अर्जुन उनकी ओर मुड़ते हैं।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "युद्ध से पहले का एक संवाद।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "अर्जुन कृष्ण से रथ को दोनों सेनाओं के बीच ले चलने को कहते हैं। यहीं, युद्ध से पहले, उनका संवाद शुरू होता है।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "opening.1",
+      "filename": "hi/opening-1.mp3",
+      "textSha256": "40933da6873ec912c85fe57e4ba70c362250223259fe3355c6cacd073045f665",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.2",
+      "filename": "hi/opening-2.mp3",
+      "textSha256": "d82aa641b36720bb517ffb374ef1d026acbe26debcfb6a535e3607a7b41237bc",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.3",
+      "filename": "hi/opening-3.mp3",
+      "textSha256": "49db7203308eabd728fcd0a331de7048274e80961933fc71f6d8f634b15b56b5",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.4",
+      "filename": "hi/opening-4.mp3",
+      "textSha256": "3654c32241e04e106265ef3aeab9e70dd694d62cc684983ef908e40d7607b3e5",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.5",
+      "filename": "hi/opening-5.mp3",
+      "textSha256": "56e321e36d47afa057352c5289c9f61eb97312f08889e1ea827dd523439b2f8e",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "237",
+  "request_id": "qbV0miOgZ3Xu7MjylP2W",
+  "master_sha256": "da4933346a35938c66ce4a5861809dc6f417d54a675acdd0f746a9afd995ec3b"
+}

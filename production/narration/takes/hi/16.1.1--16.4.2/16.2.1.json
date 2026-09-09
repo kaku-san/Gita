@@ -1,0 +1,13 @@
+{
+  "id": "16.2.1",
+  "language": "hi",
+  "src": "./audio/hi/16.2.1.mp3",
+  "duration": 9.560816,
+  "textSha256": "96be707e1b66859f1972bc399c655bad1d537b9d8042ce5e9573c3c56c27b903",
+  "audioSha256": "647a36ccfdb8b60d81b6cd1bc481524822dfe0ce6b5ec4510fea540e3c9cda11",
+  "voice_id": "hRHid0k1FJN4S80Kbs5m",
+  "model_id": "eleven_v3",
+  "source_take": "takes/hi/16.1.1--16.4.2",
+  "start": 31.84,
+  "end": 41.36
+}

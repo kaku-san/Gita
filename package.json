@@ -1,0 +1,10 @@
+{
+  "name": "geeta-chapter-xi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-sequence.mjs",
+    "check:release": "node scripts/check-release.mjs && node scripts/check-podcast.mjs && node scripts/check-hosted.mjs",
+    "build": "python scripts/build-hosted.py"
+  }
+}

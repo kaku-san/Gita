@@ -1,0 +1,166 @@
+{
+  "passed": true,
+  "checks": [
+    "all approved dependency hashes",
+    "module syntax and imports",
+    "reader-paced transition state",
+    "pause and reduced motion",
+    "interrupted transitions",
+    "finite geometry and instance matrices",
+    "revealed/gentle/return states",
+    "cosmic skin hook composition",
+    "connected reins",
+    "numeric camera framing"
+  ],
+  "browserQA": "not performed",
+  "geometry": {
+    "rath": {
+      "triangles": 3653178,
+      "drawObjects": 300,
+      "uniqueVertices": 1479162
+    },
+    "universalForm": {
+      "triangles": 886568,
+      "drawObjects": 46,
+      "uniqueVertices": 440597
+    },
+    "surroundings": {
+      "triangles": 2744382,
+      "drawObjects": 47,
+      "uniqueVertices": 164199
+    },
+    "cosmos": {
+      "triangles": 63466,
+      "drawObjects": 17,
+      "uniqueVertices": 9052
+    }
+  },
+  "framing": [
+    {
+      "passage": 2,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.666,
+        -0.338,
+        0.971
+      ]
+    },
+    {
+      "passage": 3,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.654,
+        -0.677,
+        0.981
+      ]
+    },
+    {
+      "passage": 4,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.635,
+        -0.604,
+        0.987
+      ]
+    },
+    {
+      "passage": 5,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.591,
+        -0.587,
+        0.975
+      ]
+    },
+    {
+      "passage": 6,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.591,
+        -0.587,
+        0.975
+      ]
+    },
+    {
+      "passage": 7,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.488,
+        -0.404,
+        0.976
+      ]
+    },
+    {
+      "passage": 8,
+      "aspect": 1.7777777777777777,
+      "arjun": [
+        0.554,
+        -0.079,
+        0.972
+      ]
+    },
+    {
+      "passage": 2,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.3,
+        -0.119,
+        0.986
+      ]
+    },
+    {
+      "passage": 3,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.484,
+        -0.386,
+        0.985
+      ]
+    },
+    {
+      "passage": 4,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.535,
+        -0.38,
+        0.988
+      ]
+    },
+    {
+      "passage": 5,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.384,
+        -0.308,
+        0.982
+      ]
+    },
+    {
+      "passage": 6,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.384,
+        -0.308,
+        0.982
+      ]
+    },
+    {
+      "passage": 7,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.283,
+        -0.185,
+        0.985
+      ]
+    },
+    {
+      "passage": 8,
+      "aspect": 0.46208530805687204,
+      "arjun": [
+        0.483,
+        -0.032,
+        0.986
+      ]
+    }
+  ]
+}

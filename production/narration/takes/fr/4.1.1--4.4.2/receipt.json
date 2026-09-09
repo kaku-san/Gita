@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "00dc8bd3b30fdbdf69bc394006ab64e018aeb6cb24c80247bdabdc611eb69066",
+  "submitted_at": "2026-09-09T11:20:06.839814+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Ce yoga a déjà été enseigné et transmis de génération en génération. Comme il s’est obscurci, je te l’enseigne à nouveau, parce que tu es mon fidèle et mon ami.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Tu parles d’un enseignement donné à une époque bien antérieure à ta naissance. Comment dois-je le comprendre ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Toi et moi avons traversé de nombreuses naissances. Je les connais ; toi, tu ne les connais pas. Bien que sans naissance et impérissable, je me manifeste par ma propre puissance. Lorsque le dharma décline, j’apparais pour protéger le bien, surmonter les actes mauvais et rétablir le dharma.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "L’action est subtile. Un corps immobile peut cacher un esprit plein d’avidité. On peut travailler sans revendiquer que tout nous appartient.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Lorsque tombe le désir avide de récompense, lorsque l’acte est offert et guidé par la connaissance, le travail peut cesser d’enchaîner de la même manière. Apprends à voir au-delà du mouvement du corps.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les êtres font des offrandes de bien des manières : par des dons matériels, la maîtrise de soi, l’étude, la discipline du souffle et la connaissance. Ces pratiques peuvent purifier celui qui les entreprend.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Dans la vision la plus profonde, l’offrande, l’acte d’offrir et son destinataire appartiennent à Brahman. La connaissance révèle le sens de l’action.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Approche ceux qui voient clairement avec humilité, des questions sincères et la volonté d’apprendre en servant.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La connaissance peut te faire traverser les fautes et la confusion. Une confiance disciplinée et une pratique constante comptent. Tranche le doute né de l’ignorance ; établis-toi dans le yoga, et relève-toi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "4.1.1",
+      "filename": "fr/4.1.1.mp3",
+      "textSha256": "a8079d7bd39674aae27c8c7b115c76acc5f9f752f260e806159df4fe84167b04",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.1.2",
+      "filename": "fr/4.1.2.mp3",
+      "textSha256": "8312089c5e1aef7ff4e926ba5d928104bff9b8a928f20bdcf23ae050888b26f3",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "4.1.3",
+      "filename": "fr/4.1.3.mp3",
+      "textSha256": "d37758dbbfa42a6f2e661e0b50a8298d6fa30f105e2471566412b4fb91ca32d8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.1",
+      "filename": "fr/4.2.1.mp3",
+      "textSha256": "a8aba75251070ee82845110d4a6ca5da7e1839f0247666de3c1d13a8a181af8e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.2",
+      "filename": "fr/4.2.2.mp3",
+      "textSha256": "beb39d72034eccd8295dd9881cdc23fb98ed584aecba30f3d043b75091869eb6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.1",
+      "filename": "fr/4.3.1.mp3",
+      "textSha256": "a6d615cbbf3655f168640b340a97fe5980af4c001cfc315b2ca9969b19b49370",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.2",
+      "filename": "fr/4.3.2.mp3",
+      "textSha256": "6e71c8b8d1afb67f41182b0da17cf82478dd30d9c6bb9f3eeea3badc8f39f839",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.1",
+      "filename": "fr/4.4.1.mp3",
+      "textSha256": "d24a352a766d70dd76ffac9f654b2b627dfa510e6c9af5e2762faad1a930eb52",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.2",
+      "filename": "fr/4.4.2.mp3",
+      "textSha256": "165c74a2f9a5c81fe3b3c4180f77f12ba95f66df9390b3787080bc32be04d5e8",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "866",
+  "request_id": "pRlSa70KoqGWvzXRBJTd",
+  "master_sha256": "f8a5e8efab6e82fd19e164be268fba4c33d87ea0e35f1f8ee090f151e9492e6d"
+}

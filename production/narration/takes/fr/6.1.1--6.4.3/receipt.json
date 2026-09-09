@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "9516b488aed2ce2f38f5ba48c70ff5527dfa860301ede64bb0d6f2a68214e869",
+  "submitted_at": "2026-09-09T11:21:56.605645+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Celui qui accomplit le travail nécessaire sans dépendre de sa récompense pratique le renoncement et le yoga.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Élève-toi par ta propre discipline. L’esprit peut devenir ton allié ; livré à lui-même, il peut agir contre toi. La stabilité grandit à mesure qu’il devient moins captif du plaisir, de la douleur, des éloges et du mépris.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Trouve un lieu approprié, assieds-toi dans une posture stable et rassemble ton attention. Laisse ton esprit se tourner vers moi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ce yoga n’est favorisé ni par une nourriture trop abondante ou insuffisante, ni par un excès de sommeil ou une veille permanente. Apporte de l’équilibre à ton alimentation, à ton repos, à ton activité et à tes efforts.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Un esprit stable est comme cette flamme. Par la pratique, il peut découvrir une joie qui ne dépend pas des sens.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Chaque fois que l’esprit s’égare, ramène-le. Apprends à te voir dans les autres êtres et à voir les autres êtres en toi, et à prendre leur joie et leur souffrance aussi au sérieux que les tiennes.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Mais l’esprit est agité, puissant et obstiné. Le maîtriser me semble aussi difficile que de retenir le vent.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "C’est difficile. Pourtant, la pratique et le relâchement de l’attachement peuvent l’éduquer.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Qu’advient-il de celui qui commence avec foi, mais ne peut pas aller au bout du chemin ? Est-il perdu, sans appartenir à rien ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Aucun effort sincère vers le bien n’est détruit. Une telle pratique continue de porter ses fruits, même au fil de nouvelles naissances, et ramène le chercheur vers la compréhension.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Continue. Parmi les yogis, je tiens particulièrement près de moi celui dont la vie intérieure repose en moi, et qui m’honore avec foi et amour.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "6.1.1",
+      "filename": "fr/6.1.1.mp3",
+      "textSha256": "c504418be0c104c6d6d76cff29545d267a7243f9668a43ee28614b1207a6896d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.1.2",
+      "filename": "fr/6.1.2.mp3",
+      "textSha256": "2e7b01994af1635c68665132ba4255cc01543cf1bccfd070b693ebaf2f41ace0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.1",
+      "filename": "fr/6.2.1.mp3",
+      "textSha256": "e0497008a8819aeb6aed97373cab80102b21e793b01aaaa8f33e210aa77af6b4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.2",
+      "filename": "fr/6.2.2.mp3",
+      "textSha256": "c5b327825c52e7cc3c36151cddb179f86a813facc570b7f5ee8c76d45a4e0226",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.3",
+      "filename": "fr/6.2.3.mp3",
+      "textSha256": "048508a480db607e6b0abd640aec32857b139a0b38da68ef8e24fd9f7289c4d2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.1",
+      "filename": "fr/6.3.1.mp3",
+      "textSha256": "81f430e5387b47cd729891c4352faf02492d4a6c41fc53b046a5421a41c3bd8c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.2",
+      "filename": "fr/6.3.2.mp3",
+      "textSha256": "c2efe8afa2bedaa054eafc206a30d2ab3c80ea3e9cdcd334a1b5395d9c44abbf",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.3.3",
+      "filename": "fr/6.3.3.mp3",
+      "textSha256": "51a1b8c78089ef9c5c6267a5d2fe098124d29512173ae71b79ee02271e475458",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.1",
+      "filename": "fr/6.4.1.mp3",
+      "textSha256": "814ad5830732f65106146fc790273ddec55c089e623c7a222690723efad6a61d",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.4.2",
+      "filename": "fr/6.4.2.mp3",
+      "textSha256": "7acab8d888f495c03165456f00fa6389a0cc6c396aa80a2af7885fba641250aa",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.3",
+      "filename": "fr/6.4.3.mp3",
+      "textSha256": "82a0b2b26ce82387ace31605fa70955e62a8f8fb16bbafb6f9fae70cbe82066b",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "899",
+  "request_id": "YVxZnv81yR6k72xarmJp",
+  "master_sha256": "42c78091d574f0dfe0ea7b7badfdcd51f806c8e940f7ec79068950b7f63c17e9"
+}

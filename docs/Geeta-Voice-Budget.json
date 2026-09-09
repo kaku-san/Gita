@@ -1,0 +1,164 @@
+{
+  "checkedDate": "2026-09-09",
+  "methodology": "Exact submitted story text plus opening caption text; Unicode code points, including spaces and punctuation. Excludes labels, direction tags, Sanskrit recitation and study meanings. Billing estimate assumes standard-rate voices and must be reconciled against the API usage receipt.",
+  "sources": {
+    "apiPricing": "https://elevenlabs.io/pricing/api",
+    "subscriptionFeatures": "https://elevenlabs.io/pricing",
+    "voiceMultipliers": "https://elevenlabs.io/docs/eleven-creative/voices/voice-library",
+    "legacyMigration": "https://elevenlabs.io/blog/weve-lowered-api-agents-pricing-and-introduced-pay-as-you-go"
+  },
+  "languages": {
+    "en": {
+      "storyClips": 188,
+      "storyCharacters": 24823,
+      "roles": {
+        "Arjun": {
+          "clips": 33,
+          "characters": 3397
+        },
+        "Krishna": {
+          "clips": 148,
+          "characters": 20643
+        },
+        "Sanjaya": {
+          "clips": 7,
+          "characters": 783
+        }
+      },
+      "openingClips": 5,
+      "openingCharacters": 473,
+      "totalCharacters": 25296,
+      "maximumStoryPassageCharacters": 245
+    },
+    "hi": {
+      "storyClips": 188,
+      "storyCharacters": 23876,
+      "roles": {
+        "Arjun": {
+          "clips": 33,
+          "characters": 3485
+        },
+        "Krishna": {
+          "clips": 148,
+          "characters": 19580
+        },
+        "Sanjaya": {
+          "clips": 7,
+          "characters": 811
+        }
+      },
+      "openingClips": 5,
+      "openingCharacters": 431,
+      "totalCharacters": 24307,
+      "maximumStoryPassageCharacters": 261
+    },
+    "ja": {
+      "storyClips": 188,
+      "storyCharacters": 11406,
+      "roles": {
+        "Arjun": {
+          "clips": 33,
+          "characters": 1779
+        },
+        "Krishna": {
+          "clips": 148,
+          "characters": 9235
+        },
+        "Sanjaya": {
+          "clips": 7,
+          "characters": 392
+        }
+      },
+      "openingClips": 5,
+      "openingCharacters": 200,
+      "totalCharacters": 11606,
+      "maximumStoryPassageCharacters": 112
+    },
+    "zh-Hans": {
+      "storyClips": 188,
+      "storyCharacters": 8013,
+      "roles": {
+        "Arjun": {
+          "clips": 33,
+          "characters": 1168
+        },
+        "Krishna": {
+          "clips": 148,
+          "characters": 6580
+        },
+        "Sanjaya": {
+          "clips": 7,
+          "characters": 265
+        }
+      },
+      "openingClips": 5,
+      "openingCharacters": 144,
+      "totalCharacters": 8157,
+      "maximumStoryPassageCharacters": 74
+    },
+    "fr": {
+      "storyClips": 188,
+      "storyCharacters": 28870,
+      "roles": {
+        "Arjun": {
+          "clips": 33,
+          "characters": 4004
+        },
+        "Krishna": {
+          "clips": 148,
+          "characters": 23973
+        },
+        "Sanjaya": {
+          "clips": 7,
+          "characters": 893
+        }
+      },
+      "openingClips": 5,
+      "openingCharacters": 515,
+      "totalCharacters": 29385,
+      "maximumStoryPassageCharacters": 291
+    }
+  },
+  "totals": {
+    "storyClips": 940,
+    "storyCharacters": 96988,
+    "openingClips": 25,
+    "openingCharacters": 1763,
+    "totalClips": 965,
+    "totalCharacters": 98751
+  },
+  "apiUsdPer1000Characters": 0.1,
+  "scenarios": {
+    "firstPass": {
+      "characters": 98751,
+      "usageEquivalentUsd": 9.88
+    },
+    "auditionsAnd50PercentRetakes": {
+      "characters": 158127,
+      "usageEquivalentUsd": 15.81
+    },
+    "auditionsAndCompleteSecondPass": {
+      "characters": 207502,
+      "usageEquivalentUsd": 20.75
+    }
+  },
+  "recommendation": {
+    "plan": "Creator monthly using API pricing",
+    "standardMonthlyUsd": 22,
+    "eligibleFirstMonthUsd": 11,
+    "advertisedV3OrV2ApiCharacterAllowance": 220000,
+    "customVoiceSlots": 30,
+    "proposedRoleSlots": 15,
+    "headroomAfterAuditionsAndCompleteSecondPass": 12498,
+    "assumptions": [
+      "Unused full monthly allowance",
+      "Standard-rate voices",
+      "One production billing cycle",
+      "No tax included",
+      "No language editor, sound design, soundtrack or Sanskrit recitation fees included",
+      "First-month discount subject to account eligibility",
+      "No extra 50-percent API promotion applied to the displayed unit rate",
+      "API allowance and Creative UI credits are not additive"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "opening.3",
+  "language": "hi",
+  "src": "./audio/hi/opening-3.mp3",
+  "duration": 7.549388,
+  "textSha256": "49db7203308eabd728fcd0a331de7048274e80961933fc71f6d8f634b15b56b5",
+  "audioSha256": "b0707a4a972db94fa61a91f09f41fe47c0b42e61e04b03ce42a838e9ff7d3a8e",
+  "voice_id": "JXjD3Apv5OBjfkhCa3tI",
+  "model_id": "eleven_v3",
+  "source_take": "takes/hi/opening.1--opening.5",
+  "start": 13.759000000000002,
+  "end": 21.279
+}

@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+
+# Local credentials and their backups; only the empty template is shareable.
+.env*
+!.env.example
+
+# Local Python generation cache
+__pycache__/
+*.pyc
+
+# Generated hosted worker and fallback assets
+/dist/

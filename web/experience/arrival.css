@@ -1,0 +1,21 @@
+/* The language choice is the first, English-only surface. The world loads behind it. */
+#language-gate{position:absolute;inset:0;z-index:10;overflow:auto;overscroll-behavior:contain;background:#101714;color:#f9f3e7;padding:calc(28px + env(safe-area-inset-top)) max(24px,env(safe-area-inset-right)) calc(28px + env(safe-area-inset-bottom)) max(24px,env(safe-area-inset-left));display:flex;flex-direction:column;align-items:center;justify-content:safe center;gap:28px}
+#language-gate .wordmark{font-family:'Source Serif 4',Georgia,serif;font-size:clamp(3.5rem,13vw,7rem);letter-spacing:.12em;line-height:1.2;color:#ddbe85;margin:0}
+#language-gate h1{font-size:1.125rem;font-weight:400;line-height:1.5;margin:0}
+#language-options{display:grid;grid-template-columns:1fr;gap:0;width:min(100%,360px)}
+#language-options button{min-height:56px;padding:12px 4px;text-align:left;font-size:1rem;border-bottom:1px solid #f9f3e725}
+#language-options button:hover,#language-options button:focus-visible{color:#ddbe85;border-bottom-color:#ddbe85}
+#arrival-status{display:flex;flex-direction:column;align-items:center;gap:12px;min-height:52px;font-size:.875rem;line-height:1.5;color:#c8c9bb}
+#arrival-status p{margin:0;text-align:center}#arrival-status progress{width:140px;height:3px;accent-color:#ddbe85}
+[data-wordmark]{font-family:var(--font-title)!important;letter-spacing:.025em;white-space:nowrap}
+#masthead [data-wordmark]{font-size:clamp(1rem,3.5vw,1.875rem)}
+#masthead:has([data-wordmark]:lang(ja)),#masthead:has([data-wordmark]:lang(zh-Hans)){grid-template-columns:minmax(70px,auto) minmax(0,1fr) 48px;gap:12px}
+#intro-retry{font-size:.9375rem;min-height:44px;text-decoration:underline;text-underline-offset:4px}
+.project-credits{font-size:.9375rem;line-height:1.7;text-align:left;border-top:1px solid currentColor;margin-top:24px;padding-top:4px;max-width:52ch}
+.project-credits summary{color:inherit}.project-credits p{margin:10px 0 16px}.project-credits a{display:inline-block;min-height:32px;padding:3px 0;text-decoration:underline;text-underline-offset:4px}
+.project-credits .credit-links{display:flex;gap:4px 18px;flex-wrap:wrap}
+#ending-film .project-credits{margin-inline:auto;pointer-events:auto}
+#credits-wordmark>span,#ending-title>small{display:none}
+svg[hidden],svg [hidden]{display:none!important}
+@media(max-height:540px) and (orientation:landscape){#language-gate{gap:12px}#language-gate .wordmark{font-size:2.5rem}#language-options{grid-template-columns:1fr 1fr;gap:0 24px;width:min(100%,560px)}#language-options button{min-height:48px}}
+#credits-wordmark strong[data-wordmark],#ending-title>[data-wordmark]{font-size:clamp(2.75rem,12vw,9rem);line-height:1.25;max-width:92vw}

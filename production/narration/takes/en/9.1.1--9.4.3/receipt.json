@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "642f96ee7be2096a6341a819647556a455a18606804a692838205af9d7fcc30c",
+  "submitted_at": "2026-09-09T11:13:14.149069+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "I will tell you a profound knowledge, joined with understanding that can be lived. Receive it with an open mind.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "My unmanifest presence pervades the world. Beings depend on me, yet I am not confined within them. Nature brings forth the moving and unmoving under my oversight.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Some see only my human appearance and miss my deeper nature. Others turn toward me in steadfast devotion, remembering and worshipping.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Even the joys of heaven pass when the merit supporting them is spent. Those whose attention rests wholly in me seek a different destination. I attend to what sustains that devoted life.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "A leaf, a flower, fruit, or water—offered with devotion, I receive it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Whatever you do, whatever you eat, whatever you give, whatever discipline you undertake: offer it to me. Let action become an offering, released from its binding claim on you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I am equal toward all beings. Those who love me dwell in me, and I in them.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Even a person whose conduct has been deeply wrong can turn toward me with undivided devotion and move toward righteousness. My devotee is not lost.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Krishna speaks of refuge reaching across the social divisions named in this teaching. Its invitation also reaches those whom that world placed at a disadvantage.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      },
+      {
+        "text": "Turn your mind toward me. Give me your devotion and reverence. Make me your highest aim, and you will come to me.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "9.1.1",
+      "filename": "en/9.1.1.mp3",
+      "textSha256": "ac534cd3fea63f91eae4786bef85783f177a6aa4cb4299d501be35f8159abd75",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.1.2",
+      "filename": "en/9.1.2.mp3",
+      "textSha256": "8d9cedd316c7425c260bfe74dd5e66c5df47bd0d17f918040c74ba5952558183",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.1",
+      "filename": "en/9.2.1.mp3",
+      "textSha256": "a12633fa864b5c135920c3a4f95b399e1d7e3ec3af4ccde6bb534613c8a140ba",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.2",
+      "filename": "en/9.2.2.mp3",
+      "textSha256": "194c19014b43ce1e4a14d1d1babf6e3055e9690c164d42333b6bcfd8d4b05bcc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.1",
+      "filename": "en/9.3.1.mp3",
+      "textSha256": "d87fb0c54e2eb4d7f52b936b00cf10457dc3ab23a9ac7731f47bebaa9827b4b6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.2",
+      "filename": "en/9.3.2.mp3",
+      "textSha256": "cf5f2609e3030dde0705f1e654215a3b60b9a74f25424541a336e97202677749",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.3",
+      "filename": "en/9.3.3.mp3",
+      "textSha256": "e0e70d656496a7ee99a770e0e168704f7dfb5bc856a7cfaa642d7c5750783890",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.1",
+      "filename": "en/9.4.1.mp3",
+      "textSha256": "4387ce2d7caf9073fc674c234eb5b57573a0742838a089ca0683f3a6c58f314a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.2",
+      "filename": "en/9.4.2.mp3",
+      "textSha256": "4f3c2962bfcf55460c08c94a5dcafe5ed6cf01da6ea84e9dd69fb33ecd7b9d75",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "9.4.3",
+      "filename": "en/9.4.3.mp3",
+      "textSha256": "d67208223c0cc0b5f76201d38d4887f986c85ffe1028779099f893f30865d58e",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "734",
+  "request_id": "61bSyIzHFjwFClvXREm1",
+  "master_sha256": "8bac7f0c495aebe35500a62863a76bf90a428494b47152430647edcc3690245a"
+}

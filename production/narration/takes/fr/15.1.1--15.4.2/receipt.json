@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "b3f937a83cc29beb93154a54bb8ece72a8d5bef49696893ac41cd0c6c7de344f",
+  "submitted_at": "2026-09-09T11:32:10.091044+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Imagine un arbre qui demeure, avec ses racines en haut et ses branches en bas. Ses feuilles sont les hymnes védiques. Ses branches sont nourries par les qualités de la nature ; ses pousses s’étendent vers les objets des sens.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "D’autres racines lient les êtres par l’action. Son commencement et toute son étendue ne se laissent pas facilement voir ici. Tranche l’emprise qui enchaîne par un ferme détachement, et cherche la source d’où est né ce mouvement ancien.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Libre d’orgueil et d’illusion, surmontant l’attachement possessif, le chercheur se tourne vers la destination impérissable.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Le Soi vivant qui demeure est une part de moi. Il attire l’esprit et les sens dans la vie incarnée et les emporte ensuite, comme le vent emporte un parfum depuis sa source.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Le discernement exercé voit ce qui échappe à un regard non formé.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "L’éclat du soleil, de la lune et du feu est mien. En pénétrant la terre, je soutiens les êtres. Je nourris les plantes et je soutiens le feu par lequel les aliments sont digérés.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je demeure dans chaque cœur. La mémoire, la connaissance et leur perte viennent de moi. À travers les Védas, c’est moi qui dois être connu.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Il y a le périssable et l’impérissable. Au-delà d’eux se trouve la Personne suprême, qui pénètre les mondes et les soutient.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Parce que je transcende le périssable et que je suis au-delà de l’impérissable, on m’appelle Purushottama, la Personne suprême. Celui qui me connaît ainsi m’adore de tout son être.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "15.1.1",
+      "filename": "fr/15.1.1.mp3",
+      "textSha256": "603c0657f19f82f39c319a8533a40c01af7d76c379038074c444b1afe78849ec",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.1.2",
+      "filename": "fr/15.1.2.mp3",
+      "textSha256": "213d5ee2dbaf2deb0f36d09b05d54eb4edd735b1910c5c2042adc88de0627ed4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.1",
+      "filename": "fr/15.2.1.mp3",
+      "textSha256": "269e2a34a791f8fdf1cbc3e8a52a00b72d6d6321a515a0f5e85f5bbe7b3e79a7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.2",
+      "filename": "fr/15.2.2.mp3",
+      "textSha256": "f49294a5b18f982e98581fceb1879fa3a27cac46d0511771d1e0b5f681727f5a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.3",
+      "filename": "fr/15.2.3.mp3",
+      "textSha256": "1e9299c1c478fc2807927afd7033294bca9f9ca67fa657081445aae97faf3a69",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.1",
+      "filename": "fr/15.3.1.mp3",
+      "textSha256": "b37736ed9d3eda1e015c320ef00513a9b27683e233aae1cdbb5a41f61d8d4475",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.2",
+      "filename": "fr/15.3.2.mp3",
+      "textSha256": "5bf41cf3c5faa2069911b74628435acc3ccf6a87ec4205fdb2209935773c2bf9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.1",
+      "filename": "fr/15.4.1.mp3",
+      "textSha256": "805f5671c0ecae495ef390959a04254165ce975c1233345324a3f6a3b98d171b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.2",
+      "filename": "fr/15.4.2.mp3",
+      "textSha256": "2ef4163e04c2faaeb1258a8be0d901d0cd185eb7625609adac3767285384411d",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "793",
+  "request_id": "7Regl1S92eVgHD2Lg6Eh",
+  "master_sha256": "f0c424fc32cc5c9da87720eee524ff7eb97723badce6d0f907961b2847e7bd79"
+}

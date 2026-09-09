@@ -1,0 +1,13 @@
+{
+  "id": "17.3.2",
+  "language": "en",
+  "src": "./audio/en/17.3.2.mp3",
+  "duration": 12.59102,
+  "textSha256": "11c8b4bfc317f3ade3673fde2f46677276339ae8e4382eb31c9a4949fa6f2c03",
+  "audioSha256": "e5cb00872691b77655202b60c50e62911d060b7c36c99532c8871b303a637a41",
+  "voice_id": "j9jfwdrw7BRfcR43Qohk",
+  "model_id": "eleven_v3",
+  "source_take": "takes/en/17.1.1--17.4.2",
+  "start": 67.11999999999999,
+  "end": 79.68
+}

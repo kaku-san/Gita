@@ -1,0 +1,39 @@
+{
+  "font_bytes": {
+    "Source Sans 3": 51352,
+    "Source Serif 4": 56608,
+    "Noto Sans Devanagari": 78200,
+    "Noto Serif Devanagari": 80760,
+    "Noto Sans JP": 280692,
+    "Noto Serif JP": 193188,
+    "Noto Sans SC": 322828,
+    "Noto Serif SC": 196520
+  },
+  "total_font_bytes": 1260148,
+  "coverage": {
+    "Noto Sans JP": {
+      "required_cjk_codepoints": 1023,
+      "missing": []
+    },
+    "Noto Serif JP": {
+      "required_cjk_codepoints": 478,
+      "missing": []
+    },
+    "Noto Sans SC": {
+      "required_cjk_codepoints": 1263,
+      "missing": []
+    },
+    "Noto Serif SC": {
+      "required_cjk_codepoints": 598,
+      "missing": []
+    },
+    "Noto Sans Devanagari": {
+      "required_devanagari_codepoints": 64,
+      "missing": []
+    },
+    "Noto Serif Devanagari": {
+      "required_devanagari_codepoints": 64,
+      "missing": []
+    }
+  }
+}

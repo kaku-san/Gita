@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "endingSeconds": 21,
+  "completionEvents": "explicit manual finish, reading autoplay, actual recording ended",
+  "languages": [
+    "en",
+    "hi",
+    "ja",
+    "zh-Hans",
+    "fr"
+  ],
+  "cameraChecks": [
+    {
+      "width": 1440,
+      "height": 900,
+      "maxSpeed": 4.975124376866941,
+      "maxAngularSpeed": 0.03569795140259355
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "maxSpeed": 4.975124377010053,
+      "maxAngularSpeed": 0.06124607338028153
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "maxSpeed": 4.975124377010053,
+      "maxAngularSpeed": 0.06124607338028153
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "maxSpeed": 4.975124376866941,
+      "maxAngularSpeed": 0.03569795140259355
+    }
+  ],
+  "browserQA": "not performed"
+}

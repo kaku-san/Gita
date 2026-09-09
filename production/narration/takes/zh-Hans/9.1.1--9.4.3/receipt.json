@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "cc907f731436d81afbb18c82c4721dbfcc0b4e9f9d48ca019f085dcf4f3ef425",
+  "submitted_at": "2026-09-09T11:24:57.802816+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "我要告诉你深邃的智慧，以及能够在生活中践行的理解。请以开放的心来聆听。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我无形的临在，遍及世界。众生依赖于我，但我并不局限于他们之中。在我的观照下，自然生出一切能动与不动的存在。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "有些人只看见我人的外表，错过了我更深的本性。另一些人则以坚定的虔敬转向我，不断忆念与敬拜。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "即使天堂的欢悦，也会在支撑它的功德耗尽之后消退。那些全心专注于我的人，寻求的是另一种归宿。我会照料维系那虔敬生活所需的一切。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "一片叶、一朵花、一枚果实，或一点水，只要怀着虔敬献上，我都会接受。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "无论你做什么、吃什么、给予什么，或从事什么修行，都把它奉献给我。让行动成为奉献，卸下它对你的牵缠与束缚。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我平等对待一切众生。爱我的人，安住于我，我也安住于他们。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "即使一个人曾有极其错误的行为，也能够以专一的虔敬转向我，走向正道。我的虔信者，不会失落。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "克里希纳谈到的归依，能够跨越教导中提及的社会区隔。这份邀请，也向那个世界中处于不利地位的人敞开。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "把你的心转向我。以虔敬与敬意对待我。以我为你的至高目标，你就会来到我这里。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "9.1.1",
+      "filename": "zh-Hans/9.1.1.mp3",
+      "textSha256": "3ff7abc6ce18cacad1691aa469917f19dd975c9e1419e94b599cff0c4817061e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.1.2",
+      "filename": "zh-Hans/9.1.2.mp3",
+      "textSha256": "f2208ea4a3535911073994fb12f077d6545a0abec402267a25a214e7ab1534c4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.1",
+      "filename": "zh-Hans/9.2.1.mp3",
+      "textSha256": "1a48ded289fb57734051afa1b0697030ba6fb71362717170bef69e21de83e242",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.2",
+      "filename": "zh-Hans/9.2.2.mp3",
+      "textSha256": "b94b8f180fa4e5ebc8081ad67e747a68023188a86396935dfce384d2137bd4cd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.1",
+      "filename": "zh-Hans/9.3.1.mp3",
+      "textSha256": "86f139880a427c33fef91e63b23c48299048637055e3868a530d349227363961",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.2",
+      "filename": "zh-Hans/9.3.2.mp3",
+      "textSha256": "d632369fea84f459e03952314d2ce7a0744b10f47e2ffc285fdf80c657ddddd0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.3",
+      "filename": "zh-Hans/9.3.3.mp3",
+      "textSha256": "1da87160bd59d99a282ea3f3c99c504a3f248321ce29ec2aad192a23c7cd43ac",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.1",
+      "filename": "zh-Hans/9.4.1.mp3",
+      "textSha256": "fd9a40e002f13d20720c9eeeacf1626743555a2f6b7c628d3cb4bba74562bb89",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.2",
+      "filename": "zh-Hans/9.4.2.mp3",
+      "textSha256": "a2a45f8dd4e789390ca61a8f0f4c08c0849acd2a2df1726d9923a342d5f702a9",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "9.4.3",
+      "filename": "zh-Hans/9.4.3.mp3",
+      "textSha256": "fda97fd37932dfde2e73b9d2a2ac1e212d51b3721f9226fbf6864e8949cd55c7",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "240",
+  "request_id": "CJGXtLZ9qnVERuSg5UqL",
+  "master_sha256": "aec0be749c5d9ff05a29083ecb5138193516c183acf67de75ac66ae91869cf86"
+}

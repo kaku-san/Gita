@@ -1,0 +1,168 @@
+{
+  "status": "generated",
+  "fingerprint": "cf73393eb7d473696a8c0db76ca30eb903891fcc050050b845c2dbb3a72574f8",
+  "submitted_at": "2026-09-09T11:30:16.705381+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "放棄することと、手放すことの違いを、はっきり教えてください。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "放棄とは、欲望に駆られた行為をやめることと理解される。手放すこととは、行為の実りへの執着を捨てることだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "祭祀、施し、修練は、ただ捨てればよいものではない。所有欲や報いへの要求なしに、実践しなさい。難しいという理由だけで務めを離れることは、最高の手放しではない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "一つの行為には、いくつもの条件がある。その場、行為者、道具、さまざまな努力、そして神的な要因である。切り離された自己だけが唯一の原因だと見るのは、不十分な見方なのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "知は、多くの生きものに共通する、一つの存続する実在を認めることもあれば、分離だけを見ることもある。また、一つの断片を全体であるかのように、つかんで離さないこともある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "行為、行為する者、理解、決意、幸福も、自然の性質によって形づくられる。初めは心地よく思えるものが、後には縛るかもしれない。初めは努力を要するものが、明晰さへ導くかもしれない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "クリシュナは、叙事詩の社会秩序の中で語り、その四つのヴァルナの務めを説明します。それから再び、アルジュナが向き合うべき、自らの責任へと話を戻します。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "人は、自分の務めを通じて、生きものが生じる源を礼拝できる。他人の務めを巧みに果たすより、不完全であっても、自分の務めを果たすほうがよい。火に煙が伴うように、どんな取り組みにも、何らかの欠点がある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "理解を清め、自らを律し、誇りと所有欲を離れ、心がもはや渇望に支配されなくなると、探求者はブラフマンに至る用意が整う。信愛を通じて、私は真に知られる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "行為を私に捧げなさい。私をよりどころとするのだ。誇りに駆られて耳を貸さなければ、それはお前を迷わせるだろう。それでも、お前自身の本性は、お前に働きかけ続ける。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私はこの教えを、お前に明かした。十分に考えなさい。そのうえで、自ら選ぶとおりに行動するのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "お前は私にとって愛しい。だから、最も深い言葉を、もう一度聞きなさい。心を私に置くのだ。私を信愛し、私を礼拝し、私に頭を垂れなさい。お前は私のもとに来る。お前が愛しいからこそ、私はそれを約束する。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "あらゆるダルマを手放し、ただ私だけをよりどころとしなさい。私は、お前をすべての罪から解き放つ。悲しむことはない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "アルジュナ、注意をもって聞いたか。無知から生まれた迷いは、払われただろうか。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "あなたの恩寵によって、迷いは晴れました。理解を取り戻しました。疑いを離れ、しっかりと立っています。あなたの言葉に従って、行動します。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "18.1.1",
+      "filename": "ja/18.1.1.mp3",
+      "textSha256": "621c72d45a92a39d37fc6185b56cd5954206aa22733b7dfdee96f037075914bd",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "18.1.2",
+      "filename": "ja/18.1.2.mp3",
+      "textSha256": "5a06d2d9d52a09388b00071d21ec4b0429ecc17f405f0411468ec05d137a4545",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.3",
+      "filename": "ja/18.1.3.mp3",
+      "textSha256": "7d2217d1845ada5b73ba47563847fc650067ae2c01b30dd17f998a23ab02415a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.4",
+      "filename": "ja/18.1.4.mp3",
+      "textSha256": "12c176d4e98b90a9e4d58c0d1361b157c968c73aaafaff8edfeff14dcdca2481",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.1",
+      "filename": "ja/18.2.1.mp3",
+      "textSha256": "f8ad5b1e2bac597caf00b0d1dd62f3d61119fa562a9f6f79446c924f4c6c18c5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.2",
+      "filename": "ja/18.2.2.mp3",
+      "textSha256": "a21c8289222649848a11f37766854ad43629f4ba82abb7ced1b5e76a8f7719b9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.3",
+      "filename": "ja/18.2.3.mp3",
+      "textSha256": "832db3f59a998708e803a2628603649ce226ba02f0b7fa2adae4dbc0d80ac32a",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "18.2.4",
+      "filename": "ja/18.2.4.mp3",
+      "textSha256": "c182c6a6df2363d266029109eb0fcbe5e79fde502ec99592b51db5789c548b2b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.1",
+      "filename": "ja/18.3.1.mp3",
+      "textSha256": "3ec00b582421dc9e9b40d20b2e653e7acb2b531ed6fa098ad927e1be0aa92f15",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.2",
+      "filename": "ja/18.3.2.mp3",
+      "textSha256": "287be9ca70d15468289ae28ddbf40128c6cc9d1671fae02d3a52cb53478e04a9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.3",
+      "filename": "ja/18.3.3.mp3",
+      "textSha256": "3258059e2a88ad35af0e285d0b93ee53d37b05ba9baa5d00c99a5e5388e4f1e4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.1",
+      "filename": "ja/18.4.1.mp3",
+      "textSha256": "ecc8289325f867b8945246aa8ca5aaa617612b7b731869c12ce6bc94164952ea",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.2",
+      "filename": "ja/18.4.2.mp3",
+      "textSha256": "ef9da5bfe82a5139afbc9b4b5497f6a7ca394deb2d87fe7a452b57280365c0a9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.3",
+      "filename": "ja/18.4.3.mp3",
+      "textSha256": "77a04bfe818132c45ae4fff2b65dd54e12d0ed210d2389c7134c4cc059e035dd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.4",
+      "filename": "ja/18.4.4.mp3",
+      "textSha256": "508ba317eecdb7edc3dc20d124bb3859af6fe35e46c015871b23e004fbd69548",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "573",
+  "request_id": "5poat63vzXQi3jwt79eB",
+  "master_sha256": "ff2e02294d2f56bf421131794c5a97adfbeee6b95e7e28d5f7aa1cf12fc1751f"
+}

@@ -1,0 +1,120 @@
+{
+  "passed": true,
+  "maxCameraSpeed": 4.51083131268659,
+  "translatedStringsPerLanguage": 57,
+  "openingStages": 5,
+  "projections": [
+    {
+      "width": 1440,
+      "height": 900,
+      "insets": {
+        "top": 82,
+        "bottom": 264
+      },
+      "aspect": 2.5992779783393503,
+      "maxFaceX": 1049.0327029390385
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "insets": {
+        "top": 82,
+        "bottom": 238
+      },
+      "aspect": 2.2857142857142856,
+      "maxFaceX": 778.0769872142405
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "insets": {
+        "top": 72,
+        "bottom": 373
+      },
+      "aspect": 0.9774436090225563,
+      "maxFaceX": 275.7964623715642
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "insets": {
+        "top": 72,
+        "bottom": 610
+      },
+      "aspect": 2.4074074074074074,
+      "maxFaceX": 291.215339126578
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "insets": {
+        "top": 72,
+        "bottom": 291
+      },
+      "aspect": 1.5609756097560976,
+      "maxFaceX": 281.75397852437345
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "insets": {
+        "top": 66,
+        "bottom": 180
+      },
+      "aspect": 5.861111111111111,
+      "maxFaceX": 507.52474589029157
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "insets": {
+        "left": 558,
+        "top": 86,
+        "bottom": 88
+      },
+      "aspect": 1.2148760330578512,
+      "maxFaceX": 1280.5938670667636
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "insets": {
+        "left": 416,
+        "top": 66,
+        "bottom": 72
+      },
+      "aspect": 1.6984126984126984,
+      "maxFaceX": 779.6683053080103
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "insets": {
+        "top": 78,
+        "bottom": 663
+      },
+      "aspect": 3.7864077669902914,
+      "maxFaceX": 256.1739501854169
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "insets": {
+        "top": 78,
+        "bottom": 454
+      },
+      "aspect": 8.88888888888889,
+      "maxFaceX": 181.3811864725729
+    }
+  ],
+  "checks": [
+    "no camera teleport on retarget",
+    "bounded camera speed",
+    "manual and automatic reading",
+    "pause without skipping",
+    "four-language copy parity",
+    "transparent shadow corners",
+    "shared source panel without interrupting narration"
+  ],
+  "browserQA": "not performed"
+}

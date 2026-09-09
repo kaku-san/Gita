@@ -1,0 +1,16 @@
+{
+  "mode": "numeric-only",
+  "quality": "high",
+  "triangles": 886568,
+  "drawCalls": 46,
+  "bounds": {
+    "min": [-6.7993268966674805, 0, -1.8013510704040527],
+    "max": [6.7993268966674805, 13.185055334120989, 1.1734126806259155]
+  },
+  "faces": 9,
+  "arms": 18,
+  "retainedFaces": 1,
+  "retainedArms": 4,
+  "checks": ["finite buffers", "valid indices", "grounded soles", "triangle and draw budget", "reveal", "gentle retraction", "dread", "per-instance ownership"],
+  "browserUsed": false
+}

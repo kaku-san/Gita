@@ -1,0 +1,18 @@
+{
+  "file": "army-murmur.mp3",
+  "requested_at": "2026-09-09T10:32:21.321540+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "Seamless distant ancient army ambience on an open plain: a vast mass of people shifting, indistinct wordless crowd calls, leather and armour movement, tension before combat. No intelligible language, no cheering stadium, no gunfire, no explosions, no music.",
+    "duration_seconds": 30,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "330",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 481115,
+  "sha256": "591382a1431ebae2741c1a2ed4bba7ea274f5b31a90303683886b7c4fc994acb"
+}

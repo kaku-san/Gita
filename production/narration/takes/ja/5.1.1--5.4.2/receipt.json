@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "b25ba9f7f4560d681ca80e022f00505fd483a8b5652374f1fec37511a391ec96",
+  "submitted_at": "2026-09-09T11:21:16.330635+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "あなたは放棄をたたえ、また行為もたたえます。私はどちらに従えばよいのでしょうか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "どちらも最高の善へ導くことができる。だが、ここでは行為の修練のほうが、実践しやすい道だ。真に放棄する者は、引かれる心と嫌う心にのみ込まれない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "知恵と修練に支えられた行為は、別々の到達点へ向かうとは限らない。今生きている生活の中で、何を手放すべきかを学びなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "身体と心と理解を働かせて行為し、我がものにしようとする執着を手放しなさい。行為を神に捧げるのだ。蓮の葉の上の水のように、その行為はお前に付着せずにすむ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "実りにしがみつくことが、人を縛る。その執着を放すことが、平安をもたらす。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "賢者は、学識ある人にも、牛にも、象にも、犬にも、社会から排除された人にも、等しく見る。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "姿も置かれた状況も異なる。だが、知恵はその違いに閉じ込められない。理解が神に根を下ろすとき、外から来る快楽だけに、幸福のすべてを担わせずにすむ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "感覚の接触から生まれる快楽には、始まりと終わりがある。欲望や怒りのしもべにならず、それらに耐えることを学びなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "内へと心を向け、生きものの幸福のために働き、私を、祭祀を受け取る者、諸世界の主、すべての生きものの友として知る者は、平安を得る。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "5.1.1",
+      "filename": "ja/5.1.1.mp3",
+      "textSha256": "ec127ae70ae1157e7245b9140be965becd0b05cc0610ce8735df9182576c3f9b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "5.1.2",
+      "filename": "ja/5.1.2.mp3",
+      "textSha256": "cd2becd62c7d04641a93516cdf32c963a2473b4ad3accbaeb58572374f7a2117",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.1.3",
+      "filename": "ja/5.1.3.mp3",
+      "textSha256": "46e89e1cce1b05991204963b8ae3f50567eda878190d30c96f6b48b20dbdf72f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.2.1",
+      "filename": "ja/5.2.1.mp3",
+      "textSha256": "741fbf8721b5afed79685d03e64230b36a6009e92312bf0d76cc51b7cfdfba65",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.2.2",
+      "filename": "ja/5.2.2.mp3",
+      "textSha256": "d63ab052e6893b3417f5bed0fa5c59a8963ea5e698f7df7397d1662aa705c9a6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.3.1",
+      "filename": "ja/5.3.1.mp3",
+      "textSha256": "dd54078c2589048b339e4b740ea83dc31c8944592121b4ebbee97ad7cc8d9497",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.3.2",
+      "filename": "ja/5.3.2.mp3",
+      "textSha256": "b43c7f13c422e55c9a119d3be32a62adf8a18792a8ed60f9bdcfe5cfd7d68c66",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.4.1",
+      "filename": "ja/5.4.1.mp3",
+      "textSha256": "8be4360300d086a5dbfee1543cd1ad0509ea38e143bc2a53f9749a6ef59763c6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.4.2",
+      "filename": "ja/5.4.2.mp3",
+      "textSha256": "551bf8391b3330b674af98249b373a502cbb87e52cf6ab4af7b053942ca5bd6a",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "285",
+  "request_id": "V2MLPFuqQezh2KmJrd7i",
+  "master_sha256": "11eae28a5f7978fe5f1dd7291a9461b3b37ae87e7440fde2ccd2ea25bfe52012"
+}

@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "21ce9a46bc5026ab6dcfcdb4b489d375c62be7f3c2f9a8efebd6c3baa4d14804",
+  "submitted_at": "2026-09-09T11:20:52.406902+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "What of people who worship with faith but set aside the prescribed teaching? What is the character of their faith?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Faith reflects the nature of the person and is shaped by the three qualities. What one places faith in helps shape what one becomes.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Even preferences in food reflect these qualities. Severe practices driven by vanity and desire, which torment the body and the divine within it, do not become holy through their severity.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "An offering can be made from duty without craving reward, or from desire for gain and display, or with disregard for care and guidance.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Discipline of the body includes purity, sincerity, restraint and non-harming. Discipline of speech joins truth with what is considerate and beneficial, and with study. Discipline of mind includes calmness, gentleness, self-command and sincerity.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "A gift given because it should be given, at a fitting time and place, to someone who cannot repay it, is shaped by sattva.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Giving with reluctance or expectation of a return is shaped by rajas. Giving at an unsuitable time or place, without respect or care, is shaped by tamas.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Om, Tat, Sat: these sacred designations of Brahman accompany sacrifice, giving and discipline.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Tat turns the act beyond a personal claim on its reward. Sat is associated with being, goodness and steadiness in worthy action. An offering empty of faith lacks the spiritual foundation it appears to claim.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "17.1.1",
+      "filename": "en/17.1.1.mp3",
+      "textSha256": "256b4cd3dd0f087522304315d4af913a1313c682ae080bf1732127c1907e3222",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "17.1.2",
+      "filename": "en/17.1.2.mp3",
+      "textSha256": "f91571232a939e2ac85b05ef7b9314d26667bf25105537df0e37392ae5c8b816",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.1.3",
+      "filename": "en/17.1.3.mp3",
+      "textSha256": "1e0c307710551e65ec2ac0d978921a849130634f4d3fd3c8fb8a512674112c2e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.2.1",
+      "filename": "en/17.2.1.mp3",
+      "textSha256": "10bcdf49f397de4cdf8eddf2f690686805b18067f9f6236b3b94bc1216034dbf",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.2.2",
+      "filename": "en/17.2.2.mp3",
+      "textSha256": "5e9b14ad2c58745f414b303412292030a9e2174ae233e7a757d554c5193646dc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.3.1",
+      "filename": "en/17.3.1.mp3",
+      "textSha256": "f5760d1819c7e73c69a0a7298dfbe0eb71552ad3852732c14c3410a7a60bb7ac",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.3.2",
+      "filename": "en/17.3.2.mp3",
+      "textSha256": "11c8b4bfc317f3ade3673fde2f46677276339ae8e4382eb31c9a4949fa6f2c03",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.4.1",
+      "filename": "en/17.4.1.mp3",
+      "textSha256": "ea13b8c6a4ebcc32aa41ba8327e9e2ed056cf7421ba60a67eb04a9e902003cac",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.4.2",
+      "filename": "en/17.4.2.mp3",
+      "textSha256": "a5dc60e28e8353e65e8b0e532b8a16d7b6ece243acfc45ed1fb384ceebcd3b91",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "764",
+  "request_id": "kXFDvie4fakgCjIJJIBk",
+  "master_sha256": "fa54e0509ba2b3b13efe19db335d359b6bbe377d4986febe44cf42cc05a63ab3"
+}

@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "e6d6fd8393e7c7530e32d0ccdf1a46a020dc8dd66afc6000eff95748aca57794",
+  "submitted_at": "2026-09-09T11:30:10.917238+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "信愛をもってあなたを礼拝する人と、不滅で、姿を現さない実在を観想する人とでは、どちらがヨーガにより確かに立っているのでしょうか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "心を私に置き、揺るがぬ信をもって礼拝する者は、ヨーガにおいて深く結ばれている。姿なきものを求める者も目標に達するが、身体をもつ存在にとって、その道はより難しい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私に身を捧げる者にとって、私は、生と死の大海から救い出す者となる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "心と理解を私に置きなさい。まだ安定してとどまれないなら、立ち返ることを練習するのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "その練習が難しければ、私のために務めを果たしなさい。それさえできなければ、行為の実りを自分のものにしようとする執着を手放し、自らを律しなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "その手放すことの中に、平安がある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "憎まず、親しみと慈しみをもち、所有欲や思い上がりを離れ、忍耐強く、揺るがない者を、私は愛しく思う。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "その人は、むやみに世を乱さず、世の騒ぎにも絶えず支配されない。信愛は、人々の中でどう生きるかを形づくる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "尊敬にも侮辱にも、称賛にも非難にも、安楽にも苦痛にも、心の安定を学びなさい。すべてが自分に都合よくなければならないという思いを手放すのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私を最高の目標とし、この命を育む教えに、信をもって従う者を、私は深く愛しく思う。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "12.1.1",
+      "filename": "ja/12.1.1.mp3",
+      "textSha256": "f30d1bb5e168165fc163b50c7ef55fc897a9560a55567b811691ea7f9902568e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "12.1.2",
+      "filename": "ja/12.1.2.mp3",
+      "textSha256": "14abad9d1e71688c3879b2b4a7488009db266c547b159ea42506158ae7f64fe4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.1.3",
+      "filename": "ja/12.1.3.mp3",
+      "textSha256": "6531b1af950dc16c7f090278508dc2894320edd80c6eef11a3ded56aa0162344",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.1",
+      "filename": "ja/12.2.1.mp3",
+      "textSha256": "345e4ab7fa572d6edf611b073b9919def07c18bc02470b62bb8000f6b623733a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.2",
+      "filename": "ja/12.2.2.mp3",
+      "textSha256": "cfe239fa58dcb95ef48518a9795d79f3acf40fe4fd3278fe5bc33c9213cdc24d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.3",
+      "filename": "ja/12.2.3.mp3",
+      "textSha256": "3e7097165bbda9f802b28d45d81eebbdfd5fb434b0252fc0cebefe27afaa4a49",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.1",
+      "filename": "ja/12.3.1.mp3",
+      "textSha256": "846975e72bad03611fbea4d70e7ba9871c10353348565232b382dfca7d6ede0b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.2",
+      "filename": "ja/12.3.2.mp3",
+      "textSha256": "3933d490a902fc728d963fb6e6f6c8a7ea853336c23281d3b97a2f9aba1c1f40",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.1",
+      "filename": "ja/12.4.1.mp3",
+      "textSha256": "1db74234ac1a55fead84d5d91a83c3a4e1cd585be5242528813625179c47bf6d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.2",
+      "filename": "ja/12.4.2.mp3",
+      "textSha256": "f7f4df403cc2055e9b792ab1cc7c45b60987cdc6fc468977a472b155c60384ab",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "284",
+  "request_id": "UVXrhjiBwk5A4rRlQv4o",
+  "master_sha256": "f43b1b9017eb7fb26a8d1b3857a1d1f9ee8b43025fb70d8afee8fab2fd971e1d"
+}

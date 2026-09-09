@@ -1,0 +1,138 @@
+{
+  "status": "generated",
+  "fingerprint": "0febbf0ec33027ded07f74f29e0113e0a3ac0fd84cc3f68fc7986a136ec18e06",
+  "submitted_at": "2026-09-09T11:04:04.389890+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Take the chariot between the armies, Krishna. Let me see those who have come to fight us.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Look, Arjun. Here are the Kurus assembled.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "There stood Bhishma, an elder of his family. Beside him was Drona, his teacher. Around them, Arjun recognised relatives, friends and men he had known for years.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      },
+      {
+        "text": "These are my own people.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "My strength is leaving me. My mouth is dry. I cannot keep my hand steady on the bow.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "I came here ready to fight. Now I see who stands before me, and I cannot see any good in killing them.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "What would I do with a kingdom won like this? The people for whom we might want it are standing there, risking their lives.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "They may be blinded by greed. Must we follow them into the same wrong?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "When families are destroyed, what happens to those left behind? Who will sustain their lives, their customs, their remembrance of the dead?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "He feared the deaths before him, and the unravelling that might follow them.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      },
+      {
+        "text": "If they strike me while I am unarmed and do not resist, that seems better than this.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Overcome with grief, Arjun set aside his bow and arrows and sat down.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "1.1.2",
+      "filename": "en/1.1.2.mp3",
+      "textSha256": "9ac05f12f5e211a46edcac584d92e8628bd986794a2c86c901a566ab459b2f5f",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.1.3",
+      "filename": "en/1.1.3.mp3",
+      "textSha256": "557ff94cf76e2154ab5d8adb9fef363acc06b9e4edca45c8311e621a800347ea",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "1.1.4",
+      "filename": "en/1.1.4.mp3",
+      "textSha256": "02f0a62a74f76111e31008dc94b5ec9c8580e13cf3c1f4d72af0d70415350757",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.2.1",
+      "filename": "en/1.2.1.mp3",
+      "textSha256": "221053e370ba3708033ba5dc37c1f7817eee29b7c41c9216ab4b056dbb91489c",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.2",
+      "filename": "en/1.2.2.mp3",
+      "textSha256": "f7f602c411e748a0791659b459577b2064f89a3ee2233b63b25ac7f426fde854",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.3",
+      "filename": "en/1.2.3.mp3",
+      "textSha256": "e52117661e0af36d4be5aa141a6faef0840e2f56b81c7a821e0957415c37a18e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.1",
+      "filename": "en/1.3.1.mp3",
+      "textSha256": "cd2ffbc289d3fe12259837c63be1e683dea443ec5b0940f4fdb9033a1b3004d2",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.2",
+      "filename": "en/1.3.2.mp3",
+      "textSha256": "7111b70bd65a59ed76e0dbc313c88e02d620b589d696194250de96df41f89b69",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.3",
+      "filename": "en/1.3.3.mp3",
+      "textSha256": "0dd73458e9be3e519afc00cfcbb920db806e6310d599e096da5a67a1cf8dbc40",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.4",
+      "filename": "en/1.3.4.mp3",
+      "textSha256": "7fe7bc58118b2c9ef4dc6cf009a6b533351a57ccc9d557e0ec5296cc5bbf9d5e",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.4.1",
+      "filename": "en/1.4.1.mp3",
+      "textSha256": "79c3f1092e01749d0722a2a56e6122e2efbc9815be220f94ed6212ead73adf87",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.4.2",
+      "filename": "en/1.4.2.mp3",
+      "textSha256": "a9ee19a8e139f221c8e31f6f24ff600dd53bb98e06e2470a638803bf8af0c53e",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "584",
+  "request_id": "rJ82CeoXiDRqengNubru",
+  "master_sha256": "ca2ed3e71835962c2eb59f8b926973c540cf61d173d944d45176241a89d17832"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "opening.2",
+  "language": "ja",
+  "src": "./audio/ja/opening-2.mp3",
+  "duration": 6.269388,
+  "textSha256": "649e4fec1838d95e80c96e665312b6178afb5de088cc1b827b8ef4a0713d37de",
+  "audioSha256": "6244196fcf9ef5874649c34cd63f7bcbcd34005663a36fef17e809d5f80f596b",
+  "voice_id": "w5WuszXzuKLYFrNBH2kY",
+  "model_id": "eleven_v3",
+  "source_take": "takes/ja/opening.1--opening.5",
+  "start": 7.039000000000001,
+  "end": 13.280000000000001
+}

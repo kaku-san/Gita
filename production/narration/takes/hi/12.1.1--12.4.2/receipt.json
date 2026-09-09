@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "661376e29a263844cf98b256b6040a02f8a45b3ed1e252d558e11b4c2a716f19",
+  "submitted_at": "2026-09-09T11:16:14.408293+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "योग में कौन अधिक दृढ़ता से स्थित हैं: वे जो भक्ति से तुम्हारी उपासना करते हैं, या वे जो अविनाशी, अव्यक्त सत्य का चिंतन करते हैं?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "जिनका मन मुझमें टिका है और जो अटल श्रद्धा से उपासना करते हैं, वे योग में गहराई से जुड़े हैं। अव्यक्त का अनुसरण करने वाले भी लक्ष्य तक पहुँचते हैं, हालाँकि शरीरधारी प्राणियों के लिए वह मार्ग अधिक कठिन है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो मेरी भक्ति करते हैं, उनके लिए मैं जन्म-मरण के समुद्र से पार उतारने वाला बनता हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "अपना मन और बुद्धि मुझमें लगाओ। यदि अभी स्थिर नहीं रह सकते, तो लौटने का अभ्यास करो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "यदि वह अभ्यास कठिन हो, तो मेरे लिए अपना कर्म करो। यदि इतना भी न कर सको, तो कर्मों के फल को अपना मानकर उनसे चिपकना छोड़ो और स्वयं को अनुशासित करो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उस त्याग में शांति है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "वह मुझे प्रिय है जो द्वेष नहीं करता, जो मित्रता और करुणा से भरा है, ममत्व और अपने बड़प्पन के भाव से मुक्त है, धैर्यवान और स्थिर है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "ऐसा व्यक्ति संसार को अनावश्यक रूप से अशांत नहीं करता, और न हर समय उसकी उथल-पुथल के वश में रहता है। भक्ति यह आकार देती है कि वह दूसरों के बीच कैसे जीता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मान और अपमान, प्रशंसा और निंदा, सुख और दुख में स्थिर रहना सीखो। यह आग्रह छोड़ दो कि सब कुछ तुम्हारे पक्ष में ही होना चाहिए।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो मुझे अपना परम लक्ष्य मानकर, श्रद्धा से इस जीवनदायी उपदेश का अनुसरण करते हैं, वे मुझे बहुत प्रिय हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "12.1.1",
+      "filename": "hi/12.1.1.mp3",
+      "textSha256": "68223686a8746384726aacaaea0d5c209cae34e494b3113038509aa679605ae1",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "12.1.2",
+      "filename": "hi/12.1.2.mp3",
+      "textSha256": "596d09596db9d4e64a67063e1c459492b9f7f7077e2680b08635ed096d2e5a31",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.1.3",
+      "filename": "hi/12.1.3.mp3",
+      "textSha256": "06c8a477c82df19f610f8f8b622ec98dd1d2f6074baa0665544aecda3c39170d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.1",
+      "filename": "hi/12.2.1.mp3",
+      "textSha256": "98db0821a93992825bf89ca811662b8681abfbd77f4fe3d74a29cfa507317fc0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.2",
+      "filename": "hi/12.2.2.mp3",
+      "textSha256": "fe2c6aa54868c55bf8641c29837a32877d6e295524e0133f9c6311223f8152ef",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.3",
+      "filename": "hi/12.2.3.mp3",
+      "textSha256": "b6f77f3f7972c82927b54d079dbffe43b85e70874aff8b0ae83a67aa35ae552e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.1",
+      "filename": "hi/12.3.1.mp3",
+      "textSha256": "4fe3c7418b3378096ee8136001a4b3bb78bb20208ca63646101dad48f9404dae",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.2",
+      "filename": "hi/12.3.2.mp3",
+      "textSha256": "0e90c24fd7407e34dee59f92e9aab371d77aaf2ef2cb1d640013e614d6bdad09",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.1",
+      "filename": "hi/12.4.1.mp3",
+      "textSha256": "12f3960063b6b1e3e16047dca96683fc211aecbf7b3df39d7ac6ac852ec9fb19",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.2",
+      "filename": "hi/12.4.2.mp3",
+      "textSha256": "8bc81da040c7da811db37b918506ec20e17f6e0ae676e542c76df67edde83ef9",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "646",
+  "request_id": "w2omcghxnL4lJQdMUlpF",
+  "master_sha256": "e0a7989dd62a332e8a3912e3e66f12b727d6f95cbc103d3138a9256925290e6c"
+}

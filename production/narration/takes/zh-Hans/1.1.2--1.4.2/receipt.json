@@ -1,0 +1,138 @@
+{
+  "status": "generated",
+  "fingerprint": "e8ba3b1643408a905b6640972aa49ea5d7262292fb8192ac845258ffff777295",
+  "submitted_at": "2026-09-09T11:16:04.630831+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "克里希纳，把战车驶到两军之间。让我看看，前来与我们交战的都有谁。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "看吧，阿周那。俱卢族的人都聚集在这里。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "站在那里的是毗湿摩，他家族中的长辈。旁边是他的老师德罗纳。在他们周围，阿周那认出了亲人、朋友，以及许多相识多年的面孔。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "这些都是我的亲人。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我的力气正在消失，口中干渴。我的手握不稳这张弓。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我来这里时，已经准备好作战。可如今看清了站在面前的人，我看不出杀死他们能带来什么好处。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "用这种方式赢得的王国，我拿来做什么？那些本该与我们共享它的人，此刻都站在那里，冒着生命危险。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "他们或许被贪欲蒙蔽了。难道我们也必须跟着犯下同样的错吗？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "家族毁灭之后，留下的人怎么办？谁来维持他们的生计、延续他们的习俗，让他们继续祭奠逝者？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "他惧怕眼前的死亡，也惧怕死亡之后可能接踵而来的崩解。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "如果我不拿武器，也不抵抗，任由他们杀死我，似乎都比这样更好。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "悲伤压倒了阿周那。他放下弓箭，坐了下来。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "1.1.2",
+      "filename": "zh-Hans/1.1.2.mp3",
+      "textSha256": "786d3688cb36301831f73da2acc232aeb40cd8407c714c0949d56504a116dcb7",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.1.3",
+      "filename": "zh-Hans/1.1.3.mp3",
+      "textSha256": "4f116207f44fb6d00dbca6d22cf41185c6a876b24655bd1690038522d9da4f09",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "1.1.4",
+      "filename": "zh-Hans/1.1.4.mp3",
+      "textSha256": "d01d92a539ec6c9da40f1fda3748e9a1a5425929b0dd5d0a3e5aa76f9ce895a9",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.2.1",
+      "filename": "zh-Hans/1.2.1.mp3",
+      "textSha256": "29804ea0defbbf2aaaed2057fe0c0aa30c6e3dd958567a0d0ceedf9e7ce527ae",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.2",
+      "filename": "zh-Hans/1.2.2.mp3",
+      "textSha256": "4d9239ae5321e532420ed3ae0fa3ea9d561403d21010921e5210f73d31b96657",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.3",
+      "filename": "zh-Hans/1.2.3.mp3",
+      "textSha256": "751994669badbd1105e93e7201730ba611cabec9129309abe6aa2f5a6dddbbb3",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.1",
+      "filename": "zh-Hans/1.3.1.mp3",
+      "textSha256": "6c07c1faa31f51d814ad0a127e8d562be3e4c922166deb8ff53476828945ff2e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.2",
+      "filename": "zh-Hans/1.3.2.mp3",
+      "textSha256": "1c17c11085b48ea0faca2d67a679e44fdcebdf4e95f352f6928d6eb86bf673ca",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.3",
+      "filename": "zh-Hans/1.3.3.mp3",
+      "textSha256": "279ba2be0f9e74e2cb10c00a4b0a83d8f56071417d482e16a5036a432ce787dd",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.4",
+      "filename": "zh-Hans/1.3.4.mp3",
+      "textSha256": "248d49b3d6b76c6c8e371654dc81313dfb63d69a2286944810ba6e0930f03452",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.4.1",
+      "filename": "zh-Hans/1.4.1.mp3",
+      "textSha256": "ab467903074b98b04a6ad46d356b40cdb9a8c456645655feef030c1cb3c9c8b8",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.4.2",
+      "filename": "zh-Hans/1.4.2.mp3",
+      "textSha256": "27cc52ae5049e14e633b059d63a5d70e24b3a09a54c900a76aa5dc71c985d739",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "208",
+  "request_id": "fZnY1zZdsSh7v2RQRIip",
+  "master_sha256": "d96c7d2c2ef8b196ade36a58ff40a808415a688f94b6f93a7c107b815e3efb1e"
+}

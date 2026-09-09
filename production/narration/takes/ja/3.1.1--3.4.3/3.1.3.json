@@ -1,0 +1,13 @@
+{
+  "id": "3.1.3",
+  "language": "ja",
+  "src": "./audio/ja/3.1.3.mp3",
+  "duration": 16.927347,
+  "textSha256": "9193f5090092cef508b9c46510514ad8ddc2408c3311a45f72f5e42e02615eeb",
+  "audioSha256": "2c081f64f37338456c7dbd046a338dd947391cc252ddbb5624ff0aa90c6615e6",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "model_id": "eleven_v3",
+  "source_take": "takes/ja/3.1.1--3.4.3",
+  "start": 26.238999999999997,
+  "end": 43.118999999999986
+}

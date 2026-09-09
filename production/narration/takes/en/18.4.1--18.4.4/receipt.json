@@ -1,0 +1,58 @@
+{
+  "status": "generated",
+  "fingerprint": "e1da59293656de208d5b5f7fc1a2a457a9e8ab517234745743998dfe9d5233d8",
+  "submitted_at": "2026-09-09T11:22:59.271091+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "You are dear to me, so hear my deepest word again. Let your mind rest in me. Be devoted to me, worship and bow to me. You will come to me; I promise you this because you are dear to me.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Relinquish all dharmas and take refuge in me alone. I will free you from all sin. Do not grieve.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Have you listened with attention, Arjun? Has the confusion born of ignorance been dispelled?",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Through your grace, my confusion has cleared. I have recovered my understanding. I stand steady, free of doubt. I will act according to your word.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "18.4.1",
+      "filename": "en/18.4.1.mp3",
+      "textSha256": "4bc21cedc0398dfef4644eef8b731ae963152884db4cb5e4470fa061446b2ec3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.2",
+      "filename": "en/18.4.2.mp3",
+      "textSha256": "646c49b1e47329f6ae6f11483d94c7cbcaf5e10bb38f95e8ffdc93b98e65bd31",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.3",
+      "filename": "en/18.4.3.mp3",
+      "textSha256": "67bb0a32c9ae6a6a5aa6f189e14ed5d04876c2f02257e191b42f016760c83bb2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.4",
+      "filename": "en/18.4.4.mp3",
+      "textSha256": "788133460156e0e2dd4b8debcc0bb4841180a4e18f454461509043d40ecf8f8c",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "285",
+  "request_id": "KFBxZ2XjBnmiYvUs7T7X",
+  "master_sha256": "8cb0121c166eea0d660deb50cf7ce846e7bcd59afe72ca7da8ced7668d3752d8"
+}

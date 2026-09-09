@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "1deaeff939da3fb66d7b4ce2d35bec6aee4c4df9083c6eab9dad2a58fea6fc3b",
+  "submitted_at": "2026-09-09T11:30:06.113069+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Explique-moi clairement la différence entre le renoncement et le détachement.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Le renoncement est compris comme le fait de délaisser les actions motivées par le désir. Le détachement consiste à abandonner l’attachement aux fruits de l’action.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Le sacrifice, le don et la discipline ne doivent pas être simplement abandonnés. Accomplis-les sans possessivité ni exigence de récompense. Délaisser un devoir uniquement parce qu’il est difficile n’est pas le détachement le plus élevé.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Une action dépend de plusieurs conditions : son cadre, celui qui agit, les instruments, les différents efforts et le facteur divin. Voir le Soi isolé comme l’unique cause, c’est voir de manière incomplète.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La connaissance peut reconnaître une seule réalité qui demeure à travers de nombreux êtres, ou ne voir que leur séparation, ou s’accrocher à un fragment comme s’il était le tout.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "L’action, celui qui agit, la compréhension, la détermination et le bonheur sont eux aussi façonnés par les qualités. Ce qui semble agréable au début peut enchaîner plus tard ; ce qui demande d’abord un effort peut conduire vers la clarté.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Krishna s’exprime dans l’ordre social de l’épopée et décrit les devoirs de ses quatre varnas. Il ramène ensuite Arjuna à la responsabilité à laquelle il lui revient de faire face.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Par son propre travail, chacun peut honorer la source d’où naissent les êtres. Mieux vaut accomplir imparfaitement son propre devoir que bien accomplir celui d’un autre. Toute entreprise comporte une part de défaut, comme le feu s’accompagne de fumée.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Avec une compréhension purifiée, la maîtrise de soi, la liberté à l’égard de l’orgueil et de la possessivité, et un cœur qui n’est plus gouverné par le désir avide, le chercheur devient prêt pour Brahman. Par la dévotion, je suis connu en vérité.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "18.1.1",
+      "filename": "fr/18.1.1.mp3",
+      "textSha256": "ce1983321b0bc204002b06e64165eab53ddec8a7de37f1dd35c85ee760023367",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "18.1.2",
+      "filename": "fr/18.1.2.mp3",
+      "textSha256": "46f2c54e8fb1f8e3a1a03a6b4aef7556b6fc23c86e4f9b0082570365b382d9d1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.3",
+      "filename": "fr/18.1.3.mp3",
+      "textSha256": "33a655a4adbd3cfc5b1f8791665998eaf43db8fbb07edcf9580a313161bed73a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.4",
+      "filename": "fr/18.1.4.mp3",
+      "textSha256": "d0fed928db6c00223667076ac60b2744d4727e407fa9b790492e4919b3e05f1e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.1",
+      "filename": "fr/18.2.1.mp3",
+      "textSha256": "92b0b1fae6bb46bc1083c96bee3cedcf70cb9abd1726c4850d063477474ddc2a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.2",
+      "filename": "fr/18.2.2.mp3",
+      "textSha256": "569c994f4c4b159e3861a6b11a70f0d80f03971de04338639f2c201ae3307fb2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.3",
+      "filename": "fr/18.2.3.mp3",
+      "textSha256": "2a24ebe3aa5ebe6ff79cb7eb2c404c4621f65104b840043d2541d574d6389eeb",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "18.2.4",
+      "filename": "fr/18.2.4.mp3",
+      "textSha256": "b5d503ae1cf9a8e34cd0067b2ff848897ea7ed4a2665d1aed488d0cc960aa4ad",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.1",
+      "filename": "fr/18.3.1.mp3",
+      "textSha256": "41bb1fb69386bfe3fb2d1ac7d0f7a5f5aa4d9708cc6a7b1b9fe0c40a8fc0a2d2",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "975",
+  "request_id": "e2t1tbDxsLtXasUKJ81p",
+  "master_sha256": "4b97ee6981d3bafca7c7a08d27babdff2a12b79cd8cf628b259a25cefbe4f3a8"
+}

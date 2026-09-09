@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "7f174ae8e61e94a4e23c5fa6ff7cda5669d725ce0faae5f8e854a8656f2e8ab2",
+  "submitted_at": "2026-09-09T11:26:16.095383+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Écoute encore, Arjuna. Je parle pour ton bien. Je suis la source dont tout procède.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ceux qui le reconnaissent se tournent vers moi avec amour. En se souvenant de moi ensemble, ils trouvent la joie. À ceux qui me sont dévoués avec amour, je donne le discernement qui les conduit vers moi ; je dissipe les ténèbres de l’ignorance par la lumière de la connaissance.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "J’accepte ce que tu me dis. Toi seul te connais pleinement. Dis-moi par quelles expressions de ta présence je peux continuer à me souvenir de toi.",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Je suis le Soi au cœur des êtres, leur commencement, leur milieu et leur fin. Parmi les lumières, vois l’éclat du soleil ; parmi les sens, l’esprit ; dans les êtres vivants, la conscience.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Reconnais mes expressions dans l’Himalaya, dans la syllabe sacrée, dans le figuier des pagodes, dans le Gange, dans la force du lion.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je suis aussi le temps, la sagesse, la mémoire et les puissances par lesquelles la vie se déploie. Ce sont des façons de tourner ton attention vers moi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ces manifestations sont sans fin. Tout ce qui possède splendeur, beauté ou puissance naît d’une part de mon éclat.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Mais pourquoi multiplier les exemples ? D’une seule part de moi-même, je soutiens cet univers tout entier.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je t’ai entendu le décrire. Puis-je le voir ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "10.1.1",
+      "filename": "fr/10.1.1.mp3",
+      "textSha256": "924507339e1fcc70aad7e0f2d20f938261c348bb4ffae71d8dd69be89b58976a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.1.2",
+      "filename": "fr/10.1.2.mp3",
+      "textSha256": "bcd23e721ba736e3818acb580cb170e9a58a300086bddf4a60d183ba840626f9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.2.1",
+      "filename": "fr/10.2.1.mp3",
+      "textSha256": "5800bbefdd3fe8cda3791f1827cf1b8ed1c11510e5055e2c0f9781f1a4d05ba2",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "10.2.2",
+      "filename": "fr/10.2.2.mp3",
+      "textSha256": "c130d83667f375b807eeaeb2dd3e963c455753222702febb80dd9aed39ee3213",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.1",
+      "filename": "fr/10.3.1.mp3",
+      "textSha256": "e46bd98ea1ab5c88c1810fb0e1fa52892f86cd4022a2674e2093fcda69f64cf8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.2",
+      "filename": "fr/10.3.2.mp3",
+      "textSha256": "d9188dbd053769dae51adf1338c9e81f1f153fcfe8d23e7950dc11acebf3dc1c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.1",
+      "filename": "fr/10.4.1.mp3",
+      "textSha256": "2bde84edf777a484d61768bd930f69191162a727fcdd64bcfacf2a6b83a93926",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.2",
+      "filename": "fr/10.4.2.mp3",
+      "textSha256": "c9500ad2b67ef5924ccba7c94fafd6a41bba00729d200026c6820769ad8cbc87",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.3",
+      "filename": "fr/10.4.3.mp3",
+      "textSha256": "b3b1ebadc0a20538d38caf7bb5240d127f029a3fa60a1b7003f228f3a453821d",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "685",
+  "request_id": "Wyc9qKs8qd0uIBcPPcxX",
+  "master_sha256": "09a0a58ea134dcb0ee7629ce5ab678fb15fa3cdcf61f90c84773fcf9e8211d9e"
+}

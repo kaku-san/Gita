@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "74b9c80128024cc400d1eda88a73888e5598a222b87cca0a0729a74fe33bb2ee",
+  "submitted_at": "2026-09-09T11:10:11.734452+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "अपना मन मेरी ओर मोड़ो और मेरा आश्रय लेकर साधना करो। सुनो कि तुम मुझे और पूरी तरह कैसे जान सकते हो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और “मैं” का भाव, मेरी अपरा प्रकृति के अंग हैं। इससे परे वह चेतन तत्व है जो संसार को धारण करता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "सब कुछ मुझ पर टिका है, जैसे मोती एक धागे में पिरोए रहते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैं जल का स्वाद हूँ, सूर्य और चंद्रमा का प्रकाश हूँ, वेदों का पवित्र नाद हूँ। मैं धरती की सुगंध और जीवित प्राणियों का जीवन हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैं लालसा और आसक्ति से रहित बल हूँ। जिन गुणों से प्रकृति प्रकट होती है, वे मुझसे जन्मते हैं, लेकिन मेरा पूरा स्वरूप उनमें समाया नहीं है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "प्रकृति के गुणों में उलझकर लोग उनके पार जो है, उसे पहचान नहीं पाते। रूपों को प्रकट करने वाली इस शक्ति, माया, को पार करना कठिन है। जो मेरा आश्रय लेते हैं, वे इसे पार कर सकते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "लोग दुख में, ज्ञान की खोज में, लाभ की आशा में या ज्ञान के कारण मेरी ओर मुड़ते हैं। इस तरह मेरी ओर मुड़ना, हर रूप में मायने रखता है। ज्ञानी भक्त जानने लगता है कि सब कुछ ईश्वर पर टिका है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "इच्छा अक्सर उपासना को किसी खास फल की ओर मोड़ देती है। ऐसे फलों का अंत होता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "अभी तुम्हें जो दिखाई देता है, मेरा सत्य केवल उतना ही नहीं है। राग और द्वेष समझ को ढक देते हैं। उनकी पकड़ से मुक्त होकर दृढ़ साधक मेरी ओर मुड़ते हैं और बुढ़ापे तथा मृत्यु से मुक्ति चाहते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "7.1.1",
+      "filename": "hi/7.1.1.mp3",
+      "textSha256": "1ef0519676bd6715d0256dee95c518ee6f2e53116b3a87782bc9dae92783db32",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.2",
+      "filename": "hi/7.1.2.mp3",
+      "textSha256": "9742cb50b40b1ba9dcbd440d539555def1956f8d9260923110f10bf12bde5765",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.3",
+      "filename": "hi/7.1.3.mp3",
+      "textSha256": "64179dcd1dc8472a40492a7b5f90f3cf930d0124b9bd2383cabc569daf135d72",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.1",
+      "filename": "hi/7.2.1.mp3",
+      "textSha256": "071ad02b3e9e1bc12f4cde6fa9d102757161f78b546ec8dc824ffd5b241aee13",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.2",
+      "filename": "hi/7.2.2.mp3",
+      "textSha256": "7315b572d7149355bfe403d871d289775e6d78e9e8ebebda678c3e49cbc1dfd5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.1",
+      "filename": "hi/7.3.1.mp3",
+      "textSha256": "b3be3b168c95e697789ab61f30d2233c9b54899f520b47c52c3c1bc028f6e58f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.2",
+      "filename": "hi/7.3.2.mp3",
+      "textSha256": "a5b02314d6434e6aa11ecb2e86d71b14f8af911cd62fe54262864f1293a6adb6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.1",
+      "filename": "hi/7.4.1.mp3",
+      "textSha256": "5f0894c1ae173dbc4ea9ad277b9f01927970c651647ed6fb656c2b05773b458b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.2",
+      "filename": "hi/7.4.2.mp3",
+      "textSha256": "c9beb91173d2207058df3acab03dcec8b5d7b9482ae239093dac5a8f3875682a",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "654",
+  "request_id": "2wNwSAW2HbqzW9iWfaqs",
+  "master_sha256": "2114e6b36f2c9fe978c61cac38a5017ee3836273decdececb4d105a99c50ab7c"
+}

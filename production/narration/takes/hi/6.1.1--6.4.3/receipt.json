@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "188b6f0a933f1a3f7d98eb5846efb143e1e244bb29ce69c7ca07ebf223d7ef7e",
+  "submitted_at": "2026-09-09T11:08:54.084018+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "जो आवश्यक कर्म करता है, लेकिन उसके फल पर आश्रित नहीं रहता, वही संन्यास और योग का अभ्यास कर रहा है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "अपने अनुशासन से स्वयं को ऊपर उठाओ। मन तुम्हारा सहायक बन सकता है; बिना संयम के वही तुम्हारे विरुद्ध काम कर सकता है। जैसे-जैसे वह सुख, दुख, प्रशंसा और तिरस्कार के वश में कम होता है, स्थिरता बढ़ती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उचित स्थान खोजो, स्थिर होकर बैठो और अपना ध्यान एकत्र करो। मन को मेरी ओर मुड़ने दो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "बहुत अधिक या बहुत कम खाना, बहुत अधिक सोना या सदा जागते रहना, इस योग में सहायक नहीं है। भोजन, विश्राम, गतिविधि और प्रयास में संतुलन लाओ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "स्थिर मन उस लौ की तरह है। अभ्यास से वह ऐसे आनंद को जान सकता है जो इंद्रियों पर निर्भर नहीं है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जब-जब मन भटके, उसे वापस लाओ। दूसरे प्राणियों में स्वयं को और स्वयं में दूसरे प्राणियों को देखना सीखो। उनके सुख और दुख को उतनी ही गंभीरता से लो जितनी अपने सुख और दुख को लेते हो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "लेकिन मन चंचल, बलवान और हठी है। उसे वश में करना हवा को थामने जैसा लगता है।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "यह कठिन है। फिर भी अभ्यास और आसक्ति को ढीला करने से इसे साधा जा सकता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उस व्यक्ति का क्या होता है जो श्रद्धा से शुरुआत करता है, लेकिन मार्ग पूरा नहीं कर पाता? क्या वह कहीं का नहीं रहता, खो जाता है?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "कल्याण की ओर किया गया कोई सच्चा प्रयास नष्ट नहीं होता। ऐसी साधना आगे के जन्मों तक फल देती है और साधक को फिर समझ की ओर खींच लाती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "आगे बढ़ते रहो। योगियों में वह मुझे विशेष प्रिय है जिसका अंतर्मन मुझमें टिका है, जो श्रद्धा और प्रेम से मेरी उपासना करता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "6.1.1",
+      "filename": "hi/6.1.1.mp3",
+      "textSha256": "a74654e07e5ebeea9af5e09716ab0a8507bde7f85223de54d583afe86b0ca232",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.1.2",
+      "filename": "hi/6.1.2.mp3",
+      "textSha256": "2754707f23db434be84666323c9b7f2c0938b8c246287d92cad0c5cc6d8645cb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.1",
+      "filename": "hi/6.2.1.mp3",
+      "textSha256": "a91667489c301fbd3eda826172ee0d729d1c5512853475294327d60ed46c485f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.2",
+      "filename": "hi/6.2.2.mp3",
+      "textSha256": "dd9c0557185d2413ef7a85deb9c79541242ebb87c28d9f90e3dc23858b8c8533",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.3",
+      "filename": "hi/6.2.3.mp3",
+      "textSha256": "42d1fd9b9a81760a0d5fa54e264d5e58d1d3f0d3e0de8dfde868c59ec001c6aa",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.1",
+      "filename": "hi/6.3.1.mp3",
+      "textSha256": "153c114124c347b51cc8f19fbe75263bcc982020e2cf27f4f638b221b39a4635",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.2",
+      "filename": "hi/6.3.2.mp3",
+      "textSha256": "fabf3d4f23d1bd5d7e1dde85c24e604a271551d234097557f136ab482750efe1",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.3.3",
+      "filename": "hi/6.3.3.mp3",
+      "textSha256": "1050e59234fe2e60072c62aadb4b7bd827b32204249c54f7109a96b6a1f28650",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.1",
+      "filename": "hi/6.4.1.mp3",
+      "textSha256": "8dc9fc1d5cb8b1092ac4988cfa676cacb6d92c4cc603692837331fce7f2fb0c9",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.4.2",
+      "filename": "hi/6.4.2.mp3",
+      "textSha256": "83741cf02ac8b2530411043eab840a4547e251a5c20cdc2d8823d58b3c62a025",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.3",
+      "filename": "hi/6.4.3.mp3",
+      "textSha256": "e243c89721b476dc46c38e9574e119c5ce00655b56df0cb9197c62fed66fae28",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "719",
+  "request_id": "xsWHetX1VKmV349rqqrZ",
+  "master_sha256": "e0a5d656f9d037b68ed72434be5100c278528a2e62f59c9ba9be3c988e43527c"
+}

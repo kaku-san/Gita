@@ -1,0 +1,13 @@
+{
+  "id": "17.4.1",
+  "language": "hi",
+  "src": "./audio/hi/17.4.1.mp3",
+  "duration": 7.000816,
+  "textSha256": "ab257b818839ab86febf4bfd0d1d9d38374a73abf143e7fe841f9dfc90e3e8a5",
+  "audioSha256": "9e4e094b1721d91239eeba5ef8d7581caa4d0da9629b13e31d94dd42073127cb",
+  "voice_id": "hRHid0k1FJN4S80Kbs5m",
+  "model_id": "eleven_v3",
+  "source_take": "takes/hi/17.1.1--17.4.2",
+  "start": 91.20000000000002,
+  "end": 98.16000000000001
+}

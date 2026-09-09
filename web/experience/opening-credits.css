@@ -1,0 +1,106 @@
+/* Live 3D opening. Every frame behind this typography is the existing WebGL world. */
+.in-opening #masthead,
+.in-opening #journey-dock,
+.in-opening #scene-tools,
+.in-opening #camera-guide,
+.in-opening #listen-notice { visibility: hidden; pointer-events: none; }
+.in-opening .screen-shade { opacity: 0; }
+#opening-film {
+  position: absolute; inset: 0; z-index: 8; overflow: hidden;
+  --split: 50%; --clan-opacity: 1; --credit-opacity: 0; --credit-shift: 18px;
+  color: #fff4da; pointer-events: none; isolation: isolate;
+  background: linear-gradient(180deg,#090d128c,transparent 29%,transparent 51%,#090d127d 75%,#090d12e8);
+}
+#opening-film::after {
+  content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  box-shadow: inset 0 0 18vw #0b10124a;
+}
+.film-letterbox::before,.film-letterbox::after {
+  content: ''; position: absolute; left: 0; right: 0; height: max(20px,4.2dvh); background: #090c0e; z-index: 5;
+}
+.film-letterbox::before { top: 0; }.film-letterbox::after { bottom: 0; }
+#faceoff-types { position: absolute; inset: 0; display: none; opacity: var(--clan-opacity); }
+[data-phase=faceoff] #faceoff-types { display: block; }
+#faceoff-types span {
+  position: absolute; top: 17dvh; max-width: 38%; font-family: Georgia,"Noto Serif Devanagari","Yu Mincho","Songti SC",serif;
+  font-size: clamp(2rem,4.9vw,5.5rem); line-height: 1.18; text-shadow: 0 3px 25px #000b;
+  opacity: var(--credit-opacity); transform: translateY(var(--credit-shift));
+}
+#clan-pandavas { left: 6vw; } #clan-kauravas { right: 6vw; text-align: right; }
+.faceoff-seam { position: absolute; left: var(--split); top: 4.2dvh; bottom: 4.2dvh; width: 1px; background: linear-gradient(transparent,#f0d89ec9 30%,#f0d89ec9 70%,transparent); }
+#opening-film #opening-identity {
+  inset: 19dvh auto auto 7vw; max-width: 44%; z-index: 2;
+  opacity: var(--name-opacity); transform: translateY(var(--credit-shift));
+}
+#opening-film #opening-name {
+  font-size: clamp(3.5rem,8.8vw,9.5rem); font-style: normal; line-height: 1.12; letter-spacing: -.04em;
+}
+#opening-film #opening-clans,#opening-film #opening-role { font-size: .8rem; letter-spacing: .16em; }
+#opening-film #opening-clans { display: none; }
+#opening-film[data-phase=faceoff] #opening-identity,
+#opening-film[data-phase=title] #opening-identity,
+#opening-film[data-phase=arrival] #opening-identity { display: none; }
+#credits-wordmark {
+  display: none; position: absolute; inset: 0; align-items: center; justify-content: center;
+  flex-direction: column; gap: 20px; text-align: center;
+  opacity: var(--credit-opacity); transform: translateY(var(--credit-shift));
+  text-shadow: 0 4px 45px #000b;
+}
+#opening-film[data-phase=title] #credits-wordmark { display: flex; }
+#opening-film[data-phase=title] { background: #0a1014aa; }
+#credits-wordmark strong { font: 400 clamp(7rem,20vw,17rem)/1.2 Georgia,"Noto Serif Devanagari",serif; }
+#credits-wordmark > span { font-size: clamp(1rem,2.3vw,1.8rem); letter-spacing: .45em; padding-left: .45em; }
+#credits-subtitle { font: italic clamp(1rem,1.5vw,1.3rem)/1.6 Georgia,"Yu Mincho","Songti SC",serif; max-width: 80%; margin: 12px 0 0; }
+#opening-film #opening-caption {
+  position: absolute; inset: auto 7vw max(112px,13dvh); display: block;
+  width: auto; height: auto; max-width: 640px; max-height: 31dvh; padding: 0;
+  background: none; border: 0; transform: translateY(var(--credit-shift));
+  opacity: var(--credit-opacity); text-shadow: 0 2px 16px #000a;
+}
+#opening-film #opening-caption::before { display: none; }
+#opening-film #opening-label { margin: 0 0 10px; color: #e4c68b; font-size: .7rem; letter-spacing: .16em; }
+#opening-film #opening-title { font-size: clamp(1.3rem,2vw,2rem); margin: 0 0 12px; }
+#opening-film #opening-copy { display: block; padding: 0; overflow: visible; }
+#opening-film #opening-text { font-size: clamp(1rem,1.5vw,1.23rem); line-height: 1.6; margin: 0; }
+#opening-film[data-phase=arjuna] #opening-title,#opening-film[data-phase=krishna] #opening-title { display: none; }
+#opening-film[data-phase=title] #opening-caption {
+  /* Keep the title accessible to the live caption without duplicating it visually. */
+  clip-path: inset(50%); width: 1px; height: 1px; overflow: hidden;
+}
+#opening-film #opening-controls {
+  position: absolute; left: 7vw; right: 7vw; bottom: max(30px,6dvh); width: auto;
+  margin: 0; height: 48px; gap: 14px; color: #f6ecd6; pointer-events: auto;
+}
+#opening-film #opening-controls button { min-width: 44px; min-height: 44px; }
+#opening-film #opening-count { font-size: .7rem; letter-spacing: .1em; color: #e7d9ba; }
+#opening-film #skip-opening { max-width: none; font-size: .8rem; line-height: 1.4; }
+.opening-timeline { position: absolute; bottom: 4.2dvh; height: 1px; left: 7vw; right: 7vw; background: #f2dda42b; z-index: 6; }
+#opening-progress { display: block; height: 100%; background: #dbc188; transform-origin: left; transform: scaleX(0); }
+@media (orientation:portrait) {
+  #faceoff-types span { font-size: clamp(2rem,8vw,3.5rem); max-width: 85%; left: 7vw; right: auto; text-align: left; }
+  #clan-pandavas { top: 9dvh!important; } #clan-kauravas { top: 53dvh!important; }
+  .faceoff-seam { left: 0; right: 0; top: var(--split); bottom: auto; width: 100%; height: 1px; }
+  #opening-film #opening-identity { top: 11dvh; max-width: 88%; }
+  #opening-film #opening-name { font-size: clamp(3rem,15vw,5.8rem); }
+  #opening-film #opening-role { font-size: .72rem; letter-spacing: .08em; }
+  #opening-film #opening-caption { bottom: calc(94px + env(safe-area-inset-bottom)); max-height: 29dvh; }
+  #opening-film #opening-title { font-size: 1.25rem; margin-bottom: 8px; }
+  #opening-film #opening-text { font-size: .97rem; line-height: 1.5; }
+  #opening-film #opening-label { font-size: .65rem; }
+  #opening-film #opening-controls { bottom: calc(30px + env(safe-area-inset-bottom)); gap: 8px; }
+  #opening-film #skip-opening { max-width: 155px; font-size: .75rem; }
+  .opening-timeline { bottom: calc(20px + env(safe-area-inset-bottom)); }
+  #credits-wordmark { gap: 15px; } #credits-wordmark strong { font-size: 35vw; }
+}
+@media (max-height:540px) and (orientation:landscape) {
+  #opening-film #opening-identity { top: 12dvh; } #opening-film #opening-name { font-size: 3.8rem; }
+  #opening-film #opening-caption { bottom: 76px; max-width: 65%; max-height: 35dvh; }
+  #opening-film #opening-title { font-size: 1.2rem; margin-bottom: 4px; }
+  #opening-film #opening-label { display: none; } #opening-film #opening-text { font-size: .9rem; line-height: 1.4; }
+  #opening-film #opening-controls { bottom: 20px; } #credits-wordmark strong { font-size: 6rem; } #credits-wordmark { gap: 8px; }
+}
+@media(prefers-reduced-motion:reduce) { #opening-film #opening-identity,#credits-wordmark,#opening-film #opening-caption,#faceoff-types span { transform: none; } }
+
+#credits-loading { position: absolute; top: 44%; left: 7vw; right: 7vw; text-align: center; font-size: .9rem; color: #f4e7c9; }
+
+.in-opening #scene-error { z-index: 10; }

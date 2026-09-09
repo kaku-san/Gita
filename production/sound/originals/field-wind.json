@@ -1,0 +1,18 @@
+{
+  "file": "field-wind.mp3",
+  "requested_at": "2026-09-09T10:31:13.347996+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "Seamless outdoor field ambience, gentle dry wind across a broad plain, faint grass rustle and cloth banners moving in the wind, natural open-air distance, no speech, no music, no modern sounds.",
+    "duration_seconds": 30,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "330",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 481115,
+  "sha256": "d3e4d233ba4f5847bb87a0e28d243e075d195d20fbf2c7af5b01c13e74e18811"
+}

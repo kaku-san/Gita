@@ -1,0 +1,10 @@
+{
+  "voice_description": "Native Hindi, standard Indian Hindi pronunciation. Male, age 30–40. Studio quality. Persona: divine teacher Krishna. Emotion: serene, compassionate, quietly assured. A smooth, warm, gently melodious voice with a clear middle register and rich natural resonance. Intimate and reassuring as he speaks to his dear friend Arjuna. Measured, flowing delivery, thoughtful pauses and precise Sanskrit-derived Hindi diction. Spiritual presence through grace, warmth and effortless authority.",
+  "model_id": "eleven_ttv_v3",
+  "text": "शरीर में रहने वाली आत्मा बचपन, युवावस्था और बुढ़ापे से गुज़रती है, और शरीर की मृत्यु के बाद भी आगे बढ़ती है। आत्मा शरीर के साथ जन्म नहीं लेती, और न उसके साथ नष्ट होती है।\n\nसुख और दुख आते हैं और चले जाते हैं। जो सदा बना रहता है, उसे न भूलते हुए इन बदलावों को सहना सीखो।",
+  "auto_generate_text": false,
+  "guidance_scale": 5,
+  "loudness": 0.1,
+  "seed": 20260909,
+  "should_enhance": false
+}

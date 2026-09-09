@@ -1,0 +1,18 @@
+{
+  "file": "horse-walk.mp3",
+  "requested_at": "2026-09-09T10:32:46.703622+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "Seamless close recording of four horses walking at a steady slow pace on dry earth pulling a wooden chariot, heavy uneven hoof beats, leather harness and small metal tack movement, restrained wooden wheel and axle creaks, no hard pavement, no modern sounds, no voices, no music.",
+    "duration_seconds": 20,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "220",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 321036,
+  "sha256": "36b39e29f02e03bf42cbd261d94e918af96da2b016474b7071646ed07a8b5dc3"
+}

@@ -1,0 +1,5832 @@
+{
+  "status": "complete",
+  "clips": 965,
+  "characters": 98751,
+  "returned_character_cost": 54311,
+  "languages": {
+    "en": {
+      "story_clips": 188,
+      "opening_clips": 5,
+      "bytes": 30480134,
+      "minutes": 31.53
+    },
+    "hi": {
+      "story_clips": 188,
+      "opening_clips": 5,
+      "bytes": 35344351,
+      "minutes": 36.6
+    },
+    "ja": {
+      "story_clips": 188,
+      "opening_clips": 5,
+      "bytes": 41877461,
+      "minutes": 43.41
+    },
+    "zh-Hans": {
+      "story_clips": 188,
+      "opening_clips": 5,
+      "bytes": 39086752,
+      "minutes": 40.5
+    },
+    "fr": {
+      "story_clips": 188,
+      "opening_clips": 5,
+      "bytes": 29910873,
+      "minutes": 30.94
+    }
+  },
+  "clips_checked": {
+    "en/1.1.2": {
+      "bytes": 91995,
+      "decoded_seconds": 5.68,
+      "rms_dbfs": -18.19,
+      "peak": 0.8433652520179749
+    },
+    "en/1.1.3": {
+      "bytes": 43511,
+      "decoded_seconds": 2.64,
+      "rms_dbfs": -17.92,
+      "peak": 0.8515891432762146
+    },
+    "en/1.1.4": {
+      "bytes": 207351,
+      "decoded_seconds": 12.88,
+      "rms_dbfs": -19.7,
+      "peak": 0.8713955879211426
+    },
+    "en/1.2.1": {
+      "bytes": 38078,
+      "decoded_seconds": 2.32,
+      "rms_dbfs": -20.38,
+      "peak": 0.5984474420547485
+    },
+    "en/1.2.2": {
+      "bytes": 104951,
+      "decoded_seconds": 6.48,
+      "rms_dbfs": -19.21,
+      "peak": 0.688818097114563
+    },
+    "en/1.2.3": {
+      "bytes": 114982,
+      "decoded_seconds": 7.12,
+      "rms_dbfs": -19.67,
+      "peak": 0.6534733772277832
+    },
+    "en/1.3.1": {
+      "bytes": 123759,
+      "decoded_seconds": 7.68,
+      "rms_dbfs": -17.8,
+      "peak": 0.680452823638916
+    },
+    "en/1.3.2": {
+      "bytes": 84471,
+      "decoded_seconds": 5.2,
+      "rms_dbfs": -18.8,
+      "peak": 0.6770528554916382
+    },
+    "en/1.3.3": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -18.46,
+      "peak": 0.8092965483665466
+    },
+    "en/1.3.4": {
+      "bytes": 89487,
+      "decoded_seconds": 5.52,
+      "rms_dbfs": -20.33,
+      "peak": 0.7641687393188477
+    },
+    "en/1.4.1": {
+      "bytes": 95756,
+      "decoded_seconds": 5.92,
+      "rms_dbfs": -19.1,
+      "peak": 0.7055705785751343
+    },
+    "en/1.4.2": {
+      "bytes": 94502,
+      "decoded_seconds": 5.84,
+      "rms_dbfs": -18.57,
+      "peak": 0.8329605460166931
+    },
+    "en/2.1.1": {
+      "bytes": 85725,
+      "decoded_seconds": 5.28,
+      "rms_dbfs": -17.46,
+      "peak": 0.8499817848205566
+    },
+    "en/2.1.2": {
+      "bytes": 140478,
+      "decoded_seconds": 8.72,
+      "rms_dbfs": -18.41,
+      "peak": 0.7808791399002075
+    },
+    "en/2.1.3": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -18.75,
+      "peak": 0.7490297555923462
+    },
+    "en/2.1.4": {
+      "bytes": 95338,
+      "decoded_seconds": 5.88,
+      "rms_dbfs": -21.83,
+      "peak": 0.8618810176849365
+    },
+    "en/2.2.1": {
+      "bytes": 202754,
+      "decoded_seconds": 12.6,
+      "rms_dbfs": -18.15,
+      "peak": 0.8598573207855225
+    },
+    "en/2.2.2": {
+      "bytes": 193141,
+      "decoded_seconds": 12.0,
+      "rms_dbfs": -17.93,
+      "peak": 0.8486300706863403
+    },
+    "en/2.2.3": {
+      "bytes": 133373,
+      "decoded_seconds": 8.28,
+      "rms_dbfs": -18.29,
+      "peak": 0.8248235583305359
+    },
+    "en/2.3.1": {
+      "bytes": 168063,
+      "decoded_seconds": 10.439,
+      "rms_dbfs": -18.02,
+      "peak": 0.8011939525604248
+    },
+    "en/2.3.2": {
+      "bytes": 159704,
+      "decoded_seconds": 9.921,
+      "rms_dbfs": -18.38,
+      "peak": 0.8537967801094055
+    },
+    "en/2.3.3": {
+      "bytes": 145911,
+      "decoded_seconds": 9.0394,
+      "rms_dbfs": -18.28,
+      "peak": 0.7540167570114136
+    },
+    "en/2.4.1": {
+      "bytes": 80292,
+      "decoded_seconds": 4.961,
+      "rms_dbfs": -20.05,
+      "peak": 0.8165211081504822
+    },
+    "en/2.4.2": {
+      "bytes": 190633,
+      "decoded_seconds": 11.84,
+      "rms_dbfs": -18.55,
+      "peak": 0.8251961469650269
+    },
+    "en/2.4.3": {
+      "bytes": 200246,
+      "decoded_seconds": 12.44,
+      "rms_dbfs": -17.72,
+      "peak": 0.8483595252037048
+    },
+    "en/2.4.4": {
+      "bytes": 225742,
+      "decoded_seconds": 14.04,
+      "rms_dbfs": -18.49,
+      "peak": 0.7451987266540527
+    },
+    "en/3.1.1": {
+      "bytes": 144239,
+      "decoded_seconds": 8.96,
+      "rms_dbfs": -17.93,
+      "peak": 0.7879485487937927
+    },
+    "en/3.1.2": {
+      "bytes": 139224,
+      "decoded_seconds": 8.64,
+      "rms_dbfs": -17.75,
+      "peak": 0.8388539552688599
+    },
+    "en/3.1.3": {
+      "bytes": 204426,
+      "decoded_seconds": 12.72,
+      "rms_dbfs": -16.39,
+      "peak": 0.8017616868019104
+    },
+    "en/3.2.1": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -17.43,
+      "peak": 0.8324579000473022
+    },
+    "en/3.2.2": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -17.15,
+      "peak": 0.8497052788734436
+    },
+    "en/3.3.1": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -19.69,
+      "peak": 0.8570666909217834
+    },
+    "en/3.3.2": {
+      "bytes": 172661,
+      "decoded_seconds": 10.72,
+      "rms_dbfs": -18.05,
+      "peak": 0.8457996249198914
+    },
+    "en/3.3.3": {
+      "bytes": 190633,
+      "decoded_seconds": 11.841,
+      "rms_dbfs": -18.38,
+      "peak": 0.749732255935669
+    },
+    "en/3.4.1": {
+      "bytes": 100772,
+      "decoded_seconds": 6.238,
+      "rms_dbfs": -18.36,
+      "peak": 0.6372520923614502
+    },
+    "en/3.4.2": {
+      "bytes": 111221,
+      "decoded_seconds": 6.88,
+      "rms_dbfs": -18.76,
+      "peak": 0.8168021440505981
+    },
+    "en/3.4.3": {
+      "bytes": 219890,
+      "decoded_seconds": 13.681,
+      "rms_dbfs": -17.64,
+      "peak": 0.8386536240577698
+    },
+    "en/4.1.1": {
+      "bytes": 171407,
+      "decoded_seconds": 10.64,
+      "rms_dbfs": -18.75,
+      "peak": 0.8596411943435669
+    },
+    "en/4.1.2": {
+      "bytes": 102026,
+      "decoded_seconds": 6.319,
+      "rms_dbfs": -18.29,
+      "peak": 0.7416278719902039
+    },
+    "en/4.1.3": {
+      "bytes": 260850,
+      "decoded_seconds": 16.24,
+      "rms_dbfs": -17.33,
+      "peak": 0.8574864268302917
+    },
+    "en/4.2.1": {
+      "bytes": 165137,
+      "decoded_seconds": 10.2411,
+      "rms_dbfs": -18.26,
+      "peak": 0.8413914442062378
+    },
+    "en/4.2.2": {
+      "bytes": 204426,
+      "decoded_seconds": 12.72,
+      "rms_dbfs": -17.99,
+      "peak": 0.8203003406524658
+    },
+    "en/4.3.1": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -18.13,
+      "peak": 0.8009856939315796
+    },
+    "en/4.3.2": {
+      "bytes": 168899,
+      "decoded_seconds": 10.479,
+      "rms_dbfs": -18.36,
+      "peak": 0.7852675318717957
+    },
+    "en/4.4.1": {
+      "bytes": 107459,
+      "decoded_seconds": 6.64,
+      "rms_dbfs": -17.67,
+      "peak": 0.754025936126709
+    },
+    "en/4.4.2": {
+      "bytes": 264612,
+      "decoded_seconds": 16.481,
+      "rms_dbfs": -18.58,
+      "peak": 0.8341941833496094
+    },
+    "en/5.1.1": {
+      "bytes": 88233,
+      "decoded_seconds": 5.441,
+      "rms_dbfs": -18.51,
+      "peak": 0.7878937721252441
+    },
+    "en/5.1.2": {
+      "bytes": 183946,
+      "decoded_seconds": 11.438,
+      "rms_dbfs": -18.64,
+      "peak": 0.8692623972892761
+    },
+    "en/5.1.3": {
+      "bytes": 139224,
+      "decoded_seconds": 8.64,
+      "rms_dbfs": -17.91,
+      "peak": 0.8554338812828064
+    },
+    "en/5.2.1": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -19.19,
+      "peak": 0.8337358832359314
+    },
+    "en/5.2.2": {
+      "bytes": 76530,
+      "decoded_seconds": 4.721,
+      "rms_dbfs": -18.72,
+      "peak": 0.8120056390762329
+    },
+    "en/5.3.1": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -18.61,
+      "peak": 0.8399518728256226
+    },
+    "en/5.3.2": {
+      "bytes": 212367,
+      "decoded_seconds": 13.199,
+      "rms_dbfs": -18.31,
+      "peak": 0.8613389730453491
+    },
+    "en/5.4.1": {
+      "bytes": 129193,
+      "decoded_seconds": 8.001,
+      "rms_dbfs": -19.45,
+      "peak": 0.7796202898025513
+    },
+    "en/5.4.2": {
+      "bytes": 258342,
+      "decoded_seconds": 16.08,
+      "rms_dbfs": -17.75,
+      "peak": 0.8313114643096924
+    },
+    "en/6.1.1": {
+      "bytes": 100772,
+      "decoded_seconds": 6.239,
+      "rms_dbfs": -17.06,
+      "peak": 0.852959156036377
+    },
+    "en/6.1.2": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -18.36,
+      "peak": 0.8553223609924316
+    },
+    "en/6.2.1": {
+      "bytes": 107459,
+      "decoded_seconds": 6.64,
+      "rms_dbfs": -20.45,
+      "peak": 0.838167667388916
+    },
+    "en/6.2.2": {
+      "bytes": 206097,
+      "decoded_seconds": 12.8011,
+      "rms_dbfs": -17.91,
+      "peak": 0.8626891374588013
+    },
+    "en/6.2.3": {
+      "bytes": 130447,
+      "decoded_seconds": 8.079,
+      "rms_dbfs": -19.11,
+      "peak": 0.8226916790008545
+    },
+    "en/6.3.1": {
+      "bytes": 178930,
+      "decoded_seconds": 11.12,
+      "rms_dbfs": -17.24,
+      "peak": 0.8240257501602173
+    },
+    "en/6.3.2": {
+      "bytes": 103279,
+      "decoded_seconds": 6.4,
+      "rms_dbfs": -18.2,
+      "peak": 0.8171826004981995
+    },
+    "en/6.3.3": {
+      "bytes": 81546,
+      "decoded_seconds": 5.041,
+      "rms_dbfs": -18.43,
+      "peak": 0.825822651386261
+    },
+    "en/6.4.1": {
+      "bytes": 134208,
+      "decoded_seconds": 8.32,
+      "rms_dbfs": -19.76,
+      "peak": 0.8569872379302979
+    },
+    "en/6.4.2": {
+      "bytes": 180184,
+      "decoded_seconds": 11.199,
+      "rms_dbfs": -19.17,
+      "peak": 0.8669452667236328
+    },
+    "en/6.4.3": {
+      "bytes": 242878,
+      "decoded_seconds": 15.121,
+      "rms_dbfs": -17.23,
+      "peak": 0.8640040755271912
+    },
+    "en/7.1.1": {
+      "bytes": 104951,
+      "decoded_seconds": 6.48,
+      "rms_dbfs": -16.47,
+      "peak": 0.8025529980659485
+    },
+    "en/7.1.2": {
+      "bytes": 216128,
+      "decoded_seconds": 13.44,
+      "rms_dbfs": -17.99,
+      "peak": 0.8292410373687744
+    },
+    "en/7.1.3": {
+      "bytes": 66499,
+      "decoded_seconds": 4.079,
+      "rms_dbfs": -19.99,
+      "peak": 0.8175808191299438
+    },
+    "en/7.2.1": {
+      "bytes": 160958,
+      "decoded_seconds": 10.001,
+      "rms_dbfs": -18.12,
+      "peak": 0.6691833734512329
+    },
+    "en/7.2.2": {
+      "bytes": 158450,
+      "decoded_seconds": 9.84,
+      "rms_dbfs": -18.08,
+      "peak": 0.7903691530227661
+    },
+    "en/7.3.1": {
+      "bytes": 221144,
+      "decoded_seconds": 13.759,
+      "rms_dbfs": -18.14,
+      "peak": 0.8288006782531738
+    },
+    "en/7.3.2": {
+      "bytes": 216128,
+      "decoded_seconds": 13.441,
+      "rms_dbfs": -18.77,
+      "peak": 0.7549381852149963
+    },
+    "en/7.4.1": {
+      "bytes": 104951,
+      "decoded_seconds": 6.48,
+      "rms_dbfs": -17.98,
+      "peak": 0.7340339422225952
+    },
+    "en/7.4.2": {
+      "bytes": 257088,
+      "decoded_seconds": 16.0,
+      "rms_dbfs": -17.84,
+      "peak": 0.7766666412353516
+    },
+    "en/8.1.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.799,
+      "rms_dbfs": -18.33,
+      "peak": 0.8668674230575562
+    },
+    "en/8.1.2": {
+      "bytes": 208605,
+      "decoded_seconds": 12.961,
+      "rms_dbfs": -18.17,
+      "peak": 0.8500567078590393
+    },
+    "en/8.1.3": {
+      "bytes": 160958,
+      "decoded_seconds": 10.0,
+      "rms_dbfs": -18.58,
+      "peak": 0.8092762231826782
+    },
+    "en/8.2.1": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -19.21,
+      "peak": 0.8079822063446045
+    },
+    "en/8.2.2": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -18.12,
+      "peak": 0.8353988528251648
+    },
+    "en/8.3.1": {
+      "bytes": 119998,
+      "decoded_seconds": 7.441,
+      "rms_dbfs": -17.68,
+      "peak": 0.8226958513259888
+    },
+    "en/8.3.2": {
+      "bytes": 258342,
+      "decoded_seconds": 16.08,
+      "rms_dbfs": -18.43,
+      "peak": 0.8263967037200928
+    },
+    "en/8.4.1": {
+      "bytes": 178930,
+      "decoded_seconds": 11.121,
+      "rms_dbfs": -19.06,
+      "peak": 0.7480795383453369
+    },
+    "en/8.4.2": {
+      "bytes": 270045,
+      "decoded_seconds": 16.798,
+      "rms_dbfs": -17.93,
+      "peak": 0.8246785402297974
+    },
+    "en/9.1.1": {
+      "bytes": 104951,
+      "decoded_seconds": 6.4794,
+      "rms_dbfs": -16.99,
+      "peak": 0.8463362455368042
+    },
+    "en/9.1.2": {
+      "bytes": 175168,
+      "decoded_seconds": 10.881,
+      "rms_dbfs": -16.31,
+      "peak": 0.827463686466217
+    },
+    "en/9.2.1": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -16.7,
+      "peak": 0.8523213863372803
+    },
+    "en/9.2.2": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -17.5,
+      "peak": 0.8245466947555542
+    },
+    "en/9.3.1": {
+      "bytes": 93248,
+      "decoded_seconds": 5.76,
+      "rms_dbfs": -18.27,
+      "peak": 0.7643911838531494
+    },
+    "en/9.3.2": {
+      "bytes": 194813,
+      "decoded_seconds": 12.12,
+      "rms_dbfs": -18.58,
+      "peak": 0.8260393142700195
+    },
+    "en/9.3.3": {
+      "bytes": 99100,
+      "decoded_seconds": 6.12,
+      "rms_dbfs": -18.1,
+      "peak": 0.8277440071105957
+    },
+    "en/9.4.1": {
+      "bytes": 172661,
+      "decoded_seconds": 10.72,
+      "rms_dbfs": -17.12,
+      "peak": 0.7987343668937683
+    },
+    "en/9.4.2": {
+      "bytes": 168899,
+      "decoded_seconds": 10.48,
+      "rms_dbfs": -19.88,
+      "peak": 0.7589709758758545
+    },
+    "en/9.4.3": {
+      "bytes": 145911,
+      "decoded_seconds": 9.04,
+      "rms_dbfs": -17.28,
+      "peak": 0.8324872255325317
+    },
+    "en/10.1.1": {
+      "bytes": 94502,
+      "decoded_seconds": 5.84,
+      "rms_dbfs": -17.63,
+      "peak": 0.8096988201141357
+    },
+    "en/10.1.2": {
+      "bytes": 252073,
+      "decoded_seconds": 15.68,
+      "rms_dbfs": -17.44,
+      "peak": 0.8415972590446472
+    },
+    "en/10.2.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -17.9,
+      "peak": 0.8079421520233154
+    },
+    "en/10.2.2": {
+      "bytes": 229085,
+      "decoded_seconds": 14.24,
+      "rms_dbfs": -17.57,
+      "peak": 0.8785825967788696
+    },
+    "en/10.3.1": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -17.93,
+      "peak": 0.8439385890960693
+    },
+    "en/10.3.2": {
+      "bytes": 136716,
+      "decoded_seconds": 8.481,
+      "rms_dbfs": -17.55,
+      "peak": 0.7465613484382629
+    },
+    "en/10.4.1": {
+      "bytes": 145911,
+      "decoded_seconds": 9.04,
+      "rms_dbfs": -17.68,
+      "peak": 0.7724941968917847
+    },
+    "en/10.4.2": {
+      "bytes": 113728,
+      "decoded_seconds": 7.04,
+      "rms_dbfs": -17.44,
+      "peak": 0.8367358446121216
+    },
+    "en/10.4.3": {
+      "bytes": 75276,
+      "decoded_seconds": 4.639,
+      "rms_dbfs": -19.97,
+      "peak": 0.8363924026489258
+    },
+    "en/11.1.1": {
+      "bytes": 196902,
+      "decoded_seconds": 12.239,
+      "rms_dbfs": -18.07,
+      "peak": 0.774202823638916
+    },
+    "en/11.1.2": {
+      "bytes": 119998,
+      "decoded_seconds": 7.441,
+      "rms_dbfs": -17.56,
+      "peak": 0.8294484615325928
+    },
+    "en/11.1.3": {
+      "bytes": 95756,
+      "decoded_seconds": 5.919,
+      "rms_dbfs": -18.46,
+      "peak": 0.803369402885437
+    },
+    "en/11.1.4": {
+      "bytes": 98264,
+      "decoded_seconds": 6.08,
+      "rms_dbfs": -19.34,
+      "peak": 0.8043246269226074
+    },
+    "en/11.2.1": {
+      "bytes": 145911,
+      "decoded_seconds": 9.04,
+      "rms_dbfs": -18.22,
+      "peak": 0.8095736503601074
+    },
+    "en/11.2.2": {
+      "bytes": 135462,
+      "decoded_seconds": 8.401,
+      "rms_dbfs": -18.29,
+      "peak": 0.8599021434783936
+    },
+    "en/11.2.3": {
+      "bytes": 76530,
+      "decoded_seconds": 4.72,
+      "rms_dbfs": -18.79,
+      "peak": 0.8076223134994507
+    },
+    "en/11.3.1": {
+      "bytes": 129193,
+      "decoded_seconds": 8.0,
+      "rms_dbfs": -18.0,
+      "peak": 0.7948331832885742
+    },
+    "en/11.3.2": {
+      "bytes": 134208,
+      "decoded_seconds": 8.319,
+      "rms_dbfs": -17.39,
+      "peak": 0.854468047618866
+    },
+    "en/11.4.1": {
+      "bytes": 114982,
+      "decoded_seconds": 7.121,
+      "rms_dbfs": -18.67,
+      "peak": 0.8200886249542236
+    },
+    "en/11.4.2": {
+      "bytes": 171407,
+      "decoded_seconds": 10.64,
+      "rms_dbfs": -18.64,
+      "peak": 0.8050941228866577
+    },
+    "en/11.4.3": {
+      "bytes": 61066,
+      "decoded_seconds": 3.759,
+      "rms_dbfs": -18.01,
+      "peak": 0.769254207611084
+    },
+    "en/11.4.4": {
+      "bytes": 61066,
+      "decoded_seconds": 3.76,
+      "rms_dbfs": -18.21,
+      "peak": 0.8675596714019775
+    },
+    "en/11.4.5": {
+      "bytes": 309751,
+      "decoded_seconds": 19.281,
+      "rms_dbfs": -18.5,
+      "peak": 0.8441148400306702
+    },
+    "en/12.1.1": {
+      "bytes": 147165,
+      "decoded_seconds": 9.119,
+      "rms_dbfs": -17.33,
+      "peak": 0.7945788502693176
+    },
+    "en/12.1.2": {
+      "bytes": 209859,
+      "decoded_seconds": 13.04,
+      "rms_dbfs": -18.19,
+      "peak": 0.874161958694458
+    },
+    "en/12.1.3": {
+      "bytes": 89905,
+      "decoded_seconds": 5.561,
+      "rms_dbfs": -18.22,
+      "peak": 0.8598756790161133
+    },
+    "en/12.2.1": {
+      "bytes": 110385,
+      "decoded_seconds": 6.84,
+      "rms_dbfs": -18.69,
+      "peak": 0.7927731871604919
+    },
+    "en/12.2.2": {
+      "bytes": 195648,
+      "decoded_seconds": 12.16,
+      "rms_dbfs": -19.26,
+      "peak": 0.8035320043563843
+    },
+    "en/12.2.3": {
+      "bytes": 36824,
+      "decoded_seconds": 2.239,
+      "rms_dbfs": -24.71,
+      "peak": 0.4928022027015686
+    },
+    "en/12.3.1": {
+      "bytes": 162212,
+      "decoded_seconds": 10.081,
+      "rms_dbfs": -19.55,
+      "peak": 0.7163698077201843
+    },
+    "en/12.3.2": {
+      "bytes": 193141,
+      "decoded_seconds": 12.0,
+      "rms_dbfs": -19.57,
+      "peak": 0.7861054539680481
+    },
+    "en/12.4.1": {
+      "bytes": 184782,
+      "decoded_seconds": 11.48,
+      "rms_dbfs": -18.72,
+      "peak": 0.8047624826431274
+    },
+    "en/12.4.2": {
+      "bytes": 176004,
+      "decoded_seconds": 10.9202,
+      "rms_dbfs": -18.85,
+      "peak": 0.7130521535873413
+    },
+    "en/13.1.1": {
+      "bytes": 104951,
+      "decoded_seconds": 6.481,
+      "rms_dbfs": -18.85,
+      "peak": 0.7791527509689331
+    },
+    "en/13.1.2": {
+      "bytes": 150927,
+      "decoded_seconds": 9.359,
+      "rms_dbfs": -17.75,
+      "peak": 0.8473591208457947
+    },
+    "en/13.1.3": {
+      "bytes": 195648,
+      "decoded_seconds": 12.16,
+      "rms_dbfs": -18.57,
+      "peak": 0.8671752214431763
+    },
+    "en/13.2.1": {
+      "bytes": 153435,
+      "decoded_seconds": 9.52,
+      "rms_dbfs": -18.11,
+      "peak": 0.8616361618041992
+    },
+    "en/13.2.2": {
+      "bytes": 226159,
+      "decoded_seconds": 14.079,
+      "rms_dbfs": -18.1,
+      "peak": 0.8544284105300903
+    },
+    "en/13.3.1": {
+      "bytes": 162212,
+      "decoded_seconds": 10.081,
+      "rms_dbfs": -16.65,
+      "peak": 0.854305624961853
+    },
+    "en/13.3.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.679,
+      "rms_dbfs": -17.47,
+      "peak": 0.826550304889679
+    },
+    "en/13.4.1": {
+      "bytes": 176422,
+      "decoded_seconds": 10.96,
+      "rms_dbfs": -19.18,
+      "peak": 0.8302456736564636
+    },
+    "en/13.4.2": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -18.52,
+      "peak": 0.848265528678894
+    },
+    "en/13.4.3": {
+      "bytes": 234101,
+      "decoded_seconds": 14.561,
+      "rms_dbfs": -17.69,
+      "peak": 0.814254641532898
+    },
+    "en/14.1.1": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -18.18,
+      "peak": 0.8288335800170898
+    },
+    "en/14.1.2": {
+      "bytes": 258342,
+      "decoded_seconds": 16.08,
+      "rms_dbfs": -17.91,
+      "peak": 0.8468182682991028
+    },
+    "en/14.2.1": {
+      "bytes": 221144,
+      "decoded_seconds": 13.76,
+      "rms_dbfs": -18.47,
+      "peak": 0.8443776965141296
+    },
+    "en/14.2.2": {
+      "bytes": 155942,
+      "decoded_seconds": 9.68,
+      "rms_dbfs": -17.93,
+      "peak": 0.8147284984588623
+    },
+    "en/14.3.1": {
+      "bytes": 90741,
+      "decoded_seconds": 5.6,
+      "rms_dbfs": -18.38,
+      "peak": 0.7929219603538513
+    },
+    "en/14.3.2": {
+      "bytes": 186871,
+      "decoded_seconds": 11.6,
+      "rms_dbfs": -17.99,
+      "peak": 0.8280380368232727
+    },
+    "en/14.3.3": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -17.11,
+      "peak": 0.8388388156890869
+    },
+    "en/14.4.1": {
+      "bytes": 125431,
+      "decoded_seconds": 7.76,
+      "rms_dbfs": -17.76,
+      "peak": 0.7793745994567871
+    },
+    "en/14.4.2": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -17.4,
+      "peak": 0.7786504030227661
+    },
+    "en/15.1.1": {
+      "bytes": 213621,
+      "decoded_seconds": 13.28,
+      "rms_dbfs": -16.33,
+      "peak": 0.8759030699729919
+    },
+    "en/15.1.2": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -16.59,
+      "peak": 0.8497335910797119
+    },
+    "en/15.2.1": {
+      "bytes": 139224,
+      "decoded_seconds": 8.64,
+      "rms_dbfs": -17.75,
+      "peak": 0.8478202819824219
+    },
+    "en/15.2.2": {
+      "bytes": 194395,
+      "decoded_seconds": 12.08,
+      "rms_dbfs": -17.02,
+      "peak": 0.8387519121170044
+    },
+    "en/15.2.3": {
+      "bytes": 67753,
+      "decoded_seconds": 4.16,
+      "rms_dbfs": -16.74,
+      "peak": 0.8300406336784363
+    },
+    "en/15.3.1": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -17.42,
+      "peak": 0.8521029949188232
+    },
+    "en/15.3.2": {
+      "bytes": 173915,
+      "decoded_seconds": 10.799,
+      "rms_dbfs": -17.36,
+      "peak": 0.8281955718994141
+    },
+    "en/15.4.1": {
+      "bytes": 140478,
+      "decoded_seconds": 8.721,
+      "rms_dbfs": -17.74,
+      "peak": 0.8537454605102539
+    },
+    "en/15.4.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.68,
+      "rms_dbfs": -17.27,
+      "peak": 0.8448561429977417
+    },
+    "en/16.1.1": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -16.45,
+      "peak": 0.8503129482269287
+    },
+    "en/16.1.2": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -16.56,
+      "peak": 0.877436101436615
+    },
+    "en/16.1.3": {
+      "bytes": 211113,
+      "decoded_seconds": 13.12,
+      "rms_dbfs": -18.56,
+      "peak": 0.8368440866470337
+    },
+    "en/16.2.1": {
+      "bytes": 113728,
+      "decoded_seconds": 7.04,
+      "rms_dbfs": -17.25,
+      "peak": 0.7938564419746399
+    },
+    "en/16.2.2": {
+      "bytes": 253327,
+      "decoded_seconds": 15.759,
+      "rms_dbfs": -17.92,
+      "peak": 0.7980994582176208
+    },
+    "en/16.3.1": {
+      "bytes": 157196,
+      "decoded_seconds": 9.761,
+      "rms_dbfs": -17.97,
+      "peak": 0.7908527255058289
+    },
+    "en/16.3.2": {
+      "bytes": 97010,
+      "decoded_seconds": 6.0,
+      "rms_dbfs": -16.36,
+      "peak": 0.8558555841445923
+    },
+    "en/16.4.1": {
+      "bytes": 152599,
+      "decoded_seconds": 9.48,
+      "rms_dbfs": -17.18,
+      "peak": 0.7698259353637695
+    },
+    "en/16.4.2": {
+      "bytes": 135044,
+      "decoded_seconds": 8.3603,
+      "rms_dbfs": -17.88,
+      "peak": 0.7953508496284485
+    },
+    "en/17.1.1": {
+      "bytes": 111221,
+      "decoded_seconds": 6.879,
+      "rms_dbfs": -19.04,
+      "peak": 0.8448460698127747
+    },
+    "en/17.1.2": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -19.62,
+      "peak": 0.7607522010803223
+    },
+    "en/17.1.3": {
+      "bytes": 207351,
+      "decoded_seconds": 12.881,
+      "rms_dbfs": -17.87,
+      "peak": 0.7913347482681274
+    },
+    "en/17.2.1": {
+      "bytes": 166391,
+      "decoded_seconds": 10.32,
+      "rms_dbfs": -18.13,
+      "peak": 0.730510950088501
+    },
+    "en/17.2.2": {
+      "bytes": 309751,
+      "decoded_seconds": 19.28,
+      "rms_dbfs": -18.75,
+      "peak": 0.8302527666091919
+    },
+    "en/17.3.1": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -18.78,
+      "peak": 0.7492005825042725
+    },
+    "en/17.3.2": {
+      "bytes": 201918,
+      "decoded_seconds": 12.56,
+      "rms_dbfs": -19.1,
+      "peak": 0.7897981405258179
+    },
+    "en/17.4.1": {
+      "bytes": 126685,
+      "decoded_seconds": 7.84,
+      "rms_dbfs": -19.06,
+      "peak": 0.8342263102531433
+    },
+    "en/17.4.2": {
+      "bytes": 323544,
+      "decoded_seconds": 20.16,
+      "rms_dbfs": -18.69,
+      "peak": 0.8019293546676636
+    },
+    "en/18.1.1": {
+      "bytes": 65245,
+      "decoded_seconds": 3.999,
+      "rms_dbfs": -17.97,
+      "peak": 0.6030353903770447
+    },
+    "en/18.1.2": {
+      "bytes": 124177,
+      "decoded_seconds": 7.6811,
+      "rms_dbfs": -17.42,
+      "peak": 0.8764930367469788
+    },
+    "en/18.1.3": {
+      "bytes": 229085,
+      "decoded_seconds": 14.24,
+      "rms_dbfs": -17.95,
+      "peak": 0.8158670663833618
+    },
+    "en/18.1.4": {
+      "bytes": 218636,
+      "decoded_seconds": 13.6,
+      "rms_dbfs": -19.79,
+      "peak": 0.7745945453643799
+    },
+    "en/18.2.1": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -17.24,
+      "peak": 0.7998332381248474
+    },
+    "en/18.2.2": {
+      "bytes": 243714,
+      "decoded_seconds": 15.161,
+      "rms_dbfs": -18.6,
+      "peak": 0.7982675433158875
+    },
+    "en/18.2.3": {
+      "bytes": 170571,
+      "decoded_seconds": 10.6,
+      "rms_dbfs": -19.93,
+      "peak": 0.804327130317688
+    },
+    "en/18.2.4": {
+      "bytes": 248311,
+      "decoded_seconds": 15.442,
+      "rms_dbfs": -17.91,
+      "peak": 0.8578153848648071
+    },
+    "en/18.3.1": {
+      "bytes": 232847,
+      "decoded_seconds": 14.48,
+      "rms_dbfs": -18.18,
+      "peak": 0.7998849153518677
+    },
+    "en/18.3.2": {
+      "bytes": 188125,
+      "decoded_seconds": 11.679,
+      "rms_dbfs": -19.21,
+      "peak": 0.7695629596710205
+    },
+    "en/18.3.3": {
+      "bytes": 157196,
+      "decoded_seconds": 9.758,
+      "rms_dbfs": -18.94,
+      "peak": 0.7955104112625122
+    },
+    "en/18.4.1": {
+      "bytes": 221144,
+      "decoded_seconds": 13.76,
+      "rms_dbfs": -18.39,
+      "peak": 0.8572421669960022
+    },
+    "en/18.4.2": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -17.64,
+      "peak": 0.7697925567626953
+    },
+    "en/18.4.3": {
+      "bytes": 97010,
+      "decoded_seconds": 5.999,
+      "rms_dbfs": -18.18,
+      "peak": 0.7656067609786987
+    },
+    "en/18.4.4": {
+      "bytes": 181438,
+      "decoded_seconds": 11.281,
+      "rms_dbfs": -18.05,
+      "peak": 0.9068229794502258
+    },
+    "en/opening.1": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -20.51,
+      "peak": 0.8491310477256775
+    },
+    "en/opening.2": {
+      "bytes": 119998,
+      "decoded_seconds": 7.44,
+      "rms_dbfs": -21.45,
+      "peak": 0.8233269453048706
+    },
+    "en/opening.3": {
+      "bytes": 126685,
+      "decoded_seconds": 7.839,
+      "rms_dbfs": -20.78,
+      "peak": 0.8699817657470703
+    },
+    "en/opening.4": {
+      "bytes": 30555,
+      "decoded_seconds": 1.841,
+      "rms_dbfs": -20.48,
+      "peak": 0.8393064737319946
+    },
+    "en/opening.5": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -20.39,
+      "peak": 0.8603845834732056
+    },
+    "hi/1.1.2": {
+      "bytes": 109967,
+      "decoded_seconds": 6.799,
+      "rms_dbfs": -17.75,
+      "peak": 0.7448202967643738
+    },
+    "hi/1.1.3": {
+      "bytes": 66499,
+      "decoded_seconds": 4.08,
+      "rms_dbfs": -17.14,
+      "peak": 0.8049245476722717
+    },
+    "hi/1.1.4": {
+      "bytes": 200664,
+      "decoded_seconds": 12.481,
+      "rms_dbfs": -14.93,
+      "peak": 0.8800235986709595
+    },
+    "hi/1.2.1": {
+      "bytes": 46019,
+      "decoded_seconds": 2.799,
+      "rms_dbfs": -18.38,
+      "peak": 0.8394439220428467
+    },
+    "hi/1.2.2": {
+      "bytes": 98264,
+      "decoded_seconds": 6.08,
+      "rms_dbfs": -17.65,
+      "peak": 0.7206118106842041
+    },
+    "hi/1.2.3": {
+      "bytes": 141732,
+      "decoded_seconds": 8.801,
+      "rms_dbfs": -17.99,
+      "peak": 0.7464576959609985
+    },
+    "hi/1.3.1": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -17.55,
+      "peak": 0.8035901784896851
+    },
+    "hi/1.3.2": {
+      "bytes": 114982,
+      "decoded_seconds": 7.12,
+      "rms_dbfs": -17.54,
+      "peak": 0.7122664451599121
+    },
+    "hi/1.3.3": {
+      "bytes": 170153,
+      "decoded_seconds": 10.56,
+      "rms_dbfs": -18.3,
+      "peak": 0.7305843234062195
+    },
+    "hi/1.3.4": {
+      "bytes": 98264,
+      "decoded_seconds": 6.079,
+      "rms_dbfs": -16.25,
+      "peak": 0.8676722049713135
+    },
+    "hi/1.4.1": {
+      "bytes": 106205,
+      "decoded_seconds": 6.56,
+      "rms_dbfs": -16.89,
+      "peak": 0.8295056819915771
+    },
+    "hi/1.4.2": {
+      "bytes": 141732,
+      "decoded_seconds": 8.801,
+      "rms_dbfs": -16.17,
+      "peak": 0.8519008755683899
+    },
+    "hi/2.1.1": {
+      "bytes": 118744,
+      "decoded_seconds": 7.36,
+      "rms_dbfs": -19.1,
+      "peak": 0.6457668542861938
+    },
+    "hi/2.1.2": {
+      "bytes": 173915,
+      "decoded_seconds": 10.8,
+      "rms_dbfs": -19.19,
+      "peak": 0.7409192323684692
+    },
+    "hi/2.1.3": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -18.88,
+      "peak": 0.6825873851776123
+    },
+    "hi/2.1.4": {
+      "bytes": 108713,
+      "decoded_seconds": 6.719,
+      "rms_dbfs": -15.71,
+      "peak": 0.8566303253173828
+    },
+    "hi/2.2.1": {
+      "bytes": 227831,
+      "decoded_seconds": 14.161,
+      "rms_dbfs": -17.6,
+      "peak": 0.8065067529678345
+    },
+    "hi/2.2.2": {
+      "bytes": 246639,
+      "decoded_seconds": 15.36,
+      "rms_dbfs": -17.86,
+      "peak": 0.8027405738830566
+    },
+    "hi/2.2.3": {
+      "bytes": 135462,
+      "decoded_seconds": 8.4,
+      "rms_dbfs": -18.65,
+      "peak": 0.7106541395187378
+    },
+    "hi/2.3.1": {
+      "bytes": 153435,
+      "decoded_seconds": 9.52,
+      "rms_dbfs": -18.17,
+      "peak": 0.6786553859710693
+    },
+    "hi/2.3.2": {
+      "bytes": 171407,
+      "decoded_seconds": 10.639,
+      "rms_dbfs": -17.91,
+      "peak": 0.7694013118743896
+    },
+    "hi/2.3.3": {
+      "bytes": 183946,
+      "decoded_seconds": 11.44,
+      "rms_dbfs": -18.67,
+      "peak": 0.6533054113388062
+    },
+    "hi/2.4.1": {
+      "bytes": 76530,
+      "decoded_seconds": 4.72,
+      "rms_dbfs": -19.7,
+      "peak": 0.7982747554779053
+    },
+    "hi/2.4.2": {
+      "bytes": 214875,
+      "decoded_seconds": 13.361,
+      "rms_dbfs": -18.92,
+      "peak": 0.7858863472938538
+    },
+    "hi/2.4.3": {
+      "bytes": 244132,
+      "decoded_seconds": 15.2,
+      "rms_dbfs": -18.21,
+      "peak": 0.6904224753379822
+    },
+    "hi/2.4.4": {
+      "bytes": 305572,
+      "decoded_seconds": 19.04,
+      "rms_dbfs": -18.41,
+      "peak": 0.7951862812042236
+    },
+    "hi/3.1.1": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -17.27,
+      "peak": 0.8078354597091675
+    },
+    "hi/3.1.2": {
+      "bytes": 160958,
+      "decoded_seconds": 10.0,
+      "rms_dbfs": -17.96,
+      "peak": 0.6792930364608765
+    },
+    "hi/3.1.3": {
+      "bytes": 242878,
+      "decoded_seconds": 15.12,
+      "rms_dbfs": -18.14,
+      "peak": 0.8498063087463379
+    },
+    "hi/3.2.1": {
+      "bytes": 204426,
+      "decoded_seconds": 12.719,
+      "rms_dbfs": -17.96,
+      "peak": 0.7288033962249756
+    },
+    "hi/3.2.2": {
+      "bytes": 166391,
+      "decoded_seconds": 10.321,
+      "rms_dbfs": -17.96,
+      "peak": 0.6523125171661377
+    },
+    "hi/3.3.1": {
+      "bytes": 130447,
+      "decoded_seconds": 8.08,
+      "rms_dbfs": -18.73,
+      "peak": 0.7230277061462402
+    },
+    "hi/3.3.2": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -17.72,
+      "peak": 0.8143641352653503
+    },
+    "hi/3.3.3": {
+      "bytes": 221144,
+      "decoded_seconds": 13.759,
+      "rms_dbfs": -18.99,
+      "peak": 0.8246170282363892
+    },
+    "hi/3.4.1": {
+      "bytes": 83217,
+      "decoded_seconds": 5.1211,
+      "rms_dbfs": -17.95,
+      "peak": 0.7091752290725708
+    },
+    "hi/3.4.2": {
+      "bytes": 170153,
+      "decoded_seconds": 10.56,
+      "rms_dbfs": -17.58,
+      "peak": 0.8438559770584106
+    },
+    "hi/3.4.3": {
+      "bytes": 264612,
+      "decoded_seconds": 16.48,
+      "rms_dbfs": -18.45,
+      "peak": 0.775102436542511
+    },
+    "hi/4.1.1": {
+      "bytes": 218636,
+      "decoded_seconds": 13.6,
+      "rms_dbfs": -17.84,
+      "peak": 0.7564492225646973
+    },
+    "hi/4.1.2": {
+      "bytes": 113728,
+      "decoded_seconds": 7.04,
+      "rms_dbfs": -18.93,
+      "peak": 0.6529421806335449
+    },
+    "hi/4.1.3": {
+      "bytes": 361996,
+      "decoded_seconds": 22.56,
+      "rms_dbfs": -18.36,
+      "peak": 0.7150090932846069
+    },
+    "hi/4.2.1": {
+      "bytes": 223652,
+      "decoded_seconds": 13.92,
+      "rms_dbfs": -18.78,
+      "peak": 0.77824866771698
+    },
+    "hi/4.2.2": {
+      "bytes": 227831,
+      "decoded_seconds": 14.16,
+      "rms_dbfs": -18.39,
+      "peak": 0.7364172339439392
+    },
+    "hi/4.3.1": {
+      "bytes": 236608,
+      "decoded_seconds": 14.719,
+      "rms_dbfs": -18.31,
+      "peak": 0.7469850778579712
+    },
+    "hi/4.3.2": {
+      "bytes": 173915,
+      "decoded_seconds": 10.8,
+      "rms_dbfs": -18.83,
+      "peak": 0.8340617418289185
+    },
+    "hi/4.4.1": {
+      "bytes": 125431,
+      "decoded_seconds": 7.761,
+      "rms_dbfs": -19.17,
+      "peak": 0.5925962924957275
+    },
+    "hi/4.4.2": {
+      "bytes": 281330,
+      "decoded_seconds": 17.52,
+      "rms_dbfs": -19.1,
+      "peak": 0.7607946991920471
+    },
+    "hi/5.1.1": {
+      "bytes": 76530,
+      "decoded_seconds": 4.719,
+      "rms_dbfs": -17.46,
+      "peak": 0.80394047498703
+    },
+    "hi/5.1.2": {
+      "bytes": 173915,
+      "decoded_seconds": 10.801,
+      "rms_dbfs": -17.77,
+      "peak": 0.831916093826294
+    },
+    "hi/5.1.3": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -17.36,
+      "peak": 0.7730875015258789
+    },
+    "hi/5.2.1": {
+      "bytes": 231593,
+      "decoded_seconds": 14.4,
+      "rms_dbfs": -18.04,
+      "peak": 0.7839276790618896
+    },
+    "hi/5.2.2": {
+      "bytes": 89487,
+      "decoded_seconds": 5.52,
+      "rms_dbfs": -19.67,
+      "peak": 0.7099295854568481
+    },
+    "hi/5.3.1": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -18.15,
+      "peak": 0.8085142374038696
+    },
+    "hi/5.3.2": {
+      "bytes": 205679,
+      "decoded_seconds": 12.8,
+      "rms_dbfs": -17.62,
+      "peak": 0.7538528442382812
+    },
+    "hi/5.4.1": {
+      "bytes": 152181,
+      "decoded_seconds": 9.44,
+      "rms_dbfs": -18.65,
+      "peak": 0.5542201399803162
+    },
+    "hi/5.4.2": {
+      "bytes": 226159,
+      "decoded_seconds": 14.08,
+      "rms_dbfs": -18.06,
+      "peak": 0.715019941329956
+    },
+    "hi/6.1.1": {
+      "bytes": 140478,
+      "decoded_seconds": 8.72,
+      "rms_dbfs": -18.94,
+      "peak": 0.6575334072113037
+    },
+    "hi/6.1.2": {
+      "bytes": 298048,
+      "decoded_seconds": 18.56,
+      "rms_dbfs": -19.46,
+      "peak": 0.7252092361450195
+    },
+    "hi/6.2.1": {
+      "bytes": 144239,
+      "decoded_seconds": 8.96,
+      "rms_dbfs": -19.57,
+      "peak": 0.6716852188110352
+    },
+    "hi/6.2.2": {
+      "bytes": 223652,
+      "decoded_seconds": 13.92,
+      "rms_dbfs": -19.14,
+      "peak": 0.7487819194793701
+    },
+    "hi/6.2.3": {
+      "bytes": 148419,
+      "decoded_seconds": 9.2,
+      "rms_dbfs": -19.3,
+      "peak": 0.715628981590271
+    },
+    "hi/6.3.1": {
+      "bytes": 265866,
+      "decoded_seconds": 16.559,
+      "rms_dbfs": -18.83,
+      "peak": 0.6987330913543701
+    },
+    "hi/6.3.2": {
+      "bytes": 99518,
+      "decoded_seconds": 6.16,
+      "rms_dbfs": -18.66,
+      "peak": 0.736830472946167
+    },
+    "hi/6.3.3": {
+      "bytes": 106205,
+      "decoded_seconds": 6.56,
+      "rms_dbfs": -18.89,
+      "peak": 0.6564755439758301
+    },
+    "hi/6.4.1": {
+      "bytes": 139224,
+      "decoded_seconds": 8.64,
+      "rms_dbfs": -19.22,
+      "peak": 0.6762086153030396
+    },
+    "hi/6.4.2": {
+      "bytes": 180184,
+      "decoded_seconds": 11.201,
+      "rms_dbfs": -18.61,
+      "peak": 0.717665433883667
+    },
+    "hi/6.4.3": {
+      "bytes": 249565,
+      "decoded_seconds": 15.52,
+      "rms_dbfs": -18.94,
+      "peak": 0.7588222622871399
+    },
+    "hi/7.1.1": {
+      "bytes": 170153,
+      "decoded_seconds": 10.559,
+      "rms_dbfs": -19.64,
+      "peak": 0.6093695163726807
+    },
+    "hi/7.1.2": {
+      "bytes": 291779,
+      "decoded_seconds": 18.16,
+      "rms_dbfs": -20.63,
+      "peak": 0.72355055809021
+    },
+    "hi/7.1.3": {
+      "bytes": 86979,
+      "decoded_seconds": 5.361,
+      "rms_dbfs": -21.84,
+      "peak": 0.6485525369644165
+    },
+    "hi/7.2.1": {
+      "bytes": 231593,
+      "decoded_seconds": 14.399,
+      "rms_dbfs": -20.22,
+      "peak": 0.7090375423431396
+    },
+    "hi/7.2.2": {
+      "bytes": 211113,
+      "decoded_seconds": 13.121,
+      "rms_dbfs": -19.73,
+      "peak": 0.7857028841972351
+    },
+    "hi/7.3.1": {
+      "bytes": 304318,
+      "decoded_seconds": 18.959,
+      "rms_dbfs": -20.16,
+      "peak": 0.7871584296226501
+    },
+    "hi/7.3.2": {
+      "bytes": 306826,
+      "decoded_seconds": 19.12,
+      "rms_dbfs": -19.87,
+      "peak": 0.7626214027404785
+    },
+    "hi/7.4.1": {
+      "bytes": 116236,
+      "decoded_seconds": 7.201,
+      "rms_dbfs": -21.04,
+      "peak": 0.6143821477890015
+    },
+    "hi/7.4.2": {
+      "bytes": 418421,
+      "decoded_seconds": 26.08,
+      "rms_dbfs": -19.99,
+      "peak": 0.8517775535583496
+    },
+    "hi/8.1.1": {
+      "bytes": 162212,
+      "decoded_seconds": 10.08,
+      "rms_dbfs": -17.72,
+      "peak": 0.7859314680099487
+    },
+    "hi/8.1.2": {
+      "bytes": 239116,
+      "decoded_seconds": 14.88,
+      "rms_dbfs": -17.98,
+      "peak": 0.8295272588729858
+    },
+    "hi/8.1.3": {
+      "bytes": 167645,
+      "decoded_seconds": 10.399,
+      "rms_dbfs": -18.73,
+      "peak": 0.7116278409957886
+    },
+    "hi/8.2.1": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -17.59,
+      "peak": 0.7556525468826294
+    },
+    "hi/8.2.2": {
+      "bytes": 149673,
+      "decoded_seconds": 9.281,
+      "rms_dbfs": -18.33,
+      "peak": 0.6566420793533325
+    },
+    "hi/8.3.1": {
+      "bytes": 125431,
+      "decoded_seconds": 7.7594,
+      "rms_dbfs": -18.11,
+      "peak": 0.6636196374893188
+    },
+    "hi/8.3.2": {
+      "bytes": 275061,
+      "decoded_seconds": 17.121,
+      "rms_dbfs": -18.13,
+      "peak": 0.6487184762954712
+    },
+    "hi/8.4.1": {
+      "bytes": 188125,
+      "decoded_seconds": 11.68,
+      "rms_dbfs": -17.77,
+      "peak": 0.6659187078475952
+    },
+    "hi/8.4.2": {
+      "bytes": 182692,
+      "decoded_seconds": 11.36,
+      "rms_dbfs": -18.26,
+      "peak": 0.6653627157211304
+    },
+    "hi/9.1.1": {
+      "bytes": 131701,
+      "decoded_seconds": 8.16,
+      "rms_dbfs": -18.32,
+      "peak": 0.7312796115875244
+    },
+    "hi/9.1.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.68,
+      "rms_dbfs": -18.7,
+      "peak": 0.741508960723877
+    },
+    "hi/9.2.1": {
+      "bytes": 190633,
+      "decoded_seconds": 11.839,
+      "rms_dbfs": -18.26,
+      "peak": 0.6490945816040039
+    },
+    "hi/9.2.2": {
+      "bytes": 258342,
+      "decoded_seconds": 16.08,
+      "rms_dbfs": -18.78,
+      "peak": 0.7163353562355042
+    },
+    "hi/9.3.1": {
+      "bytes": 100772,
+      "decoded_seconds": 6.24,
+      "rms_dbfs": -18.98,
+      "peak": 0.6996104717254639
+    },
+    "hi/9.3.2": {
+      "bytes": 201918,
+      "decoded_seconds": 12.561,
+      "rms_dbfs": -18.92,
+      "peak": 0.6873093843460083
+    },
+    "hi/9.3.3": {
+      "bytes": 123759,
+      "decoded_seconds": 7.68,
+      "rms_dbfs": -18.71,
+      "peak": 0.6839823722839355
+    },
+    "hi/9.4.1": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -17.86,
+      "peak": 0.7455602288246155
+    },
+    "hi/9.4.2": {
+      "bytes": 224906,
+      "decoded_seconds": 14.0,
+      "rms_dbfs": -16.02,
+      "peak": 0.872642993927002
+    },
+    "hi/9.4.3": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -16.98,
+      "peak": 0.8802551031112671
+    },
+    "hi/10.1.1": {
+      "bytes": 135462,
+      "decoded_seconds": 8.4,
+      "rms_dbfs": -18.94,
+      "peak": 0.8696252703666687
+    },
+    "hi/10.1.2": {
+      "bytes": 355727,
+      "decoded_seconds": 22.16,
+      "rms_dbfs": -18.8,
+      "peak": 0.8741244077682495
+    },
+    "hi/10.2.1": {
+      "bytes": 183946,
+      "decoded_seconds": 11.44,
+      "rms_dbfs": -18.81,
+      "peak": 0.6706055998802185
+    },
+    "hi/10.2.2": {
+      "bytes": 223652,
+      "decoded_seconds": 13.92,
+      "rms_dbfs": -18.36,
+      "peak": 0.7014747858047485
+    },
+    "hi/10.3.1": {
+      "bytes": 148419,
+      "decoded_seconds": 9.2,
+      "rms_dbfs": -18.33,
+      "peak": 0.6321029663085938
+    },
+    "hi/10.3.2": {
+      "bytes": 200664,
+      "decoded_seconds": 12.479,
+      "rms_dbfs": -18.91,
+      "peak": 0.8045303225517273
+    },
+    "hi/10.4.1": {
+      "bytes": 155942,
+      "decoded_seconds": 9.681,
+      "rms_dbfs": -17.58,
+      "peak": 0.6602470874786377
+    },
+    "hi/10.4.2": {
+      "bytes": 151345,
+      "decoded_seconds": 9.4,
+      "rms_dbfs": -18.75,
+      "peak": 0.6109732389450073
+    },
+    "hi/10.4.3": {
+      "bytes": 61902,
+      "decoded_seconds": 3.8,
+      "rms_dbfs": -18.97,
+      "peak": 0.7854690551757812
+    },
+    "hi/11.1.1": {
+      "bytes": 267119,
+      "decoded_seconds": 16.64,
+      "rms_dbfs": -18.11,
+      "peak": 0.8007117509841919
+    },
+    "hi/11.1.2": {
+      "bytes": 183946,
+      "decoded_seconds": 11.441,
+      "rms_dbfs": -17.82,
+      "peak": 0.6744606494903564
+    },
+    "hi/11.1.3": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -18.82,
+      "peak": 0.6960530281066895
+    },
+    "hi/11.1.4": {
+      "bytes": 124177,
+      "decoded_seconds": 7.6811,
+      "rms_dbfs": -16.08,
+      "peak": 0.8592967987060547
+    },
+    "hi/11.2.1": {
+      "bytes": 166391,
+      "decoded_seconds": 10.32,
+      "rms_dbfs": -18.26,
+      "peak": 0.7639939785003662
+    },
+    "hi/11.2.2": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -19.54,
+      "peak": 0.5972820520401001
+    },
+    "hi/11.2.3": {
+      "bytes": 81546,
+      "decoded_seconds": 5.039,
+      "rms_dbfs": -20.16,
+      "peak": 0.596680760383606
+    },
+    "hi/11.3.1": {
+      "bytes": 135462,
+      "decoded_seconds": 8.401,
+      "rms_dbfs": -18.41,
+      "peak": 0.67814040184021
+    },
+    "hi/11.3.2": {
+      "bytes": 148419,
+      "decoded_seconds": 9.2,
+      "rms_dbfs": -18.5,
+      "peak": 0.6274168491363525
+    },
+    "hi/11.4.1": {
+      "bytes": 185199,
+      "decoded_seconds": 11.519,
+      "rms_dbfs": -18.82,
+      "peak": 0.7091109752655029
+    },
+    "hi/11.4.2": {
+      "bytes": 166391,
+      "decoded_seconds": 10.321,
+      "rms_dbfs": -19.42,
+      "peak": 0.6878250241279602
+    },
+    "hi/11.4.3": {
+      "bytes": 90741,
+      "decoded_seconds": 5.6,
+      "rms_dbfs": -19.02,
+      "peak": 0.6859612464904785
+    },
+    "hi/11.4.4": {
+      "bytes": 94502,
+      "decoded_seconds": 5.839,
+      "rms_dbfs": -17.22,
+      "peak": 0.7046520709991455
+    },
+    "hi/11.4.5": {
+      "bytes": 282584,
+      "decoded_seconds": 17.599,
+      "rms_dbfs": -18.7,
+      "peak": 0.7396297454833984
+    },
+    "hi/12.1.1": {
+      "bytes": 170153,
+      "decoded_seconds": 10.56,
+      "rms_dbfs": -18.94,
+      "peak": 0.7291746735572815
+    },
+    "hi/12.1.2": {
+      "bytes": 273807,
+      "decoded_seconds": 17.04,
+      "rms_dbfs": -18.71,
+      "peak": 0.7392413020133972
+    },
+    "hi/12.1.3": {
+      "bytes": 119998,
+      "decoded_seconds": 7.44,
+      "rms_dbfs": -16.94,
+      "peak": 0.7954561710357666
+    },
+    "hi/12.2.1": {
+      "bytes": 119998,
+      "decoded_seconds": 7.44,
+      "rms_dbfs": -18.39,
+      "peak": 0.6709246635437012
+    },
+    "hi/12.2.2": {
+      "bytes": 221144,
+      "decoded_seconds": 13.76,
+      "rms_dbfs": -18.72,
+      "peak": 0.7201114892959595
+    },
+    "hi/12.2.3": {
+      "bytes": 39332,
+      "decoded_seconds": 2.4,
+      "rms_dbfs": -20.22,
+      "peak": 0.7077358961105347
+    },
+    "hi/12.3.1": {
+      "bytes": 217382,
+      "decoded_seconds": 13.52,
+      "rms_dbfs": -18.62,
+      "peak": 0.6716698408126831
+    },
+    "hi/12.3.2": {
+      "bytes": 244132,
+      "decoded_seconds": 15.2,
+      "rms_dbfs": -19.07,
+      "peak": 0.7300224304199219
+    },
+    "hi/12.4.1": {
+      "bytes": 190633,
+      "decoded_seconds": 11.84,
+      "rms_dbfs": -18.58,
+      "peak": 0.7464573383331299
+    },
+    "hi/12.4.2": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -18.73,
+      "peak": 0.6351187229156494
+    },
+    "hi/13.1.1": {
+      "bytes": 109967,
+      "decoded_seconds": 6.799,
+      "rms_dbfs": -17.38,
+      "peak": 0.8365862369537354
+    },
+    "hi/13.1.2": {
+      "bytes": 145911,
+      "decoded_seconds": 9.041,
+      "rms_dbfs": -18.59,
+      "peak": 0.7623968124389648
+    },
+    "hi/13.1.3": {
+      "bytes": 216128,
+      "decoded_seconds": 13.44,
+      "rms_dbfs": -18.95,
+      "peak": 0.7370575666427612
+    },
+    "hi/13.2.1": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -18.86,
+      "peak": 0.7586255073547363
+    },
+    "hi/13.2.2": {
+      "bytes": 227831,
+      "decoded_seconds": 14.1594,
+      "rms_dbfs": -18.57,
+      "peak": 0.760169506072998
+    },
+    "hi/13.3.1": {
+      "bytes": 186871,
+      "decoded_seconds": 11.601,
+      "rms_dbfs": -18.37,
+      "peak": 0.7364392876625061
+    },
+    "hi/13.3.2": {
+      "bytes": 255835,
+      "decoded_seconds": 15.92,
+      "rms_dbfs": -18.63,
+      "peak": 0.7723315954208374
+    },
+    "hi/13.4.1": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -18.67,
+      "peak": 0.7543100714683533
+    },
+    "hi/13.4.2": {
+      "bytes": 182692,
+      "decoded_seconds": 11.36,
+      "rms_dbfs": -19.12,
+      "peak": 0.7233123183250427
+    },
+    "hi/13.4.3": {
+      "bytes": 224906,
+      "decoded_seconds": 14.0,
+      "rms_dbfs": -18.6,
+      "peak": 0.7638476490974426
+    },
+    "hi/14.1.1": {
+      "bytes": 171407,
+      "decoded_seconds": 10.64,
+      "rms_dbfs": -18.4,
+      "peak": 0.85196852684021
+    },
+    "hi/14.1.2": {
+      "bytes": 397941,
+      "decoded_seconds": 24.8,
+      "rms_dbfs": -19.88,
+      "peak": 0.8343145251274109
+    },
+    "hi/14.2.1": {
+      "bytes": 252073,
+      "decoded_seconds": 15.679,
+      "rms_dbfs": -19.32,
+      "peak": 0.7310397028923035
+    },
+    "hi/14.2.2": {
+      "bytes": 198156,
+      "decoded_seconds": 12.32,
+      "rms_dbfs": -18.72,
+      "peak": 0.8787124156951904
+    },
+    "hi/14.3.1": {
+      "bytes": 107459,
+      "decoded_seconds": 6.641,
+      "rms_dbfs": -19.11,
+      "peak": 0.7740868926048279
+    },
+    "hi/14.3.2": {
+      "bytes": 277568,
+      "decoded_seconds": 17.28,
+      "rms_dbfs": -18.71,
+      "peak": 0.7660816311836243
+    },
+    "hi/14.3.3": {
+      "bytes": 178930,
+      "decoded_seconds": 11.12,
+      "rms_dbfs": -19.17,
+      "peak": 0.6444441080093384
+    },
+    "hi/14.4.1": {
+      "bytes": 168899,
+      "decoded_seconds": 10.48,
+      "rms_dbfs": -18.46,
+      "peak": 0.7893705368041992
+    },
+    "hi/14.4.2": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -20.0,
+      "peak": 0.6327916979789734
+    },
+    "hi/15.1.1": {
+      "bytes": 276315,
+      "decoded_seconds": 17.2,
+      "rms_dbfs": -18.58,
+      "peak": 0.7537347078323364
+    },
+    "hi/15.1.2": {
+      "bytes": 317275,
+      "decoded_seconds": 19.76,
+      "rms_dbfs": -18.68,
+      "peak": 0.7195694446563721
+    },
+    "hi/15.2.1": {
+      "bytes": 155942,
+      "decoded_seconds": 9.68,
+      "rms_dbfs": -18.24,
+      "peak": 0.7353904843330383
+    },
+    "hi/15.2.2": {
+      "bytes": 241624,
+      "decoded_seconds": 15.039,
+      "rms_dbfs": -18.93,
+      "peak": 0.815553605556488
+    },
+    "hi/15.2.3": {
+      "bytes": 81546,
+      "decoded_seconds": 5.041,
+      "rms_dbfs": -18.64,
+      "peak": 0.7544398307800293
+    },
+    "hi/15.3.1": {
+      "bytes": 255835,
+      "decoded_seconds": 15.919,
+      "rms_dbfs": -19.22,
+      "peak": 0.6127119064331055
+    },
+    "hi/15.3.2": {
+      "bytes": 153435,
+      "decoded_seconds": 9.521,
+      "rms_dbfs": -19.91,
+      "peak": 0.6335989236831665
+    },
+    "hi/15.4.1": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -18.36,
+      "peak": 0.6701743602752686
+    },
+    "hi/15.4.2": {
+      "bytes": 303064,
+      "decoded_seconds": 18.88,
+      "rms_dbfs": -19.24,
+      "peak": 0.6834742426872253
+    },
+    "hi/16.1.1": {
+      "bytes": 123759,
+      "decoded_seconds": 7.68,
+      "rms_dbfs": -19.11,
+      "peak": 0.8569464683532715
+    },
+    "hi/16.1.2": {
+      "bytes": 178930,
+      "decoded_seconds": 11.119,
+      "rms_dbfs": -19.56,
+      "peak": 0.6664749383926392
+    },
+    "hi/16.1.3": {
+      "bytes": 209859,
+      "decoded_seconds": 13.041,
+      "rms_dbfs": -19.54,
+      "peak": 0.8038076758384705
+    },
+    "hi/16.2.1": {
+      "bytes": 153435,
+      "decoded_seconds": 9.52,
+      "rms_dbfs": -18.82,
+      "peak": 0.6507396697998047
+    },
+    "hi/16.2.2": {
+      "bytes": 271299,
+      "decoded_seconds": 16.879,
+      "rms_dbfs": -18.65,
+      "peak": 0.8198469877243042
+    },
+    "hi/16.3.1": {
+      "bytes": 158450,
+      "decoded_seconds": 9.841,
+      "rms_dbfs": -19.16,
+      "peak": 0.739090085029602
+    },
+    "hi/16.3.2": {
+      "bytes": 136716,
+      "decoded_seconds": 8.479,
+      "rms_dbfs": -18.45,
+      "peak": 0.5934777855873108
+    },
+    "hi/16.4.1": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -18.72,
+      "peak": 0.6911150217056274
+    },
+    "hi/16.4.2": {
+      "bytes": 195648,
+      "decoded_seconds": 12.161,
+      "rms_dbfs": -19.5,
+      "peak": 0.7615575194358826
+    },
+    "hi/17.1.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -17.81,
+      "peak": 0.7375164031982422
+    },
+    "hi/17.1.2": {
+      "bytes": 183946,
+      "decoded_seconds": 11.44,
+      "rms_dbfs": -18.12,
+      "peak": 0.8349542617797852
+    },
+    "hi/17.1.3": {
+      "bytes": 240370,
+      "decoded_seconds": 14.96,
+      "rms_dbfs": -17.35,
+      "peak": 0.8416292667388916
+    },
+    "hi/17.2.1": {
+      "bytes": 196902,
+      "decoded_seconds": 12.24,
+      "rms_dbfs": -18.43,
+      "peak": 0.8147116303443909
+    },
+    "hi/17.2.2": {
+      "bytes": 306826,
+      "decoded_seconds": 19.12,
+      "rms_dbfs": -18.37,
+      "peak": 0.8119252324104309
+    },
+    "hi/17.3.1": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -17.78,
+      "peak": 0.7269736528396606
+    },
+    "hi/17.3.2": {
+      "bytes": 221144,
+      "decoded_seconds": 13.76,
+      "rms_dbfs": -17.44,
+      "peak": 0.8223575353622437
+    },
+    "hi/17.4.1": {
+      "bytes": 112475,
+      "decoded_seconds": 6.96,
+      "rms_dbfs": -17.77,
+      "peak": 0.7873021960258484
+    },
+    "hi/17.4.2": {
+      "bytes": 287599,
+      "decoded_seconds": 17.92,
+      "rms_dbfs": -18.12,
+      "peak": 0.8533916473388672
+    },
+    "hi/18.1.1": {
+      "bytes": 46019,
+      "decoded_seconds": 2.799,
+      "rms_dbfs": -16.82,
+      "peak": 0.6744438409805298
+    },
+    "hi/18.1.2": {
+      "bytes": 122506,
+      "decoded_seconds": 7.601,
+      "rms_dbfs": -18.9,
+      "peak": 0.8022687435150146
+    },
+    "hi/18.1.3": {
+      "bytes": 236608,
+      "decoded_seconds": 14.72,
+      "rms_dbfs": -17.92,
+      "peak": 0.8121970891952515
+    },
+    "hi/18.1.4": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -18.79,
+      "peak": 0.7069754600524902
+    },
+    "hi/18.2.1": {
+      "bytes": 236608,
+      "decoded_seconds": 14.72,
+      "rms_dbfs": -18.93,
+      "peak": 0.6480652093887329
+    },
+    "hi/18.2.2": {
+      "bytes": 250819,
+      "decoded_seconds": 15.599,
+      "rms_dbfs": -18.93,
+      "peak": 0.7550522685050964
+    },
+    "hi/18.2.3": {
+      "bytes": 223652,
+      "decoded_seconds": 13.921,
+      "rms_dbfs": -16.35,
+      "peak": 0.8398804664611816
+    },
+    "hi/18.2.4": {
+      "bytes": 306826,
+      "decoded_seconds": 19.12,
+      "rms_dbfs": -18.69,
+      "peak": 0.7449197173118591
+    },
+    "hi/18.3.1": {
+      "bytes": 242878,
+      "decoded_seconds": 15.12,
+      "rms_dbfs": -18.72,
+      "peak": 0.7114419341087341
+    },
+    "hi/18.3.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.68,
+      "rms_dbfs": -18.53,
+      "peak": 0.8178021907806396
+    },
+    "hi/18.3.3": {
+      "bytes": 157196,
+      "decoded_seconds": 9.759,
+      "rms_dbfs": -18.42,
+      "peak": 0.684050440788269
+    },
+    "hi/18.4.1": {
+      "bytes": 351965,
+      "decoded_seconds": 21.921,
+      "rms_dbfs": -19.13,
+      "peak": 0.630599856376648
+    },
+    "hi/18.4.2": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -18.23,
+      "peak": 0.8045547604560852
+    },
+    "hi/18.4.3": {
+      "bytes": 111221,
+      "decoded_seconds": 6.88,
+      "rms_dbfs": -19.73,
+      "peak": 0.7229044437408447
+    },
+    "hi/18.4.4": {
+      "bytes": 173915,
+      "decoded_seconds": 10.8,
+      "rms_dbfs": -18.29,
+      "peak": 0.7122241854667664
+    },
+    "hi/opening.1": {
+      "bytes": 111221,
+      "decoded_seconds": 6.879,
+      "rms_dbfs": -14.86,
+      "peak": 0.85938560962677
+    },
+    "hi/opening.2": {
+      "bytes": 111221,
+      "decoded_seconds": 6.88,
+      "rms_dbfs": -15.05,
+      "peak": 0.8582661151885986
+    },
+    "hi/opening.3": {
+      "bytes": 121252,
+      "decoded_seconds": 7.52,
+      "rms_dbfs": -15.46,
+      "peak": 0.8277313113212585
+    },
+    "hi/opening.4": {
+      "bytes": 29301,
+      "decoded_seconds": 1.761,
+      "rms_dbfs": -14.79,
+      "peak": 0.842841386795044
+    },
+    "hi/opening.5": {
+      "bytes": 119998,
+      "decoded_seconds": 7.44,
+      "rms_dbfs": -15.34,
+      "peak": 0.8597284555435181
+    },
+    "ja/1.1.2": {
+      "bytes": 135462,
+      "decoded_seconds": 8.399,
+      "rms_dbfs": -19.01,
+      "peak": 0.70401930809021
+    },
+    "ja/1.1.3": {
+      "bytes": 77784,
+      "decoded_seconds": 4.801,
+      "rms_dbfs": -20.06,
+      "peak": 0.8128408193588257
+    },
+    "ja/1.1.4": {
+      "bytes": 207351,
+      "decoded_seconds": 12.88,
+      "rms_dbfs": -16.92,
+      "peak": 0.8389036059379578
+    },
+    "ja/1.2.1": {
+      "bytes": 81546,
+      "decoded_seconds": 5.04,
+      "rms_dbfs": -19.42,
+      "peak": 0.6606894135475159
+    },
+    "ja/1.2.2": {
+      "bytes": 114982,
+      "decoded_seconds": 7.12,
+      "rms_dbfs": -19.07,
+      "peak": 0.782742440700531
+    },
+    "ja/1.2.3": {
+      "bytes": 194395,
+      "decoded_seconds": 12.08,
+      "rms_dbfs": -19.02,
+      "peak": 0.8229140639305115
+    },
+    "ja/1.3.1": {
+      "bytes": 190633,
+      "decoded_seconds": 11.84,
+      "rms_dbfs": -18.67,
+      "peak": 0.797327995300293
+    },
+    "ja/1.3.2": {
+      "bytes": 163466,
+      "decoded_seconds": 10.159,
+      "rms_dbfs": -18.34,
+      "peak": 0.8300272226333618
+    },
+    "ja/1.3.3": {
+      "bytes": 186871,
+      "decoded_seconds": 11.6,
+      "rms_dbfs": -18.49,
+      "peak": 0.8582433462142944
+    },
+    "ja/1.3.4": {
+      "bytes": 97010,
+      "decoded_seconds": 6.0,
+      "rms_dbfs": -18.36,
+      "peak": 0.8143791556358337
+    },
+    "ja/1.4.1": {
+      "bytes": 129193,
+      "decoded_seconds": 8.001,
+      "rms_dbfs": -18.0,
+      "peak": 0.8936984539031982
+    },
+    "ja/1.4.2": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -18.54,
+      "peak": 0.7935663461685181
+    },
+    "ja/2.1.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -18.26,
+      "peak": 0.810977578163147
+    },
+    "ja/2.1.2": {
+      "bytes": 189379,
+      "decoded_seconds": 11.761,
+      "rms_dbfs": -19.41,
+      "peak": 0.8756210803985596
+    },
+    "ja/2.1.3": {
+      "bytes": 158450,
+      "decoded_seconds": 9.84,
+      "rms_dbfs": -20.16,
+      "peak": 0.7439247965812683
+    },
+    "ja/2.1.4": {
+      "bytes": 106205,
+      "decoded_seconds": 6.56,
+      "rms_dbfs": -18.05,
+      "peak": 0.7679712772369385
+    },
+    "ja/2.2.1": {
+      "bytes": 267119,
+      "decoded_seconds": 16.64,
+      "rms_dbfs": -18.74,
+      "peak": 0.8810151815414429
+    },
+    "ja/2.2.2": {
+      "bytes": 239116,
+      "decoded_seconds": 14.88,
+      "rms_dbfs": -18.56,
+      "peak": 0.8554128408432007
+    },
+    "ja/2.2.3": {
+      "bytes": 153435,
+      "decoded_seconds": 9.52,
+      "rms_dbfs": -18.77,
+      "peak": 0.8640397787094116
+    },
+    "ja/2.3.1": {
+      "bytes": 152181,
+      "decoded_seconds": 9.44,
+      "rms_dbfs": -18.62,
+      "peak": 0.912980854511261
+    },
+    "ja/2.3.2": {
+      "bytes": 217382,
+      "decoded_seconds": 13.52,
+      "rms_dbfs": -18.75,
+      "peak": 0.8472093343734741
+    },
+    "ja/2.3.3": {
+      "bytes": 176422,
+      "decoded_seconds": 10.959,
+      "rms_dbfs": -17.67,
+      "peak": 0.8742468357086182
+    },
+    "ja/2.4.1": {
+      "bytes": 126685,
+      "decoded_seconds": 7.84,
+      "rms_dbfs": -19.37,
+      "peak": 0.8379454016685486
+    },
+    "ja/2.4.2": {
+      "bytes": 217382,
+      "decoded_seconds": 13.52,
+      "rms_dbfs": -18.26,
+      "peak": 0.8831962943077087
+    },
+    "ja/2.4.3": {
+      "bytes": 227831,
+      "decoded_seconds": 14.161,
+      "rms_dbfs": -18.22,
+      "peak": 0.8513181209564209
+    },
+    "ja/2.4.4": {
+      "bytes": 252073,
+      "decoded_seconds": 15.679,
+      "rms_dbfs": -17.68,
+      "peak": 0.8808895945549011
+    },
+    "ja/3.1.1": {
+      "bytes": 201918,
+      "decoded_seconds": 12.56,
+      "rms_dbfs": -18.23,
+      "peak": 0.7695640325546265
+    },
+    "ja/3.1.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.679,
+      "rms_dbfs": -20.15,
+      "peak": 0.8674219846725464
+    },
+    "ja/3.1.3": {
+      "bytes": 271299,
+      "decoded_seconds": 16.88,
+      "rms_dbfs": -20.24,
+      "peak": 0.8403187990188599
+    },
+    "ja/3.2.1": {
+      "bytes": 290525,
+      "decoded_seconds": 18.08,
+      "rms_dbfs": -19.77,
+      "peak": 0.8632634878158569
+    },
+    "ja/3.2.2": {
+      "bytes": 185617,
+      "decoded_seconds": 11.5211,
+      "rms_dbfs": -20.02,
+      "peak": 0.8145684003829956
+    },
+    "ja/3.3.1": {
+      "bytes": 153435,
+      "decoded_seconds": 9.52,
+      "rms_dbfs": -20.04,
+      "peak": 0.8799879550933838
+    },
+    "ja/3.3.2": {
+      "bytes": 240370,
+      "decoded_seconds": 14.96,
+      "rms_dbfs": -19.63,
+      "peak": 0.8625968098640442
+    },
+    "ja/3.3.3": {
+      "bytes": 240370,
+      "decoded_seconds": 14.959,
+      "rms_dbfs": -19.13,
+      "peak": 0.8985506892204285
+    },
+    "ja/3.4.1": {
+      "bytes": 111221,
+      "decoded_seconds": 6.88,
+      "rms_dbfs": -18.75,
+      "peak": 0.8550868630409241
+    },
+    "ja/3.4.2": {
+      "bytes": 171407,
+      "decoded_seconds": 10.64,
+      "rms_dbfs": -20.04,
+      "peak": 0.8512030243873596
+    },
+    "ja/3.4.3": {
+      "bytes": 301810,
+      "decoded_seconds": 18.801,
+      "rms_dbfs": -19.13,
+      "peak": 0.8045657277107239
+    },
+    "ja/4.1.1": {
+      "bytes": 286346,
+      "decoded_seconds": 17.84,
+      "rms_dbfs": -18.79,
+      "peak": 0.9121572971343994
+    },
+    "ja/4.1.2": {
+      "bytes": 132955,
+      "decoded_seconds": 8.241,
+      "rms_dbfs": -20.4,
+      "peak": 0.7276439666748047
+    },
+    "ja/4.1.3": {
+      "bytes": 455619,
+      "decoded_seconds": 28.399,
+      "rms_dbfs": -19.34,
+      "peak": 0.9142451286315918
+    },
+    "ja/4.2.1": {
+      "bytes": 303064,
+      "decoded_seconds": 18.881,
+      "rms_dbfs": -19.82,
+      "peak": 0.9013397693634033
+    },
+    "ja/4.2.2": {
+      "bytes": 258342,
+      "decoded_seconds": 16.08,
+      "rms_dbfs": -18.91,
+      "peak": 0.8419474363327026
+    },
+    "ja/4.3.1": {
+      "bytes": 305572,
+      "decoded_seconds": 19.04,
+      "rms_dbfs": -19.12,
+      "peak": 0.8687663078308105
+    },
+    "ja/4.3.2": {
+      "bytes": 218636,
+      "decoded_seconds": 13.6,
+      "rms_dbfs": -19.93,
+      "peak": 0.8371531367301941
+    },
+    "ja/4.4.1": {
+      "bytes": 198156,
+      "decoded_seconds": 12.32,
+      "rms_dbfs": -19.6,
+      "peak": 0.8449615240097046
+    },
+    "ja/4.4.2": {
+      "bytes": 304318,
+      "decoded_seconds": 18.959,
+      "rms_dbfs": -20.12,
+      "peak": 0.8634912967681885
+    },
+    "ja/5.1.1": {
+      "bytes": 109967,
+      "decoded_seconds": 6.799,
+      "rms_dbfs": -18.35,
+      "peak": 0.7460900545120239
+    },
+    "ja/5.1.2": {
+      "bytes": 289271,
+      "decoded_seconds": 18.001,
+      "rms_dbfs": -18.65,
+      "peak": 0.8669567108154297
+    },
+    "ja/5.1.3": {
+      "bytes": 203172,
+      "decoded_seconds": 12.639,
+      "rms_dbfs": -19.2,
+      "peak": 0.9035645723342896
+    },
+    "ja/5.2.1": {
+      "bytes": 278822,
+      "decoded_seconds": 17.361,
+      "rms_dbfs": -20.02,
+      "peak": 0.8516234159469604
+    },
+    "ja/5.2.2": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -20.02,
+      "peak": 0.8451781272888184
+    },
+    "ja/5.3.1": {
+      "bytes": 164719,
+      "decoded_seconds": 10.239,
+      "rms_dbfs": -18.98,
+      "peak": 0.881219744682312
+    },
+    "ja/5.3.2": {
+      "bytes": 259596,
+      "decoded_seconds": 16.161,
+      "rms_dbfs": -19.49,
+      "peak": 0.8831679821014404
+    },
+    "ja/5.4.1": {
+      "bytes": 185199,
+      "decoded_seconds": 11.52,
+      "rms_dbfs": -18.16,
+      "peak": 0.8344817757606506
+    },
+    "ja/5.4.2": {
+      "bytes": 244132,
+      "decoded_seconds": 15.2,
+      "rms_dbfs": -20.35,
+      "peak": 0.8948178291320801
+    },
+    "ja/6.1.1": {
+      "bytes": 126685,
+      "decoded_seconds": 7.84,
+      "rms_dbfs": -18.94,
+      "peak": 0.7923336029052734
+    },
+    "ja/6.1.2": {
+      "bytes": 295541,
+      "decoded_seconds": 18.399,
+      "rms_dbfs": -20.1,
+      "peak": 0.8153865337371826
+    },
+    "ja/6.2.1": {
+      "bytes": 162212,
+      "decoded_seconds": 10.08,
+      "rms_dbfs": -21.24,
+      "peak": 0.8713240623474121
+    },
+    "ja/6.2.2": {
+      "bytes": 278822,
+      "decoded_seconds": 17.361,
+      "rms_dbfs": -20.89,
+      "peak": 0.8451958298683167
+    },
+    "ja/6.2.3": {
+      "bytes": 173915,
+      "decoded_seconds": 10.8,
+      "rms_dbfs": -19.47,
+      "peak": 0.6863515377044678
+    },
+    "ja/6.3.1": {
+      "bytes": 260850,
+      "decoded_seconds": 16.239,
+      "rms_dbfs": -19.11,
+      "peak": 0.7853918671607971
+    },
+    "ja/6.3.2": {
+      "bytes": 155942,
+      "decoded_seconds": 9.681,
+      "rms_dbfs": -19.86,
+      "peak": 0.7819684743881226
+    },
+    "ja/6.3.3": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -20.1,
+      "peak": 0.7478649616241455
+    },
+    "ja/6.4.1": {
+      "bytes": 183946,
+      "decoded_seconds": 11.439,
+      "rms_dbfs": -19.36,
+      "peak": 0.7235074639320374
+    },
+    "ja/6.4.2": {
+      "bytes": 217382,
+      "decoded_seconds": 13.521,
+      "rms_dbfs": -19.52,
+      "peak": 0.8433908224105835
+    },
+    "ja/6.4.3": {
+      "bytes": 263358,
+      "decoded_seconds": 16.4,
+      "rms_dbfs": -19.9,
+      "peak": 0.7523173689842224
+    },
+    "ja/7.1.1": {
+      "bytes": 205679,
+      "decoded_seconds": 12.8,
+      "rms_dbfs": -18.92,
+      "peak": 0.8377243280410767
+    },
+    "ja/7.1.2": {
+      "bytes": 353219,
+      "decoded_seconds": 22.0,
+      "rms_dbfs": -20.97,
+      "peak": 0.8711887001991272
+    },
+    "ja/7.1.3": {
+      "bytes": 103279,
+      "decoded_seconds": 6.4,
+      "rms_dbfs": -18.87,
+      "peak": 0.8754537105560303
+    },
+    "ja/7.2.1": {
+      "bytes": 223652,
+      "decoded_seconds": 13.92,
+      "rms_dbfs": -19.92,
+      "peak": 0.8820896148681641
+    },
+    "ja/7.2.2": {
+      "bytes": 252073,
+      "decoded_seconds": 15.679,
+      "rms_dbfs": -19.75,
+      "peak": 0.8731037378311157
+    },
+    "ja/7.3.1": {
+      "bytes": 285092,
+      "decoded_seconds": 17.761,
+      "rms_dbfs": -18.97,
+      "peak": 0.8915445804595947
+    },
+    "ja/7.3.2": {
+      "bytes": 305572,
+      "decoded_seconds": 19.04,
+      "rms_dbfs": -19.08,
+      "peak": 0.8587191700935364
+    },
+    "ja/7.4.1": {
+      "bytes": 170153,
+      "decoded_seconds": 10.56,
+      "rms_dbfs": -19.35,
+      "peak": 0.7729436159133911
+    },
+    "ja/7.4.2": {
+      "bytes": 299302,
+      "decoded_seconds": 18.64,
+      "rms_dbfs": -18.59,
+      "peak": 0.8209649324417114
+    },
+    "ja/8.1.1": {
+      "bytes": 267119,
+      "decoded_seconds": 16.639,
+      "rms_dbfs": -19.99,
+      "peak": 0.7360367178916931
+    },
+    "ja/8.1.2": {
+      "bytes": 298048,
+      "decoded_seconds": 18.561,
+      "rms_dbfs": -19.2,
+      "peak": 0.8807544708251953
+    },
+    "ja/8.1.3": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -21.11,
+      "peak": 0.790425181388855
+    },
+    "ja/8.2.1": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -19.35,
+      "peak": 0.8517184257507324
+    },
+    "ja/8.2.2": {
+      "bytes": 221144,
+      "decoded_seconds": 13.76,
+      "rms_dbfs": -19.86,
+      "peak": 0.773086428642273
+    },
+    "ja/8.3.1": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -18.26,
+      "peak": 0.8628255128860474
+    },
+    "ja/8.3.2": {
+      "bytes": 324798,
+      "decoded_seconds": 20.24,
+      "rms_dbfs": -18.55,
+      "peak": 0.8622242212295532
+    },
+    "ja/8.4.1": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -17.91,
+      "peak": 0.8570961952209473
+    },
+    "ja/8.4.2": {
+      "bytes": 232847,
+      "decoded_seconds": 14.48,
+      "rms_dbfs": -18.55,
+      "peak": 0.8496384024620056
+    },
+    "ja/9.1.1": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -18.2,
+      "peak": 0.8810058236122131
+    },
+    "ja/9.1.2": {
+      "bytes": 313513,
+      "decoded_seconds": 19.52,
+      "rms_dbfs": -17.73,
+      "peak": 0.9035124778747559
+    },
+    "ja/9.2.1": {
+      "bytes": 221144,
+      "decoded_seconds": 13.759,
+      "rms_dbfs": -17.82,
+      "peak": 0.8561661243438721
+    },
+    "ja/9.2.2": {
+      "bytes": 280076,
+      "decoded_seconds": 17.441,
+      "rms_dbfs": -18.01,
+      "peak": 0.8844690322875977
+    },
+    "ja/9.3.1": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -19.91,
+      "peak": 0.8613631725311279
+    },
+    "ja/9.3.2": {
+      "bytes": 267119,
+      "decoded_seconds": 16.64,
+      "rms_dbfs": -18.43,
+      "peak": 0.8766900897026062
+    },
+    "ja/9.3.3": {
+      "bytes": 188125,
+      "decoded_seconds": 11.68,
+      "rms_dbfs": -18.62,
+      "peak": 0.8872165679931641
+    },
+    "ja/9.4.1": {
+      "bytes": 186871,
+      "decoded_seconds": 11.5994,
+      "rms_dbfs": -17.28,
+      "peak": 0.8479024171829224
+    },
+    "ja/9.4.2": {
+      "bytes": 185617,
+      "decoded_seconds": 11.5211,
+      "rms_dbfs": -17.96,
+      "peak": 0.8058484792709351
+    },
+    "ja/9.4.3": {
+      "bytes": 223652,
+      "decoded_seconds": 13.92,
+      "rms_dbfs": -18.36,
+      "peak": 0.8813387751579285
+    },
+    "ja/10.1.1": {
+      "bytes": 186871,
+      "decoded_seconds": 11.5994,
+      "rms_dbfs": -19.66,
+      "peak": 0.8871587514877319
+    },
+    "ja/10.1.2": {
+      "bytes": 341516,
+      "decoded_seconds": 21.281,
+      "rms_dbfs": -19.72,
+      "peak": 0.8716855049133301
+    },
+    "ja/10.2.1": {
+      "bytes": 248311,
+      "decoded_seconds": 15.4394,
+      "rms_dbfs": -19.75,
+      "peak": 0.8385570645332336
+    },
+    "ja/10.2.2": {
+      "bytes": 342770,
+      "decoded_seconds": 21.36,
+      "rms_dbfs": -20.42,
+      "peak": 0.8925283551216125
+    },
+    "ja/10.3.1": {
+      "bytes": 212367,
+      "decoded_seconds": 13.201,
+      "rms_dbfs": -18.9,
+      "peak": 0.8726477026939392
+    },
+    "ja/10.3.2": {
+      "bytes": 241624,
+      "decoded_seconds": 15.04,
+      "rms_dbfs": -19.44,
+      "peak": 0.8426303863525391
+    },
+    "ja/10.4.1": {
+      "bytes": 200664,
+      "decoded_seconds": 12.48,
+      "rms_dbfs": -20.36,
+      "peak": 0.7593209147453308
+    },
+    "ja/10.4.2": {
+      "bytes": 163466,
+      "decoded_seconds": 10.159,
+      "rms_dbfs": -20.58,
+      "peak": 0.8708425760269165
+    },
+    "ja/10.4.3": {
+      "bytes": 137970,
+      "decoded_seconds": 8.561,
+      "rms_dbfs": -21.31,
+      "peak": 0.7440914511680603
+    },
+    "ja/11.1.1": {
+      "bytes": 265866,
+      "decoded_seconds": 16.56,
+      "rms_dbfs": -18.18,
+      "peak": 0.8109455704689026
+    },
+    "ja/11.1.2": {
+      "bytes": 185617,
+      "decoded_seconds": 11.5211,
+      "rms_dbfs": -20.04,
+      "peak": 0.8355532288551331
+    },
+    "ja/11.1.3": {
+      "bytes": 116236,
+      "decoded_seconds": 7.2,
+      "rms_dbfs": -19.38,
+      "peak": 0.7916545867919922
+    },
+    "ja/11.1.4": {
+      "bytes": 191887,
+      "decoded_seconds": 11.919,
+      "rms_dbfs": -19.0,
+      "peak": 0.76714688539505
+    },
+    "ja/11.2.1": {
+      "bytes": 222398,
+      "decoded_seconds": 13.841,
+      "rms_dbfs": -19.12,
+      "peak": 0.7913388609886169
+    },
+    "ja/11.2.2": {
+      "bytes": 245386,
+      "decoded_seconds": 15.28,
+      "rms_dbfs": -18.66,
+      "peak": 0.8504524230957031
+    },
+    "ja/11.2.3": {
+      "bytes": 123759,
+      "decoded_seconds": 7.679,
+      "rms_dbfs": -19.14,
+      "peak": 0.747532069683075
+    },
+    "ja/11.3.1": {
+      "bytes": 170153,
+      "decoded_seconds": 10.561,
+      "rms_dbfs": -20.35,
+      "peak": 0.8035093545913696
+    },
+    "ja/11.3.2": {
+      "bytes": 198156,
+      "decoded_seconds": 12.32,
+      "rms_dbfs": -20.08,
+      "peak": 0.8540194630622864
+    },
+    "ja/11.4.1": {
+      "bytes": 201918,
+      "decoded_seconds": 12.56,
+      "rms_dbfs": -18.96,
+      "peak": 0.8693227767944336
+    },
+    "ja/11.4.2": {
+      "bytes": 239116,
+      "decoded_seconds": 14.88,
+      "rms_dbfs": -19.21,
+      "peak": 0.8276615738868713
+    },
+    "ja/11.4.3": {
+      "bytes": 119998,
+      "decoded_seconds": 7.439,
+      "rms_dbfs": -17.79,
+      "peak": 0.8506907224655151
+    },
+    "ja/11.4.4": {
+      "bytes": 69007,
+      "decoded_seconds": 4.24,
+      "rms_dbfs": -18.93,
+      "peak": 0.8389003276824951
+    },
+    "ja/11.4.5": {
+      "bytes": 455619,
+      "decoded_seconds": 28.4,
+      "rms_dbfs": -19.42,
+      "peak": 0.8788434267044067
+    },
+    "ja/12.1.1": {
+      "bytes": 195648,
+      "decoded_seconds": 12.16,
+      "rms_dbfs": -17.92,
+      "peak": 0.7284372448921204
+    },
+    "ja/12.1.2": {
+      "bytes": 316021,
+      "decoded_seconds": 19.68,
+      "rms_dbfs": -19.0,
+      "peak": 0.8853550553321838
+    },
+    "ja/12.1.3": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -18.83,
+      "peak": 0.8713061809539795
+    },
+    "ja/12.2.1": {
+      "bytes": 130447,
+      "decoded_seconds": 8.08,
+      "rms_dbfs": -18.04,
+      "peak": 0.8177047371864319
+    },
+    "ja/12.2.2": {
+      "bytes": 229085,
+      "decoded_seconds": 14.24,
+      "rms_dbfs": -18.81,
+      "peak": 0.8006926774978638
+    },
+    "ja/12.2.3": {
+      "bytes": 57304,
+      "decoded_seconds": 3.52,
+      "rms_dbfs": -19.34,
+      "peak": 0.7700793147087097
+    },
+    "ja/12.3.1": {
+      "bytes": 180184,
+      "decoded_seconds": 11.2,
+      "rms_dbfs": -18.33,
+      "peak": 0.8677128553390503
+    },
+    "ja/12.3.2": {
+      "bytes": 198156,
+      "decoded_seconds": 12.32,
+      "rms_dbfs": -18.63,
+      "peak": 0.8752611875534058
+    },
+    "ja/12.4.1": {
+      "bytes": 241624,
+      "decoded_seconds": 15.04,
+      "rms_dbfs": -18.37,
+      "peak": 0.8813787698745728
+    },
+    "ja/12.4.2": {
+      "bytes": 137970,
+      "decoded_seconds": 8.56,
+      "rms_dbfs": -17.79,
+      "peak": 0.7806429266929626
+    },
+    "ja/13.1.1": {
+      "bytes": 167645,
+      "decoded_seconds": 10.399,
+      "rms_dbfs": -19.16,
+      "peak": 0.7506260871887207
+    },
+    "ja/13.1.2": {
+      "bytes": 232847,
+      "decoded_seconds": 14.481,
+      "rms_dbfs": -20.33,
+      "peak": 0.8384543061256409
+    },
+    "ja/13.1.3": {
+      "bytes": 270045,
+      "decoded_seconds": 16.799,
+      "rms_dbfs": -21.19,
+      "peak": 0.8262344002723694
+    },
+    "ja/13.2.1": {
+      "bytes": 237862,
+      "decoded_seconds": 14.801,
+      "rms_dbfs": -20.95,
+      "peak": 0.866564154624939
+    },
+    "ja/13.2.2": {
+      "bytes": 303064,
+      "decoded_seconds": 18.88,
+      "rms_dbfs": -19.91,
+      "peak": 0.8187136054039001
+    },
+    "ja/13.3.1": {
+      "bytes": 242878,
+      "decoded_seconds": 15.12,
+      "rms_dbfs": -18.67,
+      "peak": 0.8988913893699646
+    },
+    "ja/13.3.2": {
+      "bytes": 295541,
+      "decoded_seconds": 18.399,
+      "rms_dbfs": -19.48,
+      "peak": 0.8705964684486389
+    },
+    "ja/13.4.1": {
+      "bytes": 236608,
+      "decoded_seconds": 14.721,
+      "rms_dbfs": -18.39,
+      "peak": 0.8909451961517334
+    },
+    "ja/13.4.2": {
+      "bytes": 222398,
+      "decoded_seconds": 13.84,
+      "rms_dbfs": -18.75,
+      "peak": 0.8238697052001953
+    },
+    "ja/13.4.3": {
+      "bytes": 226159,
+      "decoded_seconds": 14.08,
+      "rms_dbfs": -18.53,
+      "peak": 0.8705860376358032
+    },
+    "ja/14.1.1": {
+      "bytes": 211113,
+      "decoded_seconds": 13.119,
+      "rms_dbfs": -18.49,
+      "peak": 0.9189068675041199
+    },
+    "ja/14.1.2": {
+      "bytes": 372445,
+      "decoded_seconds": 23.2,
+      "rms_dbfs": -19.7,
+      "peak": 0.8335871696472168
+    },
+    "ja/14.2.1": {
+      "bytes": 280076,
+      "decoded_seconds": 17.44,
+      "rms_dbfs": -18.59,
+      "peak": 0.8838194608688354
+    },
+    "ja/14.2.2": {
+      "bytes": 235355,
+      "decoded_seconds": 14.64,
+      "rms_dbfs": -17.92,
+      "peak": 0.9119429588317871
+    },
+    "ja/14.3.1": {
+      "bytes": 121252,
+      "decoded_seconds": 7.52,
+      "rms_dbfs": -19.33,
+      "peak": 0.7660865783691406
+    },
+    "ja/14.3.2": {
+      "bytes": 229085,
+      "decoded_seconds": 14.24,
+      "rms_dbfs": -19.43,
+      "peak": 0.871563196182251
+    },
+    "ja/14.3.3": {
+      "bytes": 260850,
+      "decoded_seconds": 16.241,
+      "rms_dbfs": -19.21,
+      "peak": 0.8515375852584839
+    },
+    "ja/14.4.1": {
+      "bytes": 155942,
+      "decoded_seconds": 9.68,
+      "rms_dbfs": -19.61,
+      "peak": 0.7882831692695618
+    },
+    "ja/14.4.2": {
+      "bytes": 200664,
+      "decoded_seconds": 12.48,
+      "rms_dbfs": -19.33,
+      "peak": 0.8754463195800781
+    },
+    "ja/15.1.1": {
+      "bytes": 321036,
+      "decoded_seconds": 20.0,
+      "rms_dbfs": -18.46,
+      "peak": 0.8858222961425781
+    },
+    "ja/15.1.2": {
+      "bytes": 405464,
+      "decoded_seconds": 25.28,
+      "rms_dbfs": -19.44,
+      "peak": 0.8609254360198975
+    },
+    "ja/15.2.1": {
+      "bytes": 152181,
+      "decoded_seconds": 9.44,
+      "rms_dbfs": -18.95,
+      "peak": 0.88298100233078
+    },
+    "ja/15.2.2": {
+      "bytes": 295541,
+      "decoded_seconds": 18.4,
+      "rms_dbfs": -20.33,
+      "peak": 0.8203263282775879
+    },
+    "ja/15.2.3": {
+      "bytes": 114982,
+      "decoded_seconds": 7.119,
+      "rms_dbfs": -18.43,
+      "peak": 0.8201055526733398
+    },
+    "ja/15.3.1": {
+      "bytes": 259596,
+      "decoded_seconds": 16.161,
+      "rms_dbfs": -20.47,
+      "peak": 0.8547741174697876
+    },
+    "ja/15.3.2": {
+      "bytes": 281330,
+      "decoded_seconds": 17.52,
+      "rms_dbfs": -20.52,
+      "peak": 0.8940070867538452
+    },
+    "ja/15.4.1": {
+      "bytes": 181438,
+      "decoded_seconds": 11.28,
+      "rms_dbfs": -19.21,
+      "peak": 0.8762279152870178
+    },
+    "ja/15.4.2": {
+      "bytes": 276315,
+      "decoded_seconds": 17.2,
+      "rms_dbfs": -18.4,
+      "peak": 0.8570436835289001
+    },
+    "ja/16.1.1": {
+      "bytes": 218636,
+      "decoded_seconds": 13.6,
+      "rms_dbfs": -19.7,
+      "peak": 0.8295814394950867
+    },
+    "ja/16.1.2": {
+      "bytes": 227831,
+      "decoded_seconds": 14.16,
+      "rms_dbfs": -21.62,
+      "peak": 0.8426237106323242
+    },
+    "ja/16.1.3": {
+      "bytes": 326052,
+      "decoded_seconds": 20.319,
+      "rms_dbfs": -21.04,
+      "peak": 0.8608260154724121
+    },
+    "ja/16.2.1": {
+      "bytes": 147165,
+      "decoded_seconds": 9.121,
+      "rms_dbfs": -19.64,
+      "peak": 0.8353925943374634
+    },
+    "ja/16.2.2": {
+      "bytes": 327306,
+      "decoded_seconds": 20.4,
+      "rms_dbfs": -20.46,
+      "peak": 0.8323345184326172
+    },
+    "ja/16.3.1": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -21.32,
+      "peak": 0.7384394407272339
+    },
+    "ja/16.3.2": {
+      "bytes": 164719,
+      "decoded_seconds": 10.24,
+      "rms_dbfs": -19.42,
+      "peak": 0.8311673998832703
+    },
+    "ja/16.4.1": {
+      "bytes": 172661,
+      "decoded_seconds": 10.719,
+      "rms_dbfs": -18.39,
+      "peak": 0.8483881950378418
+    },
+    "ja/16.4.2": {
+      "bytes": 154688,
+      "decoded_seconds": 9.601,
+      "rms_dbfs": -19.41,
+      "peak": 0.8770651817321777
+    },
+    "ja/17.1.1": {
+      "bytes": 157196,
+      "decoded_seconds": 9.76,
+      "rms_dbfs": -18.26,
+      "peak": 0.6619162559509277
+    },
+    "ja/17.1.2": {
+      "bytes": 248311,
+      "decoded_seconds": 15.44,
+      "rms_dbfs": -20.76,
+      "peak": 0.8936997652053833
+    },
+    "ja/17.1.3": {
+      "bytes": 281330,
+      "decoded_seconds": 17.52,
+      "rms_dbfs": -19.57,
+      "peak": 0.8796184659004211
+    },
+    "ja/17.2.1": {
+      "bytes": 252073,
+      "decoded_seconds": 15.679,
+      "rms_dbfs": -19.01,
+      "peak": 0.8926058411598206
+    },
+    "ja/17.2.2": {
+      "bytes": 399195,
+      "decoded_seconds": 24.881,
+      "rms_dbfs": -20.31,
+      "peak": 0.8915156722068787
+    },
+    "ja/17.3.1": {
+      "bytes": 204426,
+      "decoded_seconds": 12.719,
+      "rms_dbfs": -19.53,
+      "peak": 0.8844298124313354
+    },
+    "ja/17.3.2": {
+      "bytes": 236608,
+      "decoded_seconds": 14.721,
+      "rms_dbfs": -19.15,
+      "peak": 0.8926576375961304
+    },
+    "ja/17.4.1": {
+      "bytes": 219890,
+      "decoded_seconds": 13.68,
+      "rms_dbfs": -20.78,
+      "peak": 0.8786065578460693
+    },
+    "ja/17.4.2": {
+      "bytes": 322290,
+      "decoded_seconds": 20.08,
+      "rms_dbfs": -19.67,
+      "peak": 0.8317118287086487
+    },
+    "ja/18.1.1": {
+      "bytes": 70261,
+      "decoded_seconds": 4.319,
+      "rms_dbfs": -17.8,
+      "peak": 0.8852246999740601
+    },
+    "ja/18.1.2": {
+      "bytes": 189379,
+      "decoded_seconds": 11.761,
+      "rms_dbfs": -18.82,
+      "peak": 0.8588067293167114
+    },
+    "ja/18.1.3": {
+      "bytes": 291779,
+      "decoded_seconds": 18.16,
+      "rms_dbfs": -19.69,
+      "peak": 0.884354829788208
+    },
+    "ja/18.1.4": {
+      "bytes": 326052,
+      "decoded_seconds": 20.32,
+      "rms_dbfs": -19.84,
+      "peak": 0.8658596277236938
+    },
+    "ja/18.2.1": {
+      "bytes": 270045,
+      "decoded_seconds": 16.8,
+      "rms_dbfs": -18.93,
+      "peak": 0.8702539205551147
+    },
+    "ja/18.2.2": {
+      "bytes": 326052,
+      "decoded_seconds": 20.32,
+      "rms_dbfs": -19.36,
+      "peak": 0.8410379886627197
+    },
+    "ja/18.2.3": {
+      "bytes": 191887,
+      "decoded_seconds": 11.921,
+      "rms_dbfs": -18.87,
+      "peak": 0.8171476721763611
+    },
+    "ja/18.2.4": {
+      "bytes": 351965,
+      "decoded_seconds": 21.92,
+      "rms_dbfs": -18.31,
+      "peak": 0.8270038366317749
+    },
+    "ja/18.3.1": {
+      "bytes": 277568,
+      "decoded_seconds": 17.28,
+      "rms_dbfs": -18.77,
+      "peak": 0.8759593963623047
+    },
+    "ja/18.3.2": {
+      "bytes": 280076,
+      "decoded_seconds": 17.44,
+      "rms_dbfs": -19.32,
+      "peak": 0.8386703133583069
+    },
+    "ja/18.3.3": {
+      "bytes": 172661,
+      "decoded_seconds": 10.72,
+      "rms_dbfs": -19.37,
+      "peak": 0.8188861608505249
+    },
+    "ja/18.4.1": {
+      "bytes": 395433,
+      "decoded_seconds": 24.64,
+      "rms_dbfs": -19.4,
+      "peak": 0.8475728034973145
+    },
+    "ja/18.4.2": {
+      "bytes": 200664,
+      "decoded_seconds": 12.48,
+      "rms_dbfs": -19.81,
+      "peak": 0.8492633700370789
+    },
+    "ja/18.4.3": {
+      "bytes": 112475,
+      "decoded_seconds": 6.959,
+      "rms_dbfs": -22.17,
+      "peak": 0.6242262125015259
+    },
+    "ja/18.4.4": {
+      "bytes": 299302,
+      "decoded_seconds": 18.64,
+      "rms_dbfs": -19.67,
+      "peak": 0.7971187829971313
+    },
+    "ja/opening.1": {
+      "bytes": 113728,
+      "decoded_seconds": 7.039,
+      "rms_dbfs": -16.93,
+      "peak": 0.7690580487251282
+    },
+    "ja/opening.2": {
+      "bytes": 100772,
+      "decoded_seconds": 6.241,
+      "rms_dbfs": -17.77,
+      "peak": 0.6919734477996826
+    },
+    "ja/opening.3": {
+      "bytes": 111221,
+      "decoded_seconds": 6.88,
+      "rms_dbfs": -17.6,
+      "peak": 0.7551287412643433
+    },
+    "ja/opening.4": {
+      "bytes": 34316,
+      "decoded_seconds": 2.08,
+      "rms_dbfs": -17.08,
+      "peak": 0.6339401602745056
+    },
+    "ja/opening.5": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -17.22,
+      "peak": 0.7645437717437744
+    },
+    "zh-Hans/1.1.2": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -22.99,
+      "peak": 0.8331006765365601
+    },
+    "zh-Hans/1.1.3": {
+      "bytes": 75276,
+      "decoded_seconds": 4.639,
+      "rms_dbfs": -18.73,
+      "peak": 0.8458293080329895
+    },
+    "zh-Hans/1.1.4": {
+      "bytes": 245386,
+      "decoded_seconds": 15.281,
+      "rms_dbfs": -18.11,
+      "peak": 0.8686975240707397
+    },
+    "zh-Hans/1.2.1": {
+      "bytes": 62319,
+      "decoded_seconds": 3.84,
+      "rms_dbfs": -20.53,
+      "peak": 0.7160669565200806
+    },
+    "zh-Hans/1.2.2": {
+      "bytes": 125431,
+      "decoded_seconds": 7.76,
+      "rms_dbfs": -22.13,
+      "peak": 0.7979669570922852
+    },
+    "zh-Hans/1.2.3": {
+      "bytes": 189379,
+      "decoded_seconds": 11.76,
+      "rms_dbfs": -22.24,
+      "peak": 0.8217551112174988
+    },
+    "zh-Hans/1.3.1": {
+      "bytes": 205679,
+      "decoded_seconds": 12.799,
+      "rms_dbfs": -22.49,
+      "peak": 0.8723768591880798
+    },
+    "zh-Hans/1.3.2": {
+      "bytes": 140478,
+      "decoded_seconds": 8.721,
+      "rms_dbfs": -22.78,
+      "peak": 0.75957852602005
+    },
+    "zh-Hans/1.3.3": {
+      "bytes": 172661,
+      "decoded_seconds": 10.719,
+      "rms_dbfs": -22.6,
+      "peak": 0.8120023012161255
+    },
+    "zh-Hans/1.3.4": {
+      "bytes": 99518,
+      "decoded_seconds": 6.161,
+      "rms_dbfs": -20.15,
+      "peak": 0.888413667678833
+    },
+    "zh-Hans/1.4.1": {
+      "bytes": 160958,
+      "decoded_seconds": 10.0,
+      "rms_dbfs": -21.31,
+      "peak": 0.81303870677948
+    },
+    "zh-Hans/1.4.2": {
+      "bytes": 123759,
+      "decoded_seconds": 7.68,
+      "rms_dbfs": -20.99,
+      "peak": 0.884447455406189
+    },
+    "zh-Hans/2.1.1": {
+      "bytes": 144239,
+      "decoded_seconds": 8.96,
+      "rms_dbfs": -19.1,
+      "peak": 0.8503104448318481
+    },
+    "zh-Hans/2.1.2": {
+      "bytes": 188125,
+      "decoded_seconds": 11.68,
+      "rms_dbfs": -21.67,
+      "peak": 0.8491634130477905
+    },
+    "zh-Hans/2.1.3": {
+      "bytes": 185199,
+      "decoded_seconds": 11.519,
+      "rms_dbfs": -22.25,
+      "peak": 0.7461398839950562
+    },
+    "zh-Hans/2.1.4": {
+      "bytes": 109967,
+      "decoded_seconds": 6.801,
+      "rms_dbfs": -21.12,
+      "peak": 0.7799787521362305
+    },
+    "zh-Hans/2.2.1": {
+      "bytes": 255835,
+      "decoded_seconds": 15.92,
+      "rms_dbfs": -18.2,
+      "peak": 0.8182677030563354
+    },
+    "zh-Hans/2.2.2": {
+      "bytes": 248311,
+      "decoded_seconds": 15.44,
+      "rms_dbfs": -17.68,
+      "peak": 0.8425149321556091
+    },
+    "zh-Hans/2.2.3": {
+      "bytes": 152181,
+      "decoded_seconds": 9.44,
+      "rms_dbfs": -17.51,
+      "peak": 0.8761223554611206
+    },
+    "zh-Hans/2.3.1": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -17.52,
+      "peak": 0.8521523475646973
+    },
+    "zh-Hans/2.3.2": {
+      "bytes": 157196,
+      "decoded_seconds": 9.76,
+      "rms_dbfs": -17.09,
+      "peak": 0.8340243101119995
+    },
+    "zh-Hans/2.3.3": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -17.41,
+      "peak": 0.816627025604248
+    },
+    "zh-Hans/2.4.1": {
+      "bytes": 97010,
+      "decoded_seconds": 6.0,
+      "rms_dbfs": -19.85,
+      "peak": 0.772986650466919
+    },
+    "zh-Hans/2.4.2": {
+      "bytes": 226577,
+      "decoded_seconds": 14.0811,
+      "rms_dbfs": -19.56,
+      "peak": 0.8472238779067993
+    },
+    "zh-Hans/2.4.3": {
+      "bytes": 248311,
+      "decoded_seconds": 15.44,
+      "rms_dbfs": -18.08,
+      "peak": 0.7598690986633301
+    },
+    "zh-Hans/2.4.4": {
+      "bytes": 305572,
+      "decoded_seconds": 19.039,
+      "rms_dbfs": -17.59,
+      "peak": 0.8331726789474487
+    },
+    "zh-Hans/3.1.1": {
+      "bytes": 226159,
+      "decoded_seconds": 14.079,
+      "rms_dbfs": -21.55,
+      "peak": 0.7213018536567688
+    },
+    "zh-Hans/3.1.2": {
+      "bytes": 142986,
+      "decoded_seconds": 8.881,
+      "rms_dbfs": -17.53,
+      "peak": 0.8255435228347778
+    },
+    "zh-Hans/3.1.3": {
+      "bytes": 252073,
+      "decoded_seconds": 15.68,
+      "rms_dbfs": -17.68,
+      "peak": 0.8364181518554688
+    },
+    "zh-Hans/3.2.1": {
+      "bytes": 252073,
+      "decoded_seconds": 15.68,
+      "rms_dbfs": -17.04,
+      "peak": 0.7910724878311157
+    },
+    "zh-Hans/3.2.2": {
+      "bytes": 188125,
+      "decoded_seconds": 11.68,
+      "rms_dbfs": -17.75,
+      "peak": 0.8257045149803162
+    },
+    "zh-Hans/3.3.1": {
+      "bytes": 130447,
+      "decoded_seconds": 8.08,
+      "rms_dbfs": -18.18,
+      "peak": 0.8831952214241028
+    },
+    "zh-Hans/3.3.2": {
+      "bytes": 204426,
+      "decoded_seconds": 12.719,
+      "rms_dbfs": -18.02,
+      "peak": 0.857946515083313
+    },
+    "zh-Hans/3.3.3": {
+      "bytes": 226577,
+      "decoded_seconds": 14.0811,
+      "rms_dbfs": -17.64,
+      "peak": 0.8583920001983643
+    },
+    "zh-Hans/3.4.1": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -20.46,
+      "peak": 0.7375384569168091
+    },
+    "zh-Hans/3.4.2": {
+      "bytes": 155942,
+      "decoded_seconds": 9.681,
+      "rms_dbfs": -19.18,
+      "peak": 0.8543316125869751
+    },
+    "zh-Hans/3.4.3": {
+      "bytes": 282584,
+      "decoded_seconds": 17.599,
+      "rms_dbfs": -17.53,
+      "peak": 0.8406524658203125
+    },
+    "zh-Hans/4.1.1": {
+      "bytes": 217382,
+      "decoded_seconds": 13.52,
+      "rms_dbfs": -17.4,
+      "peak": 0.8821125030517578
+    },
+    "zh-Hans/4.1.2": {
+      "bytes": 130447,
+      "decoded_seconds": 8.08,
+      "rms_dbfs": -20.56,
+      "peak": 0.7465797662734985
+    },
+    "zh-Hans/4.1.3": {
+      "bytes": 312259,
+      "decoded_seconds": 19.441,
+      "rms_dbfs": -17.96,
+      "peak": 0.8343292474746704
+    },
+    "zh-Hans/4.2.1": {
+      "bytes": 213621,
+      "decoded_seconds": 13.28,
+      "rms_dbfs": -17.58,
+      "peak": 0.8323585987091064
+    },
+    "zh-Hans/4.2.2": {
+      "bytes": 244132,
+      "decoded_seconds": 15.2,
+      "rms_dbfs": -17.62,
+      "peak": 0.8643158674240112
+    },
+    "zh-Hans/4.3.1": {
+      "bytes": 227831,
+      "decoded_seconds": 14.16,
+      "rms_dbfs": -17.8,
+      "peak": 0.8018312454223633
+    },
+    "zh-Hans/4.3.2": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -18.07,
+      "peak": 0.7998413443565369
+    },
+    "zh-Hans/4.4.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -16.96,
+      "peak": 0.7385817170143127
+    },
+    "zh-Hans/4.4.2": {
+      "bytes": 287599,
+      "decoded_seconds": 17.919,
+      "rms_dbfs": -18.06,
+      "peak": 0.8098920583724976
+    },
+    "zh-Hans/5.1.1": {
+      "bytes": 102026,
+      "decoded_seconds": 6.319,
+      "rms_dbfs": -21.5,
+      "peak": 0.8541494011878967
+    },
+    "zh-Hans/5.1.2": {
+      "bytes": 224906,
+      "decoded_seconds": 14.0,
+      "rms_dbfs": -17.85,
+      "peak": 0.8532338738441467
+    },
+    "zh-Hans/5.1.3": {
+      "bytes": 206097,
+      "decoded_seconds": 12.8011,
+      "rms_dbfs": -17.32,
+      "peak": 0.8326417207717896
+    },
+    "zh-Hans/5.2.1": {
+      "bytes": 253327,
+      "decoded_seconds": 15.76,
+      "rms_dbfs": -17.75,
+      "peak": 0.8215713500976562
+    },
+    "zh-Hans/5.2.2": {
+      "bytes": 123759,
+      "decoded_seconds": 7.68,
+      "rms_dbfs": -18.13,
+      "peak": 0.7972157001495361
+    },
+    "zh-Hans/5.3.1": {
+      "bytes": 167645,
+      "decoded_seconds": 10.399,
+      "rms_dbfs": -17.8,
+      "peak": 0.7896314859390259
+    },
+    "zh-Hans/5.3.2": {
+      "bytes": 264612,
+      "decoded_seconds": 16.481,
+      "rms_dbfs": -18.6,
+      "peak": 0.8363820314407349
+    },
+    "zh-Hans/5.4.1": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -18.83,
+      "peak": 0.8301683068275452
+    },
+    "zh-Hans/5.4.2": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -17.79,
+      "peak": 0.814822256565094
+    },
+    "zh-Hans/6.1.1": {
+      "bytes": 104951,
+      "decoded_seconds": 6.48,
+      "rms_dbfs": -17.17,
+      "peak": 0.9053568840026855
+    },
+    "zh-Hans/6.1.2": {
+      "bytes": 298884,
+      "decoded_seconds": 18.6002,
+      "rms_dbfs": -17.81,
+      "peak": 0.8953120708465576
+    },
+    "zh-Hans/6.2.1": {
+      "bytes": 133373,
+      "decoded_seconds": 8.28,
+      "rms_dbfs": -19.25,
+      "peak": 0.8339574337005615
+    },
+    "zh-Hans/6.2.2": {
+      "bytes": 237862,
+      "decoded_seconds": 14.8,
+      "rms_dbfs": -18.5,
+      "peak": 0.8850817680358887
+    },
+    "zh-Hans/6.2.3": {
+      "bytes": 114982,
+      "decoded_seconds": 7.12,
+      "rms_dbfs": -17.52,
+      "peak": 0.8436374664306641
+    },
+    "zh-Hans/6.3.1": {
+      "bytes": 248311,
+      "decoded_seconds": 15.441,
+      "rms_dbfs": -17.88,
+      "peak": 0.9135621190071106
+    },
+    "zh-Hans/6.3.2": {
+      "bytes": 134208,
+      "decoded_seconds": 8.32,
+      "rms_dbfs": -21.99,
+      "peak": 0.7806646823883057
+    },
+    "zh-Hans/6.3.3": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -18.13,
+      "peak": 0.7978725433349609
+    },
+    "zh-Hans/6.4.1": {
+      "bytes": 160958,
+      "decoded_seconds": 10.001,
+      "rms_dbfs": -21.63,
+      "peak": 0.7086153030395508
+    },
+    "zh-Hans/6.4.2": {
+      "bytes": 232847,
+      "decoded_seconds": 14.48,
+      "rms_dbfs": -18.74,
+      "peak": 0.9105697274208069
+    },
+    "zh-Hans/6.4.3": {
+      "bytes": 232847,
+      "decoded_seconds": 14.478,
+      "rms_dbfs": -17.71,
+      "peak": 0.9147059321403503
+    },
+    "zh-Hans/7.1.1": {
+      "bytes": 148419,
+      "decoded_seconds": 9.2,
+      "rms_dbfs": -17.52,
+      "peak": 0.8644488453865051
+    },
+    "zh-Hans/7.1.2": {
+      "bytes": 253327,
+      "decoded_seconds": 15.76,
+      "rms_dbfs": -16.9,
+      "peak": 0.8950276374816895
+    },
+    "zh-Hans/7.1.3": {
+      "bytes": 88233,
+      "decoded_seconds": 5.441,
+      "rms_dbfs": -17.12,
+      "peak": 0.8493275046348572
+    },
+    "zh-Hans/7.2.1": {
+      "bytes": 189379,
+      "decoded_seconds": 11.76,
+      "rms_dbfs": -17.1,
+      "peak": 0.8458861112594604
+    },
+    "zh-Hans/7.2.2": {
+      "bytes": 177676,
+      "decoded_seconds": 11.039,
+      "rms_dbfs": -17.12,
+      "peak": 0.8693181276321411
+    },
+    "zh-Hans/7.3.1": {
+      "bytes": 245386,
+      "decoded_seconds": 15.281,
+      "rms_dbfs": -17.39,
+      "peak": 0.8818945288658142
+    },
+    "zh-Hans/7.3.2": {
+      "bytes": 305572,
+      "decoded_seconds": 19.04,
+      "rms_dbfs": -16.31,
+      "peak": 0.8991044759750366
+    },
+    "zh-Hans/7.4.1": {
+      "bytes": 109967,
+      "decoded_seconds": 6.8,
+      "rms_dbfs": -17.22,
+      "peak": 0.8741432428359985
+    },
+    "zh-Hans/7.4.2": {
+      "bytes": 330231,
+      "decoded_seconds": 20.5594,
+      "rms_dbfs": -16.76,
+      "peak": 0.8753114938735962
+    },
+    "zh-Hans/8.1.1": {
+      "bytes": 207351,
+      "decoded_seconds": 12.8794,
+      "rms_dbfs": -21.25,
+      "peak": 0.6700038909912109
+    },
+    "zh-Hans/8.1.2": {
+      "bytes": 248311,
+      "decoded_seconds": 15.441,
+      "rms_dbfs": -18.21,
+      "peak": 0.8447390198707581
+    },
+    "zh-Hans/8.1.3": {
+      "bytes": 244132,
+      "decoded_seconds": 15.2,
+      "rms_dbfs": -18.38,
+      "peak": 0.858269453048706
+    },
+    "zh-Hans/8.2.1": {
+      "bytes": 193141,
+      "decoded_seconds": 12.0,
+      "rms_dbfs": -17.8,
+      "peak": 0.8413302302360535
+    },
+    "zh-Hans/8.2.2": {
+      "bytes": 272553,
+      "decoded_seconds": 16.96,
+      "rms_dbfs": -18.02,
+      "peak": 0.845353901386261
+    },
+    "zh-Hans/8.3.1": {
+      "bytes": 142986,
+      "decoded_seconds": 8.879,
+      "rms_dbfs": -17.74,
+      "peak": 0.8064144849777222
+    },
+    "zh-Hans/8.3.2": {
+      "bytes": 336501,
+      "decoded_seconds": 20.961,
+      "rms_dbfs": -17.96,
+      "peak": 0.8247543573379517
+    },
+    "zh-Hans/8.4.1": {
+      "bytes": 236608,
+      "decoded_seconds": 14.719,
+      "rms_dbfs": -17.57,
+      "peak": 0.814533531665802
+    },
+    "zh-Hans/8.4.2": {
+      "bytes": 253327,
+      "decoded_seconds": 15.761,
+      "rms_dbfs": -18.17,
+      "peak": 0.8304734230041504
+    },
+    "zh-Hans/9.1.1": {
+      "bytes": 173915,
+      "decoded_seconds": 10.8,
+      "rms_dbfs": -16.64,
+      "peak": 0.9231808185577393
+    },
+    "zh-Hans/9.1.2": {
+      "bytes": 275061,
+      "decoded_seconds": 17.12,
+      "rms_dbfs": -16.71,
+      "peak": 0.8843979239463806
+    },
+    "zh-Hans/9.2.1": {
+      "bytes": 248311,
+      "decoded_seconds": 15.44,
+      "rms_dbfs": -16.15,
+      "peak": 0.9101030826568604
+    },
+    "zh-Hans/9.2.2": {
+      "bytes": 319782,
+      "decoded_seconds": 19.92,
+      "rms_dbfs": -16.26,
+      "peak": 0.8828690052032471
+    },
+    "zh-Hans/9.3.1": {
+      "bytes": 204426,
+      "decoded_seconds": 12.72,
+      "rms_dbfs": -17.31,
+      "peak": 0.8756921291351318
+    },
+    "zh-Hans/9.3.2": {
+      "bytes": 280076,
+      "decoded_seconds": 17.439,
+      "rms_dbfs": -17.2,
+      "peak": 0.8376955986022949
+    },
+    "zh-Hans/9.3.3": {
+      "bytes": 155942,
+      "decoded_seconds": 9.681,
+      "rms_dbfs": -17.51,
+      "peak": 0.8559501767158508
+    },
+    "zh-Hans/9.4.1": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -16.84,
+      "peak": 0.9073554873466492
+    },
+    "zh-Hans/9.4.2": {
+      "bytes": 171407,
+      "decoded_seconds": 10.639,
+      "rms_dbfs": -18.44,
+      "peak": 0.8476918935775757
+    },
+    "zh-Hans/9.4.3": {
+      "bytes": 222398,
+      "decoded_seconds": 13.841,
+      "rms_dbfs": -17.52,
+      "peak": 0.8494004011154175
+    },
+    "zh-Hans/10.1.1": {
+      "bytes": 173079,
+      "decoded_seconds": 10.76,
+      "rms_dbfs": -18.29,
+      "peak": 0.8862043619155884
+    },
+    "zh-Hans/10.1.2": {
+      "bytes": 325634,
+      "decoded_seconds": 20.28,
+      "rms_dbfs": -17.38,
+      "peak": 0.9043796062469482
+    },
+    "zh-Hans/10.2.1": {
+      "bytes": 233265,
+      "decoded_seconds": 14.52,
+      "rms_dbfs": -21.56,
+      "peak": 0.8616495132446289
+    },
+    "zh-Hans/10.2.2": {
+      "bytes": 271717,
+      "decoded_seconds": 16.92,
+      "rms_dbfs": -17.96,
+      "peak": 0.8615409135818481
+    },
+    "zh-Hans/10.3.1": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -17.45,
+      "peak": 0.858287513256073
+    },
+    "zh-Hans/10.3.2": {
+      "bytes": 178930,
+      "decoded_seconds": 11.12,
+      "rms_dbfs": -17.18,
+      "peak": 0.8698500394821167
+    },
+    "zh-Hans/10.4.1": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -16.47,
+      "peak": 0.8483184576034546
+    },
+    "zh-Hans/10.4.2": {
+      "bytes": 122506,
+      "decoded_seconds": 7.6,
+      "rms_dbfs": -17.32,
+      "peak": 0.8512030839920044
+    },
+    "zh-Hans/10.4.3": {
+      "bytes": 82799,
+      "decoded_seconds": 5.12,
+      "rms_dbfs": -21.87,
+      "peak": 0.7724397778511047
+    },
+    "zh-Hans/11.1.1": {
+      "bytes": 295541,
+      "decoded_seconds": 18.4,
+      "rms_dbfs": -22.0,
+      "peak": 0.8523116111755371
+    },
+    "zh-Hans/11.1.2": {
+      "bytes": 191887,
+      "decoded_seconds": 11.921,
+      "rms_dbfs": -18.53,
+      "peak": 0.8986637592315674
+    },
+    "zh-Hans/11.1.3": {
+      "bytes": 111221,
+      "decoded_seconds": 6.879,
+      "rms_dbfs": -18.35,
+      "peak": 0.8532701730728149
+    },
+    "zh-Hans/11.1.4": {
+      "bytes": 159704,
+      "decoded_seconds": 9.921,
+      "rms_dbfs": -19.72,
+      "peak": 0.8146040439605713
+    },
+    "zh-Hans/11.2.1": {
+      "bytes": 249565,
+      "decoded_seconds": 15.521,
+      "rms_dbfs": -22.02,
+      "peak": 0.7714169025421143
+    },
+    "zh-Hans/11.2.2": {
+      "bytes": 218636,
+      "decoded_seconds": 13.6,
+      "rms_dbfs": -22.7,
+      "peak": 0.7270709872245789
+    },
+    "zh-Hans/11.2.3": {
+      "bytes": 112475,
+      "decoded_seconds": 6.96,
+      "rms_dbfs": -23.0,
+      "peak": 0.627402663230896
+    },
+    "zh-Hans/11.3.1": {
+      "bytes": 178930,
+      "decoded_seconds": 11.121,
+      "rms_dbfs": -20.2,
+      "peak": 0.8771290183067322
+    },
+    "zh-Hans/11.3.2": {
+      "bytes": 215293,
+      "decoded_seconds": 13.4,
+      "rms_dbfs": -18.24,
+      "peak": 0.8758251667022705
+    },
+    "zh-Hans/11.4.1": {
+      "bytes": 177258,
+      "decoded_seconds": 11.0,
+      "rms_dbfs": -18.94,
+      "peak": 0.8628718852996826
+    },
+    "zh-Hans/11.4.2": {
+      "bytes": 237862,
+      "decoded_seconds": 14.8,
+      "rms_dbfs": -22.65,
+      "peak": 0.7748326659202576
+    },
+    "zh-Hans/11.4.3": {
+      "bytes": 72768,
+      "decoded_seconds": 4.481,
+      "rms_dbfs": -23.48,
+      "peak": 0.7446858882904053
+    },
+    "zh-Hans/11.4.4": {
+      "bytes": 88233,
+      "decoded_seconds": 5.441,
+      "rms_dbfs": -22.18,
+      "peak": 0.7781834602355957
+    },
+    "zh-Hans/11.4.5": {
+      "bytes": 447678,
+      "decoded_seconds": 27.915,
+      "rms_dbfs": -18.95,
+      "peak": 0.8492982983589172
+    },
+    "zh-Hans/12.1.1": {
+      "bytes": 189379,
+      "decoded_seconds": 11.759,
+      "rms_dbfs": -20.22,
+      "peak": 0.8455890417098999
+    },
+    "zh-Hans/12.1.2": {
+      "bytes": 319782,
+      "decoded_seconds": 19.921,
+      "rms_dbfs": -17.17,
+      "peak": 0.9133235216140747
+    },
+    "zh-Hans/12.1.3": {
+      "bytes": 140478,
+      "decoded_seconds": 8.72,
+      "rms_dbfs": -17.6,
+      "peak": 0.8500845432281494
+    },
+    "zh-Hans/12.2.1": {
+      "bytes": 158450,
+      "decoded_seconds": 9.84,
+      "rms_dbfs": -18.07,
+      "peak": 0.8317595720291138
+    },
+    "zh-Hans/12.2.2": {
+      "bytes": 234101,
+      "decoded_seconds": 14.56,
+      "rms_dbfs": -17.41,
+      "peak": 0.8171348571777344
+    },
+    "zh-Hans/12.2.3": {
+      "bytes": 59812,
+      "decoded_seconds": 3.68,
+      "rms_dbfs": -18.91,
+      "peak": 0.7762356996536255
+    },
+    "zh-Hans/12.3.1": {
+      "bytes": 185199,
+      "decoded_seconds": 11.52,
+      "rms_dbfs": -18.17,
+      "peak": 0.8113700151443481
+    },
+    "zh-Hans/12.3.2": {
+      "bytes": 205679,
+      "decoded_seconds": 12.8,
+      "rms_dbfs": -17.52,
+      "peak": 0.8280472755432129
+    },
+    "zh-Hans/12.4.1": {
+      "bytes": 196902,
+      "decoded_seconds": 12.24,
+      "rms_dbfs": -17.9,
+      "peak": 0.8321399688720703
+    },
+    "zh-Hans/12.4.2": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -17.4,
+      "peak": 0.8116225004196167
+    },
+    "zh-Hans/13.1.1": {
+      "bytes": 163466,
+      "decoded_seconds": 10.16,
+      "rms_dbfs": -21.37,
+      "peak": 0.774674117565155
+    },
+    "zh-Hans/13.1.2": {
+      "bytes": 204426,
+      "decoded_seconds": 12.72,
+      "rms_dbfs": -17.97,
+      "peak": 0.9055803418159485
+    },
+    "zh-Hans/13.1.3": {
+      "bytes": 267119,
+      "decoded_seconds": 16.64,
+      "rms_dbfs": -18.85,
+      "peak": 0.8412074446678162
+    },
+    "zh-Hans/13.2.1": {
+      "bytes": 200664,
+      "decoded_seconds": 12.48,
+      "rms_dbfs": -18.72,
+      "peak": 0.8126391172409058
+    },
+    "zh-Hans/13.2.2": {
+      "bytes": 317275,
+      "decoded_seconds": 19.76,
+      "rms_dbfs": -18.43,
+      "peak": 0.821245014667511
+    },
+    "zh-Hans/13.3.1": {
+      "bytes": 260850,
+      "decoded_seconds": 16.24,
+      "rms_dbfs": -18.06,
+      "peak": 0.8452671766281128
+    },
+    "zh-Hans/13.3.2": {
+      "bytes": 341516,
+      "decoded_seconds": 21.28,
+      "rms_dbfs": -18.01,
+      "peak": 0.7729361653327942
+    },
+    "zh-Hans/13.4.1": {
+      "bytes": 258342,
+      "decoded_seconds": 16.08,
+      "rms_dbfs": -17.95,
+      "peak": 0.8560921549797058
+    },
+    "zh-Hans/13.4.2": {
+      "bytes": 234101,
+      "decoded_seconds": 14.56,
+      "rms_dbfs": -17.69,
+      "peak": 0.7922415733337402
+    },
+    "zh-Hans/13.4.3": {
+      "bytes": 253327,
+      "decoded_seconds": 15.76,
+      "rms_dbfs": -18.33,
+      "peak": 0.8688032627105713
+    },
+    "zh-Hans/14.1.1": {
+      "bytes": 170153,
+      "decoded_seconds": 10.56,
+      "rms_dbfs": -16.9,
+      "peak": 0.9021236896514893
+    },
+    "zh-Hans/14.1.2": {
+      "bytes": 387492,
+      "decoded_seconds": 24.16,
+      "rms_dbfs": -17.69,
+      "peak": 0.9035517573356628
+    },
+    "zh-Hans/14.2.1": {
+      "bytes": 235355,
+      "decoded_seconds": 14.64,
+      "rms_dbfs": -17.6,
+      "peak": 0.8865787982940674
+    },
+    "zh-Hans/14.2.2": {
+      "bytes": 207351,
+      "decoded_seconds": 12.88,
+      "rms_dbfs": -17.27,
+      "peak": 0.8593703508377075
+    },
+    "zh-Hans/14.3.1": {
+      "bytes": 134208,
+      "decoded_seconds": 8.319,
+      "rms_dbfs": -21.65,
+      "peak": 0.8617492318153381
+    },
+    "zh-Hans/14.3.2": {
+      "bytes": 258342,
+      "decoded_seconds": 16.081,
+      "rms_dbfs": -17.8,
+      "peak": 0.8631715774536133
+    },
+    "zh-Hans/14.3.3": {
+      "bytes": 229085,
+      "decoded_seconds": 14.24,
+      "rms_dbfs": -17.81,
+      "peak": 0.8339250683784485
+    },
+    "zh-Hans/14.4.1": {
+      "bytes": 130447,
+      "decoded_seconds": 8.08,
+      "rms_dbfs": -16.86,
+      "peak": 0.8344566226005554
+    },
+    "zh-Hans/14.4.2": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -17.21,
+      "peak": 0.8323488235473633
+    },
+    "zh-Hans/15.1.1": {
+      "bytes": 216128,
+      "decoded_seconds": 13.44,
+      "rms_dbfs": -16.63,
+      "peak": 0.8976461291313171
+    },
+    "zh-Hans/15.1.2": {
+      "bytes": 293033,
+      "decoded_seconds": 18.241,
+      "rms_dbfs": -16.85,
+      "peak": 0.8721023797988892
+    },
+    "zh-Hans/15.2.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -17.9,
+      "peak": 0.8490230441093445
+    },
+    "zh-Hans/15.2.2": {
+      "bytes": 249565,
+      "decoded_seconds": 15.52,
+      "rms_dbfs": -17.27,
+      "peak": 0.8514388799667358
+    },
+    "zh-Hans/15.2.3": {
+      "bytes": 106205,
+      "decoded_seconds": 6.56,
+      "rms_dbfs": -16.7,
+      "peak": 0.8275368809700012
+    },
+    "zh-Hans/15.3.1": {
+      "bytes": 221144,
+      "decoded_seconds": 13.76,
+      "rms_dbfs": -17.28,
+      "peak": 0.8311659097671509
+    },
+    "zh-Hans/15.3.2": {
+      "bytes": 222398,
+      "decoded_seconds": 13.84,
+      "rms_dbfs": -17.37,
+      "peak": 0.8636200428009033
+    },
+    "zh-Hans/15.4.1": {
+      "bytes": 163466,
+      "decoded_seconds": 10.16,
+      "rms_dbfs": -17.26,
+      "peak": 0.8209302425384521
+    },
+    "zh-Hans/15.4.2": {
+      "bytes": 280076,
+      "decoded_seconds": 17.439,
+      "rms_dbfs": -17.47,
+      "peak": 0.8454979658126831
+    },
+    "zh-Hans/16.1.1": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -16.4,
+      "peak": 0.9610875248908997
+    },
+    "zh-Hans/16.1.2": {
+      "bytes": 168899,
+      "decoded_seconds": 10.48,
+      "rms_dbfs": -16.84,
+      "peak": 0.8422956466674805
+    },
+    "zh-Hans/16.1.3": {
+      "bytes": 248311,
+      "decoded_seconds": 15.44,
+      "rms_dbfs": -17.57,
+      "peak": 0.8336721658706665
+    },
+    "zh-Hans/16.2.1": {
+      "bytes": 125431,
+      "decoded_seconds": 7.76,
+      "rms_dbfs": -15.7,
+      "peak": 0.8266193866729736
+    },
+    "zh-Hans/16.2.2": {
+      "bytes": 253327,
+      "decoded_seconds": 15.76,
+      "rms_dbfs": -16.77,
+      "peak": 0.8377723693847656
+    },
+    "zh-Hans/16.3.1": {
+      "bytes": 173915,
+      "decoded_seconds": 10.801,
+      "rms_dbfs": -17.27,
+      "peak": 0.8301041126251221
+    },
+    "zh-Hans/16.3.2": {
+      "bytes": 127103,
+      "decoded_seconds": 7.881,
+      "rms_dbfs": -17.0,
+      "peak": 0.8467468023300171
+    },
+    "zh-Hans/16.4.1": {
+      "bytes": 132955,
+      "decoded_seconds": 8.24,
+      "rms_dbfs": -16.5,
+      "peak": 0.8318081498146057
+    },
+    "zh-Hans/16.4.2": {
+      "bytes": 174333,
+      "decoded_seconds": 10.838,
+      "rms_dbfs": -16.84,
+      "peak": 0.8173973560333252
+    },
+    "zh-Hans/17.1.1": {
+      "bytes": 140478,
+      "decoded_seconds": 8.719,
+      "rms_dbfs": -20.52,
+      "peak": 0.8553740978240967
+    },
+    "zh-Hans/17.1.2": {
+      "bytes": 189379,
+      "decoded_seconds": 11.761,
+      "rms_dbfs": -17.18,
+      "peak": 0.8704910278320312
+    },
+    "zh-Hans/17.1.3": {
+      "bytes": 245386,
+      "decoded_seconds": 15.28,
+      "rms_dbfs": -16.92,
+      "peak": 0.894600510597229
+    },
+    "zh-Hans/17.2.1": {
+      "bytes": 213621,
+      "decoded_seconds": 13.28,
+      "rms_dbfs": -17.72,
+      "peak": 0.8822124600410461
+    },
+    "zh-Hans/17.2.2": {
+      "bytes": 369519,
+      "decoded_seconds": 23.04,
+      "rms_dbfs": -18.01,
+      "peak": 0.8860999941825867
+    },
+    "zh-Hans/17.3.1": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -17.24,
+      "peak": 0.8679129481315613
+    },
+    "zh-Hans/17.3.2": {
+      "bytes": 250819,
+      "decoded_seconds": 15.6,
+      "rms_dbfs": -17.93,
+      "peak": 0.8566623330116272
+    },
+    "zh-Hans/17.4.1": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -18.03,
+      "peak": 0.8302359580993652
+    },
+    "zh-Hans/17.4.2": {
+      "bytes": 350711,
+      "decoded_seconds": 21.84,
+      "rms_dbfs": -18.23,
+      "peak": 0.8562224507331848
+    },
+    "zh-Hans/18.1.1": {
+      "bytes": 89487,
+      "decoded_seconds": 5.52,
+      "rms_dbfs": -21.59,
+      "peak": 0.8452402353286743
+    },
+    "zh-Hans/18.1.2": {
+      "bytes": 203172,
+      "decoded_seconds": 12.64,
+      "rms_dbfs": -17.14,
+      "peak": 0.8830546140670776
+    },
+    "zh-Hans/18.1.3": {
+      "bytes": 293033,
+      "decoded_seconds": 18.24,
+      "rms_dbfs": -18.21,
+      "peak": 0.9049220681190491
+    },
+    "zh-Hans/18.1.4": {
+      "bytes": 298048,
+      "decoded_seconds": 18.56,
+      "rms_dbfs": -18.13,
+      "peak": 0.8963212966918945
+    },
+    "zh-Hans/18.2.1": {
+      "bytes": 241624,
+      "decoded_seconds": 15.04,
+      "rms_dbfs": -17.14,
+      "peak": 0.8604322075843811
+    },
+    "zh-Hans/18.2.2": {
+      "bytes": 294287,
+      "decoded_seconds": 18.319,
+      "rms_dbfs": -17.88,
+      "peak": 0.8759575486183167
+    },
+    "zh-Hans/18.2.3": {
+      "bytes": 200246,
+      "decoded_seconds": 12.441,
+      "rms_dbfs": -18.13,
+      "peak": 0.8307210206985474
+    },
+    "zh-Hans/18.2.4": {
+      "bytes": 357399,
+      "decoded_seconds": 22.28,
+      "rms_dbfs": -17.46,
+      "peak": 0.8613269925117493
+    },
+    "zh-Hans/18.3.1": {
+      "bytes": 304318,
+      "decoded_seconds": 18.96,
+      "rms_dbfs": -17.45,
+      "peak": 0.794743001461029
+    },
+    "zh-Hans/18.3.2": {
+      "bytes": 245386,
+      "decoded_seconds": 15.28,
+      "rms_dbfs": -18.32,
+      "peak": 0.8286675214767456
+    },
+    "zh-Hans/18.3.3": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -18.41,
+      "peak": 0.8326166272163391
+    },
+    "zh-Hans/18.4.1": {
+      "bytes": 382476,
+      "decoded_seconds": 23.84,
+      "rms_dbfs": -18.73,
+      "peak": 0.8603264093399048
+    },
+    "zh-Hans/18.4.2": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -18.7,
+      "peak": 0.8220387101173401
+    },
+    "zh-Hans/18.4.3": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -18.36,
+      "peak": 0.807536780834198
+    },
+    "zh-Hans/18.4.4": {
+      "bytes": 255835,
+      "decoded_seconds": 15.92,
+      "rms_dbfs": -21.4,
+      "peak": 0.8382248282432556
+    },
+    "zh-Hans/opening.1": {
+      "bytes": 125431,
+      "decoded_seconds": 7.76,
+      "rms_dbfs": -18.91,
+      "peak": 0.8499386310577393
+    },
+    "zh-Hans/opening.2": {
+      "bytes": 119998,
+      "decoded_seconds": 7.439,
+      "rms_dbfs": -19.17,
+      "peak": 0.816762387752533
+    },
+    "zh-Hans/opening.3": {
+      "bytes": 137970,
+      "decoded_seconds": 8.561,
+      "rms_dbfs": -18.5,
+      "peak": 0.8767349123954773
+    },
+    "zh-Hans/opening.4": {
+      "bytes": 34316,
+      "decoded_seconds": 2.08,
+      "rms_dbfs": -18.09,
+      "peak": 0.8161959648132324
+    },
+    "zh-Hans/opening.5": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -18.95,
+      "peak": 0.8545371294021606
+    },
+    "fr/1.1.2": {
+      "bytes": 93248,
+      "decoded_seconds": 5.76,
+      "rms_dbfs": -20.57,
+      "peak": 0.7865445017814636
+    },
+    "fr/1.1.3": {
+      "bytes": 44765,
+      "decoded_seconds": 2.72,
+      "rms_dbfs": -19.54,
+      "peak": 0.884161651134491
+    },
+    "fr/1.1.4": {
+      "bytes": 200664,
+      "decoded_seconds": 12.48,
+      "rms_dbfs": -17.4,
+      "peak": 0.8229466676712036
+    },
+    "fr/1.2.1": {
+      "bytes": 28047,
+      "decoded_seconds": 1.68,
+      "rms_dbfs": -28.4,
+      "peak": 0.23510399460792542
+    },
+    "fr/1.2.2": {
+      "bytes": 111221,
+      "decoded_seconds": 6.88,
+      "rms_dbfs": -20.83,
+      "peak": 0.8452277779579163
+    },
+    "fr/1.2.3": {
+      "bytes": 114982,
+      "decoded_seconds": 7.121,
+      "rms_dbfs": -20.93,
+      "peak": 0.7966461777687073
+    },
+    "fr/1.3.1": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -19.89,
+      "peak": 0.8319228887557983
+    },
+    "fr/1.3.2": {
+      "bytes": 76530,
+      "decoded_seconds": 4.719,
+      "rms_dbfs": -21.6,
+      "peak": 0.6929800510406494
+    },
+    "fr/1.3.3": {
+      "bytes": 168899,
+      "decoded_seconds": 10.48,
+      "rms_dbfs": -20.7,
+      "peak": 0.8717546463012695
+    },
+    "fr/1.3.4": {
+      "bytes": 66499,
+      "decoded_seconds": 4.08,
+      "rms_dbfs": -17.91,
+      "peak": 0.847429096698761
+    },
+    "fr/1.4.1": {
+      "bytes": 107459,
+      "decoded_seconds": 6.64,
+      "rms_dbfs": -19.91,
+      "peak": 0.8622837066650391
+    },
+    "fr/1.4.2": {
+      "bytes": 153435,
+      "decoded_seconds": 9.52,
+      "rms_dbfs": -18.54,
+      "peak": 0.8640269041061401
+    },
+    "fr/2.1.1": {
+      "bytes": 81546,
+      "decoded_seconds": 5.04,
+      "rms_dbfs": -19.48,
+      "peak": 0.8729908466339111
+    },
+    "fr/2.1.2": {
+      "bytes": 160958,
+      "decoded_seconds": 10.001,
+      "rms_dbfs": -20.85,
+      "peak": 0.765002429485321
+    },
+    "fr/2.1.3": {
+      "bytes": 142986,
+      "decoded_seconds": 8.879,
+      "rms_dbfs": -20.33,
+      "peak": 0.8815685510635376
+    },
+    "fr/2.1.4": {
+      "bytes": 93248,
+      "decoded_seconds": 5.761,
+      "rms_dbfs": -18.41,
+      "peak": 0.880345344543457
+    },
+    "fr/2.2.1": {
+      "bytes": 196902,
+      "decoded_seconds": 12.24,
+      "rms_dbfs": -21.17,
+      "peak": 0.8592637181282043
+    },
+    "fr/2.2.2": {
+      "bytes": 195648,
+      "decoded_seconds": 12.16,
+      "rms_dbfs": -21.79,
+      "peak": 0.7771903276443481
+    },
+    "fr/2.2.3": {
+      "bytes": 102026,
+      "decoded_seconds": 6.319,
+      "rms_dbfs": -21.73,
+      "peak": 0.7547828555107117
+    },
+    "fr/2.3.1": {
+      "bytes": 137970,
+      "decoded_seconds": 8.561,
+      "rms_dbfs": -21.77,
+      "peak": 0.7328963875770569
+    },
+    "fr/2.3.2": {
+      "bytes": 145911,
+      "decoded_seconds": 9.041,
+      "rms_dbfs": -22.74,
+      "peak": 0.8100371360778809
+    },
+    "fr/2.3.3": {
+      "bytes": 165555,
+      "decoded_seconds": 10.279,
+      "rms_dbfs": -21.29,
+      "peak": 0.7934532761573792
+    },
+    "fr/2.4.1": {
+      "bytes": 84889,
+      "decoded_seconds": 5.24,
+      "rms_dbfs": -22.03,
+      "peak": 0.6658408641815186
+    },
+    "fr/2.4.2": {
+      "bytes": 236608,
+      "decoded_seconds": 14.719,
+      "rms_dbfs": -21.13,
+      "peak": 0.7975246906280518
+    },
+    "fr/2.4.3": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -20.47,
+      "peak": 0.7085497379302979
+    },
+    "fr/2.4.4": {
+      "bytes": 181438,
+      "decoded_seconds": 11.28,
+      "rms_dbfs": -21.17,
+      "peak": 0.7244937419891357
+    },
+    "fr/3.1.1": {
+      "bytes": 167645,
+      "decoded_seconds": 10.4,
+      "rms_dbfs": -19.84,
+      "peak": 0.85164475440979
+    },
+    "fr/3.1.2": {
+      "bytes": 144239,
+      "decoded_seconds": 8.959,
+      "rms_dbfs": -21.53,
+      "peak": 0.8604327440261841
+    },
+    "fr/3.1.3": {
+      "bytes": 195648,
+      "decoded_seconds": 12.161,
+      "rms_dbfs": -21.34,
+      "peak": 0.8277272582054138
+    },
+    "fr/3.2.1": {
+      "bytes": 207769,
+      "decoded_seconds": 12.92,
+      "rms_dbfs": -21.64,
+      "peak": 0.8518702983856201
+    },
+    "fr/3.2.2": {
+      "bytes": 136298,
+      "decoded_seconds": 8.439,
+      "rms_dbfs": -21.67,
+      "peak": 0.7388899326324463
+    },
+    "fr/3.3.1": {
+      "bytes": 90741,
+      "decoded_seconds": 5.601,
+      "rms_dbfs": -22.94,
+      "peak": 0.838139533996582
+    },
+    "fr/3.3.2": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -21.5,
+      "peak": 0.7607194185256958
+    },
+    "fr/3.3.3": {
+      "bytes": 166391,
+      "decoded_seconds": 10.32,
+      "rms_dbfs": -22.22,
+      "peak": 0.7734190225601196
+    },
+    "fr/3.4.1": {
+      "bytes": 104951,
+      "decoded_seconds": 6.4794,
+      "rms_dbfs": -21.01,
+      "peak": 0.7338191270828247
+    },
+    "fr/3.4.2": {
+      "bytes": 104951,
+      "decoded_seconds": 6.48,
+      "rms_dbfs": -22.4,
+      "peak": 0.7015067338943481
+    },
+    "fr/3.4.3": {
+      "bytes": 209859,
+      "decoded_seconds": 13.041,
+      "rms_dbfs": -21.9,
+      "peak": 0.8219186067581177
+    },
+    "fr/4.1.1": {
+      "bytes": 154688,
+      "decoded_seconds": 9.6,
+      "rms_dbfs": -21.29,
+      "peak": 0.7886962890625
+    },
+    "fr/4.1.2": {
+      "bytes": 103279,
+      "decoded_seconds": 6.4,
+      "rms_dbfs": -20.02,
+      "peak": 0.878747820854187
+    },
+    "fr/4.1.3": {
+      "bytes": 294287,
+      "decoded_seconds": 18.32,
+      "rms_dbfs": -21.23,
+      "peak": 0.8459116816520691
+    },
+    "fr/4.2.1": {
+      "bytes": 144239,
+      "decoded_seconds": 8.96,
+      "rms_dbfs": -22.2,
+      "peak": 0.7779079079627991
+    },
+    "fr/4.2.2": {
+      "bytes": 194395,
+      "decoded_seconds": 12.08,
+      "rms_dbfs": -21.58,
+      "peak": 0.7475385069847107
+    },
+    "fr/4.3.1": {
+      "bytes": 217382,
+      "decoded_seconds": 13.519,
+      "rms_dbfs": -22.37,
+      "peak": 0.774948239326477
+    },
+    "fr/4.3.2": {
+      "bytes": 141732,
+      "decoded_seconds": 8.801,
+      "rms_dbfs": -21.16,
+      "peak": 0.8222030401229858
+    },
+    "fr/4.4.1": {
+      "bytes": 90741,
+      "decoded_seconds": 5.601,
+      "rms_dbfs": -22.07,
+      "peak": 0.7059997320175171
+    },
+    "fr/4.4.2": {
+      "bytes": 242878,
+      "decoded_seconds": 15.119,
+      "rms_dbfs": -21.71,
+      "peak": 0.7495604753494263
+    },
+    "fr/5.1.1": {
+      "bytes": 88233,
+      "decoded_seconds": 5.44,
+      "rms_dbfs": -17.47,
+      "peak": 0.8705160021781921
+    },
+    "fr/5.1.2": {
+      "bytes": 187289,
+      "decoded_seconds": 11.64,
+      "rms_dbfs": -21.33,
+      "peak": 0.8348203897476196
+    },
+    "fr/5.1.3": {
+      "bytes": 163048,
+      "decoded_seconds": 10.12,
+      "rms_dbfs": -21.3,
+      "peak": 0.8127903342247009
+    },
+    "fr/5.2.1": {
+      "bytes": 214875,
+      "decoded_seconds": 13.36,
+      "rms_dbfs": -21.69,
+      "peak": 0.8425664305686951
+    },
+    "fr/5.2.2": {
+      "bytes": 72768,
+      "decoded_seconds": 4.48,
+      "rms_dbfs": -20.97,
+      "peak": 0.8505673408508301
+    },
+    "fr/5.3.1": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -21.25,
+      "peak": 0.8127428293228149
+    },
+    "fr/5.3.2": {
+      "bytes": 199410,
+      "decoded_seconds": 12.4,
+      "rms_dbfs": -21.08,
+      "peak": 0.8069742321968079
+    },
+    "fr/5.4.1": {
+      "bytes": 134208,
+      "decoded_seconds": 8.321,
+      "rms_dbfs": -21.49,
+      "peak": 0.8149861097335815
+    },
+    "fr/5.4.2": {
+      "bytes": 180184,
+      "decoded_seconds": 11.199,
+      "rms_dbfs": -21.1,
+      "peak": 0.6898126602172852
+    },
+    "fr/6.1.1": {
+      "bytes": 100772,
+      "decoded_seconds": 6.24,
+      "rms_dbfs": -20.98,
+      "peak": 0.8528403043746948
+    },
+    "fr/6.1.2": {
+      "bytes": 231593,
+      "decoded_seconds": 14.4,
+      "rms_dbfs": -21.17,
+      "peak": 0.8272358179092407
+    },
+    "fr/6.2.1": {
+      "bytes": 139224,
+      "decoded_seconds": 8.64,
+      "rms_dbfs": -21.67,
+      "peak": 0.805532693862915
+    },
+    "fr/6.2.2": {
+      "bytes": 250819,
+      "decoded_seconds": 15.6,
+      "rms_dbfs": -21.6,
+      "peak": 0.815353274345398
+    },
+    "fr/6.2.3": {
+      "bytes": 100772,
+      "decoded_seconds": 6.24,
+      "rms_dbfs": -20.95,
+      "peak": 0.8169640302658081
+    },
+    "fr/6.3.1": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -21.63,
+      "peak": 0.8623598217964172
+    },
+    "fr/6.3.2": {
+      "bytes": 119580,
+      "decoded_seconds": 7.4,
+      "rms_dbfs": -20.8,
+      "peak": 0.7206212282180786
+    },
+    "fr/6.3.3": {
+      "bytes": 91159,
+      "decoded_seconds": 5.639,
+      "rms_dbfs": -21.55,
+      "peak": 0.7886693477630615
+    },
+    "fr/6.4.1": {
+      "bytes": 121252,
+      "decoded_seconds": 7.521,
+      "rms_dbfs": -20.5,
+      "peak": 0.7132447957992554
+    },
+    "fr/6.4.2": {
+      "bytes": 168899,
+      "decoded_seconds": 10.48,
+      "rms_dbfs": -20.25,
+      "peak": 0.7346962690353394
+    },
+    "fr/6.4.3": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -21.49,
+      "peak": 0.709351658821106
+    },
+    "fr/7.1.1": {
+      "bytes": 121252,
+      "decoded_seconds": 7.52,
+      "rms_dbfs": -20.84,
+      "peak": 0.8441991806030273
+    },
+    "fr/7.1.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.68,
+      "rms_dbfs": -21.0,
+      "peak": 0.8073992729187012
+    },
+    "fr/7.1.3": {
+      "bytes": 72768,
+      "decoded_seconds": 4.48,
+      "rms_dbfs": -21.89,
+      "peak": 0.6963315606117249
+    },
+    "fr/7.2.1": {
+      "bytes": 154688,
+      "decoded_seconds": 9.6,
+      "rms_dbfs": -21.22,
+      "peak": 0.769534707069397
+    },
+    "fr/7.2.2": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -21.66,
+      "peak": 0.7493823170661926
+    },
+    "fr/7.3.1": {
+      "bytes": 204008,
+      "decoded_seconds": 12.68,
+      "rms_dbfs": -21.95,
+      "peak": 0.678489089012146
+    },
+    "fr/7.3.2": {
+      "bytes": 210277,
+      "decoded_seconds": 13.08,
+      "rms_dbfs": -21.61,
+      "peak": 0.7747387290000916
+    },
+    "fr/7.4.1": {
+      "bytes": 93248,
+      "decoded_seconds": 5.761,
+      "rms_dbfs": -21.37,
+      "peak": 0.6849887371063232
+    },
+    "fr/7.4.2": {
+      "bytes": 253327,
+      "decoded_seconds": 15.759,
+      "rms_dbfs": -20.96,
+      "peak": 0.6860600709915161
+    },
+    "fr/8.1.1": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -20.55,
+      "peak": 0.8290821313858032
+    },
+    "fr/8.1.2": {
+      "bytes": 212367,
+      "decoded_seconds": 13.2,
+      "rms_dbfs": -21.53,
+      "peak": 0.8702327013015747
+    },
+    "fr/8.1.3": {
+      "bytes": 145911,
+      "decoded_seconds": 9.04,
+      "rms_dbfs": -20.89,
+      "peak": 0.8671718835830688
+    },
+    "fr/8.2.1": {
+      "bytes": 136716,
+      "decoded_seconds": 8.48,
+      "rms_dbfs": -21.01,
+      "peak": 0.7782709002494812
+    },
+    "fr/8.2.2": {
+      "bytes": 160958,
+      "decoded_seconds": 10.0,
+      "rms_dbfs": -22.09,
+      "peak": 0.7465671896934509
+    },
+    "fr/8.3.1": {
+      "bytes": 118326,
+      "decoded_seconds": 7.32,
+      "rms_dbfs": -22.12,
+      "peak": 0.6340861916542053
+    },
+    "fr/8.3.2": {
+      "bytes": 230757,
+      "decoded_seconds": 14.36,
+      "rms_dbfs": -21.21,
+      "peak": 0.7260961532592773
+    },
+    "fr/8.4.1": {
+      "bytes": 170153,
+      "decoded_seconds": 10.56,
+      "rms_dbfs": -20.72,
+      "peak": 0.7001417875289917
+    },
+    "fr/8.4.2": {
+      "bytes": 188125,
+      "decoded_seconds": 11.68,
+      "rms_dbfs": -21.33,
+      "peak": 0.692841649055481
+    },
+    "fr/9.1.1": {
+      "bytes": 114982,
+      "decoded_seconds": 7.12,
+      "rms_dbfs": -21.28,
+      "peak": 0.7707756757736206
+    },
+    "fr/9.1.2": {
+      "bytes": 217382,
+      "decoded_seconds": 13.52,
+      "rms_dbfs": -21.75,
+      "peak": 0.814544677734375
+    },
+    "fr/9.2.1": {
+      "bytes": 191887,
+      "decoded_seconds": 11.92,
+      "rms_dbfs": -21.69,
+      "peak": 0.7824348211288452
+    },
+    "fr/9.2.2": {
+      "bytes": 175168,
+      "decoded_seconds": 10.88,
+      "rms_dbfs": -21.16,
+      "peak": 0.7269022464752197
+    },
+    "fr/9.3.1": {
+      "bytes": 100772,
+      "decoded_seconds": 6.24,
+      "rms_dbfs": -21.93,
+      "peak": 0.5755189061164856
+    },
+    "fr/9.3.2": {
+      "bytes": 205679,
+      "decoded_seconds": 12.8,
+      "rms_dbfs": -21.59,
+      "peak": 0.7292540669441223
+    },
+    "fr/9.3.3": {
+      "bytes": 90741,
+      "decoded_seconds": 5.6,
+      "rms_dbfs": -21.88,
+      "peak": 0.7220487594604492
+    },
+    "fr/9.4.1": {
+      "bytes": 168899,
+      "decoded_seconds": 10.479,
+      "rms_dbfs": -21.06,
+      "peak": 0.7124956846237183
+    },
+    "fr/9.4.2": {
+      "bytes": 175168,
+      "decoded_seconds": 10.881,
+      "rms_dbfs": -16.4,
+      "peak": 0.8630393743515015
+    },
+    "fr/9.4.3": {
+      "bytes": 148419,
+      "decoded_seconds": 9.2,
+      "rms_dbfs": -21.52,
+      "peak": 0.7518821358680725
+    },
+    "fr/10.1.1": {
+      "bytes": 84471,
+      "decoded_seconds": 5.2,
+      "rms_dbfs": -21.21,
+      "peak": 0.8028901815414429
+    },
+    "fr/10.1.2": {
+      "bytes": 254581,
+      "decoded_seconds": 15.839,
+      "rms_dbfs": -21.44,
+      "peak": 0.7775195837020874
+    },
+    "fr/10.2.1": {
+      "bytes": 129193,
+      "decoded_seconds": 8.001,
+      "rms_dbfs": -20.56,
+      "peak": 0.7838281989097595
+    },
+    "fr/10.2.2": {
+      "bytes": 209859,
+      "decoded_seconds": 13.04,
+      "rms_dbfs": -21.54,
+      "peak": 0.8157303333282471
+    },
+    "fr/10.3.1": {
+      "bytes": 130447,
+      "decoded_seconds": 8.08,
+      "rms_dbfs": -21.38,
+      "peak": 0.7277073860168457
+    },
+    "fr/10.3.2": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -21.5,
+      "peak": 0.7013735175132751
+    },
+    "fr/10.4.1": {
+      "bytes": 125431,
+      "decoded_seconds": 7.761,
+      "rms_dbfs": -22.05,
+      "peak": 0.6887555122375488
+    },
+    "fr/10.4.2": {
+      "bytes": 109967,
+      "decoded_seconds": 6.799,
+      "rms_dbfs": -21.79,
+      "peak": 0.7163622379302979
+    },
+    "fr/10.4.3": {
+      "bytes": 72768,
+      "decoded_seconds": 4.48,
+      "rms_dbfs": -22.08,
+      "peak": 0.6949422359466553
+    },
+    "fr/11.1.1": {
+      "bytes": 212367,
+      "decoded_seconds": 13.2,
+      "rms_dbfs": -20.2,
+      "peak": 0.8520337343215942
+    },
+    "fr/11.1.2": {
+      "bytes": 134208,
+      "decoded_seconds": 8.32,
+      "rms_dbfs": -20.35,
+      "peak": 0.8437979221343994
+    },
+    "fr/11.1.3": {
+      "bytes": 77784,
+      "decoded_seconds": 4.8,
+      "rms_dbfs": -21.53,
+      "peak": 0.8361533880233765
+    },
+    "fr/11.1.4": {
+      "bytes": 97010,
+      "decoded_seconds": 6.001,
+      "rms_dbfs": -15.98,
+      "peak": 0.8936364650726318
+    },
+    "fr/11.2.1": {
+      "bytes": 172661,
+      "decoded_seconds": 10.72,
+      "rms_dbfs": -20.2,
+      "peak": 0.8586927652359009
+    },
+    "fr/11.2.2": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -20.02,
+      "peak": 0.8761288523674011
+    },
+    "fr/11.2.3": {
+      "bytes": 71515,
+      "decoded_seconds": 4.401,
+      "rms_dbfs": -20.91,
+      "peak": 0.8474100828170776
+    },
+    "fr/11.3.1": {
+      "bytes": 108713,
+      "decoded_seconds": 6.72,
+      "rms_dbfs": -21.53,
+      "peak": 0.7999187707901001
+    },
+    "fr/11.3.2": {
+      "bytes": 145911,
+      "decoded_seconds": 9.04,
+      "rms_dbfs": -21.16,
+      "peak": 0.8588201403617859
+    },
+    "fr/11.4.1": {
+      "bytes": 147165,
+      "decoded_seconds": 9.12,
+      "rms_dbfs": -19.35,
+      "peak": 0.8065046668052673
+    },
+    "fr/11.4.2": {
+      "bytes": 181438,
+      "decoded_seconds": 11.28,
+      "rms_dbfs": -19.53,
+      "peak": 0.8638726472854614
+    },
+    "fr/11.4.3": {
+      "bytes": 70261,
+      "decoded_seconds": 4.321,
+      "rms_dbfs": -20.23,
+      "peak": 0.8593435883522034
+    },
+    "fr/11.4.4": {
+      "bytes": 117490,
+      "decoded_seconds": 7.277,
+      "rms_dbfs": -19.83,
+      "peak": 0.803003191947937
+    },
+    "fr/11.4.5": {
+      "bytes": 217382,
+      "decoded_seconds": 13.52,
+      "rms_dbfs": -21.18,
+      "peak": 0.8090477585792542
+    },
+    "fr/12.1.1": {
+      "bytes": 152181,
+      "decoded_seconds": 9.439,
+      "rms_dbfs": -19.84,
+      "peak": 0.8763503432273865
+    },
+    "fr/12.1.2": {
+      "bytes": 213621,
+      "decoded_seconds": 13.28,
+      "rms_dbfs": -21.91,
+      "peak": 0.7754166722297668
+    },
+    "fr/12.1.3": {
+      "bytes": 85725,
+      "decoded_seconds": 5.282,
+      "rms_dbfs": -21.67,
+      "peak": 0.7088651657104492
+    },
+    "fr/12.2.1": {
+      "bytes": 121252,
+      "decoded_seconds": 7.519,
+      "rms_dbfs": -21.77,
+      "peak": 0.8117533326148987
+    },
+    "fr/12.2.2": {
+      "bytes": 172661,
+      "decoded_seconds": 10.719,
+      "rms_dbfs": -21.94,
+      "peak": 0.8017551898956299
+    },
+    "fr/12.2.3": {
+      "bytes": 38078,
+      "decoded_seconds": 2.321,
+      "rms_dbfs": -23.16,
+      "peak": 0.5495806336402893
+    },
+    "fr/12.3.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.799,
+      "rms_dbfs": -21.82,
+      "peak": 0.7285144329071045
+    },
+    "fr/12.3.2": {
+      "bytes": 162212,
+      "decoded_seconds": 10.081,
+      "rms_dbfs": -21.34,
+      "peak": 0.7832295894622803
+    },
+    "fr/12.4.1": {
+      "bytes": 154688,
+      "decoded_seconds": 9.599,
+      "rms_dbfs": -21.02,
+      "peak": 0.8307797908782959
+    },
+    "fr/12.4.2": {
+      "bytes": 181438,
+      "decoded_seconds": 11.281,
+      "rms_dbfs": -21.7,
+      "peak": 0.804307758808136
+    },
+    "fr/13.1.1": {
+      "bytes": 141732,
+      "decoded_seconds": 8.8,
+      "rms_dbfs": -19.97,
+      "peak": 0.8676132559776306
+    },
+    "fr/13.1.2": {
+      "bytes": 142986,
+      "decoded_seconds": 8.88,
+      "rms_dbfs": -21.65,
+      "peak": 0.8861944675445557
+    },
+    "fr/13.1.3": {
+      "bytes": 189379,
+      "decoded_seconds": 11.759,
+      "rms_dbfs": -20.96,
+      "peak": 0.858085036277771
+    },
+    "fr/13.2.1": {
+      "bytes": 159704,
+      "decoded_seconds": 9.921,
+      "rms_dbfs": -21.24,
+      "peak": 0.7809273600578308
+    },
+    "fr/13.2.2": {
+      "bytes": 246639,
+      "decoded_seconds": 15.36,
+      "rms_dbfs": -21.19,
+      "peak": 0.8295332193374634
+    },
+    "fr/13.3.1": {
+      "bytes": 208605,
+      "decoded_seconds": 12.96,
+      "rms_dbfs": -21.3,
+      "peak": 0.7489564418792725
+    },
+    "fr/13.3.2": {
+      "bytes": 219890,
+      "decoded_seconds": 13.68,
+      "rms_dbfs": -21.16,
+      "peak": 0.7710965871810913
+    },
+    "fr/13.4.1": {
+      "bytes": 177676,
+      "decoded_seconds": 11.04,
+      "rms_dbfs": -21.51,
+      "peak": 0.6987330913543701
+    },
+    "fr/13.4.2": {
+      "bytes": 188125,
+      "decoded_seconds": 11.68,
+      "rms_dbfs": -22.39,
+      "peak": 0.7935348749160767
+    },
+    "fr/13.4.3": {
+      "bytes": 183946,
+      "decoded_seconds": 11.44,
+      "rms_dbfs": -20.62,
+      "peak": 0.8741204738616943
+    },
+    "fr/14.1.1": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -21.17,
+      "peak": 0.8755970001220703
+    },
+    "fr/14.1.2": {
+      "bytes": 255835,
+      "decoded_seconds": 15.919,
+      "rms_dbfs": -21.42,
+      "peak": 0.8042956590652466
+    },
+    "fr/14.2.1": {
+      "bytes": 198156,
+      "decoded_seconds": 12.321,
+      "rms_dbfs": -21.25,
+      "peak": 0.8737990856170654
+    },
+    "fr/14.2.2": {
+      "bytes": 150927,
+      "decoded_seconds": 9.36,
+      "rms_dbfs": -21.18,
+      "peak": 0.8673758506774902
+    },
+    "fr/14.3.1": {
+      "bytes": 76530,
+      "decoded_seconds": 4.721,
+      "rms_dbfs": -21.21,
+      "peak": 0.6914471387863159
+    },
+    "fr/14.3.2": {
+      "bytes": 207769,
+      "decoded_seconds": 12.92,
+      "rms_dbfs": -20.39,
+      "peak": 0.8223558664321899
+    },
+    "fr/14.3.3": {
+      "bytes": 160540,
+      "decoded_seconds": 9.96,
+      "rms_dbfs": -20.32,
+      "peak": 0.768977701663971
+    },
+    "fr/14.4.1": {
+      "bytes": 109967,
+      "decoded_seconds": 6.8,
+      "rms_dbfs": -20.7,
+      "peak": 0.8138641119003296
+    },
+    "fr/14.4.2": {
+      "bytes": 152181,
+      "decoded_seconds": 9.439,
+      "rms_dbfs": -20.69,
+      "peak": 0.745394229888916
+    },
+    "fr/15.1.1": {
+      "bytes": 209859,
+      "decoded_seconds": 13.04,
+      "rms_dbfs": -21.16,
+      "peak": 0.8364918828010559
+    },
+    "fr/15.1.2": {
+      "bytes": 205679,
+      "decoded_seconds": 12.8,
+      "rms_dbfs": -21.47,
+      "peak": 0.832233190536499
+    },
+    "fr/15.2.1": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -20.99,
+      "peak": 0.7346010804176331
+    },
+    "fr/15.2.2": {
+      "bytes": 159704,
+      "decoded_seconds": 9.92,
+      "rms_dbfs": -21.31,
+      "peak": 0.7603830099105835
+    },
+    "fr/15.2.3": {
+      "bytes": 66499,
+      "decoded_seconds": 4.08,
+      "rms_dbfs": -20.59,
+      "peak": 0.7140822410583496
+    },
+    "fr/15.3.1": {
+      "bytes": 189379,
+      "decoded_seconds": 11.759,
+      "rms_dbfs": -21.81,
+      "peak": 0.726934552192688
+    },
+    "fr/15.3.2": {
+      "bytes": 135462,
+      "decoded_seconds": 8.401,
+      "rms_dbfs": -21.36,
+      "peak": 0.742606520652771
+    },
+    "fr/15.4.1": {
+      "bytes": 127939,
+      "decoded_seconds": 7.92,
+      "rms_dbfs": -21.79,
+      "peak": 0.61372971534729
+    },
+    "fr/15.4.2": {
+      "bytes": 183946,
+      "decoded_seconds": 11.44,
+      "rms_dbfs": -21.79,
+      "peak": 0.7528032660484314
+    },
+    "fr/16.1.1": {
+      "bytes": 140478,
+      "decoded_seconds": 8.72,
+      "rms_dbfs": -21.13,
+      "peak": 0.7186321020126343
+    },
+    "fr/16.1.2": {
+      "bytes": 181438,
+      "decoded_seconds": 11.28,
+      "rms_dbfs": -20.84,
+      "peak": 0.8610808849334717
+    },
+    "fr/16.1.3": {
+      "bytes": 186871,
+      "decoded_seconds": 11.6,
+      "rms_dbfs": -21.75,
+      "peak": 0.8037846684455872
+    },
+    "fr/16.2.1": {
+      "bytes": 104115,
+      "decoded_seconds": 6.441,
+      "rms_dbfs": -20.38,
+      "peak": 0.8783085942268372
+    },
+    "fr/16.2.2": {
+      "bytes": 237862,
+      "decoded_seconds": 14.8,
+      "rms_dbfs": -21.21,
+      "peak": 0.7081483006477356
+    },
+    "fr/16.3.1": {
+      "bytes": 165555,
+      "decoded_seconds": 10.28,
+      "rms_dbfs": -21.32,
+      "peak": 0.7395825386047363
+    },
+    "fr/16.3.2": {
+      "bytes": 99100,
+      "decoded_seconds": 6.121,
+      "rms_dbfs": -20.27,
+      "peak": 0.6337664723396301
+    },
+    "fr/16.4.1": {
+      "bytes": 141314,
+      "decoded_seconds": 8.761,
+      "rms_dbfs": -20.63,
+      "peak": 0.7074687480926514
+    },
+    "fr/16.4.2": {
+      "bytes": 159704,
+      "decoded_seconds": 9.917,
+      "rms_dbfs": -21.92,
+      "peak": 0.8695073127746582
+    },
+    "fr/17.1.1": {
+      "bytes": 117490,
+      "decoded_seconds": 7.28,
+      "rms_dbfs": -19.38,
+      "peak": 0.8234845995903015
+    },
+    "fr/17.1.2": {
+      "bytes": 149673,
+      "decoded_seconds": 9.28,
+      "rms_dbfs": -20.42,
+      "peak": 0.8375649452209473
+    },
+    "fr/17.1.3": {
+      "bytes": 181438,
+      "decoded_seconds": 11.28,
+      "rms_dbfs": -20.5,
+      "peak": 0.8074179887771606
+    },
+    "fr/17.2.1": {
+      "bytes": 168899,
+      "decoded_seconds": 10.48,
+      "rms_dbfs": -21.44,
+      "peak": 0.7945099472999573
+    },
+    "fr/17.2.2": {
+      "bytes": 332739,
+      "decoded_seconds": 20.72,
+      "rms_dbfs": -21.57,
+      "peak": 0.7347774505615234
+    },
+    "fr/17.3.1": {
+      "bytes": 142986,
+      "decoded_seconds": 8.881,
+      "rms_dbfs": -20.45,
+      "peak": 0.6985163688659668
+    },
+    "fr/17.3.2": {
+      "bytes": 190633,
+      "decoded_seconds": 11.84,
+      "rms_dbfs": -21.46,
+      "peak": 0.698082447052002
+    },
+    "fr/17.4.1": {
+      "bytes": 149673,
+      "decoded_seconds": 9.281,
+      "rms_dbfs": -22.08,
+      "peak": 0.7183485627174377
+    },
+    "fr/17.4.2": {
+      "bytes": 280076,
+      "decoded_seconds": 17.438,
+      "rms_dbfs": -21.39,
+      "peak": 0.7417124509811401
+    },
+    "fr/18.1.1": {
+      "bytes": 66499,
+      "decoded_seconds": 4.079,
+      "rms_dbfs": -19.2,
+      "peak": 0.8637552261352539
+    },
+    "fr/18.1.2": {
+      "bytes": 132955,
+      "decoded_seconds": 8.241,
+      "rms_dbfs": -21.09,
+      "peak": 0.8310225605964661
+    },
+    "fr/18.1.3": {
+      "bytes": 230339,
+      "decoded_seconds": 14.32,
+      "rms_dbfs": -21.41,
+      "peak": 0.8330731987953186
+    },
+    "fr/18.1.4": {
+      "bytes": 217382,
+      "decoded_seconds": 13.519,
+      "rms_dbfs": -21.1,
+      "peak": 0.8562760353088379
+    },
+    "fr/18.2.1": {
+      "bytes": 140478,
+      "decoded_seconds": 8.721,
+      "rms_dbfs": -20.86,
+      "peak": 0.8103365302085876
+    },
+    "fr/18.2.2": {
+      "bytes": 236608,
+      "decoded_seconds": 14.72,
+      "rms_dbfs": -21.45,
+      "peak": 0.8585866689682007
+    },
+    "fr/18.2.3": {
+      "bytes": 186871,
+      "decoded_seconds": 11.6,
+      "rms_dbfs": -16.61,
+      "peak": 0.8826782703399658
+    },
+    "fr/18.2.4": {
+      "bytes": 252073,
+      "decoded_seconds": 15.68,
+      "rms_dbfs": -20.52,
+      "peak": 0.8417764902114868
+    },
+    "fr/18.3.1": {
+      "bytes": 273807,
+      "decoded_seconds": 17.04,
+      "rms_dbfs": -20.3,
+      "peak": 0.8310492038726807
+    },
+    "fr/18.3.2": {
+      "bytes": 137970,
+      "decoded_seconds": 8.56,
+      "rms_dbfs": -21.07,
+      "peak": 0.8558603525161743
+    },
+    "fr/18.3.3": {
+      "bytes": 85725,
+      "decoded_seconds": 5.28,
+      "rms_dbfs": -22.15,
+      "peak": 0.6936573386192322
+    },
+    "fr/18.4.1": {
+      "bytes": 216128,
+      "decoded_seconds": 13.44,
+      "rms_dbfs": -21.83,
+      "peak": 0.6827086210250854
+    },
+    "fr/18.4.2": {
+      "bytes": 111221,
+      "decoded_seconds": 6.879,
+      "rms_dbfs": -21.09,
+      "peak": 0.8013813495635986
+    },
+    "fr/18.4.3": {
+      "bytes": 89487,
+      "decoded_seconds": 5.521,
+      "rms_dbfs": -21.01,
+      "peak": 0.6796059608459473
+    },
+    "fr/18.4.4": {
+      "bytes": 198156,
+      "decoded_seconds": 12.32,
+      "rms_dbfs": -21.3,
+      "peak": 0.7800024747848511
+    },
+    "fr/opening.1": {
+      "bytes": 127939,
+      "decoded_seconds": 7.919,
+      "rms_dbfs": -17.12,
+      "peak": 0.8268908858299255
+    },
+    "fr/opening.2": {
+      "bytes": 129193,
+      "decoded_seconds": 8.001,
+      "rms_dbfs": -17.87,
+      "peak": 0.8659051656723022
+    },
+    "fr/opening.3": {
+      "bytes": 140478,
+      "decoded_seconds": 8.719,
+      "rms_dbfs": -18.16,
+      "peak": 0.8829053640365601
+    },
+    "fr/opening.4": {
+      "bytes": 28047,
+      "decoded_seconds": 1.681,
+      "rms_dbfs": -21.38,
+      "peak": 0.8433037400245667
+    },
+    "fr/opening.5": {
+      "bytes": 163466,
+      "decoded_seconds": 10.16,
+      "rms_dbfs": -17.44,
+      "peak": 0.8444088697433472
+    }
+  },
+  "subjective_listening_review": "Hindi Krishna preview 2 approved by user; full multilingual listening and native-editor review not performed",
+  "device_testing": "not performed"
+}

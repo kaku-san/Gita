@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "9048d876744d420e33770af2fee88ed4b941cc78ab1d2d2175db4f2f74380cf6",
+  "submitted_at": "2026-09-09T11:13:29.654702+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "अर्जुन, आगे सुनो। मैं तुम्हारे कल्याण के लिए कह रहा हूँ। मैं वह स्रोत हूँ जिससे सब कुछ उत्पन्न होता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो इसे पहचानते हैं, वे प्रेम से मेरी ओर मुड़ते हैं। साथ मिलकर मेरा स्मरण करते हुए वे आनंद पाते हैं। जो प्रेम से मेरी भक्ति करते हैं, उन्हें मैं वह विवेक देता हूँ जो उन्हें मेरी ओर ले आता है; ज्ञान के प्रकाश से मैं उनके अज्ञान का अंधकार दूर करता हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "तुम जो बताते हो, मैं उसे स्वीकार करता हूँ। केवल तुम स्वयं को पूरी तरह जानते हो। अपनी उपस्थिति के वे रूप बताओ जिनसे मैं तुम्हारा स्मरण करता रह सकूँ।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मैं प्राणियों के हृदय में स्थित आत्मा हूँ, उनका आदि, मध्य और अंत हूँ। प्रकाशों में सूर्य की आभा देखो; इंद्रियों में मन; जीवित प्राणियों में चेतना।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "हिमालय में, पवित्र अक्षर में, पीपल के वृक्ष में, गंगा में और सिंह के बल में मेरी अभिव्यक्तियाँ पहचानो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैं काल भी हूँ, ज्ञान भी, स्मृति भी और वे शक्तियाँ भी जिनसे जीवन विकसित होता है। ये तुम्हारा ध्यान मेरी ओर मोड़ने के मार्ग हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "इन अभिव्यक्तियों का कोई अंत नहीं है। जिसमें भी वैभव, सौंदर्य या शक्ति है, वह मेरे तेज के एक अंश से जन्मा है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "लेकिन उदाहरण बढ़ाते जाने की क्या आवश्यकता है? अपने एक अंश से मैं इस पूरे ब्रह्मांड को धारण करता हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैंने तुम्हारा वर्णन सुना है। क्या मैं देख सकता हूँ?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "10.1.1",
+      "filename": "hi/10.1.1.mp3",
+      "textSha256": "b8c542e3908666bbc3c25991fd0d22a86e5cbcfa7e40a8b982ea22d9417f15a3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.1.2",
+      "filename": "hi/10.1.2.mp3",
+      "textSha256": "19566fccd295013688d61be4a0605de4d3f60eb079fde35a921102d0188e469a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.2.1",
+      "filename": "hi/10.2.1.mp3",
+      "textSha256": "00a45190ba7df045be15c0ddd8107620587619c9d870b178323aea2a2ddf77d7",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "10.2.2",
+      "filename": "hi/10.2.2.mp3",
+      "textSha256": "41aa03c10102b6be1022e3b4549cfd89a3be3eb669b59d480f6f2639e4e4b136",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.1",
+      "filename": "hi/10.3.1.mp3",
+      "textSha256": "5a8ac239b566997948ef255c84ce2ad138b19d3b75cb64cfe9691a961cc0f884",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.2",
+      "filename": "hi/10.3.2.mp3",
+      "textSha256": "d08eb61f92bc40951dab977b99cf3589a70b74c63d59dca51887aac6bed61e8b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.1",
+      "filename": "hi/10.4.1.mp3",
+      "textSha256": "fad40908b4f5dc3fd32bd358d876fc29fca5f93b1a7934b4c81c93cbd78e36c1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.2",
+      "filename": "hi/10.4.2.mp3",
+      "textSha256": "effa73b5bf7688253e014c1a1ca841bd9ff3ba234e8836a62a2d88f6c055b7af",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.3",
+      "filename": "hi/10.4.3.mp3",
+      "textSha256": "cdbdab5e62124c60546fcb238a5f0a8c19de202f6be5f0d31537e5d39b6a02a2",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "624",
+  "request_id": "HtKWi6a0NaRZ5JGZoqQ9",
+  "master_sha256": "6356d8f162854a55b90b3f6fa5f853972a44b0333942f2acdb2e348a8ca6455b"
+}

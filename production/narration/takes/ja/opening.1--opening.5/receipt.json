@@ -1,0 +1,68 @@
+{
+  "status": "generated",
+  "fingerprint": "de00a1a3cb1979b270126c6e67f4ec15bb1c19fb5978df2d696c053563d0cbec",
+  "submitted_at": "2026-09-09T11:32:01.441762+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "パーンダヴァとカウラヴァがクルクシェートラで向かい合っています。両陣営には、親族も師も友人もいます。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "王子にして弓の名手。戦う覚悟で来た彼は、目の前に立つ人々を見て迷い始めます。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "友であり、御者であり、導き手。力だけでは正しい道が見えなくなったとき、アルジュナは彼に問いかけます。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "戦いの前に交わされた対話。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "アルジュナはクリシュナに、戦車を両軍の間へ進めるよう頼みます。戦いを前に、二人の対話が始まります。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "opening.1",
+      "filename": "ja/opening-1.mp3",
+      "textSha256": "6c688317468bc3ddf225a63f6bb2414a3f8825a51aa6da9274ba65925ecb1759",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.2",
+      "filename": "ja/opening-2.mp3",
+      "textSha256": "649e4fec1838d95e80c96e665312b6178afb5de088cc1b827b8ef4a0713d37de",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.3",
+      "filename": "ja/opening-3.mp3",
+      "textSha256": "c84ef1e02e8288e388431be314c9c0fb0ddb4031c628a98d18833a3210708cc3",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.4",
+      "filename": "ja/opening-4.mp3",
+      "textSha256": "dc677594494e314202657424a8f7cce7aef8c77a538aaeb6bf69bf6eeb0f3588",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.5",
+      "filename": "ja/opening-5.mp3",
+      "textSha256": "7d47a8259114716688249427b2840830de328856baaded46fa4bc5f17f4509bd",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "110",
+  "request_id": "VO3VVd1v9UUFhQ3zNkGv",
+  "master_sha256": "3c9b5f5e0e2029a827fc70ced852b39ab18e6838ab69a49e6009708c14217840"
+}

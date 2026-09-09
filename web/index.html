@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#101411">
+<meta name="description" content="Enter the world of Geeta. An immersive, multilingual retelling of Krishna and Arjun's conversation, with Sanskrit shlokas and space to reflect.">
+<title>GITA · Between two armies</title>
+<link rel="stylesheet" href="./fonts/fonts.css?v=10">
+<link rel="stylesheet" href="./style.css?v=10">
+<link rel="stylesheet" href="./experience/opening-credits.css?v=10">
+<link rel="stylesheet" href="./experience/ending.css?v=10">
+<link rel="stylesheet" href="./experience.css?v=10">
+<link rel="stylesheet" href="./experience/podcast.css?v=12">
+<link rel="modulepreload" href="./world.js">
+<link rel="stylesheet" href="./experience/arrival.css?v=14">
+<style>.at-intro #experience-ui,.is-loading #experience-ui{visibility:hidden!important;pointer-events:none!important}</style>
+</head>
+<body data-mode="read" class="at-intro">
+<div id="viewport"><canvas id="stage" tabindex="0" aria-label="The world of Geeta. Drag to turn, scroll or pinch to zoom."></canvas></div>
+<div class="screen-shade" aria-hidden="true"></div>
+<section id="language-gate" lang="en" aria-labelledby="language-title">
+ <p class="wordmark">GITA</p><h1 id="language-title">Choose your language</h1>
+ <nav id="language-options" aria-label="Language">
+  <button type="button" data-start-language="en" disabled>English</button><button type="button" data-start-language="hi" disabled>Hindi</button><button type="button" data-start-language="ja" disabled>Japanese</button><button type="button" data-start-language="zh-Hans" disabled>Chinese</button><button type="button" data-start-language="fr" disabled>French</button>
+ </nav><div id="arrival-status" role="status" aria-live="polite"><p id="arrival-message">Preparing the journey…</p><progress id="arrival-progress" aria-label="Loading"></progress><button id="arrival-retry" type="button" hidden>Try again</button></div>
+</section>
+<section id="intro" hidden inert aria-labelledby="intro-title">
+  <div class="intro-top"><span lang="en" class="wordmark" data-wordmark>GITA</span><label for="intro-language" class="language-choice"><span id="intro-language-label">Choose your language</span><select id="intro-language"><option value="en">English</option><option value="hi">हिन्दी</option><option value="ja">日本語</option><option value="zh-Hans">简体中文</option><option value="fr">Français</option></select></label></div>
+  <div class="intro-scroll"><div class="intro-copy"><p class="kicker" id="intro-kicker">GEETA</p><h1 id="intro-title" tabindex="-1">Arjun lowers his bow.</h1><p id="intro-body">Between two armies, he sees family, teachers and friends among those he must fight. He turns to Krishna.</p>
+
+
+  <nav id="intro-mode" aria-label="Experience mode"><button id="intro-mode-listen" aria-pressed="false">Listen</button><button id="intro-mode-read" aria-pressed="true">Read</button></nav>
+  <div class="entry-actions"><button id="enter" class="entry-button" disabled><span id="enter-label">Enter the story</span><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></button><button id="restart" class="text-button" hidden>Begin again</button></div><div class="intro-sound"><label><input type="checkbox" id="intro-sound" checked><span id="intro-sound-label">Battlefield sound</span></label></div><details id="intro-notes"><summary id="intro-about">About this retelling</summary><p id="intro-framing">Arjun and Krishna enter the space between two armies. The story begins with Arjun’s dilemma.</p><ul id="intro-disclaimers"></ul><a id="intro-source" href="https://vedabase.io/en/library/bg/" target="_blank" rel="noopener noreferrer">Bhagavad Gita · Source</a></details><details class="project-credits" data-project-credits></details><p id="intro-status" role="status"></p><button id="intro-retry" type="button" hidden>Try again</button>
+  </div></div><div class="intro-foot"><span id="intro-meta">18 CHAPTERS · FIVE LANGUAGES</span><span id="loading" role="status">Preparing the scene…</span></div>
+</section>
+<section id="preparation" hidden tabindex="-1" aria-busy="true" aria-label="Geeta">
+  <div class="preparation-mark" lang="en" data-wordmark aria-hidden="true">GITA</div><p role="status" aria-live="polite"></p><progress aria-label="Loading"></progress>
+  <nav hidden><button data-retry>Try again</button><button data-back>Back</button></nav>
+</section>
+<div id="experience-ui" inert>
+  <header id="masthead"><button id="home" class="wordmark" lang="en" data-wordmark aria-label="Introduction">GITA</button><button id="chapter-trigger" aria-haspopup="dialog"><span id="chapter-number"></span><span id="chapter-title"></span></button><button id="menu-open" class="menu-button" aria-haspopup="dialog" aria-label="Menu"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 8h16M4 16h16"/></svg><span id="menu-label">Menu</span></button></header>
+  <main id="reading-panel" class="conversation-page">
+  <div class="passage-heading">
+    <p id="scene-title" class="eyebrow"></p>
+    <div class="speaker-line">
+      <button id="speaker" aria-haspopup="dialog"></button>
+      <span id="speaker-role"></span>
+    </div>
+    <p id="speaker-context"></p>
+  </div>
+  <div id="reading-scroll">
+    <div id="dialogue-view"><p id="line" class="dialogue" aria-live="polite" aria-atomic="true"></p></div>
+  </div>
+
+</main>
+  <section id="opening-film" hidden aria-label="Opening credits" data-phase="faceoff">
+    <p id="credits-loading" role="status" hidden></p>
+    <div class="film-letterbox" aria-hidden="true"></div>
+    <div id="faceoff-types" aria-hidden="true"><span id="clan-pandavas"></span><span id="clan-kauravas"></span><i class="faceoff-seam"></i></div>
+    <div id="opening-identity" aria-hidden="true" hidden><span id="opening-clans"></span><strong id="opening-name"></strong><span id="opening-role"></span></div>
+    <div id="credits-wordmark" aria-hidden="true"><strong lang="en" data-wordmark>GITA</strong><span>G E E T A</span><p id="credits-subtitle"></p></div>
+    <section id="opening-caption" hidden aria-live="polite" aria-atomic="true"><div id="opening-copy"><h1 id="opening-title"></h1><p id="opening-text" class="dialogue"></p></div></section>
+    <div id="opening-controls" class="transport" hidden><button id="opening-play" class="play-button" aria-label="Pause opening"><svg aria-hidden="true" viewBox="0 0 24 24"><path id="opening-play-icon" hidden d="m9 5 10 7-10 7z"/><path id="opening-pause-icon" d="M8 5v14M16 5v14"/></svg></button><button id="opening-next" class="icon-button" aria-label="Continue"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m10 5 7 7-7 7"/></svg></button><button id="skip-opening" class="text-button">Go to the conversation</button></div>
+    <div class="opening-timeline" aria-hidden="true"><i id="opening-progress"></i></div>
+  </section>
+  <section id="ending-film" hidden aria-label="The end of the conversation">
+    <p id="ending-last-words" class="dialogue"></p>
+    <div class="ending-scroll"><div class="ending-content">
+      <div class="ending-title-group"><h1 id="ending-title" tabindex="-1" aria-label="Geeta"><span lang="en" data-wordmark>GITA</span><small aria-hidden="true">GEETA</small></h1><p id="ending-reflection">What will you carry with you?</p></div>
+      <nav id="ending-actions" hidden inert><button id="ending-chapters">Revisit chapters</button><button id="ending-stay">Stay on the field</button><button id="ending-restart">Begin again</button></nav><details class="project-credits" data-project-credits></details>
+    </div></div>
+    <div id="ending-controls"><button id="ending-pause">Pause ending</button><button id="ending-skip">Show ending</button></div>
+  </section>
+  <aside id="source-panel" hidden aria-labelledby="source-title"><div class="source-heading"><h2 id="source-title"></h2><button id="source-close" class="close-button" aria-label="Back to the experience">×</button></div><p id="source-range" class="eyebrow"></p><nav id="reading-tabs" aria-label="Passage view"><button data-reading="shloka" id="tab-shloka" aria-pressed="true">Original shloka</button><button data-reading="meaning" id="tab-meaning" aria-pressed="false">Meaning</button></nav><div id="source-scroll"><div id="shloka-view"><nav class="verse-navigation"><button id="verse-back" class="icon-button" aria-label="Previous verse">‹</button><label><span id="verse-label">Verse</span><select id="verse-select"></select></label><button id="verse-next" class="icon-button" aria-label="Next verse">›</button></nav><p id="verse-ref" class="eyebrow"></p><p id="verse" lang="sa"></p></div><div id="meaning-view" hidden></div><a id="source-link" target="_blank" rel="noopener noreferrer"></a></div></aside>
+  <div id="scene-tools"><button id="ending-reopen" class="scene-tool" hidden>Return to ending</button><button id="camera-reset" class="scene-tool" hidden>Return to the chariot</button><button id="look-toggle" class="scene-tool" aria-expanded="false">Look around</button></div>
+  <div id="camera-guide" hidden><div class="view-buttons"><button data-camera="conversation" id="view-front">Face to face</button><button data-camera="side" id="view-side">Beside the chariot</button><button data-camera="wide" id="view-wide">The whole field</button></div><div class="camera-arrows" aria-label="Move camera"><button data-pan="left" aria-label="Move left">←</button><button data-pan="forward" aria-label="Move forward">↑</button><button data-pan="back" aria-label="Move back">↓</button><button data-pan="right" aria-label="Move right">→</button></div></div>
+  <footer id="journey-dock"><nav id="mode-switch" aria-label="Experience mode"><button id="mode-read" aria-pressed="true">Read</button><button id="mode-listen" aria-pressed="false"><span id="listen-label">Listen</span><small id="listen-pending" hidden>Soon</small></button></nav><div id="transport-slot"><div id="read-controls" class="transport"><button id="back" class="icon-button" aria-label="Previous passage"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m14 5-7 7 7 7"/></svg></button><button id="read-play" class="play-button" aria-label="Play reading"><svg aria-hidden="true" viewBox="0 0 24 24"><path id="read-play-icon" d="m9 5 10 7-10 7z"/><path id="read-pause-icon" hidden d="M8 5v14M16 5v14"/></svg></button><button id="next" class="icon-button" aria-label="Next passage"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m10 5 7 7-7 7"/></svg><span class="finish-label" hidden>Finish</span></button><div class="passage-meta"><span id="count"></span><span class="passage-progress"><i id="read-progress"></i></span></div></div>
+  <section id="listen-panel" hidden aria-label="Playback"><div class="transport"><button id="audio-back" class="icon-button" aria-label="Previous passage"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m14 5-7 7 7 7"/></svg></button><button id="play" class="play-button" aria-label="Play narration"><svg id="play-icon" aria-hidden="true" viewBox="0 0 24 24"><path d="m9 5 10 7-10 7z"/></svg><svg id="pause-icon" hidden aria-hidden="true" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></svg></button><button id="audio-next" class="icon-button" aria-label="Next passage"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m10 5 7 7-7 7"/></svg><span class="finish-label" hidden>Finish</span></button><div class="audio-timeline"><span id="elapsed">0:00</span><input id="audio-seek" type="range" min="0" max="100" value="0" step=".1" aria-label="Narration position" disabled><span id="duration">0:00</span></div></div></section>
+  </div><button id="source-toggle" class="source-button" aria-expanded="false">Shloka & meaning</button></footer>
+  <div id="listen-notice" hidden><p id="audio-status" role="status"></p><button id="listen-read" class="text-button">Read the story</button></div>
+  <div id="scene-error" hidden role="status"><p id="error-text"></p><button id="reload">Reload scene</button><button id="dismiss-error">Keep reading</button></div><button id="show-controls" class="sr-only">Show playback controls</button>
+</div>
+<dialog id="menu" aria-labelledby="menu-title"><div class="sheet-top"><h1 id="menu-title">The journey</h1><button data-close="menu" class="close-button" aria-label="Close">×</button></div><nav class="menu-sections"><button data-menu="chapters" id="menu-chapters" aria-pressed="true">Chapters</button><button data-menu="settings" id="menu-settings" aria-pressed="false">Sound & movement</button><button data-menu="about" id="menu-about" aria-pressed="false">Introduction</button></nav><section id="menu-chapters-view"><nav id="chapter-list" aria-label="Chapters"></nav></section><section id="menu-settings-view" class="settings-content" hidden>
+<label class="setting-row" for="language"><span id="language-label">Language</span><select id="language"><option value="en">English</option><option value="hi">हिन्दी</option><option value="ja">日本語</option><option value="zh-Hans">简体中文</option><option value="fr">Français</option></select></label>
+<label class="setting-row" for="ambience"><span id="ambience-label">Battlefield sound</span><input id="ambience" type="checkbox" checked></label>
+<label class="setting-row" for="volume"><span id="volume-label">Battlefield volume</span><input id="volume" type="range" min="0" max="1" step=".05" value=".65"></label>
+<label class="setting-row" for="lighting"><span id="lighting-label">Light</span><select id="lighting"><option value="story">Follow the story</option><option value="dawn">Dawn</option><option value="day">Day</option><option value="dusk">Dusk</option><option value="night">Night</option></select></label>
+<label class="setting-row" for="motion"><span id="motion-label">Hold camera still</span><input id="motion" type="checkbox"></label>
+<label class="setting-row" for="pause-scene"><span id="pause-label">Pause scene</span><input id="pause-scene" type="checkbox"></label>
+<label class="setting-row" for="read-pace"><span id="read-pace-label">Reading pace</span><select id="read-pace"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.15">1.15×</option></select></label><button id="dialogue-toggle" class="text-button">Hide dialogue</button><label class="setting-row" for="speed"><span id="speed-label">Listening speed</span><select id="speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.15">1.15×</option><option value="1.3">1.3×</option></select></label><p id="settings-status" class="small-note" role="status"></p>
+</section><section id="menu-about-view" hidden><p id="menu-framing"></p><button id="meet-voices" class="text-button">The voices in this story</button><ul id="menu-disclaimers"></ul><details class="project-credits" data-project-credits></details><button id="replay-opening" class="entry-button">Watch the opening</button><button id="back-to-intro" class="text-button">Introduction</button></section></dialog>
+<dialog id="people" aria-labelledby="people-title"><div class="sheet-top"><h1 id="people-title">The voices in this story</h1><button data-close="people" class="close-button" aria-label="Close">×</button></div><div id="people-content"></div></dialog>
+<noscript><div class="no-js"><h1>Geeta</h1><p>Krishna and Arjun meet between two armies. Their conversation becomes the Bhagavad Gita.</p><p>Enable JavaScript to read the adaptation and explore its world.</p><a href="https://vedabase.io/en/library/bg/">Read the Bhagavad Gita</a></div></noscript><script type="module" src="./app.js?v=14"></script>
+</body></html>

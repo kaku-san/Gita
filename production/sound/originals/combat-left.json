@@ -1,0 +1,18 @@
+{
+  "file": "combat-left.mp3",
+  "requested_at": "2026-09-09T10:32:21.340288+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "Several varied steel sword strikes against shields, brief scuffling feet on dry earth, leather armour creaks, a few wordless human exertions, outdoor melee twenty metres away. Natural, irregular pacing. No guns, no explosions, no music, no intelligible speech.",
+    "duration_seconds": 12,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "132",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 193141,
+  "sha256": "b91779facdd219acae2fecdf505789e1f3fdf1c3b5e2d5d816d42361529f50f7"
+}

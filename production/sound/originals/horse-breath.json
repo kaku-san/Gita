@@ -1,0 +1,18 @@
+{
+  "file": "horse-breath.mp3",
+  "requested_at": "2026-09-09T10:32:56.385109+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "One calm horse close by, a breath, soft snort and quiet bridle movement, outdoors, natural animal recording, no music, no speech, no cartoon exaggeration.",
+    "duration_seconds": 5,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "55",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 81128,
+  "sha256": "e352283d10a38dda435ee96c264069b1445b63a9206e013019e0b1dbc3b2c6f1"
+}

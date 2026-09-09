@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "4f0534087f22a6f770ebef13822bc6d22b9d673ce2132773d7b75f0cd3c39cd4",
+  "submitted_at": "2026-09-09T11:28:42.471590+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Qui est le plus fermement établi dans le yoga : ceux qui t’adorent avec dévotion, ou ceux qui contemplent la réalité impérissable et non manifestée ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Ceux dont l’esprit repose en moi et qui m’adorent avec une foi constante sont profondément unis dans le yoga. Ceux qui suivent le non-manifesté atteignent aussi le but, bien que cette voie soit plus difficile pour les êtres incarnés.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Pour ceux qui me sont dévoués, je deviens celui qui les délivre de l’océan des naissances et des morts.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Place en moi ton esprit et ta compréhension. Si tu ne peux pas encore demeurer stable, exerce-toi à revenir.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Si cette pratique est difficile, accomplis ton travail pour moi. Si tu ne parviens même pas à cela, abandonne l’attachement possessif aux fruits de l’action et discipline-toi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La paix se trouve dans ce renoncement.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "M’est cher celui qui ne hait pas, qui est amical et compatissant, libre de possessivité et de l’importance qu’il s’accorde, patient et stable.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Une telle personne ne trouble pas inutilement le monde et n’est pas constamment gouvernée par les troubles du monde. La dévotion façonne sa manière de vivre parmi les autres.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Apprends la stabilité dans l’honneur et le déshonneur, les éloges et les reproches, le confort et la douleur. Renonce à exiger que tout te soit favorable.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ceux qui suivent avec foi cet enseignement qui donne la vie, en faisant de moi leur but suprême, me sont profondément chers.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "12.1.1",
+      "filename": "fr/12.1.1.mp3",
+      "textSha256": "6a153f4e0907aa36c16c0dfeb7b2a91a68a8c7187bb2b153a7fe71f79dbd654b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "12.1.2",
+      "filename": "fr/12.1.2.mp3",
+      "textSha256": "c8be45e157634f66246cd9eff1d412bf2797c785c385a66b985952eaedbd9c5a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.1.3",
+      "filename": "fr/12.1.3.mp3",
+      "textSha256": "f655a40a0ec279cc4b29c76e42ca8ffde90fd8be340c0b01dc7fae2db116e8bd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.1",
+      "filename": "fr/12.2.1.mp3",
+      "textSha256": "ce4d9de9b3e048c38346708f587de29a52c61d362f45838d46f7f5a2a9105631",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.2",
+      "filename": "fr/12.2.2.mp3",
+      "textSha256": "529c24db351d43afea1e9a72497a85a03c05c72bff085e860dc8d569bb3b2ba3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.3",
+      "filename": "fr/12.2.3.mp3",
+      "textSha256": "582dc8c85a315c4f4f58e07d2568333da3a54dfdce5dadcde0f7e0a17f0edcde",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.1",
+      "filename": "fr/12.3.1.mp3",
+      "textSha256": "78a169ce075b019f757e7c70b667cacb9ab0ab54b194378396d5bd9c04026a30",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.2",
+      "filename": "fr/12.3.2.mp3",
+      "textSha256": "eba3fea62cf79437611521976c580f248976e2ad0bfbecd82720f2fd35923f4b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.1",
+      "filename": "fr/12.4.1.mp3",
+      "textSha256": "3dcd75457fcf446b85650a57c079e720d8574601ee9edaf4aff0adb19ac70aea",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.2",
+      "filename": "fr/12.4.2.mp3",
+      "textSha256": "b5a9702acbab282a151a7da89d5f4be45a5aa7a14c14aa5f8d72bf23341a0ec4",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "770",
+  "request_id": "F5WPLKZoA95etg3qq2Qg",
+  "master_sha256": "b49444db25ed3b9016f301c8f5e181d1ad8e68fc9f2890e818a3878f5b03497d"
+}

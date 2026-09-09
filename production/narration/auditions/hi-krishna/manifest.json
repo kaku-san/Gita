@@ -1,0 +1,34 @@
+{
+  "model": "eleven_ttv_v3",
+  "source_passages": [
+    "2.2.2",
+    "2.2.3"
+  ],
+  "characters": 268,
+  "previews": [
+    {
+      "file": "Krishna-Hindi-1.mp3",
+      "generated_voice_id": "YXvdbJ2iUdIyEUwbZQyj",
+      "duration_secs": 33.308875,
+      "language": "hi",
+      "bytes": 532942
+    },
+    {
+      "file": "Krishna-Hindi-2.mp3",
+      "generated_voice_id": "hRHid0k1FJN4S80Kbs5m",
+      "duration_secs": 29.468875,
+      "language": "hi",
+      "bytes": 471502
+    },
+    {
+      "file": "Krishna-Hindi-3.mp3",
+      "generated_voice_id": "K3B18WiHaPXdggp1SFai",
+      "duration_secs": 32.21175,
+      "language": "hi",
+      "bytes": 515388
+    }
+  ],
+  "approved": false,
+  "date": "2026-09-09",
+  "status": "Awaiting user audition; generated preview IDs are not saved production voice IDs."
+}

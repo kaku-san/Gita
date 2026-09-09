@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "55c51486b2e29282af0df7994a11fdefadd3a97022044cb38efa07ef3c3ee570",
+  "submitted_at": "2026-09-09T11:18:35.650174+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "प्रकृति के तीन गुण अविनाशी आत्मा को शरीरधारी जीवन से बाँधते हैं। ये हैं सत्त्व, रजस् और तमस्।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "सत्त्व प्रकाश और स्पष्टता लाता है, फिर भी सुख और ज्ञान की आसक्ति से बाँधता है। रजस् लालसा और बेचैन सक्रियता लाता है, और कर्म के माध्यम से बाँधता है। तमस् लापरवाही, जड़ता और नींद से समझ को ढक देता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "गुण एक-दूसरे के संबंध में प्रबल होते और घटते हैं। स्पष्टता सत्त्व का संकेत है; लोभ और निरंतर दौड़-धूप रजस् का; भ्रम और उपेक्षा तमस् के संकेत हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उनका प्रभाव आचरण और उसके परिणामों को आकार देता है, आगे के जन्मों की गति को भी। पहचानना सीखो कि तुम्हारे भीतर क्या प्रबल हो रहा है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो इन गुणों से परे चला गया हो, वह कैसा व्यवहार करता है? वह इन्हें कैसे पार कर सकता है?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "ऐसा व्यक्ति स्पष्टता, सक्रियता या भ्रम के आने पर उनसे द्वेष नहीं करता, और उनके चले जाने पर उन्हें पाने की लालसा भी नहीं करता। वह गुणों को काम करते हुए पहचानता है और स्थिर रहता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "वह सुख-दुख, प्रशंसा-निंदा, मित्रता-वैर या हर काम को अहंकार की संपत्ति बना लेने की आवश्यकता से कम बँधा होता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो अडिग भक्ति से मेरी सेवा करता है, वह तीनों गुणों से पार होकर ब्रह्म को पाने के योग्य बनता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैं अविनाशी ब्रह्म का, अमरत्व का, सनातन धर्म का और पूर्ण सुख का आधार हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "14.1.1",
+      "filename": "hi/14.1.1.mp3",
+      "textSha256": "35c39bb1bdb7ca84a181c32ad467093df0a52d009ec36d8b39ee533df440df78",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.1.2",
+      "filename": "hi/14.1.2.mp3",
+      "textSha256": "4af0a719fdde7b1e8be9951aa4b754e1a231bc7913073ec2543c81ebeda8e424",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.1",
+      "filename": "hi/14.2.1.mp3",
+      "textSha256": "76f5b997ef2404e897bca7f00bfe271f330b150c54b4f76ff2da02fccf40d19f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.2",
+      "filename": "hi/14.2.2.mp3",
+      "textSha256": "71b13c8052b9a4b3ed4acb6515fd720bda450d60b7e2e5877e3788e21e63b16c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.1",
+      "filename": "hi/14.3.1.mp3",
+      "textSha256": "2cca645827b4885e8a5caf712d016c137534a9aff0e40538317515ada9954e7a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "14.3.2",
+      "filename": "hi/14.3.2.mp3",
+      "textSha256": "25041fa6d3484f31cd484d7dc21c34c156abbae0db6e7d9f817403be1b4ed123",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.3",
+      "filename": "hi/14.3.3.mp3",
+      "textSha256": "984f115bf7a1df90e99f4e2a738d8070c8dc08d6193c1d2cf3a4a57410c23aa6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.1",
+      "filename": "hi/14.4.1.mp3",
+      "textSha256": "4de28b8ed66f6d7b2e623824e988b1c2c7e408439e5f1e76141c4c1028f73a88",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.2",
+      "filename": "hi/14.4.2.mp3",
+      "textSha256": "e985bddd9e3e87f2a87d06252656dce62a6786e3fdddaa55ab2250d0cef195af",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "610",
+  "request_id": "RBvYf9J50VI8Lq3cgzU4",
+  "master_sha256": "57efe36d74bbd7d1e833bcfb2e895c7fba105cffe97cac3f00b15bcb74bd12dc"
+}

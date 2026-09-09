@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "e0f2c7a14706d16e1316a709c9008e03e677987dbf1ad1c30b6fe96a7248c5b6",
+  "submitted_at": "2026-09-09T11:22:52.371461+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "将你的心转向我，以我为归依来修行。听我说，你如何能够更完整地认识我。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "地、水、火、风、空间、心念、理解力，以及“我”的意识，属于我较低层面的本性。超出这一层面的，是维系世界的生命本原。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "万物都依托于我，如同珠子由一根线串起。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我是水中的滋味，日月的光明，吠陀中的神圣声音。我是大地的芬芳，也是众生的生命。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我是不受渴求和执著污染的力量。自然借以显现的种种性质，都从我而来，却不能涵盖我的全部。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "人们困于自然的种种性质，认不出超越它们的存在。这使万象显现的力量，称为摩耶，难以跨越。归依于我的人，能够渡过它。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "有人因痛苦而转向我，有人为求知，有人为求获益，也有人出于智慧。每一种转向都有意义。有智慧的虔信者，终将认识到：一切都依托于神。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "欲望常使敬拜指向某一种回报。但这样的回报，终有尽头。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "你眼下所能看见的，并不能穷尽我的真实。贪恋和厌恶，会遮蔽理解。摆脱它们的控制后，坚定的求道者便转向我，寻求从衰老与死亡中解脱。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "7.1.1",
+      "filename": "zh-Hans/7.1.1.mp3",
+      "textSha256": "1f1313eadcbc34efdef2025dcec6308be3e8bfb5286375859918c4b1e37c5031",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.2",
+      "filename": "zh-Hans/7.1.2.mp3",
+      "textSha256": "7253cafe2d0f9355f15c2eec5e272ccbe1eec3c1ddc88af48edc9b8f7027567e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.3",
+      "filename": "zh-Hans/7.1.3.mp3",
+      "textSha256": "cf9ed0615a2cefd289a095d79ace6ff36905a28fa2cc14efb1377e93cb9c9ecc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.1",
+      "filename": "zh-Hans/7.2.1.mp3",
+      "textSha256": "105046db51e1f415e0396b313583d65c107b1df812b2083c79e5fea18673a7ae",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.2",
+      "filename": "zh-Hans/7.2.2.mp3",
+      "textSha256": "195f62acec06ab607dbb20844abeac4b3d3890724a0db0a9c67576792008f268",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.1",
+      "filename": "zh-Hans/7.3.1.mp3",
+      "textSha256": "d6a4f017531367ee276a51f765814fc6cca45b2ab61f7fc54ff89e8c9441550f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.2",
+      "filename": "zh-Hans/7.3.2.mp3",
+      "textSha256": "dcd004daa4f5830e9dd3f43cc0c9e94cefa8bb70f9e454c104828da03729bebc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.1",
+      "filename": "zh-Hans/7.4.1.mp3",
+      "textSha256": "8b6c1a3dd8cfd8f22137814662a8608a43a972efc6035caea3888171aa7d305d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.2",
+      "filename": "zh-Hans/7.4.2.mp3",
+      "textSha256": "6e72f4e473f73e3005ee4a9a2cbdd52588c23b3320f8003398d61fab5778a3dd",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "220",
+  "request_id": "KHPAr9I1rEWouJVBie8J",
+  "master_sha256": "aff85d8a0a6a2cf7781a66e8c0633abc2e2a0274587621a336ce049275c94f34"
+}

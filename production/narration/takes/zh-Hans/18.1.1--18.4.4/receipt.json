@@ -1,0 +1,168 @@
+{
+  "status": "generated",
+  "fingerprint": "2fa4875e84d1d8a8f14bd525bfd4cf21ee8632225e1e66215adbb1a581bef8b9",
+  "submitted_at": "2026-09-09T11:34:43.567657+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "请清楚告诉我，舍离与放下之间，有什么区别？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "舍离，被理解为舍去由欲望驱使的行动。放下，则是舍去对行动果实的执著。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "祭献、布施与修持，不应轻易放弃。践行它们时，要放下占有之心，不强求回报。仅仅因为责任难以承担，就将它舍弃，并非最高的放下。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "一个行动，需要多种条件：它发生的处境、行动者、所用的工具、不同的努力，以及神圣的因素。把孤立的自我视为唯一原因，是看得不完整。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "知识，可以在众多生命中认出同一个长存的实在，也可以只看见他们彼此分离，或执著于一个片段，把它当成全部。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "行动、行动者、理解、决心与幸福，也都受三德塑造。起初令人愉快的，日后可能带来束缚；起初需要努力的，则可能引向清明。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "克里希纳立足于史诗中的社会秩序，讲述四种瓦尔那各自的职责。随后，他又引导阿周那，回到自己应当承担的责任。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "通过自身的工作，人能够敬拜众生由之生起的源头。自己的责任，即使做得不完美，也胜过把别人的责任做得出色。每一项事业，都有某种缺憾，如同火总伴着烟。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "求道者以净化的理解、自我约束、摆脱骄傲和占有之心，以及不再受渴求支配的内心，具备了趋入梵的条件。通过虔敬，人能够真正认识我。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "将你的行动奉献给我，归依于我。如果骄傲使你拒绝聆听，它会将你引入歧途；你自身的本性，仍会催促着你。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我已经向你展开这项教导。请充分思考。然后，依你的选择去行动。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "你是我所珍爱的，所以，再听一次我最深切的话。让你的心安住于我。虔敬于我，敬拜我，向我俯首。你会来到我这里；因为我珍爱你，所以向你作出这一承诺。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "放下一切达摩，只归依于我。我会使你从一切罪中解脱。不要悲伤。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "阿周那，你是否专心聆听了？无知所生的困惑，是否已经消除？",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "蒙你的恩典，我的困惑已经消散。我重新找回了理解。我已坚定，不再疑惑。我会遵照你的话去行动。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "18.1.1",
+      "filename": "zh-Hans/18.1.1.mp3",
+      "textSha256": "53587433012d4f57b237d6bf9fae1e5472e79be9243614367c9767bbdc840111",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "18.1.2",
+      "filename": "zh-Hans/18.1.2.mp3",
+      "textSha256": "9bef1bd41b44c7151416864219ab560017b8f4542cd7f7ee94ce7269be646495",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.3",
+      "filename": "zh-Hans/18.1.3.mp3",
+      "textSha256": "ccc509c602ebebf3d10d8d4f97a0f666bd95f5e733cced0089142a03ba1b6f79",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.4",
+      "filename": "zh-Hans/18.1.4.mp3",
+      "textSha256": "51f3c7822da24c8d3e5ee525597d79ef91b9fba5382ec46de53282bfb2fc22f6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.1",
+      "filename": "zh-Hans/18.2.1.mp3",
+      "textSha256": "f73e354db04a048d018c84e821e44540fe9aae23d0651b7db547ced175348641",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.2",
+      "filename": "zh-Hans/18.2.2.mp3",
+      "textSha256": "b62bf868d59de8011584184d35455f90834868a297c805690fb9c28c9be10db3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.3",
+      "filename": "zh-Hans/18.2.3.mp3",
+      "textSha256": "da7f9c6cc9096ab7b62ff72b49bf298aa2a8ed08081c3f80c129847663fb0906",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "18.2.4",
+      "filename": "zh-Hans/18.2.4.mp3",
+      "textSha256": "728743c94d5a9d773e963cf7884f5687fb05b6b23f47bced5b69c0c9d78c4640",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.1",
+      "filename": "zh-Hans/18.3.1.mp3",
+      "textSha256": "ad0efbfed9e35924ca874b2bb2321df3cde33699aab6ddd73b357c655fd8fa0c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.2",
+      "filename": "zh-Hans/18.3.2.mp3",
+      "textSha256": "0540aa49ba96b360c1b2aad1e124377530e060bd67b007b9977b491fc09ffe7e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.3",
+      "filename": "zh-Hans/18.3.3.mp3",
+      "textSha256": "b2e68fd860eee3236d668978d17769279d87aeeba8107827ec021def1562154c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.1",
+      "filename": "zh-Hans/18.4.1.mp3",
+      "textSha256": "20b8b2d577c2960298783f1463b6c0a35998c4e2656157800b28507d085d6e6b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.2",
+      "filename": "zh-Hans/18.4.2.mp3",
+      "textSha256": "97e68d0d8dfd5e1c6f90859bcae1da4bc46debe119e0c1cc0993c28c78b645c9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.3",
+      "filename": "zh-Hans/18.4.3.mp3",
+      "textSha256": "a8c95e51d6e1d0c5d33871c70de4b1c6b6524812cc4a5eaeeab42eede0016ca4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.4.4",
+      "filename": "zh-Hans/18.4.4.mp3",
+      "textSha256": "656af57379a4851c9fd2e96e356f17003bc51cd38fb773797a4cc0c534be89fb",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "399",
+  "request_id": "Mu5wLYvV0FZjMF7tIjZz",
+  "master_sha256": "bbff1933b200417221dcf94042304abc6e3b3b9dc287d20269c59babb0ee2765"
+}

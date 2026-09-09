@@ -1,0 +1,13 @@
+{
+  "id": "5.3.2",
+  "language": "fr",
+  "src": "./audio/fr/5.3.2.mp3",
+  "duration": 12.434286,
+  "textSha256": "ae56387c4c42bcbf919c5e183af860bc7ad5c594ff4e09a3c407690b653f46c9",
+  "audioSha256": "00afea26e18d3b0f40c1dbb0e300592ada0306bac2b899939a6933a6327f7cc4",
+  "voice_id": "a5n9pJUnAhX4fn7lx3uo",
+  "model_id": "eleven_v3",
+  "source_take": "takes/fr/5.1.1--5.4.2",
+  "start": 53.52,
+  "end": 65.92
+}

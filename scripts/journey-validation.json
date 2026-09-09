@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "chapters": 18,
+  "scenes": 72,
+  "passages": 188,
+  "legacyLinks": 10,
+  "framing": [
+    {
+      "label": "phone reading",
+      "maxX": 0.3833725273895175,
+      "minY": -0.49689824300611707,
+      "maxY": 0.21596772965607433
+    },
+    {
+      "label": "phone listening",
+      "maxX": 0.5353490202728695,
+      "minY": -0.38581351238580264,
+      "maxY": 0.16746636873411935
+    },
+    {
+      "label": "small phone reading",
+      "maxX": 0.44547847731987417,
+      "minY": -0.5211502867877792,
+      "maxY": 0.22886078914632035
+    },
+    {
+      "label": "landscape reading",
+      "maxX": 0.7633417199798349,
+      "minY": -0.6628527500172728,
+      "maxY": 0.3248159620066879
+    },
+    {
+      "label": "desktop reading",
+      "maxX": 0.6838469803271578,
+      "minY": -0.6148735125038698,
+      "maxY": 0.28685388799604916
+    },
+    {
+      "label": "desktop listening",
+      "maxX": 0.7402463294961641,
+      "minY": -0.6765771951266116,
+      "maxY": 0.3373138450844196
+    }
+  ],
+  "recordedAudio": [
+    "user-initiated playback",
+    "one reusable audio element",
+    "completion-driven progression",
+    "no stale or duplicate advance",
+    "pause during pending play",
+    "missing files and blocked playback",
+    "seek and speed"
+  ],
+  "browserQA": "not performed"
+}

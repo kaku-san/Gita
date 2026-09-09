@@ -1,0 +1,41 @@
+{
+  "adaptations": [
+    "Krishna skin URLs resolve relative to its module",
+    "Vendor forwarding modules share one Three.js instance"
+  ],
+  "files": {
+    "elements/arjun/bow.js": "b6e6442b27a914b0216e4964a7fa598a4095a9a6b4bbae8ddaefef4a233ebe79",
+    "elements/arjun/character.js": "ff757c62e7b6bbb639d978a58c024b6f74efa48efbed8ca4c303d4cf73a6867c",
+    "elements/arjun/geometry.js": "10bb7fc4e145e001edeabaf6468e89c7926e13a5d4baa715a4c5ecdfde7a7ac3",
+    "elements/arjun/skin/body.bin": "89d761014097c1d9a824e131b2ba5b809eb245d5fccdd7d27dc9cbde8f7d4230",
+    "elements/arjun/skin/body.json": "9eff3de7bb867eb5e4a683401a6d5cd5aae3cf6757d9abb4aaf8d73101a644d4",
+    "elements/arjun/skin/foot.bin": "a885ad74cb0a737a01682866830ddac543d52272f6412f0d11d9b43fc5fdda4d",
+    "elements/arjun/skin/foot.json": "e196eb8b6c9fffcb4ad2a6048fd85b440cf548d4397edb6495d3522928b03ca9",
+    "elements/arjun/skin/grip.bin": "7f2bdf298a715d1a859b3ed2b61494eaf5dbb7c4a1cfdf83312433b749308899",
+    "elements/arjun/skin/grip.json": "04b19d8979069e3e09d1cf438067a92bbb1e453c084501872c72c2908407264c",
+    "elements/arjun/skin/hand.bin": "5ce98d84890d59a4a991c386cda96d37f46f28e06f52f3ce1f018fd68b4cc8cc",
+    "elements/arjun/skin/hand.json": "f9d9ad4f5532334e0150bf3a5b96ccb1e123286708b443db7665394916c6496c",
+    "elements/arjun/vendor/three.module.min.js": "3e6a79b28eba9c1bd9a44d7fe487e7dac880f8d6ce0bcda241e169d562449846",
+    "elements/chariot/chariot.js": "cf595ab2a4f0012c2c4bb675c705875f1d739cd5d07d3287d90b5a0ca4e3d364",
+    "elements/chariot/geometry.js": "a71b34a35d91fa057954f0723ea15006f684ba267e4718c4edbdb1b149638c7e",
+    "elements/chariot/vendor/three.module.min.js": "3e6a79b28eba9c1bd9a44d7fe487e7dac880f8d6ce0bcda241e169d562449846",
+    "elements/krishna/character.js": "98b548966f2fbba237f26523f121bbca36392a2af59a5e76fa2a5d24c3c79c43",
+    "elements/krishna/skin/body.bin": "e7e74bb6f5ef63c5ceb7c6c06a0dfdd94bb40b8df69c38b6b514df22464d1fe1",
+    "elements/krishna/skin/body.json": "641d3be2ca921001a1f173f6a2516557ef312452a9a951cc03b56dc66e69f627",
+    "elements/krishna/skin/foot.bin": "a885ad74cb0a737a01682866830ddac543d52272f6412f0d11d9b43fc5fdda4d",
+    "elements/krishna/skin/foot.json": "e196eb8b6c9fffcb4ad2a6048fd85b440cf548d4397edb6495d3522928b03ca9",
+    "elements/krishna/skin/hand.bin": "5ce98d84890d59a4a991c386cda96d37f46f28e06f52f3ce1f018fd68b4cc8cc",
+    "elements/krishna/skin/hand.json": "f9d9ad4f5532334e0150bf3a5b96ccb1e123286708b443db7665394916c6496c",
+    "elements/krishna/vendor/three.module.min.js": "3e6a79b28eba9c1bd9a44d7fe487e7dac880f8d6ce0bcda241e169d562449846",
+    "elements/team/geometry.js": "a71b34a35d91fa057954f0723ea15006f684ba267e4718c4edbdb1b149638c7e",
+    "elements/team/horse.js": "446081805b351877b634b0573df3a4661ca8714dbf9b44e2e820865c34b83b0f",
+    "elements/team/skin/horse.bin": "32981c266132ce367999f7cacdd92dc237a495b5d25b986df81bc03b7aeceb09",
+    "elements/team/skin/horse.json": "b7c5912038986259c44c1fa0ef0e8e8f956a269e30296421c5a5d51afd28de21",
+    "elements/team/skin/tack.json": "750c414a1e6e4c828560aa0a9ddff36efa7bb4ba42a1c532c9a6c0d41d0de8d3",
+    "elements/team/team.js": "fe83388c67289e8e1cf1502b7d95a91efddb135d4f484e6bea626038161cf60b",
+    "elements/team/vendor/three.module.min.js": "3e6a79b28eba9c1bd9a44d7fe487e7dac880f8d6ce0bcda241e169d562449846",
+    "vendor/THREE-LICENSE.txt": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+    "vendor/three.core.min.js": "61ba0df005b05991361d040d8ff670e1aadfd0ce7aeebd1fdb0725957a8957de",
+    "vendor/three.module.min.js": "e2b5ee6bccd38fd6d8a2428546b83c5f2426d84b152ef82be8055556e3b40eb6"
+  }
+}

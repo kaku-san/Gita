@@ -1,0 +1,13 @@
+{
+  "id": "2.4.1",
+  "language": "en",
+  "src": "./audio/en/2.4.1.mp3",
+  "duration": 4.989388,
+  "textSha256": "afc300af00d347ccc3df7001f5092835efe1a037bf52550a826caa8e9b47ec7f",
+  "audioSha256": "f57b25904a66b6a6f5bc85ac605503b477a34567863f3d6d8d8d2ba6c89b2212",
+  "voice_id": "10NkTYmU7tSz3Kkl3Lex",
+  "model_id": "eleven_v3",
+  "source_take": "takes/en/2.1.1--2.4.4",
+  "start": 90.07900000000001,
+  "end": 95.04
+}

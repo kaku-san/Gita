@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "7e07f696a33af5a44f382e5ed061a7828b6341cc97f187cd92d1064f8ffb4695",
+  "submitted_at": "2026-09-09T11:24:34.606328+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "ブラフマン、自己、カルマとは、何を意味するのですか。あなたは、身体をもつ存在の世界に、どうおられるのでしょう。そして死のとき、どうすればあなたを知ることができるのですか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "ブラフマンは、不滅の、至高の実在である。アディヤートマは、自らの内なる霊的な本性に関わる。ここでカルマとは、身体をもつ生きものが生まれる、創造の行為を指す。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "変化する世界は、滅びゆく。また、意識をもち統べる原理がある。そして私は、祭祀の主として身体の内にいる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "死のとき、意識がどこへ向かうかには意味がある。人が繰り返し心に抱いてきたものが、その最後の向きを形づくる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "だから、いつも私を想い、目の前の務めを果たしなさい。心と理解を私に捧げるのだ。そうして想い続ける力は、実践によって育つ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "探求者は感覚と心を整え、不滅なるものと、聖なる音、オームを想う。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "世界は、途方もなく長い時を経て、現れ、退いていく。これらの変化を越えたところには、生きものが滅びるときにも滅びない、永遠の実在がある。それが、ひたむきな信愛を通じて近づく、最高の到達点である。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "この教えには、そこから戻ることのない光の道と、旅する者が再び戻る、もう一つの道が説かれている。これらの道を知るヨーガの実践者は、惑わされずにすむ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "いつでも、ヨーガに確かに立ちなさい。この理解は、儀礼、学習、苦行、施しの限られた報いを越え、至高の源へと導く。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "8.1.1",
+      "filename": "ja/8.1.1.mp3",
+      "textSha256": "fd26fb19d98cb4a4ee50be74a168014d93d4d8a924904c53949ca962f090753c",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "8.1.2",
+      "filename": "ja/8.1.2.mp3",
+      "textSha256": "f6b2cb932511fb0891fc9258a9a23c79ec1203e1f73132c46a60d7d5de5356dc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.1.3",
+      "filename": "ja/8.1.3.mp3",
+      "textSha256": "0edb66fd6d64cdb867b6401fe859052ae2e489cbdf84540de16b5706932132c4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.2.1",
+      "filename": "ja/8.2.1.mp3",
+      "textSha256": "f820a7643f54b85239faff995202a870f5d446757266e89365b9104f540484d0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.2.2",
+      "filename": "ja/8.2.2.mp3",
+      "textSha256": "08dfe08fcf0021179b822adbfc2a6f5854cda56cf86fe7cda57f8779d60614cf",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.3.1",
+      "filename": "ja/8.3.1.mp3",
+      "textSha256": "2213722dcb537bbbb2037cbf831089a1ff8908a460c29f4715d2c8a736ea52a3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.3.2",
+      "filename": "ja/8.3.2.mp3",
+      "textSha256": "8b9bbf518810090929b26397c4028f334a8c61feea27dbb4cb01b8a68969ffe0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.4.1",
+      "filename": "ja/8.4.1.mp3",
+      "textSha256": "54ba0280d92a98e7c8f6619df45aa9ae6e440a4520da583b16d24af043b3023f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.4.2",
+      "filename": "ja/8.4.2.mp3",
+      "textSha256": "d837cd59798a94e54a214d5f577a89b3296f7182bf7ce757332b68b74754741a",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "321",
+  "request_id": "5NnQVT41QaOKEqu1EOoX",
+  "master_sha256": "4674dc5c4695fbe78e176674e3e22c2a4b08ceb10c85045f2b8c2bfb5917d1b2"
+}

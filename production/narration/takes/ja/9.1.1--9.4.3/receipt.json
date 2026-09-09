@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "3a5bcadf139fc11c59b8c79ec1522391bce30f91a768febddef59c089c9e632b",
+  "submitted_at": "2026-09-09T11:26:17.857012+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "生きる中で確かめられる理解と結びついた、深い知をお前に説こう。心を開いて受け取りなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "目に見えない私の存在は、世界に遍く満ちている。生きものは私に依存しているが、私はその内に閉じ込められてはいない。私の見守るもとで、自然は動くものも動かないものも生み出す。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私の人間としての姿だけを見て、より深い本性を見逃す者もいる。一方、揺るがぬ信愛をもって私に向かい、私を想い、礼拝する者もいる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "天界の喜びさえ、それを支える功徳が尽きれば過ぎ去る。注意のすべてを私に置く者は、別の到達点を求めている。私は、その信愛に生きる者を支えるものに心を配る。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "一枚の葉、一輪の花、一つの果実、あるいは水。信愛をもって捧げるなら、私はそれを受け取る。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "何をしても、何を食べても、何を与えても、どんな修練に取り組んでも、それを私に捧げなさい。行為を捧げものとし、お前を縛るその力から、自由になるのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私は、すべての生きものに対して平等である。私を愛する者は私の内に住み、私もその者の内に住む。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "行いが深く誤っていた者でも、ひたむきな信愛をもって私に向き直り、正しさへと歩むことができる。私を信愛する者は、見捨てられない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "クリシュナは、この教えが挙げる社会の区分を越えて、よりどころが開かれていると語ります。その呼びかけは、当時の世界で不利な立場に置かれていた人々にも届いています。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "心を私に向けなさい。信愛と敬意を私に捧げるのだ。私を最高の目標とすれば、お前は私のもとに来るだろう。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "9.1.1",
+      "filename": "ja/9.1.1.mp3",
+      "textSha256": "7dcea1111e4bb5474211897e00e932ef25c6ab7384d19e7934896d3ca9f9187e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.1.2",
+      "filename": "ja/9.1.2.mp3",
+      "textSha256": "f098f2026d560754b7bf4c237ba224ffde6472f6c5a49e36bcdee6abbdf38cc0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.1",
+      "filename": "ja/9.2.1.mp3",
+      "textSha256": "e1deb5e0d867e66004503f21f3d2c88668b482d601f7a03b56dfa4671a0d0807",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.2",
+      "filename": "ja/9.2.2.mp3",
+      "textSha256": "6448d9904c10dc2cea943759760e17869191e7beb2b4c254688841ca9dc3cfbb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.1",
+      "filename": "ja/9.3.1.mp3",
+      "textSha256": "150753c896eb425382b469661fcf6470f9a8dc339b28f75b58996cd9a1b8e5a8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.2",
+      "filename": "ja/9.3.2.mp3",
+      "textSha256": "fd0e84f68f7872f06069131720f78d688f8b2870fb3c04b50aea9850292260a7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.3",
+      "filename": "ja/9.3.3.mp3",
+      "textSha256": "f6427ab08e06fed236e8034021dee228cabd993fd3b4629cc7d83f976424037a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.1",
+      "filename": "ja/9.4.1.mp3",
+      "textSha256": "71e6c96775b266e80a99dffc28111d2a051047b4ae5f79578c4c1223c2bbd641",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.2",
+      "filename": "ja/9.4.2.mp3",
+      "textSha256": "6056382964df16da01e7207c0918f84ad53f88d49a084c8faf737bba59a89451",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "9.4.3",
+      "filename": "ja/9.4.3.mp3",
+      "textSha256": "12fd45c720d004497f0aa4d0f085ca832092b61f681c73e591f398923203c820",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "343",
+  "request_id": "FNyvfVx7B1YpXloJo96S",
+  "master_sha256": "463a73c18d9bb8e2c6edaf87d1ed902489d343c65382dfe4d80a34ed1c28fe11"
+}

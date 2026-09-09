@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "6495c3c6185a141ad39bdc9aa38bbdf294c5b650f6d0841f8d2e108c356db66a",
+  "submitted_at": "2026-09-09T11:16:26.714875+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Which are more firmly established in yoga: those who worship you with devotion, or those who contemplate the imperishable, unmanifest reality?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Those whose minds rest in me, who worship with steadfast faith, are deeply united in yoga. Those who follow the unmanifest also reach the goal, though that path is harder for embodied beings.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "For those devoted to me, I become the deliverer from the ocean of birth and death.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Place your mind and understanding in me. If you cannot yet remain steady, practise returning.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "If that practice is difficult, do your work for me. If you cannot manage even that, give up possessive attachment to the fruits of action and discipline yourself.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "There is peace in that relinquishment.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Dear to me is the one who does not hate, who is friendly and compassionate, free from possessiveness and self-importance, patient and steady.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Such a person does not needlessly disturb the world and is not constantly ruled by its disturbances. Devotion shapes how that person lives among others.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Learn steadiness in honour and dishonour, praise and blame, comfort and pain. Let go of the insistence that everything must favour you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Those who follow this life-giving teaching with faith, taking me as their highest aim, are deeply dear to me.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "12.1.1",
+      "filename": "en/12.1.1.mp3",
+      "textSha256": "83850dc3381ef9f11f06d77f9e91b244b3f8083e09c2b67bae1106a1bb45a13a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "12.1.2",
+      "filename": "en/12.1.2.mp3",
+      "textSha256": "71deda7497f0ec4ecaee4c235cef1aaa167c9308e4c6a3b1826c5d0a036f4906",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.1.3",
+      "filename": "en/12.1.3.mp3",
+      "textSha256": "a1ec5332e9464e41fff6a5e69c48646e37b483185965d7ceb99b75e176047a1a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.1",
+      "filename": "en/12.2.1.mp3",
+      "textSha256": "d887addf2466d14b69aea20a60e81e174b391cf7ba87f768018eb1a00fab676b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.2",
+      "filename": "en/12.2.2.mp3",
+      "textSha256": "094b42dc4f7401400ed8f2e0951b8a63b44a178e15a58c2cf8ad0781df7e88da",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.3",
+      "filename": "en/12.2.3.mp3",
+      "textSha256": "52b06a400e460e4431035f49db33bb7c0b0f5778d1a962e17976d927ad37cc0e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.1",
+      "filename": "en/12.3.1.mp3",
+      "textSha256": "96734336ff5ee58e11a74b5cc4fba22190b2224afbb13c9e4a6ddfb4e4ee20fa",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.2",
+      "filename": "en/12.3.2.mp3",
+      "textSha256": "8da4f6040876b6579cf99de7eb1fbbfb1421829cc1556ea3fc35103d9c4e3f27",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.1",
+      "filename": "en/12.4.1.mp3",
+      "textSha256": "6e2aaa1a909d85196ad4e38c9dc0aeb37cfecc0375c1ece91fe642be4cd985b7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.2",
+      "filename": "en/12.4.2.mp3",
+      "textSha256": "2577c616ba9ed8708fd772181aeb8bf483a46987b370d1f7778331b2e6703a95",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "685",
+  "request_id": "QoECUTyY8DLqABDFIGB8",
+  "master_sha256": "be75f70758a9fb2ca0bdeabafac686edc66e67f69e7350b72cdabdd6e3b02afb"
+}

@@ -1,0 +1,33 @@
+#preparation{position:fixed;inset:0;z-index:100;background:#0b130f;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:32px;color:#eeeadd;text-align:center;outline:0}
+.preparation-mark{font-family:'Noto Serif Devanagari',serif;font-size:clamp(4rem,12vw,7rem);color:#d4bd85;font-weight:400;line-height:1.3}
+#preparation p{font-size:1rem;line-height:1.6;max-width:28em;margin:0}
+#preparation progress{width:min(180px,65vw);height:3px;accent-color:#d4bd85;border:0;border-radius:0;overflow:hidden;background:#ffffff17}
+#preparation nav{display:flex;flex-wrap:wrap;justify-content:center;gap:16px}
+#preparation button{min-height:48px;padding:8px 18px;border-bottom:1px solid #d4bd8560}
+.is-loading #intro{visibility:hidden}
+body[data-mode=listen]{--dock-h:calc(162px + env(safe-area-inset-bottom))}
+body[data-mode=listen] #journey-dock{height:var(--dock-h);display:grid;grid-template-columns:48px minmax(156px,1fr) 48px 48px;grid-template-rows:32px 42px 56px;gap:0 8px;padding:8px max(var(--edge),calc((100vw - 620px)/2)) calc(16px + env(safe-area-inset-bottom));background:linear-gradient(transparent,#0a110bf5 24%);align-content:end}
+#podcast-heading{grid-column:1/-1;grid-row:1;display:flex;align-items:center;justify-content:space-between;gap:12px;min-width:0;color:#d0d5cb;font-size:.875rem}
+#podcast-speaker{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#podcast-speed{font:inherit;font-size:.875rem;min-width:64px;min-height:44px;max-width:100px;padding:4px 8px;background:#0d1811;color:#eeeadd;border:0;border-radius:0}
+body[data-mode=listen] #journey-dock>.audio-timeline{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:38px minmax(40px,1fr) 38px;gap:8px;font-size:.8125rem;font-variant-numeric:tabular-nums}
+body[data-mode=listen] #journey-dock .audio-timeline input{height:40px;min-width:0}
+body[data-mode=listen] #journey-dock #elapsed,body[data-mode=listen] #journey-dock #duration{display:block}
+body[data-mode=listen] #mode-toggle{grid-column:1;grid-row:3}
+body[data-mode=listen] #transport-slot{grid-column:2;grid-row:3;min-width:0}
+body[data-mode=listen] #source-toggle{grid-column:3;grid-row:3}
+body[data-mode=listen] #player-details-toggle{grid-column:4;grid-row:3}
+body[data-mode=listen] #mode-toggle span,body[data-mode=listen] #source-toggle span{display:none}
+body[data-mode=listen] #listen-panel .transport{display:flex;width:100%;gap:6px;align-items:center;justify-content:center}
+body[data-mode=listen] #play{width:52px;height:52px;min-width:52px;min-height:52px;border-radius:50%;background:#e6d4a6;color:#111b13;border:0}
+.podcast-skip{position:relative;display:grid;place-items:center;width:44px;height:48px;min-width:44px;padding:0;font-size:.75rem;font-variant-numeric:tabular-nums}
+.podcast-skip svg{position:absolute;width:32px;height:32px;stroke-width:1.25}.podcast-skip span{padding-top:3px}
+body[data-mode=read] #podcast-heading,body[data-mode=read] #journey-dock>.audio-timeline{display:none}
+body[data-mode=listen] #player-details{bottom:calc(var(--dock-h) + 8px);justify-content:center;min-height:56px}
+#player-details .detail-navigation{gap:24px;justify-content:center}
+body[data-mode=listen] #listen-notice{bottom:calc(var(--dock-h) + 8px)}
+@media(max-width:360px){body[data-mode=listen] #journey-dock{grid-template-columns:44px minmax(148px,1fr) 44px 44px;gap:0 0;padding-left:10px;padding-right:10px}body[data-mode=listen] #listen-panel .transport{gap:2px}body[data-mode=listen] #mode-toggle,body[data-mode=listen] #source-toggle,body[data-mode=listen] #player-details-toggle{min-width:44px}}
+@media(max-height:500px) and (orientation:landscape){body[data-mode=listen]{--dock-h:calc(134px + env(safe-area-inset-bottom))}body[data-mode=listen] #journey-dock{grid-template-rows:24px 34px 52px;padding-top:0;padding-bottom:calc(12px + env(safe-area-inset-bottom))}}
+@media(prefers-reduced-motion:reduce){#preparation progress{animation:none}}
+
+#intro-mode{display:flex;align-items:center;gap:24px;margin:24px 0 10px}#intro-mode button{font-size:1rem;min-height:48px;padding:8px 0;color:#bbc4b7;border-bottom:1px solid transparent}#intro-mode button[aria-pressed=true]{color:#eeeadd;border-color:#d4bd85}

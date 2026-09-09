@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "4658e004d703c1e0059b31374a16771f2dba04403b317bfceda1b3c27edd376a",
+  "submitted_at": "2026-09-09T11:06:38.909426+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "If understanding is so important, why direct me toward this terrible action? Your words seem to lead in different directions. Show me a clear way.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Both the discipline of knowledge and the discipline of action have their place. But freedom does not come simply from leaving work undone.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "No one remains entirely without action. Restraining the body while the mind clings to its desires is not freedom. Begin with the work before you, and change how you undertake it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Life is sustained through giving and receiving. Beings depend on food, food on rain, and the order of offering joins human action to a world larger than the individual.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "One who takes everything for themselves forgets that dependence. Do necessary work without holding it only for your own gain.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "What a respected person does becomes an example. Action can help sustain the world.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "There is nothing I need to gain, yet I continue to act. If I abandoned action, others would follow, and the order supporting their lives would suffer.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Offer your work to me. Let go of possessiveness and the fever of expectation. Attend to your own responsibility, even when another person's path looks easier.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "What makes a person do wrong even when they do not want to—as though something forces them?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Desire, and the anger that grows from it. Like smoke covering fire, it can obscure knowledge.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Begin with the senses. Strengthen discernment. Recognise that you are not exhausted by the impulses moving through you, and learn to meet this force without surrendering to it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "3.1.1",
+      "filename": "en/3.1.1.mp3",
+      "textSha256": "91026d03fec37451bbf9d93aaa8c5fe47ad016ecfff6c18f0d4e8deefcb6c1d5",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "3.1.2",
+      "filename": "en/3.1.2.mp3",
+      "textSha256": "487bbbc8eb8d6bf6ce8009b0baa8ccd4e28d18b1b2e2ea153395f61a5e7ff012",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.1.3",
+      "filename": "en/3.1.3.mp3",
+      "textSha256": "0e486cf7979d83ed46e19fdf766afe5ecdae5b33385401decc7dc2b56a0194b9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.2.1",
+      "filename": "en/3.2.1.mp3",
+      "textSha256": "8e49b476fe5e6e4e384cef89bc3991da307e630c4d152f99165224b520853ec1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.2.2",
+      "filename": "en/3.2.2.mp3",
+      "textSha256": "6d26cfeefd359095363b2b0777334b462d44d9fb37b46cc75f530c7278b57e75",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.1",
+      "filename": "en/3.3.1.mp3",
+      "textSha256": "be821e9fb82aca2d3851b6e9d46d89fc9101bb68288ec80619269083c70a0c44",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.2",
+      "filename": "en/3.3.2.mp3",
+      "textSha256": "0846c335b3278e7a2d15bf3ebb11ae3bac9ca8ce59faa2086cdda8dde97ee135",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.3",
+      "filename": "en/3.3.3.mp3",
+      "textSha256": "d739b2e312037975ced8d3f253e4b1b555d1f30b3bc1d110120c105a1f2845ed",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.4.1",
+      "filename": "en/3.4.1.mp3",
+      "textSha256": "be2f59f8370a1283f01211f8a9d0524659f17ad3b290b8cb8dbd32fb7f0928fa",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "3.4.2",
+      "filename": "en/3.4.2.mp3",
+      "textSha256": "00f2dd236264957bc8edcbff12c7c9023816af9b5a811e66d8335c02ea26c895",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.4.3",
+      "filename": "en/3.4.3.mp3",
+      "textSha256": "e82fa94be1aba64c07dae3c8b2e9a4d456817cd4e09bb0f7483483988af08b41",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "828",
+  "request_id": "mlVsl8CtV8BTo60Yue8N",
+  "master_sha256": "1a0beacc97247c32d85b87c1efb4ef4735d93f78f01f81b8b2ab72220a5327e7"
+}

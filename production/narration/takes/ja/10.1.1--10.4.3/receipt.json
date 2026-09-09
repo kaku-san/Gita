@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "bf2d3426cf9ce3d13b4b0e086fd298fee27440444fc89b24ca018530e4e037ed",
+  "submitted_at": "2026-09-09T11:27:31.291941+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "さらに聞きなさい、アルジュナ。お前のためを思って話している。私は、すべてがそこから生じる源である。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "これを知る者は、愛をもって私に向かう。ともに私を想い、喜びを見いだす。愛によって身を捧げる者に、私は、私へと導く見分ける力を与える。知の光をもって、無知の闇を払いのける。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "あなたの言葉を受け入れます。あなたを完全に知るのは、あなただけです。いつもあなたを想い続けられるように、その存在がどう現れているか、教えてください。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "私は、生きものの心の内にある自己であり、その始まり、中ほど、終わりである。光の中では太陽の輝きに、感覚の中では心に、生きものの中では意識に、私を見なさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "ヒマーラヤに、聖なる一音に、インドボダイジュに、ガンガーに、獅子の力に、私の現れを認めなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私はまた、時であり、知恵であり、記憶であり、命が展開していくさまざまな力である。これらは、注意を私へ向けるための手がかりなのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "こうした現れに、終わりはない。輝き、美しさ、力を備えたものはすべて、私の光の一部から生じている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "だが、なぜさらに例を重ねる必要があろう。私は、自らの一部によって、この宇宙全体を支えている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "あなたの説明を聞きました。それを見ることはできますか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "10.1.1",
+      "filename": "ja/10.1.1.mp3",
+      "textSha256": "f3a8489921c4529ee3c4085aecfa1a6d139a70a1ca3051128c7a1cbad5e6b4d6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.1.2",
+      "filename": "ja/10.1.2.mp3",
+      "textSha256": "85ebe0c2a4c346bc860d77afb150dc5c40fbd89f09734f45c9c7e9467ed003ce",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.2.1",
+      "filename": "ja/10.2.1.mp3",
+      "textSha256": "ed94a575932d9f7e568aa62cb0e2bd81aaf9891fcbdd28b75c30cb01f12cb168",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "10.2.2",
+      "filename": "ja/10.2.2.mp3",
+      "textSha256": "c387c6dca397702d9757faba177ddc2bd6a56d424ff655061697e00ca686df7d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.1",
+      "filename": "ja/10.3.1.mp3",
+      "textSha256": "4eb6061251b8bcf40082f06e530ec091d06682a86a25d4dfea31e979b826d43d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.2",
+      "filename": "ja/10.3.2.mp3",
+      "textSha256": "940033489c9e81fd8bf7a54c376179eebd90b6c7f0838cbcdbdbc26d7965b118",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.1",
+      "filename": "ja/10.4.1.mp3",
+      "textSha256": "3d206b60cce5d157ec922fc79cc8f978e6d50c5b033b52c3b3706fdf6dc43482",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.2",
+      "filename": "ja/10.4.2.mp3",
+      "textSha256": "1f0547070b056f3686469b5798a50408c7977417f552b5a95d52c9a0ce44843e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.3",
+      "filename": "ja/10.4.3.mp3",
+      "textSha256": "144ab1a72f9fe2bd5ca556d119cb27a727e1da6bc1ba3e1e196a3f527376c0f6",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "284",
+  "request_id": "Fq0UaybbjwOW5HwI0Qwn",
+  "master_sha256": "2b2c332455b7a38869b564882c345f9e9141b6930b33b702b261d012dcc62bf3"
+}

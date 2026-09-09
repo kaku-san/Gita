@@ -1,0 +1,13 @@
+{
+  "id": "18.1.2",
+  "language": "fr",
+  "src": "./audio/fr/18.1.2.mp3",
+  "duration": 8.280816,
+  "textSha256": "46f2c54e8fb1f8e3a1a03a6b4aef7556b6fc23c86e4f9b0082570365b382d9d1",
+  "audioSha256": "eb1ac23819347f1e999d1c9e389da7c79c77f981302f3006123d34a312a2732c",
+  "voice_id": "a5n9pJUnAhX4fn7lx3uo",
+  "model_id": "eleven_v3",
+  "source_take": "takes/fr/18.1.1--18.3.1",
+  "start": 4.079,
+  "end": 12.32
+}

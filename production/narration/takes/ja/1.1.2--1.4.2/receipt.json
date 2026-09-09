@@ -1,0 +1,138 @@
+{
+  "status": "generated",
+  "fingerprint": "132abc30dde2ea324e95449c48a6c64a3ecfe906287f90f402244ea96d958470",
+  "submitted_at": "2026-09-09T11:16:04.632987+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "クリシュナ、戦車を両軍の間へ進めてください。私たちと戦うために来た者たちを、見ておきたいのです。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "見るがよい、アルジュナ。ここにクル一族が集まっている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "そこには、一族の長老ビーシュマがいました。その隣には、師のドローナが立っています。周りにも、親族や友人、長年親しんできた人々の姿がありました。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "ここにいるのは、皆、私の身内です。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "体から力が抜けていきます。口は渇き、弓を持つ手の震えが止まりません。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "私は戦う覚悟でここへ来ました。けれど、目の前にいる人々を見ると、この人たちを殺すことに、少しも善いものを見いだせないのです。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "こうして手に入れた王国を、私はどうすればよいのでしょう。その王国をともに喜びたい人々が、あそこに立ち、命を懸けているのです。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "彼らは欲に目がくらんでいるのかもしれません。だからといって、私たちまで同じ過ちに踏み込む必要があるのでしょうか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "家族が滅びれば、残された人々はどうなるのでしょう。誰がその暮らしやしきたりを支え、亡くなった者をしのぶ営みを守るのでしょうか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "彼が恐れていたのは、目の前に迫る死と、その後に暮らしやつながりが崩れていくことでした。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "武器を捨て、抵抗もしない私を彼らが討つとしても、そのほうが、これよりはましに思えます。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "深い悲しみに打ちひしがれ、アルジュナは弓と矢を置き、その場に座り込みました。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "1.1.2",
+      "filename": "ja/1.1.2.mp3",
+      "textSha256": "fe9e67f567163c92e0338845826aba6a115eb877affc1f72e57b794b9ff17022",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.1.3",
+      "filename": "ja/1.1.3.mp3",
+      "textSha256": "43448ff0a3523cacc9315fb40a3f72c2b3874115f1022afa5c219b3f3930c8df",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "1.1.4",
+      "filename": "ja/1.1.4.mp3",
+      "textSha256": "8db3df865af62586bacae2677e1262b2ea90d90de551a628e408adf1e8ecce61",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.2.1",
+      "filename": "ja/1.2.1.mp3",
+      "textSha256": "9755ee01304cac93a2265d9825f0a0f48a489f8e244341266008dbc7f4cd3c5a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.2",
+      "filename": "ja/1.2.2.mp3",
+      "textSha256": "26b4116afb83d141d5a498f87a8fc86203ba1993cc7430fd5a1811367c1f4168",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.3",
+      "filename": "ja/1.2.3.mp3",
+      "textSha256": "4e75e56270a4ff8e955586518860b9f4eb78aeed44a771d094801371aa5a9605",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.1",
+      "filename": "ja/1.3.1.mp3",
+      "textSha256": "0a7a8d8440bc8c8e4d7c5b13cab984ac86f420cb439879fd8b2c5ec5be291f15",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.2",
+      "filename": "ja/1.3.2.mp3",
+      "textSha256": "beeffc27ebd04b22363a8dbe22077d417dca7d87be3d99f83e082e59180265f8",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.3",
+      "filename": "ja/1.3.3.mp3",
+      "textSha256": "09dcb84e0d7e2052617c2b5442b031ab44ebfe52782b47f0c4f1d8fda870313d",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.4",
+      "filename": "ja/1.3.4.mp3",
+      "textSha256": "f9142596efd509fb0a0500d5349fbce4b35bf9d047127c4c50c3a547fd21d8ca",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.4.1",
+      "filename": "ja/1.4.1.mp3",
+      "textSha256": "e49598e3c324570a2f765cac692fe0b588395d91c820110767c7dc37b964c499",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.4.2",
+      "filename": "ja/1.4.2.mp3",
+      "textSha256": "5d9d7c8ecfcd63961e0001d2b02fce80feba14e6f16b41f0227f0dee89e78efc",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "310",
+  "request_id": "fv9A8CIoCakC2EIPcQ3J",
+  "master_sha256": "22276db87625728f955f002597992a99c93d30006db45f1453b67e212ce22084"
+}

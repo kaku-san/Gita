@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "2b4949494fd21e228f1397931c2308506106f2e546bf8b2509ffda67002236c4",
+  "submitted_at": "2026-09-09T11:28:58.369191+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Qu’en est-il des personnes qui pratiquent leur culte avec foi, mais laissent de côté l’enseignement prescrit ? Quelle est la nature de leur foi ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "La foi reflète la nature de la personne et est façonnée par les trois qualités. Ce en quoi l’on place sa foi contribue à façonner ce que l’on devient.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Même les préférences alimentaires reflètent ces qualités. Les pratiques sévères animées par la vanité et le désir, qui tourmentent le corps et le divin en lui, ne deviennent pas saintes par leur sévérité.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Une offrande peut être faite par devoir sans désir avide de récompense, ou par désir de gain et d’ostentation, ou sans se soucier du soin et des indications à respecter.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La discipline du corps comprend la pureté, la sincérité, la maîtrise de soi et le refus de nuire. La discipline de la parole unit la vérité à ce qui est attentionné et bénéfique, ainsi qu’à l’étude. La discipline de l’esprit comprend le calme, la douceur, la maîtrise de soi et la sincérité.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Un don fait parce qu’il doit être fait, au moment et au lieu appropriés, à une personne qui ne peut rien rendre en retour, est façonné par sattva.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Donner à contrecœur ou dans l’attente d’un retour est façonné par rajas. Donner à un moment ou dans un lieu inapproprié, sans respect ni soin, est façonné par tamas.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Om, Tat, Sat : ces désignations sacrées de Brahman accompagnent le sacrifice, le don et la discipline.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Tat oriente l’acte au-delà d’une revendication personnelle sur sa récompense. Sat est associé à l’être, à la bonté et à la constance dans une action digne. Une offrande vide de foi manque du fondement spirituel dont elle semble se réclamer.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "17.1.1",
+      "filename": "fr/17.1.1.mp3",
+      "textSha256": "fb90faa7e150d3bc75a2dda639cf8972c2a9cf707dc840bf3279f44e32727fc8",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "17.1.2",
+      "filename": "fr/17.1.2.mp3",
+      "textSha256": "551009674334829f0e448646f9a2746cd3c2e95ec4cb5189f983809bcccd7f2d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.1.3",
+      "filename": "fr/17.1.3.mp3",
+      "textSha256": "a7989bfc95654b1ef877d6e8bc3ec6aeed4f62920aab753dc2ba430adc00f25e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.2.1",
+      "filename": "fr/17.2.1.mp3",
+      "textSha256": "e39545132511b558e1794a4f116cdaf28a23d2aacaf24e6d0bba67a9dec4b5c7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.2.2",
+      "filename": "fr/17.2.2.mp3",
+      "textSha256": "be8b1a4e2fdb8b43be3d23710d9685c954a5bb22de84ac80f34d8ef67a46b2a0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.3.1",
+      "filename": "fr/17.3.1.mp3",
+      "textSha256": "ebc8a7e08547fb6a9c74db3392e437b8aa49667898a38b6b45388d8ab9977b12",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.3.2",
+      "filename": "fr/17.3.2.mp3",
+      "textSha256": "95526f7cee8600518f274bcdda5e7be13817e408e737da869723f0114d07d4a7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.4.1",
+      "filename": "fr/17.4.1.mp3",
+      "textSha256": "f315e20f2abb631b476ca47f94bd2ec06a226f70f47129d1b60e13e11b549fb8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.4.2",
+      "filename": "fr/17.4.2.mp3",
+      "textSha256": "7246daa50288a22fe990899e4229c7ef4e9816fdf1d26077e00fc03072eac6ea",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "887",
+  "request_id": "OHSTJV6XXqYOC5UUP5ez",
+  "master_sha256": "58672bbd6a120bc2fd02dd0447ca691667bc3ab1a815e3635ac350d0bb52b990"
+}

@@ -1,0 +1,40 @@
+{
+  "viewports": [
+    {
+      "w": 1440,
+      "h": 900,
+      "aspect": 2.5992779783393503,
+      "travelInFirstHalfSecond": 1.5487260771942384,
+      "maxSpeed": 4.975120433512764,
+      "maxAngularSpeed": 0.3500000002543244
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "aspect": 0.9774436090225563,
+      "travelInFirstHalfSecond": 1.548726077194207,
+      "maxSpeed": 4.9751236867457,
+      "maxAngularSpeed": 0.35000000005334203
+    },
+    {
+      "w": 320,
+      "h": 568,
+      "aspect": 1.5609756097560976,
+      "travelInFirstHalfSecond": 1.5487260771942384,
+      "maxSpeed": 4.975120433512764,
+      "maxAngularSpeed": 0.3500000002543244
+    },
+    {
+      "w": 844,
+      "h": 390,
+      "aspect": 5.861111111111111,
+      "travelInFirstHalfSecond": 1.5487260771942384,
+      "maxSpeed": 4.975120433512764,
+      "maxAngularSpeed": 0.3500000002543244
+    }
+  ],
+  "browserQA": "not performed",
+  "passed": true,
+  "activePassages": 188,
+  "audioAssetCount": 8
+}

@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "duration": 35.5,
+  "stages": [
+    "faceoff",
+    "arjuna",
+    "krishna",
+    "title",
+    "arrival"
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "panesCoverViewport": true,
+      "headFraming": true,
+      "continuousHandoff": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "panesCoverViewport": true,
+      "headFraming": true,
+      "continuousHandoff": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "panesCoverViewport": true,
+      "headFraming": true,
+      "continuousHandoff": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "panesCoverViewport": true,
+      "headFraming": true,
+      "continuousHandoff": true
+    }
+  ],
+  "protectedFiles": 89,
+  "browserQA": "not performed"
+}

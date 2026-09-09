@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "7980ea288148b83defe6d64b568902fe6b0d32a185acde7abd0d62a9e8822095",
+  "submitted_at": "2026-09-09T11:30:57.498036+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Les trois qualités de la nature lient le Soi qui demeure à la vie incarnée. Ce sont sattva, rajas et tamas.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Sattva apporte lumière et clarté, mais lie par l’attachement au bonheur et à la connaissance. Rajas apporte le désir avide et l’activité agitée, et lie par l’action. Tamas obscurcit la compréhension par la négligence, l’inertie et le sommeil.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les qualités prennent et perdent de la force les unes par rapport aux autres. La clarté signale sattva ; l’avidité et l’effort incessant signalent rajas ; la confusion et la négligence signalent tamas.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Leur influence façonne la conduite et ses conséquences, y compris le cours des naissances futures. Apprends à reconnaître ce qui prend de la force en toi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Comment se comporte celui qui a dépassé ces qualités ? Comment peut-on les dépasser ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Une telle personne ne déteste ni la clarté, ni l’activité, ni la confusion lorsqu’elles apparaissent, et ne les désire pas avidement lorsqu’elles s’en vont. Elle reconnaît les qualités à l’œuvre et demeure stable.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Elle est moins liée par le plaisir et la douleur, les éloges et les reproches, l’amitié et l’hostilité, ou le besoin de faire de chaque entreprise une possession de l’ego.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Celui qui me sert avec une dévotion inébranlable dépasse les trois qualités et devient apte à atteindre Brahman.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je suis le fondement de Brahman impérissable, de l’immortalité, du dharma qui demeure et du bonheur complet.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "14.1.1",
+      "filename": "fr/14.1.1.mp3",
+      "textSha256": "febc28762df9dbf1091333ebe2f6e5d95be655e95ff05afc2915f61068d1be83",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.1.2",
+      "filename": "fr/14.1.2.mp3",
+      "textSha256": "b594d13f27eff6a96c11b93d296852103b748f0578f131e1448f4a8d30ec7483",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.1",
+      "filename": "fr/14.2.1.mp3",
+      "textSha256": "5455b23b750ce3b3282ed11ab36fd5ba91294d7e34038f5d983c75922d616f04",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.2",
+      "filename": "fr/14.2.2.mp3",
+      "textSha256": "3ec541fab5058e8c2430a5faba76965be3dfaf8a2f7285fb8b6ae5d889600c58",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.1",
+      "filename": "fr/14.3.1.mp3",
+      "textSha256": "761d4ab0b3dc07b2da725da0057d33fa976e8cb32bfaf13de0d3ff725eaf21f9",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "14.3.2",
+      "filename": "fr/14.3.2.mp3",
+      "textSha256": "388cb2e60a9a4dbf9bbd2721ad5645be4223fc05f13609df13cd848f574d3c19",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.3",
+      "filename": "fr/14.3.3.mp3",
+      "textSha256": "40214013e0c52ed8880828712b596c1ed61183d1878091bc4f9720a3c98d2e8d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.1",
+      "filename": "fr/14.4.1.mp3",
+      "textSha256": "1ba9f929f6ce24cceab18036d22fd307125b6ccd9e764f9928698edb73689d07",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.2",
+      "filename": "fr/14.4.2.mp3",
+      "textSha256": "3034b51d5f6b4d10ef67eb5ef40a1ce2da40f42ec3e34896519d5a0a53dda0be",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "766",
+  "request_id": "yWN8rrPqqAm8evo32zt5",
+  "master_sha256": "3ec945cc19e0fe5132bcefddd5cc9643d2e675c1a7d82b4ec2b9c4e92164ff64"
+}

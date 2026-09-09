@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "e01d96d6150087a30827598a07859de2527a69b61f1bca5a0600f227d0fed762",
+  "submitted_at": "2026-09-09T11:05:16.112785+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Arjun, this collapse does not become you. Stand up and meet what is before you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "How can I raise a weapon against Bhishma and Drona? They deserve my respect. I do not know whether winning or losing would be worse.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "I can no longer tell what my duty asks of me. Tell me what is truly good. I am asking to learn from you.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "He said he would not fight. Then he fell silent between the armies.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      },
+      {
+        "text": "You speak with concern, yet your grief has not seen the whole truth. You, I, and these rulers have not simply come out of nothing, nor will we cease altogether.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "The embodied self passes through childhood, youth and age, and passes onward when a body dies. The self is not born with the body and is not destroyed with it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Pleasure and pain arrive and pass. Learn to endure their changes without losing sight of what endures.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Consider also the responsibility before you as a warrior. In this struggle, withdrawal does not by itself make you free of duty.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Give yourself to the action that is yours. Do not make its reward the reason for everything you do. And do not cling to doing nothing.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Practise steadiness in success and failure. Let understanding guide the work, rather than the demand that its outcome belong to you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "How does someone with that steadiness live? How would I recognise it?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Such a person is less driven by craving, less shaken by suffering, less carried away by pleasure. The senses can be gathered back, as a tortoise draws in its limbs.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Dwelling on an object can become attachment; frustrated desire can become anger, and anger can cloud discernment. Learn to see that movement before it carries you away.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Waters enter the ocean, yet it remains full and steady. Peace belongs to one who can receive experience without being ruled by every desire it brings.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "2.1.1",
+      "filename": "en/2.1.1.mp3",
+      "textSha256": "52039de97ed80f9eb40e7f875c82fb1ee1d101854a21f963aab275522fae8fc2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.1.2",
+      "filename": "en/2.1.2.mp3",
+      "textSha256": "39e25c9ffcc0b96e365707e25eda36be2c9cf295a85066c29c31deb562ecd30c",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.3",
+      "filename": "en/2.1.3.mp3",
+      "textSha256": "cf47578dd34bd5666aed01b7bb7d2f010991c7774e24e2aa52b49b37f3539467",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.4",
+      "filename": "en/2.1.4.mp3",
+      "textSha256": "35fde88848d25f43e4a07b075671d37b768e532c99c6ef6a70b6eecb35fd4e3d",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "2.2.1",
+      "filename": "en/2.2.1.mp3",
+      "textSha256": "26fdfe70c2f24832eddc9c4992582edf44a4556d7b5140a383a15a5ce476ed08",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.2",
+      "filename": "en/2.2.2.mp3",
+      "textSha256": "8d456d44f639d414352892598e26bd143d3f663c81b0805986b60a7a7a228e90",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.3",
+      "filename": "en/2.2.3.mp3",
+      "textSha256": "7c68ccbdce08ad8dae5b1d2ed408dfa6debdee6269c6d7f4c708f27c839873da",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.1",
+      "filename": "en/2.3.1.mp3",
+      "textSha256": "98db1aad1cd9fc65ad604cd7fd439cdd10c0f245987309afb9d3410176a8c65f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.2",
+      "filename": "en/2.3.2.mp3",
+      "textSha256": "2b0f7a2db3685a535271063ca3cfe52599021788ab7b72382023fa142a8a35ca",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.3",
+      "filename": "en/2.3.3.mp3",
+      "textSha256": "1f2c5684133b7f18bfa4ffee61f0f206938aa1ffcda76dfee93079bc17c315ed",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.1",
+      "filename": "en/2.4.1.mp3",
+      "textSha256": "afc300af00d347ccc3df7001f5092835efe1a037bf52550a826caa8e9b47ec7f",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.4.2",
+      "filename": "en/2.4.2.mp3",
+      "textSha256": "46c39418a980d9a3d99522232f368dc404412ec80dfc7f521d91e41583cac679",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.3",
+      "filename": "en/2.4.3.mp3",
+      "textSha256": "0228777193e454017136097be84e938fafac50251ae659e435bbba8edffc6e91",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.4",
+      "filename": "en/2.4.4.mp3",
+      "textSha256": "970e5bbb4bea61b6f41e24c88c9df9f232fab07369c0adc77dc1e88f79084abd",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "961",
+  "request_id": "w2Kc5yayvVoWAIRvoodI",
+  "master_sha256": "303dc04ae4de0827b5911529e38dc8645c4953e58327605b9bd04f013d0ebd18"
+}

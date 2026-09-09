@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "languages": {
+    "hi": {
+      "chapters": 18,
+      "scenes": 72,
+      "passages": 188,
+      "localizedNonemptyFields": 680,
+      "emptyContexts": 68,
+      "protectedFields": 598,
+      "intentionallyUnchanged": []
+    },
+    "ja": {
+      "chapters": 18,
+      "scenes": 72,
+      "passages": 188,
+      "localizedNonemptyFields": 680,
+      "emptyContexts": 68,
+      "protectedFields": 598,
+      "intentionallyUnchanged": []
+    },
+    "zh-Hans": {
+      "chapters": 18,
+      "scenes": 72,
+      "passages": 188,
+      "localizedNonemptyFields": 680,
+      "emptyContexts": 68,
+      "protectedFields": 598,
+      "intentionallyUnchanged": []
+    },
+    "fr": {
+      "chapters": 18,
+      "scenes": 72,
+      "passages": 188,
+      "localizedNonemptyFields": 680,
+      "emptyContexts": 68,
+      "protectedFields": 598,
+      "intentionallyUnchanged": [
+        {
+          "path": ".chapters.16.scenes.3.title",
+          "text": "Om, Tat, Sat"
+        }
+      ]
+    }
+  },
+  "linguisticReview": "Agent translations and source spot checks; no independent native editor review."
+}

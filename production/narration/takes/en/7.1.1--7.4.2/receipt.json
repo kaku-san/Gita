@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "f14858b52cb8eca9377d7c759b72306a276f3019528f81f66215b43e6f30bd3a",
+  "submitted_at": "2026-09-09T11:10:41.768277+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Turn your mind toward me and practise with me as your refuge. Hear how you may come to know me more fully.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Earth, water, fire, air, space, mind, understanding and the sense of \"I\" belong to my lower nature. Beyond this is the living principle that sustains the world.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Everything rests upon me, as beads are held upon a thread.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I am the taste in water, the light in the sun and moon, the sacred sound in the Vedas. I am the fragrance of earth and the life in living beings.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I am strength free from craving and attachment. The qualities through which nature appears arise from me, but do not contain the whole of me.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Caught in the qualities of nature, people fail to recognise what lies beyond them. This power of appearance, maya, is difficult to cross. Those who take refuge in me can cross it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "People turn toward me in suffering, in search of knowledge, in hope of gain, or through wisdom. Each such turning matters. The wise devotee comes to recognise that all rests in the divine.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Desire often directs worship toward a particular reward. Such rewards have an end.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "My reality is not exhausted by what you can presently see. Attraction and aversion cloud understanding. Freed from their hold, steadfast seekers turn toward me and seek release from age and death.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "7.1.1",
+      "filename": "en/7.1.1.mp3",
+      "textSha256": "007b0987732a97bf4da9ef2e2235ff23a43101b254f987e7120469cf23b40fed",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.2",
+      "filename": "en/7.1.2.mp3",
+      "textSha256": "7bb8f0bceaa60a7a4da33598970308259808e69b94d7527cd345567f5c5100ea",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.3",
+      "filename": "en/7.1.3.mp3",
+      "textSha256": "529f85e8788df90e5aeb38b17f438ab27ba520034ddcd584a14ec48dadfa2e62",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.1",
+      "filename": "en/7.2.1.mp3",
+      "textSha256": "f7e095a6949d338355f09f6876c343e08e7c68c8e23c1337afa4e7291f038a1b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.2",
+      "filename": "en/7.2.2.mp3",
+      "textSha256": "4c93672c93065c424fb209770e3114e4f5c242b69e7c849c55aab3fd90da29c0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.1",
+      "filename": "en/7.3.1.mp3",
+      "textSha256": "252b03605a5910ff54b9a839834b5c7486512782b35d8146963809468989f0ff",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.2",
+      "filename": "en/7.3.2.mp3",
+      "textSha256": "47948ccd36e5f5ef14f06c9cb125bc95353e7c6306ef235cc08b902362902654",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.1",
+      "filename": "en/7.4.1.mp3",
+      "textSha256": "269ee697f9d2caa7ef34eac4c835a4f19356d4ad4a31638ca42cf99af3737100",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.2",
+      "filename": "en/7.4.2.mp3",
+      "textSha256": "117b5cc9455b43658d896a88f5a8a3a9b105ceed5d1ec3fbeec2af25390e65f1",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "690",
+  "request_id": "gIXY7BG6bQP6WqLDVUZe",
+  "master_sha256": "ca9178ee90d88db6e4b3442c779bb406e634e9be2077e3979e79e4d00c375ddc"
+}

@@ -1,0 +1,129 @@
+{
+  "model_id": "eleven_text_to_sound_v2",
+  "layers": [
+    {
+      "file": "field-wind.mp3",
+      "bus": "field",
+      "loop": true,
+      "gain": 0.32,
+      "position": [
+        -35,
+        3,
+        40
+      ],
+      "seconds": 30,
+      "prompt": "Seamless outdoor field ambience, gentle dry wind across a broad plain, faint grass rustle and cloth banners moving in the wind, natural open-air distance, no speech, no music, no modern sounds."
+    },
+    {
+      "file": "army-murmur.mp3",
+      "bus": "field",
+      "loop": true,
+      "gain": 0.28,
+      "position": [
+        38,
+        2,
+        60
+      ],
+      "seconds": 30,
+      "prompt": "Seamless distant ancient army ambience on an open plain: a vast mass of people shifting, indistinct wordless crowd calls, leather and armour movement, tension before combat. No intelligible language, no cheering stadium, no gunfire, no explosions, no music."
+    },
+    {
+      "file": "combat-left.mp3",
+      "bus": "combat",
+      "loop": false,
+      "gain": 0.38,
+      "position": [
+        -25,
+        2,
+        30
+      ],
+      "interval": [
+        7,
+        16
+      ],
+      "seconds": 12,
+      "prompt": "Several varied steel sword strikes against shields, brief scuffling feet on dry earth, leather armour creaks, a few wordless human exertions, outdoor melee twenty metres away. Natural, irregular pacing. No guns, no explosions, no music, no intelligible speech."
+    },
+    {
+      "file": "combat-right.mp3",
+      "bus": "combat",
+      "loop": false,
+      "gain": 0.32,
+      "position": [
+        34,
+        2,
+        45
+      ],
+      "interval": [
+        9,
+        19
+      ],
+      "seconds": 12,
+      "prompt": "A small cluster of distant hand-to-hand sword and shield exchanges on dusty ground, overlapping metal impacts and short wordless effort sounds, open-air battlefield perspective. Irregular timing, no music, no gunfire, no explosions."
+    },
+    {
+      "file": "horse-walk.mp3",
+      "bus": "travel",
+      "loop": true,
+      "gain": 0.5,
+      "position": [
+        0,
+        1,
+        7
+      ],
+      "seconds": 20,
+      "prompt": "Seamless close recording of four horses walking at a steady slow pace on dry earth pulling a wooden chariot, heavy uneven hoof beats, leather harness and small metal tack movement, restrained wooden wheel and axle creaks, no hard pavement, no modern sounds, no voices, no music."
+    },
+    {
+      "file": "horse-breath.mp3",
+      "bus": "combat",
+      "loop": false,
+      "gain": 0.23,
+      "position": [
+        0,
+        2,
+        7
+      ],
+      "interval": [
+        16,
+        29
+      ],
+      "seconds": 5,
+      "prompt": "One calm horse close by, a breath, soft snort and quiet bridle movement, outdoors, natural animal recording, no music, no speech, no cartoon exaggeration."
+    },
+    {
+      "file": "conch.mp3",
+      "bus": "signal",
+      "loop": false,
+      "gain": 0.18,
+      "position": [
+        -65,
+        3,
+        95
+      ],
+      "interval": [
+        30,
+        48
+      ],
+      "seconds": 7,
+      "prompt": "A single distant Indian shankha conch war signal, breath-driven resonant conch shell with a natural wavering sustained tone, heard across a broad outdoor field, long natural tail, no melody, no orchestra, no speech."
+    },
+    {
+      "file": "war-drum.mp3",
+      "bus": "signal",
+      "loop": false,
+      "gain": 0.22,
+      "position": [
+        70,
+        2,
+        110
+      ],
+      "interval": [
+        18,
+        32
+      ],
+      "seconds": 8,
+      "prompt": "A few irregular distant deep ancient war drum strikes, skin and wooden body resonance in open air, restrained short signal, no continuous musical rhythm, no orchestra, no modern effects."
+    }
+  ]
+}

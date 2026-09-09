@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "e813dc9a58037545c1f7310c8a94e64b5d5f9636e268d24256b534df44d41fa4",
+  "submitted_at": "2026-09-09T11:17:30.985198+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "アルジュナ、このように崩れてしまうのは、お前にふさわしくない。立ち上がり、目の前の事に向き合うのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "どうしてビーシュマやドローナに武器を向けられるでしょう。敬うべき方々です。勝つのと負けるのと、どちらが悪いのかさえ分かりません。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "私の務めが何を求めているのか、もう見分けられません。本当に善いことを教えてください。あなたから学びたいのです。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "戦わないと言い残し、アルジュナは両軍の間で黙り込みました。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "お前の言葉には思いやりがある。だが、その悲しみは、まだ真実の全体を見ていない。お前も、私も、これらの王たちも、無から突然生じたのではなく、完全に消え去るのでもない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "身体に宿る自己は、幼年、青年、老年を経て、身体が死んだ後も先へ進む。自己は身体とともに生まれるのではなく、身体とともに滅びるのでもない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "快楽も苦痛も、現れては過ぎ去る。その変化に耐えながら、存続するものを見失わないように学びなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "戦士として目の前にある責任も考えなさい。この争いから退くだけで、務めから自由になれるわけではない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "お前がなすべき行為に力を尽くしなさい。何をするにも、報いを唯一の理由にしてはならない。そして、何もしないことにも執着してはならない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "成功にも失敗にも、心の安定を養いなさい。結果を自分のものにしなければならないという思いではなく、理解に導かれて行為をしなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "そのように心の安定した人は、どう生きるのですか。何を見れば、その人だと分かるのでしょう。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "その人は、渇望に駆り立てられにくく、苦しみに揺さぶられにくく、快楽に流されにくい。亀が手足を甲羅に収めるように、感覚を引き戻すことができる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "一つの対象を思い続けると執着が生まれ、満たされない欲望は怒りとなり、怒りは判断を曇らせる。その流れに飲み込まれる前に、動きを見抜くことを学びなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "水が流れ込んでも、海は満ちたまま、揺るがない。経験を受け止めながら、そこから生まれる欲望の一つひとつに支配されない者に、平安がある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "2.1.1",
+      "filename": "ja/2.1.1.mp3",
+      "textSha256": "bad6b2225df8701cda7dfc233e8a216809eaab0f94c84cef1d8a2a7c9e5248c9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.1.2",
+      "filename": "ja/2.1.2.mp3",
+      "textSha256": "9d9a038efd041b13b7a116a4b7ed7ddfff81cf60e29b1936118673bf0de2f6f3",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.3",
+      "filename": "ja/2.1.3.mp3",
+      "textSha256": "7d5c0f5c2570b7f5acbd6b18b369f3ac5ba4f349a5574bfa7840deb04d21de2e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.4",
+      "filename": "ja/2.1.4.mp3",
+      "textSha256": "90ce013539117690151c1ae50aba6ff6a519ce3df6215a79bbce4d754b9d76e9",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "2.2.1",
+      "filename": "ja/2.2.1.mp3",
+      "textSha256": "82d36f2a7f9d11fff17d3079c82b622e847707706c82ec3db80922a9c06249cb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.2",
+      "filename": "ja/2.2.2.mp3",
+      "textSha256": "03e8e7b06b625c408db6236515bf7983fcd161923386b118d35416466a5910f7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.3",
+      "filename": "ja/2.2.3.mp3",
+      "textSha256": "f63e45302dba557159912fc27c5a93ab717ba1d3e54c0b85f35ecfcb5f6d173d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.1",
+      "filename": "ja/2.3.1.mp3",
+      "textSha256": "73428cd5e8dbb2223ce1fcffe9c69c7571f69809e842f6f8d73a4d48dfa7de21",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.2",
+      "filename": "ja/2.3.2.mp3",
+      "textSha256": "e950e08f31058afa054c108303b1c2772b6b477b35efbd48d3df6e16628296c4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.3",
+      "filename": "ja/2.3.3.mp3",
+      "textSha256": "a7599b76d274cbff67c4716f0d394a00c68758724c691a0d4e69592337950ce9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.1",
+      "filename": "ja/2.4.1.mp3",
+      "textSha256": "835710d315718ae39b3ce2aadf28ca75eed50dc9c3018f16e586f5d9d6b93266",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.4.2",
+      "filename": "ja/2.4.2.mp3",
+      "textSha256": "f2d89745311acba12ea7dda904ab83350c75eb6b93b376305d990b87ac5a7f82",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.3",
+      "filename": "ja/2.4.3.mp3",
+      "textSha256": "8e483f67e22ae6327706a35ce5e6f7ccdde0fcbbfc46647450091f780f998469",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.4",
+      "filename": "ja/2.4.4.mp3",
+      "textSha256": "2ab83feb7c44acf7c8e32714099eeaacf525a1cd7229329af3222868d5359ca3",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "455",
+  "request_id": "JWgtpvXmFVhryAUSeWNj",
+  "master_sha256": "72f05191b78ed7a171d77edd164c2b59082cbe60f513f64e8a6ca1e33fba3e34"
+}

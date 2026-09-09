@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "34bf7c63ab85252361177e7101af37f0ff48d503771234da402b61e2c898748b",
+  "submitted_at": "2026-09-09T11:17:28.767594+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "阿周那，这样消沉，不应是你的样子。站起来，面对眼前的一切。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我怎么能向毗湿摩和德罗纳举起武器？他们值得我敬重。我甚至不知道，胜利和失败，哪一个会更糟。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我已经分辨不清，自己的责任究竟要求我做什么。请告诉我，什么才是真正的善。我愿向你求教。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "他说自己不会作战。随后，他在两军之间沉默下来。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "你的话语里满是关切，但悲伤使你尚未看见完整的真相。你、我，以及这些君王，并非凭空出现，也不会彻底归于无有。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "寄身于肉体的真我，经历童年、青春和衰老；身体死亡之后，它仍将继续前行。真我并不随肉体诞生，也不随肉体毁灭。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "快乐和痛苦来而复去。学习承受它们的变化，同时不忘那长存不变的存在。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "也要想想，你身为战士，此刻承担着什么责任。在这场冲突中，仅仅退出，并不能让你免除责任。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "全心投入属于你的行动。不要让回报成为你做每一件事的理由。也不要执著于什么都不做。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "练习在成功和失败中保持平稳。让明辨来引导行动，不要一心要求结果必须归你所有。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "拥有这种坚定的人，会怎样生活？我又该怎样辨认？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "这样的人，较少受渴求驱使，较少被痛苦动摇，也较少因快乐而忘乎所以。感官可以收摄回来，就像乌龟收回四肢。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "反复想着某个对象，可能生出执著；欲望受挫，可能化为愤怒；而愤怒会遮蔽判断。要学会看清这一过程，不让它把你卷走。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "百川汇入大海，大海依然充盈而安定。能够接纳各种经历，却不受它们带来的每一种欲望支配，这样的人才能获得安宁。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "2.1.1",
+      "filename": "zh-Hans/2.1.1.mp3",
+      "textSha256": "3fc156c3d9a31527ea8828df7b96736e38e5fafa2a9f447c06d2f5f6e7eb6c8a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.1.2",
+      "filename": "zh-Hans/2.1.2.mp3",
+      "textSha256": "a7de56cd934ca38abf7ec3d25e70b71ca2c0ecf8f5a4b87d6b06136f97d44e4e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.3",
+      "filename": "zh-Hans/2.1.3.mp3",
+      "textSha256": "af6a09ef8911cc3c4164e477b3ce390328f116142238ce5ef1bcbb1413540202",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.4",
+      "filename": "zh-Hans/2.1.4.mp3",
+      "textSha256": "d53f7a42d85269a70a6bd898d71100e66ffee3503f964b5820e1a13989141c71",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "2.2.1",
+      "filename": "zh-Hans/2.2.1.mp3",
+      "textSha256": "0ae4fdd2c63548294bb5e9cea22a46bc18e96c14c2b56de412b6982f181b117e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.2",
+      "filename": "zh-Hans/2.2.2.mp3",
+      "textSha256": "620f3acbb91ffdecb877a0dc590b97d760c380d6a544a56d92cff1ea38df60de",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.3",
+      "filename": "zh-Hans/2.2.3.mp3",
+      "textSha256": "eedcac182786ee4a8ad5c3a8f2066f3c58ab7202a04db2394217ea939e3d32cc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.1",
+      "filename": "zh-Hans/2.3.1.mp3",
+      "textSha256": "fddc8db8c9bbe9340274a99be1e2abe603728545a68ca23e42eaf0f0405d7f50",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.2",
+      "filename": "zh-Hans/2.3.2.mp3",
+      "textSha256": "d6c005051540029f705e947e93384d257657c0fc864c55bc4d7b27d08a2a7170",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.3",
+      "filename": "zh-Hans/2.3.3.mp3",
+      "textSha256": "b81b43d3d3c352ddda34b737eeb576f44d65826e0ddca1c529f20d24eba3aa2a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.1",
+      "filename": "zh-Hans/2.4.1.mp3",
+      "textSha256": "ca1645918a18b52cf73145baed9dec97c2e5957fbbbf5c214014af46efd66f70",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.4.2",
+      "filename": "zh-Hans/2.4.2.mp3",
+      "textSha256": "34b31550afe390e768245d4590eaeaf88dd80e522a2c022318560b6e9531f92f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.3",
+      "filename": "zh-Hans/2.4.3.mp3",
+      "textSha256": "c62bc29cbc6995ae07cd7372186b91a2805c47de9adcef276dd423529ddf0ca2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.4",
+      "filename": "zh-Hans/2.4.4.mp3",
+      "textSha256": "1305228b4acd22bea8cdbe110efae0964cd0c77585d1540f516982c8adc8e73d",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "320",
+  "request_id": "J0dJDL3txyZ0Lyl0Q56s",
+  "master_sha256": "8ae1792a4d6a4db073101e4a30d9efe44f5341ce4874843818b4415ff06eeb60"
+}

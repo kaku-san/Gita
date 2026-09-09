@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "a7efbf9416cd5e6d7c110d62b8998ddda92d3419dbdadf92e00b4acda1b2d8f3",
+  "submitted_at": "2026-09-09T11:31:37.058558+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "想象一棵长存的树，根在上，枝在下。它的叶子是吠陀赞歌，枝干受自然诸性质滋养，嫩芽伸向感官的对象。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "更多的根，通过行动将众生束缚。在这里，人不容易看清它的开端与全貌。以坚定的不执著，斩断它的缠缚，寻找这古老流转最初发出的源头。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "求道者摆脱骄傲与迷妄，克服占有式的执著，转向不朽的归宿。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "长存的个体真我，是我的一部分。它把心念与感官带入有形的生命，又携着它们继续前行，如同风把芬芳从它的源头带走。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "经过修持的明辨，能够看见未经训练的目光所遗漏的事物。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "太阳、月亮与火的光辉，都是我的。我进入大地，维系众生。我滋养植物，也支持那消化食物的火。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我住在每一颗心中。记忆、知识，以及对它们的遗忘，都从我而来。通过吠陀，人所要认识的正是我。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "有会消逝的，也有不朽的。超越两者的，是进入并维系诸世界的至上者。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "因为我超越会消逝的，也高于不朽的，所以我被称为普鲁绍塔玛，也就是至上者。这样认识我的人，会以整个生命敬拜我。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "15.1.1",
+      "filename": "zh-Hans/15.1.1.mp3",
+      "textSha256": "5d623a6cc3a397079dfd36570929e7ba3aa9c06dc3c88322750e8c017431f1af",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.1.2",
+      "filename": "zh-Hans/15.1.2.mp3",
+      "textSha256": "b968a8ba5891a67bff140a89b5b1420eda46aa6299409d8e541062c5e879757d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.1",
+      "filename": "zh-Hans/15.2.1.mp3",
+      "textSha256": "9d6a76da3dabe64b8713f19b01d29248d9ff9cf2d2ee13384d1ce48e23de8231",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.2",
+      "filename": "zh-Hans/15.2.2.mp3",
+      "textSha256": "87f090ab4a985755aeb3c7e18282f9976a4fda26135564ac5f0a275325d58028",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.3",
+      "filename": "zh-Hans/15.2.3.mp3",
+      "textSha256": "ec15dcec262d63e8f6536cf74660ec8d3346de6f4835da31443d4eaa0a3fe4c1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.1",
+      "filename": "zh-Hans/15.3.1.mp3",
+      "textSha256": "24b197d0824c0efa2c4d49eedb39025dd0ac1784008afbc117677c37fb4d6901",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.2",
+      "filename": "zh-Hans/15.3.2.mp3",
+      "textSha256": "5f9f2afcc724ed6b0a7f631c288c608b093f70c8e80da66ac0389930c564ca75",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.1",
+      "filename": "zh-Hans/15.4.1.mp3",
+      "textSha256": "0955e87ea6222b2d73ec9f311ee4f2d85c2d01871089b668efa7d99874a6abe9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.2",
+      "filename": "zh-Hans/15.4.2.mp3",
+      "textSha256": "fef4358978d757e8ec3ed939eaed3b930a54b97b047b5db3e81bafddaef02d21",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "217",
+  "request_id": "WH6DpVkwVBt0VIsgqOcR",
+  "master_sha256": "e392a1c025cd67d751534645ba933d235cc8917e4f056accfa5229d86dfedb10"
+}

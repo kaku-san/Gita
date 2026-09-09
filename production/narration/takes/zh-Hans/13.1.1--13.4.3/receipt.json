@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "adb21de8234c8f047242d41220f38a09596e3fe132afedfd6c9eba3cf0113467",
+  "submitted_at": "2026-09-09T11:29:17.393093+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "请解释自然与精神、田与知田者。什么是知识？什么又是应当被认识的？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "这身体，称为田。认识它的，便是知田者。也要认识到：我是一切田中的知田者。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "身体、感官、心念、欲望、厌恶、快乐和痛苦，都属于变化着的田。分辨田与知田者，是知识的核心。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "谦逊、真诚、不伤害、耐心、自我约束、坚定，以及对老师的关怀，都属于知识。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "思考生、老、病、死，摆脱占有之心，怀有虔敬，以及持续探问真我，也都属于知识。这些会塑造那个寻求理解的人。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "听我讲述那应当被认识的存在。认识它，便能抵达不死之境：它是无始、至高的梵，超越通常所说的有与无的分别。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "它在众生之内，也在众生之外；既动，也不动；既近，也远。它本来不可分，却显现于彼此分离的形态之中。它是光中之光，临在于心。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "自然生出不断变化的器官、能力与行动。意识本原体验快乐和痛苦；对自然诸性质的执著，使它受缚于有形的生命。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "有人通过静坐走近理解，有人通过求知，有人通过行动，也有人通过聆听，并实践自己所听见的教导。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "平等地看见众生中的至高临在：它在消逝者之中长存。学习分辨田与知田者，也认识超越束缚的道路。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "13.1.1",
+      "filename": "zh-Hans/13.1.1.mp3",
+      "textSha256": "e1cc233842dc74817e2901f46de9eb1cd7a5b785ae68be59470ba50928d57626",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "13.1.2",
+      "filename": "zh-Hans/13.1.2.mp3",
+      "textSha256": "a70035cfd2a964fb240230edd489820261d4873c8bd3f02dd71fb59da468c5e5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.1.3",
+      "filename": "zh-Hans/13.1.3.mp3",
+      "textSha256": "577b35221def5e85c9947b28d65e92351980f4390cffee5571bef4b814d77e1e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.1",
+      "filename": "zh-Hans/13.2.1.mp3",
+      "textSha256": "de1691075d67c912129f2e6271f05726b0e81312e2dbef087afcfb51aabc11b6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.2",
+      "filename": "zh-Hans/13.2.2.mp3",
+      "textSha256": "417a4a0f682958f12af466e4f7162b73b8c37089809d2d1c4b3a2c7980c8744a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.1",
+      "filename": "zh-Hans/13.3.1.mp3",
+      "textSha256": "9d24329fe10f1d9b3c223792121698c0b2a723d4bd127f464141ce4b3eca6b36",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.2",
+      "filename": "zh-Hans/13.3.2.mp3",
+      "textSha256": "1697280a34e00f5a57269297e4ed6b68c4824ba8f75710d0043659aae5556be8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.1",
+      "filename": "zh-Hans/13.4.1.mp3",
+      "textSha256": "9ce8b1dff77926f02c286574933b6b62f044dfa83ea3c848288c5aa25f92391a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.2",
+      "filename": "zh-Hans/13.4.2.mp3",
+      "textSha256": "2491e3cc1073a2afec9f882f5a5c93761a41781b1441b771575017041174923d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.3",
+      "filename": "zh-Hans/13.4.3.mp3",
+      "textSha256": "8782180b182892d44f757e9703dfba5612d144bc33c49d6384509d7c9e8ffb2d",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "249",
+  "request_id": "Ni9to9xldnuSKYuVOChp",
+  "master_sha256": "ebfbcea9c4a73b78834831808df312b6af48081bd7da2889c7a8806b17989358"
+}

@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "db8dc6715242249f5933923e426ff89fea879bac6a332e8a7cead34a5c2ec2a5",
+  "submitted_at": "2026-09-09T11:12:20.694432+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "मैं तुम्हें गहरा ज्ञान बताऊँगा, उस समझ के साथ जिसे जीवन में उतारा जा सकता है। इसे खुले मन से सुनो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मेरी अव्यक्त उपस्थिति संसार में व्याप्त है। प्राणी मुझ पर निर्भर हैं, लेकिन मैं उनके भीतर सीमित नहीं हूँ। मेरी देखरेख में प्रकृति चल और अचल जगत को जन्म देती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "कुछ लोग केवल मेरा मानवीय रूप देखते हैं और मेरे गहरे स्वरूप को नहीं पहचानते। दूसरे अटल भक्ति से मेरी ओर मुड़ते हैं, मेरा स्मरण और उपासना करते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "स्वर्ग के सुख भी समाप्त हो जाते हैं, जब उन्हें देने वाला पुण्य चुक जाता है। जिनका ध्यान पूरी तरह मुझमें टिका है, वे एक अलग लक्ष्य चाहते हैं। उस भक्ति-भरे जीवन को जो सहारा देता है, उसका मैं ध्यान रखता हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "एक पत्ता, एक फूल, फल या जल, भक्ति से अर्पित हो तो मैं उसे स्वीकार करता हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "तुम जो भी करो, जो भी खाओ, जो भी दो, जो भी साधना करो, वह मुझे अर्पित करो। कर्म को अर्पण बनने दो, ताकि तुम्हें बाँधने वाला उसका दावा छूट जाए।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैं सभी प्राणियों के प्रति समान हूँ। जो मुझसे प्रेम करते हैं, वे मुझमें रहते हैं, और मैं उनमें।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जिसका आचरण बहुत गलत रहा हो, वह भी अनन्य भक्ति से मेरी ओर मुड़कर धर्म की ओर बढ़ सकता है। मेरा भक्त नष्ट नहीं होता।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "कृष्ण ऐसे आश्रय की बात करते हैं जो इस उपदेश में बताए गए सामाजिक विभाजनों के पार पहुँचता है। इसका निमंत्रण उन लोगों तक भी जाता है जिन्हें उस समय के समाज ने वंचित रखा था।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "अपना मन मेरी ओर मोड़ो। मुझे अपनी भक्ति और आदर दो। मुझे अपना परम लक्ष्य बनाओ, और तुम मेरे पास आओगे।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "9.1.1",
+      "filename": "hi/9.1.1.mp3",
+      "textSha256": "3a22e69a0297e485ff7c0250b35189083a3d62f0c2b072821eb598dc3fa04201",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.1.2",
+      "filename": "hi/9.1.2.mp3",
+      "textSha256": "67934f3897cf88d0e576f30202224f7e3311a1e6897477addcb98fe3455f0518",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.1",
+      "filename": "hi/9.2.1.mp3",
+      "textSha256": "cbb91ed23502ceb7014f51f846dc205aaebd0271b1808d0450136b09186996f5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.2",
+      "filename": "hi/9.2.2.mp3",
+      "textSha256": "28544bb388da99e1e47131207f67c6c4f7e00c1cbef76a6a62f7fe95fc50462f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.1",
+      "filename": "hi/9.3.1.mp3",
+      "textSha256": "22429b79ca66e7bddc86d9d0e68996cab5fdcc6f294d33e799b036f5d74a3e58",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.2",
+      "filename": "hi/9.3.2.mp3",
+      "textSha256": "9ece354346ad6f33f2ba8c75d09dfb8b9c99c5e493bf4126daf5375a0921473c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.3",
+      "filename": "hi/9.3.3.mp3",
+      "textSha256": "e8637761207cc3baa199160dd79813ca295912fdc686bacfb67f12b10eed4b96",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.1",
+      "filename": "hi/9.4.1.mp3",
+      "textSha256": "9664d28b283ae3543ab3984472b2d1205faf76c6a50e65c31840aa7d7c56ee9e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.2",
+      "filename": "hi/9.4.2.mp3",
+      "textSha256": "2cd06e4be67e4b08808b9a19dabc1dbc1663d1af72a53c50cfd57f6d4a4b6a27",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "9.4.3",
+      "filename": "hi/9.4.3.mp3",
+      "textSha256": "d46b383deb3c3a5cf77015f3976b0ab2d08ec5d336ac678ecb22d3198771c306",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "712",
+  "request_id": "bcvvYfMNGLle4UuGvvCE",
+  "master_sha256": "1ce50a9d8b2e033478883307a4b2e4a256577522ef00727e52a6ca6dc70b785f"
+}

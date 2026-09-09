@@ -1,0 +1,138 @@
+{
+  "status": "generated",
+  "fingerprint": "ac04e7c09cc06871caa4beaf6011502097c653e13b5a6a5d799850fd63a700a9",
+  "submitted_at": "2026-09-09T11:04:04.390562+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "कृष्ण, रथ को दोनों सेनाओं के बीच ले चलो। मैं देखना चाहता हूँ कि हमसे लड़ने कौन-कौन आया है।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "देखो, अर्जुन। ये हैं यहाँ इकट्ठे हुए कुरुवंशी।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "वहाँ उनके कुल के बुज़ुर्ग भीष्म खड़े थे। उनके पास ही उनके गुरु द्रोण थे। उनके आसपास अर्जुन ने रिश्तेदारों, मित्रों और उन लोगों को पहचाना जिन्हें वे वर्षों से जानते थे।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "ये तो मेरे अपने लोग हैं।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मेरे शरीर की शक्ति जा रही है। मुँह सूख रहा है। धनुष पर मेरा हाथ स्थिर नहीं रह पा रहा।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मैं यहाँ लड़ने के लिए तैयार होकर आया था। अब जब देखता हूँ कि सामने कौन खड़े हैं, तो उन्हें मारने में मुझे कोई भलाई दिखाई नहीं देती।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "ऐसे जीते हुए राज्य का मैं क्या करूँगा? जिन लोगों के लिए हम उसे चाह सकते हैं, वे ही वहाँ अपने प्राण दाँव पर लगाकर खड़े हैं।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "हो सकता है वे लोभ में अंधे हो गए हों। क्या हमें भी उनके पीछे उसी गलत राह पर चलना चाहिए?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "जब परिवार नष्ट हो जाते हैं, तो पीछे बचे लोगों का क्या होता है? उनके जीवन, उनकी परंपराओं और दिवंगत जनों की स्मृति को कौन सँभालेगा?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "अर्जुन को सामने खड़ी मृत्यु का भय था, और उसके बाद जीवन के बिखर जाने का भी।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "अगर मैं निहत्था रहूँ, विरोध भी न करूँ और वे मुझे मार डालें, तो वह भी इससे अच्छा लगता है।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "शोक से व्याकुल अर्जुन ने धनुष-बाण एक ओर रख दिए और बैठ गए।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "1.1.2",
+      "filename": "hi/1.1.2.mp3",
+      "textSha256": "e29a7661b64a551b1dbde539d5668af4cb26447a1fc4f917556d8851dbbbd442",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.1.3",
+      "filename": "hi/1.1.3.mp3",
+      "textSha256": "5bc939e5336625b87b99de4741476f851ed1ebe5cb74ef34c80f499af71af391",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "1.1.4",
+      "filename": "hi/1.1.4.mp3",
+      "textSha256": "27a824997cca26724b2e5b7b053d7043be22bdeec3e972c562b5587fcfc80b8e",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.2.1",
+      "filename": "hi/1.2.1.mp3",
+      "textSha256": "ab9e3f95ac18c190e97e0496781b3260af0ba14d636f9c89d0f7ca776127368b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.2",
+      "filename": "hi/1.2.2.mp3",
+      "textSha256": "a7443d585bc4ef0856d250bc92e818de304de5840c7661d1944018bdad161dcb",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.2.3",
+      "filename": "hi/1.2.3.mp3",
+      "textSha256": "55c1b8d57ec3cf4fc18713f53fd7fa0e72238bf65f4dd4f93e1e6f10991eed8e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.1",
+      "filename": "hi/1.3.1.mp3",
+      "textSha256": "8d5e62e986ef491bb9fa04e0ff8f89075d39112c37559cb36742753460faad0c",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.2",
+      "filename": "hi/1.3.2.mp3",
+      "textSha256": "00197cb9cdb56c119f3275b911b9471922b5243d8dd435ec77d5ff364488b623",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.3",
+      "filename": "hi/1.3.3.mp3",
+      "textSha256": "552633cd11098a1dcee6c2d398d698462150eaa2e62134f44d8d7a7d4dc2ab5d",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.3.4",
+      "filename": "hi/1.3.4.mp3",
+      "textSha256": "26de50a172f444ca5aa23e40e59a17f37c3c437bcfb5235878ee8db5a1afe40e",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "1.4.1",
+      "filename": "hi/1.4.1.mp3",
+      "textSha256": "36e4f529c02dc9ad7bd6b982919244d0718a2d7d5e277bb95714675abc4c8b50",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "1.4.2",
+      "filename": "hi/1.4.2.mp3",
+      "textSha256": "b74692e2fb5c572902cd3d91964b50a8bc7d32c8ef0edbb1251ff3696982ee68",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "604",
+  "request_id": "4tS5Hhiy5LW7GhUHiTP3",
+  "master_sha256": "e07d47aeba1a5cc98ec1969383669404cf1ac92492b73479ebead7882f458848"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "9.3.1",
+  "language": "zh-Hans",
+  "src": "./audio/zh-Hans/9.3.1.mp3",
+  "duration": 12.747755,
+  "textSha256": "86f139880a427c33fef91e63b23c48299048637055e3868a530d349227363961",
+  "audioSha256": "9c03c441b2c90446170a168a90f7cf06d713872df91183f6e43f92eae84ec188",
+  "voice_id": "hZTuv9Zqrq4yHYrEmF1r",
+  "model_id": "eleven_v3",
+  "source_take": "takes/zh-Hans/9.1.1--9.4.3",
+  "start": 63.27999999999999,
+  "end": 75.99999999999999
+}

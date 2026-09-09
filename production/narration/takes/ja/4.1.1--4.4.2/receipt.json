@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "accf6128c3d1fe49fe4e354f95cfa6b5b78890a80241ef898b6baffc4ecb3c50",
+  "submitted_at": "2026-09-09T11:20:01.434613+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "このヨーガは、かつても説かれ、世代を越えて伝えられてきた。やがてその教えが見失われたため、今、再びお前に説いている。お前が私を信愛する者であり、友であるからだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "あなたが生まれるより、はるか昔に教えたとおっしゃるのですか。それをどう理解すればよいのでしょう。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "お前も私も、幾度も生まれてきた。私はそれを知っているが、お前は知らない。私は生まれることなく、滅びることもないが、自らの力によって姿を現す。ダルマが衰えるとき、善き者を守り、不正を打ち破り、ダルマを回復するために現れるのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "行為は、奥深いものだ。動かない身体の内に、何かをつかもうとする思いに満ちた心が隠れていることもある。一方で、何もかも自分のものだと主張せずに、務めを果たすこともできる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "報いへの渇望が消え、行為が捧げものとなり、知によって導かれるとき、その行為は、もはや同じようには人を縛らない。身体の動き以上のものを見ることを学びなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "人は、物を贈ること、欲求を慎むこと、学ぶこと、呼吸を整えること、知を深めることなど、さまざまな形で捧げものをする。こうした実践は、行う者を清めることができる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "最も深い見方では、捧げものも、捧げる行為も、それが届く先も、ブラフマンに属する。知は、行為の意味を明らかにする。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "真実をよく見ている人々に、謙虚さと誠実な問いをもって近づきなさい。その人々に仕えることを通じても、学ぼうとするのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "知は、お前を過ちと迷いの向こうへ渡すことができる。修練に支えられた信頼と、揺るがぬ実践が大切だ。無知から生まれた疑いを断ち切り、ヨーガに確かに立ち、立ち上がりなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "4.1.1",
+      "filename": "ja/4.1.1.mp3",
+      "textSha256": "5ba8db78c9c66590c298bdfa70fff9704f3aabf9cd372642c50b480801655903",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.1.2",
+      "filename": "ja/4.1.2.mp3",
+      "textSha256": "5596ed13436bb1398b5761e425f4e4f7e40ce17c051ce8a73ea7dd16615502ca",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "4.1.3",
+      "filename": "ja/4.1.3.mp3",
+      "textSha256": "1232246019af2005b83d087b3822c4092d178a464254f35fe17cb70c94caa44a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.1",
+      "filename": "ja/4.2.1.mp3",
+      "textSha256": "2ab02dcda18be17d59a391a3237cdc0dd964024e1402432433985e04f835cbd3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.2",
+      "filename": "ja/4.2.2.mp3",
+      "textSha256": "73cdfa63e95f501f36eed313402be149db9a46fd4b419e168ddd5247c1125877",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.1",
+      "filename": "ja/4.3.1.mp3",
+      "textSha256": "a7e63de9458c84c8a8fd4a6b7b0514cc0c5ea73787f9201be8f9792b4ae1304f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.2",
+      "filename": "ja/4.3.2.mp3",
+      "textSha256": "8a2c5f294cb8abcbeb5da246b069ae62f8899696d16a94b4c795bcb0feef9bbe",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.1",
+      "filename": "ja/4.4.1.mp3",
+      "textSha256": "16723d34defe1d1be9e8d6867560080653a6894a066a433dc7dac43665126873",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.2",
+      "filename": "ja/4.4.2.mp3",
+      "textSha256": "137ad138ba1e80a4dfad1058668ffced1484248ad63b61c98f669111bdcc7507",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "372",
+  "request_id": "sMUTsGyDqqKZ3lraDYkI",
+  "master_sha256": "56facaca428903da64de8b42bedd9339f29ee9c70ebb1e077841b6a32d72e490"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "13.1.2",
+  "language": "en",
+  "src": "./audio/en/13.1.2.mp3",
+  "duration": 9.404082,
+  "textSha256": "89d60be6a108a4efc329f57c8a8e56989e6a9bde50d95b9ada9e4d2e848dc3a2",
+  "audioSha256": "983561d6ba55100f59649a71ebd75d6658760bd69e619b5d6efea5ceb209d415",
+  "voice_id": "j9jfwdrw7BRfcR43Qohk",
+  "model_id": "eleven_v3",
+  "source_take": "takes/en/13.1.1--13.4.3",
+  "start": 6.481,
+  "end": 15.840000000000002
+}

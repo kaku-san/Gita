@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "08f41a8100e85469a13d5fc2be6978b360f8aecde742ec10dfa58369893ce679",
+  "submitted_at": "2026-09-09T11:28:58.368922+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "定められた教えから離れながら、信をもって礼拝する人々は、どうなのでしょう。その信は、どのような性質なのですか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "信は、その人の本性を映し、三つの性質によって形づくられる。何に信を置くかは、その人が何になるかをも形づくる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "食べ物の好みにさえ、これらの性質は現れる。虚栄や欲望に駆られ、身体と、その内にいる神を苦しめる厳しい修行は、厳しいというだけで聖なるものにはならない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "捧げものは、報いを渇望せず、務めとしてなされることもある。利益や見せびらかしへの欲望からなされることもあれば、配慮や教えを顧みずになされることもある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "身体の修練には、清らかさ、誠実さ、節制、害を与えないことがある。言葉の修練は、真実を、思いやりと有益さ、そして学びに結びつける。心の修練には、平静、穏やかさ、自制、誠実さがある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "与えるべきだからと、ふさわしい時と場所に、お返しのできない人へ贈る施しは、サットヴァによって形づくられている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "惜しみながら、あるいは見返りを期待して与える施しは、ラジャスによる。ふさわしくない時や場所に、敬意も配慮もなく与える施しは、タマスによる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "オーム、タット、サット。ブラフマンを示すこれらの聖なる呼称は、祭祀、施し、修練に伴う。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "タットは、報いを自分のものとする思いの先へ、行為を向ける。サットは、存在、善、価値ある行為における揺るがなさに結びつく。信のない捧げものには、その見かけが示す霊的な基盤がない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "17.1.1",
+      "filename": "ja/17.1.1.mp3",
+      "textSha256": "026af0ec67f1c890c52e9db3acee3665c2371c021277be080bc1e453c2da3a3d",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "17.1.2",
+      "filename": "ja/17.1.2.mp3",
+      "textSha256": "0a1ed9f2b0a21e2e259bdbd6669b913bac9f7ab11fc37621adad6190079eba6e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.1.3",
+      "filename": "ja/17.1.3.mp3",
+      "textSha256": "cd2736aa9efc1b8aae05fd3fc5d5f2d147ccb9be19b5c28ba96d25555e38c220",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.2.1",
+      "filename": "ja/17.2.1.mp3",
+      "textSha256": "d52e3cf66489b2f82eece4f2788dff8ebe66cee96dfe49b59cd9e93ce439b3b6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.2.2",
+      "filename": "ja/17.2.2.mp3",
+      "textSha256": "bf3db656a6a66d592a389fc4d6d3437ad290b8dd44606c329c411a15c62d40ec",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.3.1",
+      "filename": "ja/17.3.1.mp3",
+      "textSha256": "54c88d914652bf6f096a4e61939702d8843aa32abff532bf7b0e701edbcd18d4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.3.2",
+      "filename": "ja/17.3.2.mp3",
+      "textSha256": "bbb7822c02fabac178f7e6061f5ca82cf8712d49642d33533c8e80ebf823554f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.4.1",
+      "filename": "ja/17.4.1.mp3",
+      "textSha256": "f7ed7226a2b5858247ae0376e3ccae58d77c9fa44b047baf77eca8741efbd77b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "17.4.2",
+      "filename": "ja/17.4.2.mp3",
+      "textSha256": "3b1e21fb01186ff7c4c6ef8f6137bbdfd60be519793450a9e0580eee8f5e7a76",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "332",
+  "request_id": "nUPsLuVtfxK6lIrm865z",
+  "master_sha256": "706b4b3a3a600d64aabd43a3651449e720d698b03143df9a5bca59a5651a3a23"
+}

@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "2b044083174cb47bf33178d7d12fed230168e07b6dc5fb6f01b483ebb23e06ab",
+  "submitted_at": "2026-09-09T11:26:11.344254+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "阿周那，再听我说。我是为你的益处而说。一切都从我这里发出，我是它们的源头。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "认识到这一点的人，会怀着爱转向我。他们一同忆念我，从中获得喜悦。对于怀着爱虔敬于我的人，我赐予他们明辨，引他们走近我；我以智慧之光，驱散无知的黑暗。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我接受你告诉我的话。只有你，才完全了解你自己。请告诉我，你的临在以哪些方式彰显，让我能够不断忆念你。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我是众生心中的真我，是他们的开始、延续与终结。在光明之中，看太阳的光辉；在感官之中，看心；在众生之中，看意识。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "在喜马拉雅山、神圣的音节、菩提树、恒河，以及狮子的力量中，辨认我的彰显。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我也是时间、智慧、记忆，以及让生命展开的种种力量。这些都能使你的注意力转向我。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "这些彰显，无穷无尽。凡有光彩、美丽或力量之处，都源于我光辉的一部分。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "但何必再增添例子？只以自身的一部分，我就维系着整个宇宙。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我已经听你描述了。我能亲眼看见吗？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "10.1.1",
+      "filename": "zh-Hans/10.1.1.mp3",
+      "textSha256": "b1f14d98c87fbf91dcc68a7a8edab16ea035148d3c72c48f1750792ef4552cbe",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.1.2",
+      "filename": "zh-Hans/10.1.2.mp3",
+      "textSha256": "08e8616e2a4fff38cb6c4fdfc756bf09d05549fefedb536fa2c90407e92f82e3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.2.1",
+      "filename": "zh-Hans/10.2.1.mp3",
+      "textSha256": "2eecf2c13005ad3f00500500212fba2a2ddb56913ba5a5fe513ea08e171a9b14",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "10.2.2",
+      "filename": "zh-Hans/10.2.2.mp3",
+      "textSha256": "f85da4ec2dccf915650e25790ab346eb4e30ccba33dc3803effa42a676308c0e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.1",
+      "filename": "zh-Hans/10.3.1.mp3",
+      "textSha256": "3ae9fcdc6c0da4ec3fb833db8a7a5056f64a3671e8b7acb8323d0d7e0609b90f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.2",
+      "filename": "zh-Hans/10.3.2.mp3",
+      "textSha256": "3c9327f2418ff51f10fc41e85f5093151cd2c938cec3b2157f2240c42a078198",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.1",
+      "filename": "zh-Hans/10.4.1.mp3",
+      "textSha256": "bbf2f535ff154b2372e721a025b9e74b3b5f0ca1948953c9cbd4d385e30db333",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.2",
+      "filename": "zh-Hans/10.4.2.mp3",
+      "textSha256": "bfb2eea7a5ec4ec8b42f937c9417a151251026064efc27699c8545bfbbdd4c80",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.3",
+      "filename": "zh-Hans/10.4.3.mp3",
+      "textSha256": "7f4088c29157f6eabf6e307e23bd02878aa710fe1fa7dc461f59db6e2fd86a63",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "204",
+  "request_id": "duaf6CgIiOjptrjpzyNn",
+  "master_sha256": "5b63973e9b0fdfff9982bb86e5fd0c16649b2188cfd3f5d1e136beca3bd97192"
+}

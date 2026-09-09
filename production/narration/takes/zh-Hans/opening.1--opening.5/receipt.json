@@ -1,0 +1,68 @@
+{
+  "status": "generated",
+  "fingerprint": "8e4d67aa27ddc14f464d2beae79fe1343401d2e9243181be328e6e4790dff2af",
+  "submitted_at": "2026-09-09T11:36:26.850435+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "般度族与俱卢族在俱卢之野对峙。双方都有彼此的亲人、老师和朋友。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "他是王子，也是一位神射手。他本已准备好战斗，直到看清站在对面的人。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "他的朋友、御者和引路人。当力量无法告诉他什么才是对的，阿周那转向了他。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "大战前的一场对话。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "阿周那请克里希纳把战车驶到两军之间。就在这里，开战之前，他们开始了对话。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "opening.1",
+      "filename": "zh-Hans/opening-1.mp3",
+      "textSha256": "f33accb05bff530adbf58436eeba73eeae21e57df3c6acb8080ea13730b928b9",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.2",
+      "filename": "zh-Hans/opening-2.mp3",
+      "textSha256": "21036825f5a449b4395a0f5e3180bfebac85cef6ebc9ac21b2e5d4da67b051cc",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.3",
+      "filename": "zh-Hans/opening-3.mp3",
+      "textSha256": "14e28e39922f57ada3386283c39b6ed24390b7eef6f479d93dfa779a8dd2c0e7",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.4",
+      "filename": "zh-Hans/opening-4.mp3",
+      "textSha256": "9aac3ae31325808b2c81f936f41a938c24d1afe3ca2a36bc9fc39be5daf9c532",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.5",
+      "filename": "zh-Hans/opening-5.mp3",
+      "textSha256": "acc1211a860554d6af83af971981f39ad6d0a89cc55d8b1cf78a040eb508c372",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "79",
+  "request_id": "dgzgi4aQMz5QfzLDu15I",
+  "master_sha256": "4c5e33579a937c885ae8ebde0ad8bbb8dd0272dc238a5d83b5781881a604cea8"
+}

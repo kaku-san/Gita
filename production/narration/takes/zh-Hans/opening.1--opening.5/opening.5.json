@@ -1,0 +1,13 @@
+{
+  "id": "opening.5",
+  "language": "zh-Hans",
+  "src": "./audio/zh-Hans/opening-5.mp3",
+  "duration": 8.829388,
+  "textSha256": "acc1211a860554d6af83af971981f39ad6d0a89cc55d8b1cf78a040eb508c372",
+  "audioSha256": "ac6d303060394846a03cf7d523817300748aea063f8c7118e32803ccb5501a95",
+  "voice_id": "H9aY8kOUrDpSQdCRVQo5",
+  "model_id": "eleven_v3",
+  "source_take": "takes/zh-Hans/opening.1--opening.5",
+  "start": 25.840000000000003,
+  "end": 34.690612
+}

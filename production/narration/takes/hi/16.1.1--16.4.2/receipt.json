@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "ffdc5640ac6bc0d67ed24e08a68fa21419b63db840c519cabfdb02bc87a6e12c",
+  "submitted_at": "2026-09-09T11:21:10.819955+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "निर्भयता, हृदय की शुद्धता, ज्ञान में स्थिरता, उदारता और आत्मसंयम, दैवी गुण हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "सत्य बोलना, अहिंसा, क्रोध से मुक्ति, करुणा, कोमलता, विनम्रता और द्वेष से मुक्त होना भी दैवी गुण हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "ये गुण मुक्ति की ओर ले जाते हैं। घमंड, अहंकार, क्रोध, कठोरता और अज्ञान बाँधते हैं। निराश मत हो, अर्जुन; तुम दैवी गुणों से युक्त हो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जब लोग क्या करना चाहिए और क्या नहीं, इसका विवेक छोड़ देते हैं, तब इच्छा ही उनका एकमात्र नियम बन सकती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "वे सोचते हैं: मैंने यह पा लिया; और भी पाऊँगा। यह प्रतिद्वंद्वी हार गया; दूसरे को भी हराऊँगा। वे चिंता में उलझ जाते हैं, अनगिनत अपेक्षाओं से बँध जाते हैं और अन्यायपूर्ण साधनों से धन चाहते हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "अपने बड़प्पन का भाव यज्ञ को भी दिखावा बना सकता है। कामना, क्रोध और लोभ, विनाश के तीन द्वार हैं। इन्हें छोड़ दो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "इनसे मुक्त होकर मनुष्य अपने सच्चे कल्याण के लिए कर्म कर सकता है और परम लक्ष्य की ओर बढ़ सकता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो उपदेश का मार्गदर्शन त्यागकर केवल इच्छा के अनुसार चलता है, वह न सिद्धि पाता है, न सुख, न परम लक्ष्य।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "क्या करना चाहिए और किससे बचना चाहिए, इसका विवेक उपदेश से दिशा पाए। उसे समझकर कर्म करो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "16.1.1",
+      "filename": "hi/16.1.1.mp3",
+      "textSha256": "611a5ba274789b8c3719ab03fbce6da683b658198923212397ca48a121e6fe61",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.1.2",
+      "filename": "hi/16.1.2.mp3",
+      "textSha256": "ae10039be1979cbfa1e2dd13504f4e054e38b00b9a6477556970e038f1ec18d0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.1.3",
+      "filename": "hi/16.1.3.mp3",
+      "textSha256": "f6e4dd380826fefd5f82200873b939d619faabf64dbf521ff583c0bbe14873f7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.2.1",
+      "filename": "hi/16.2.1.mp3",
+      "textSha256": "96be707e1b66859f1972bc399c655bad1d537b9d8042ce5e9573c3c56c27b903",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.2.2",
+      "filename": "hi/16.2.2.mp3",
+      "textSha256": "e74fe60dd7118c0cd028065249896dd8be7d05dfd25b40883714809cedc34330",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.3.1",
+      "filename": "hi/16.3.1.mp3",
+      "textSha256": "2098c933ac45c407a5ea2b9ab0dd11e9b7015ae649ad091720ea8fd999a16df0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.3.2",
+      "filename": "hi/16.3.2.mp3",
+      "textSha256": "ef1b94d75d77f0619d9719f7285337985449fb861e2432217fa3463aa939cfcf",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.4.1",
+      "filename": "hi/16.4.1.mp3",
+      "textSha256": "a11a19ec5a22686b301c9786ec541a63fd6f85bef4e602440ca50a01975327cf",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.4.2",
+      "filename": "hi/16.4.2.mp3",
+      "textSha256": "7f0a872a988aadc005024d88a955240ea7dfa600d1a27cfa73d0ca45b8a6fa1c",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "550",
+  "request_id": "Dtm5lQRle3GYOEEC5jyt",
+  "master_sha256": "18612d57e502e65a0f1c0192aac0b2525dc04a2f8e578ca6c2ad924b839ac312"
+}

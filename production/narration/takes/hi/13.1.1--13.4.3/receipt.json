@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "79f8e6bc3a625f912e33dd67bc1ab7f46afb8a26177f8b2707cfddf2ecf2e0d5",
+  "submitted_at": "2026-09-09T11:17:29.571553+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "प्रकृति और पुरुष, क्षेत्र और उसे जानने वाले को समझाओ। ज्ञान क्या है, और जानने योग्य क्या है?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "इस शरीर को क्षेत्र कहा जाता है। जो इसे जानता है, वह क्षेत्रज्ञ है। मुझे भी सभी क्षेत्रों में क्षेत्रज्ञ जानो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "शरीर, इंद्रियाँ, मन, इच्छा, द्वेष, सुख और दुख, बदलते हुए क्षेत्र के अंग हैं। क्षेत्र और उसके ज्ञाता का भेद समझना ज्ञान का मुख्य आधार है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "विनम्रता, सच्चाई, अहिंसा, धैर्य, आत्मसंयम, स्थिरता और गुरु की सेवा, ज्ञान के अंग हैं।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जन्म, बुढ़ापे, बीमारी और मृत्यु पर विचार; ममत्व से मुक्ति; भक्ति; और आत्मा की निरंतर खोज भी ज्ञान के अंग हैं। ये उस व्यक्ति को गढ़ते हैं जो समझना चाहता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उस जानने योग्य के बारे में सुनो, जिसे जानकर मनुष्य अमरत्व पाता है: अनादि, परम ब्रह्म, जो होने और न होने के सामान्य भेद से परे है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "वह प्राणियों के भीतर भी है और बाहर भी, चल भी है और अचल भी, पास भी है और दूर भी। अविभाजित होकर भी वह अलग-अलग रूपों में दिखाई देता है। वह प्रकाशों का प्रकाश है, हृदय में उपस्थित है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "प्रकृति बदलते हुए साधनों और कर्मों को जन्म देती है। चेतन तत्व सुख और दुख का अनुभव करता है; प्रकृति के गुणों से आसक्ति उसे शरीर के बंधन में रखती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "कुछ ध्यान से समझ की ओर बढ़ते हैं, कुछ ज्ञान से, कुछ कर्म से, और दूसरे सुनकर तथा सुनी हुई बात का अभ्यास करके।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "प्राणियों में परम उपस्थिति को समान रूप से देखो, जो नष्ट होने वालों के बीच भी बनी रहती है। क्षेत्र और उसके ज्ञाता का भेद, और बंधन से परे जाने का मार्ग पहचानना सीखो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "13.1.1",
+      "filename": "hi/13.1.1.mp3",
+      "textSha256": "51008454c986569adbf27ded3fa0d05ffa14d374bc327b7e7adfacc6c32e65b8",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "13.1.2",
+      "filename": "hi/13.1.2.mp3",
+      "textSha256": "5b7507a037cd000251658f52a58569d1fc17f7342f22283f41fe45b929030404",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.1.3",
+      "filename": "hi/13.1.3.mp3",
+      "textSha256": "c652a4bb1e1be5c438dc8bcdc6faa539d46446098cdca03a0963f881418441cc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.1",
+      "filename": "hi/13.2.1.mp3",
+      "textSha256": "e318434e10d0fc3ab46f9badeea95a5d083b6e6d2867d36f4aebc832fa9c88ec",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.2",
+      "filename": "hi/13.2.2.mp3",
+      "textSha256": "66983971e710fa98ed2e43b782de595c169da13cc5e7ca77ace62719c6c93658",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.1",
+      "filename": "hi/13.3.1.mp3",
+      "textSha256": "7d0cab575ba315b7e5a789b3347d5a8c2614a851fa35aa9ff449d382fc0566f5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.2",
+      "filename": "hi/13.3.2.mp3",
+      "textSha256": "af9a927c465db4b7465c22b0f0079a3c384a0abff33cd1ed9e4921048cd8b12f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.1",
+      "filename": "hi/13.4.1.mp3",
+      "textSha256": "31ef6f7fab4787f3faaa08f33bb00bc3d44fd0f1f57ffce0c58e88e8c566754b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.2",
+      "filename": "hi/13.4.2.mp3",
+      "textSha256": "c51ff5c7c7bf29bf097e39ac4240717e6cf08c074fac76580fcd6b7f17a4d4ee",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.3",
+      "filename": "hi/13.4.3.mp3",
+      "textSha256": "335848278d741805c57a3bb2224e92bb5680a52a418bd946a8a6e1ad41870413",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "717",
+  "request_id": "VniYRSo00XUcxQrewMps",
+  "master_sha256": "c007657e954e2a0949fc39e45774a4fb266491abf8ca0fff5fc14627ecd7e70f"
+}

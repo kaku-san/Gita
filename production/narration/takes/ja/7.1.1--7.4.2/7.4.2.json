@@ -1,0 +1,13 @@
+{
+  "id": "7.4.2",
+  "language": "ja",
+  "src": "./audio/ja/7.4.2.mp3",
+  "duration": 18.677551,
+  "textSha256": "523daa97c75ec3ad049e2faf72fcf4be0ef2a1a7ccac7fa687c6270aa17e8a27",
+  "audioSha256": "4d09562f56221749adc4fb212ca4a60b66bb12c3d9b237cd6efbe443f3caf290",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "model_id": "eleven_v3",
+  "source_take": "takes/ja/7.1.1--7.4.2",
+  "start": 118.16000000000003,
+  "end": 136.829388
+}

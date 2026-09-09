@@ -1,0 +1,32 @@
+[
+  {
+    "quality": "high",
+    "triangles": 227748,
+    "drawCalls": 14,
+    "instances": 2180,
+    "vertices": 13038,
+    "checkedInstances": 2180,
+    "soldiers": 648,
+    "flags": 24,
+    "geometryCount": 14,
+    "materialCount": 14,
+    "compiledStandards": 11,
+    "checks": "pass",
+    "visualQA": "not performed; numeric validation only"
+  },
+  {
+    "quality": "low",
+    "triangles": 125066,
+    "drawCalls": 14,
+    "instances": 1210,
+    "vertices": 6915,
+    "checkedInstances": 1210,
+    "soldiers": 364,
+    "flags": 12,
+    "geometryCount": 14,
+    "materialCount": 14,
+    "compiledStandards": 11,
+    "checks": "pass",
+    "visualQA": "not performed; numeric validation only"
+  }
+]

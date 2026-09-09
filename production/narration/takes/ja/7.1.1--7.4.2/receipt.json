@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "88a81004d73fb60490499d27d96f0423ed923e59c873dc9802079643767c12c4",
+  "submitted_at": "2026-09-09T11:23:24.080231+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "心を私に向け、私をよりどころとして実践しなさい。どうすれば私を、より深く知ることができるか、聞くがよい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "地、水、火、風、空間、心、理解、そして「私」という感覚は、私の低次の本性に属する。その先には、世界を支える、生命の原理がある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "玉が一本の糸に連なっているように、すべては私に支えられている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私は水の味わいであり、太陽と月の光であり、ヴェーダの聖なる音である。私は大地の香りであり、生きものの命である。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私は、渇望と執着を離れた強さである。自然が姿を現すさまざまな性質は、私から生じる。だが、それらが私のすべてを包み込むことはない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "自然の性質にとらわれた人々は、その向こうにあるものを認められない。この現れの力、マーヤーは、越えることが難しい。だが、私をよりどころとする者は、それを越えられる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "人は、苦しみの中で、知を求めて、利益を願って、あるいは知恵によって、私に向かう。その一つひとつに意味がある。知恵ある信愛者は、すべてが神に支えられていると知るようになる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "欲望はしばしば、特定の報いを得るための礼拝へと人を向かわせる。そうした報いには、終わりがある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私の実在は、お前が今見えるものだけでは尽くされない。引かれる心と嫌う心は、理解を曇らせる。それらの支配から自由になった、不動の探求者は、私へ向かい、老いと死からの解放を求める。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "7.1.1",
+      "filename": "ja/7.1.1.mp3",
+      "textSha256": "8bfa88ca28822a4b9d1490d3074672ba2682addd7bc93a4164d9341af6e97f43",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.2",
+      "filename": "ja/7.1.2.mp3",
+      "textSha256": "73c8b23405487ab2ed4fd1634ce4082eb472321992705187464a2153e4fd487c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.3",
+      "filename": "ja/7.1.3.mp3",
+      "textSha256": "f10994b1d903c8788e8788128153fcc26dde8bcddceb51bfaa7365d2dbc6a3fe",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.1",
+      "filename": "ja/7.2.1.mp3",
+      "textSha256": "46198b74896b8cfc70fefd8a12356af3e23243977bcc90f8ecc2ac0371e1d1c6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.2",
+      "filename": "ja/7.2.2.mp3",
+      "textSha256": "e0f9a651daef290cf63671fcedf90ba1aae4433063569ec4b288f104d9dc7b2e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.1",
+      "filename": "ja/7.3.1.mp3",
+      "textSha256": "852f49681f365205a563bf50cc89e4047112782f21594093d28c159c64797d78",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.2",
+      "filename": "ja/7.3.2.mp3",
+      "textSha256": "b16d1c0a48eb2624db077a954006ec684f179f4649bd6ced362cc309fbe8264a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.1",
+      "filename": "ja/7.4.1.mp3",
+      "textSha256": "814e111c1cf5f301124e87d5307f89327df1179044a2a6d3b6eedf1ccdafc07e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.2",
+      "filename": "ja/7.4.2.mp3",
+      "textSha256": "523daa97c75ec3ad049e2faf72fcf4be0ef2a1a7ccac7fa687c6270aa17e8a27",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "311",
+  "request_id": "Cfd8wOKKdw9pZ1TFa9wp",
+  "master_sha256": "8c48caa3cf167fa12206e07813003643b8c655a7a3bb1019e58c9a78b008c317"
+}

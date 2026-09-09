@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "c04e7784de3a7ce89e9a497fcb72f93614235e0442c90632a2cf3e002b1e3f34",
+  "submitted_at": "2026-09-09T11:09:44.803274+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "One who does necessary work without depending on its reward is practising renunciation and yoga.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Raise yourself through your own discipline. The mind can become your ally; left ungoverned, it can work against you. Steadiness grows as it becomes less captive to pleasure, pain, praise and contempt.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Find a suitable place, sit steadily and gather your attention. Let the mind turn toward me.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "This yoga is not helped by eating too much or too little, by sleeping too much or keeping yourself always awake. Bring balance to food, rest, activity and effort.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "A steady mind is like that flame. Through practice it can discover a joy that does not depend on the senses.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Whenever the mind wanders, bring it back. Learn to see yourself in other beings and other beings in yourself, and to regard their joy and suffering with the seriousness of your own.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "But the mind is restless, forceful and stubborn. Controlling it feels like trying to hold the wind.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "It is difficult. Yet practice and the loosening of attachment can train it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "What happens to someone who begins with faith but cannot complete the path? Are they lost, belonging nowhere?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "No sincere effort toward the good is destroyed. Such practice bears onward, even through further births, and draws the seeker again toward understanding.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Continue. Among yogis, I hold especially close the one whose inner life rests in me, who worships with faith and love.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "6.1.1",
+      "filename": "en/6.1.1.mp3",
+      "textSha256": "bdad060caba29bc1ea63b846948c328c6745102ba45eafb8a23d86ee67c2dfa4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.1.2",
+      "filename": "en/6.1.2.mp3",
+      "textSha256": "f10fc2baa7b7cf21bee49fb4c1a3c8a7aca00a5b288101cd4c2ba41c0a10c4de",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.1",
+      "filename": "en/6.2.1.mp3",
+      "textSha256": "3b1cb42aedca9237a91000126f3e79fa7b497f9dd1386565b6d2fe7a30f0fb07",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.2",
+      "filename": "en/6.2.2.mp3",
+      "textSha256": "d76f960e2bea05acfbad24a663320ac434f7f2eef9072bc3231b1d8398281e92",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.3",
+      "filename": "en/6.2.3.mp3",
+      "textSha256": "ebf0a56d2f9b5b43e5429c6a9a663bda283087cc43a03c37f439623118d33fd0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.1",
+      "filename": "en/6.3.1.mp3",
+      "textSha256": "81f9e926ce471a6ce6dea93c22b9f10ba03f325264badc4a1aaaf404a47e6634",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.2",
+      "filename": "en/6.3.2.mp3",
+      "textSha256": "3e3527fec61c04df66ecce3fc2cd3d089669591bb778882b346800a5ebc3c0da",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.3.3",
+      "filename": "en/6.3.3.mp3",
+      "textSha256": "60bafe7ea014ff243dc242ce2bedf7b8cc823907d4ff8f151a15e74cbb6013b2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.1",
+      "filename": "en/6.4.1.mp3",
+      "textSha256": "079006d086632d4826f644b6c4172606cd6a78d9147a39afe6e041e89d1f6e91",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.4.2",
+      "filename": "en/6.4.2.mp3",
+      "textSha256": "69ae7fe1b0b71c2f093242cab76361829ac76b451d21a7c40fd6ac755f979756",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.3",
+      "filename": "en/6.4.3.mp3",
+      "textSha256": "af48f6a4fa7be1fdc824d104e705a0bd24c334a32fb1cd39048718c154576f4c",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "766",
+  "request_id": "FqvO89XYoMQOtVyWR1Mw",
+  "master_sha256": "22ef1904a519664011807302063b8748b4acf90218e0d9e7e516b3ddfcf4c831"
+}

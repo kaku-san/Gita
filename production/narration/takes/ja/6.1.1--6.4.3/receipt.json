@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "b7f467f5a63254556b60571ff03ef27c55d452f84d507f401b132089d8758be7",
+  "submitted_at": "2026-09-09T11:22:18.712238+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "報いに依存せず、必要な務めを果たす者は、放棄とヨーガを実践している。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "自らの修練によって、自分を高めなさい。心は味方になれるが、整えずにおけば、自分に敵対することもある。快楽や苦痛、称賛や侮辱にとらわれることが減るにつれ、安定は育つ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "ふさわしい場所を見つけ、安定して座り、注意を集めなさい。心を私へ向けるのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "食べすぎても、食べなさすぎても、このヨーガは深まらない。眠りすぎても、いつも眠らずにいても同じだ。食事、休息、活動、努力に調和をもたらしなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "安定した心は、あの炎のようなものだ。実践を通じて、感覚に依存しない喜びを見いだすことができる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "心がそれるたびに、連れ戻しなさい。他の生きものの中に自己を見、自己の中に他の生きものを見ることを学ぶのだ。その喜びや苦しみを、自分のものと同じ重さで受け止めなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "けれど、心は落ち着かず、激しく、頑固です。心を制するのは、風をつかもうとするように思えます。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "難しいことだ。それでも、実践し、執着を緩めることによって、心を鍛えることはできる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "信をもって歩み始めても、道を全うできなかった人は、どうなるのでしょう。どこにも属さず、失われてしまうのですか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "善へ向かう誠実な努力が、無に帰すことはない。その実践は、さらに生まれ変わる中でも受け継がれ、求める者を再び理解へと引き寄せる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "歩み続けなさい。ヨーガを実践する者の中でも、内なる心を私に置き、信と愛をもって私を礼拝する者を、私はとりわけ身近に思う。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "6.1.1",
+      "filename": "ja/6.1.1.mp3",
+      "textSha256": "aeb69cbd916a27553ffcab44ff2900c7dac1a0363111d50fdec1aadc1a245b31",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.1.2",
+      "filename": "ja/6.1.2.mp3",
+      "textSha256": "5cd350c09f4ab78459809cf6333d535f25a23094e066bc064925d6c81ec110d4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.1",
+      "filename": "ja/6.2.1.mp3",
+      "textSha256": "2b4d4ca624482d2653fee0761185e52abb1625a389fd08665b429ebf1685c831",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.2",
+      "filename": "ja/6.2.2.mp3",
+      "textSha256": "75479a30e51cfee7b7b284275f0be77f7dbac3cffb8d8336ff97ad0b2aa84b29",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.3",
+      "filename": "ja/6.2.3.mp3",
+      "textSha256": "44de5f5e300e3aca791f567d8c07446caeefb4d9db6cbed22dc3c1e4a2766909",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.1",
+      "filename": "ja/6.3.1.mp3",
+      "textSha256": "ff6c005ffb818cd6d0a80dbd8a0ef097585150463ef1158db9f24c3027bc96b8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.2",
+      "filename": "ja/6.3.2.mp3",
+      "textSha256": "d111ff7caad8a400fff2a7527e1a42007a198c498085d0554091cc2aa444a602",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.3.3",
+      "filename": "ja/6.3.3.mp3",
+      "textSha256": "2ae40e343b84d0e760090af65616ec2f8cb2befe17e17d9337964c3cc64e7cae",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.1",
+      "filename": "ja/6.4.1.mp3",
+      "textSha256": "adc8450b4b50442390d97e82b44123ced168850d637c9d1074a3d14f4e8e4727",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.4.2",
+      "filename": "ja/6.4.2.mp3",
+      "textSha256": "f8f4767ee4b55768b13dadc4b52087b07f9d5bc6a1935757e6c49d198c1080bb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.3",
+      "filename": "ja/6.4.3.mp3",
+      "textSha256": "220be0645ed74664ffca7997c6ab1b5efe252e29ea56a266b567401ecf5d04c3",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "341",
+  "request_id": "w3bq3RB0jh1SiMf7UXpE",
+  "master_sha256": "052a21666064353efcc0c6cdd2acb5dceca7d4906bcd651af0274a8f130e9a28"
+}

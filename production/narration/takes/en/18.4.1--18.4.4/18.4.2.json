@@ -1,0 +1,13 @@
+{
+  "id": "18.4.2",
+  "language": "en",
+  "src": "./audio/en/18.4.2.mp3",
+  "duration": 8.907755,
+  "textSha256": "646c49b1e47329f6ae6f11483d94c7cbcaf5e10bb38f95e8ffdc93b98e65bd31",
+  "audioSha256": "91d1994a5f5383eaac239ab48ea7caec7cda52fb8ef3b9fea22d3052adfe8dd9",
+  "voice_id": "j9jfwdrw7BRfcR43Qohk",
+  "model_id": "eleven_v3",
+  "source_take": "takes/en/18.4.1--18.4.4",
+  "start": 13.760000000000002,
+  "end": 22.64
+}

@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "173003c86513313907b9c47777f5bfc5d818e44f07ffa608d222ead9019c308c",
+  "submitted_at": "2026-09-09T11:28:24.348939+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "虔敬地敬拜你的人，与观照那不朽、无形实在的人，哪一类更坚定地安住于瑜伽之道？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "心安住于我、以坚定信心敬拜我的人，深深契合于瑜伽之道。追随无形实在的人，也能抵达目标；不过，对于有形的生命，那条道路更难行。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "对于虔敬于我的人，我会成为带领他们渡过生死之海的解救者。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "把你的心念与理解安放于我。如果还不能安稳地停留，就练习一次次回来。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "如果这样的练习也有困难，就为我而工作。如果连这一点也做不到，就放下对行动果实的占有式执著，并修持自身。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "在这样的放下之中，有安宁。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "不怀仇恨、友善而慈悲、没有占有之心和自大、耐心而坚定的人，是我所珍爱的。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "这样的人，不会无端扰乱世界，也不会总被世界的扰动所支配。虔敬会塑造他与他人相处的方式。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "学习在荣辱、褒贬、舒适与痛苦中保持坚定。放下那种要求：一切都必须对你有利。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "怀着信心遵循这滋养生命的教导、以我为至高目标的人，是我深深珍爱的。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "12.1.1",
+      "filename": "zh-Hans/12.1.1.mp3",
+      "textSha256": "f0bf6967e65e6eb882546850ddb57cd267ac488e352a70281bf316bcda12f409",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "12.1.2",
+      "filename": "zh-Hans/12.1.2.mp3",
+      "textSha256": "9718d1c29ff41763986cfd4c97dcc270d8f1a495a269ae2f57ec53d761e55db2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.1.3",
+      "filename": "zh-Hans/12.1.3.mp3",
+      "textSha256": "995346865e2f642d3c1382bbddd33c291b3d18824e10e38c6898a36f4e4328b1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.1",
+      "filename": "zh-Hans/12.2.1.mp3",
+      "textSha256": "ab27fce91191b7b59fa0d8599f2a7edf2a8ed75ec9f7e7a66e3f6ccdcbde81d9",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.2",
+      "filename": "zh-Hans/12.2.2.mp3",
+      "textSha256": "c502086786ea0bc78c5406fda4b5c9134649b5db34795e0588c92e68f0668223",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.2.3",
+      "filename": "zh-Hans/12.2.3.mp3",
+      "textSha256": "1c1056727ff8d336698853f3a1ec1c81b8653020c93930103d8ad85a3b59c7fc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.1",
+      "filename": "zh-Hans/12.3.1.mp3",
+      "textSha256": "315c6c69cf53a4985cf13b8e716dd49da7a861870396ddd4f0eb0ab2ac66a314",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.3.2",
+      "filename": "zh-Hans/12.3.2.mp3",
+      "textSha256": "5c411be0dc388b5df49433a4d2cd9b817802b89359fdef7aa4694d4f4ab9aae3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.1",
+      "filename": "zh-Hans/12.4.1.mp3",
+      "textSha256": "cadee52e0a4e15f04d933fb2fabd3ff9ebadcaa83b06c00c65a2b4906ce331ae",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "12.4.2",
+      "filename": "zh-Hans/12.4.2.mp3",
+      "textSha256": "3f98e2087569895dc65f04d1d84d42de93be8821d8b91781bd9369f359f3ea58",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "206",
+  "request_id": "rl4u5EUftnGvjkyPPwLW",
+  "master_sha256": "298d02c2af73f6488b73d3151bd646404a35ad75ad394de98dd0e4468e3117ca"
+}

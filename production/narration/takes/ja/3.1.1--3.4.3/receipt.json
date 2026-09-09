@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "336209945f4df7147dde1f49d96734ecb9760afadd16c57b8eb6e80aef3020b8",
+  "submitted_at": "2026-09-09T11:18:51.922745+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "理解がそれほど大切なら、なぜ私をこの恐ろしい行為へ向かわせるのですか。あなたの言葉は、違う方向を示しているように思えます。明確な道を示してください。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "知の修練にも、行為の修練にも、それぞれの役割がある。だが、なすべきことを放置するだけで、自由は得られない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "誰も、まったく行為をせずにはいられない。身体を抑えていても、心が欲望にしがみついていれば、自由ではない。目の前の務めから始め、それに取り組むあり方を変えなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "命は、与えることと受け取ることによって支えられている。生きものは食べ物に、食べ物は雨に依存している。捧げものの秩序は、人の行為を、個人よりも大きな世界につないでいる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "すべてを自分のために取る者は、その支え合いを忘れている。自分の利益だけに囲い込まず、必要な務めを果たしなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "尊敬される人の行いは、人々の手本となる。行為は、世界を支えることができる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私には得る必要のあるものはない。それでも、私は行為を続ける。私が行為を捨てれば、人々もそれに倣い、その暮らしを支える秩序が損なわれるだろう。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "お前の務めを私に捧げなさい。自分のものにしたいという思いと、期待に熱くなる心を手放すのだ。他人の道が楽に見えても、自分の責任に向き合いなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "したくないのに、まるで何かに強いられるように、人が悪いことをしてしまうのは、なぜですか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "欲望、そしてそこから生まれる怒りのためだ。それは、火を覆う煙のように、知を覆い隠す。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "感覚を整えることから始め、見分ける力を養いなさい。お前という存在は、内を通り過ぎる衝動だけでは尽くされない。その力に屈することなく、向き合う術を学ぶのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "3.1.1",
+      "filename": "ja/3.1.1.mp3",
+      "textSha256": "5912f73bce7c4f0c72df8bbc8293680cf32d196b6cd0589cfc2fe30c9cb58c9b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "3.1.2",
+      "filename": "ja/3.1.2.mp3",
+      "textSha256": "1bf27bbac4d5246d5bb809c9f4200564cb6239324d568df807d139e55876dc0e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.1.3",
+      "filename": "ja/3.1.3.mp3",
+      "textSha256": "9193f5090092cef508b9c46510514ad8ddc2408c3311a45f72f5e42e02615eeb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.2.1",
+      "filename": "ja/3.2.1.mp3",
+      "textSha256": "15e5604e843952741921f06de5167db155ec3cb804ca8c711e3a3587238caf3f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.2.2",
+      "filename": "ja/3.2.2.mp3",
+      "textSha256": "29cd6d7b4f809137b76006a8e55b6ced40cfdf0a6c28feb30293c83fecacf935",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.1",
+      "filename": "ja/3.3.1.mp3",
+      "textSha256": "874294a3e343d8f448cf75a5b92567d54ebbf8021a8498478bee14031ea85a83",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.2",
+      "filename": "ja/3.3.2.mp3",
+      "textSha256": "5b2ee20ec64b68f6f49db7a1771d9673f0d4f137a4b7a675fbbd59c4b8f069bd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.3",
+      "filename": "ja/3.3.3.mp3",
+      "textSha256": "73f1e1dea26e21209fe2d26369963a30f1e192ec97d65374aa9db18ed51cea4d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.4.1",
+      "filename": "ja/3.4.1.mp3",
+      "textSha256": "02d8e6fbd3cb1cdd6f4d2d70ad3a24077189a24fb584778560e23f1b5393aac0",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "3.4.2",
+      "filename": "ja/3.4.2.mp3",
+      "textSha256": "5a7963095176a243221bd1e3cd59440be3c9278f1542a1f0f5ead38aab994a6b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.4.3",
+      "filename": "ja/3.4.3.mp3",
+      "textSha256": "92c2d633101abad229cebef520e4966173225efb47885417232f22f0427929aa",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "377",
+  "request_id": "yEjzSHpOTeAAflqkqHGi",
+  "master_sha256": "569f8bd3f2561e797b92f6d66919165db21cc82da29ece5fbb2990cf34d6c8b9"
+}

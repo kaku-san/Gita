@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "501680dd48e58dd845e2e6c0a0d21cddf611782216f520b0daafd400f472cd3c",
+  "submitted_at": "2026-09-09T11:18:06.232287+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Nature's three qualities bind the enduring self to embodied life. They are sattva, rajas and tamas.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Sattva brings light and clarity, yet binds through attachment to happiness and knowledge. Rajas brings craving and restless activity, binding through action. Tamas obscures understanding through negligence, inertia and sleep.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "The qualities rise and fall in relation to one another. Clarity signals sattva; greed and ceaseless striving signal rajas; confusion and neglect signal tamas.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Their influence shapes conduct and its consequences, including the course of further births. Learn to recognise what is becoming strong in you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "How does someone who has gone beyond these qualities behave? How can they cross them?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Such a person does not hate clarity, activity or confusion when they appear, nor crave them when they depart. They recognise the qualities at work and remain steady.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "They are less bound by pleasure and pain, praise and blame, friendship and hostility, or the need to make every undertaking a possession of the ego.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "One who serves me through unwavering devotion crosses beyond the three qualities and becomes fit for Brahman.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I am the foundation of the imperishable Brahman, of immortality, enduring dharma and complete happiness.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "14.1.1",
+      "filename": "en/14.1.1.mp3",
+      "textSha256": "efb85e49d9d030608c4f290a9d3576af29ecac9f3fef1281337c90449be222d0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.1.2",
+      "filename": "en/14.1.2.mp3",
+      "textSha256": "1392e4d0a696648ab5694e5c220abd35f6cfe95b600517510b86ee43b98fc1c8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.1",
+      "filename": "en/14.2.1.mp3",
+      "textSha256": "fd8c982df8767198e11d406bd8ee49bb980f9517e6e3cc87890f68b868fdb5da",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.2",
+      "filename": "en/14.2.2.mp3",
+      "textSha256": "a24e4c3c5036ac0e8daf76dba0540289f94248360d778d0ecca8caaed74d9cac",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.1",
+      "filename": "en/14.3.1.mp3",
+      "textSha256": "76cc558d499c553ee4583210e5421cb36cadce5717fe824a229298d8bc83508e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "14.3.2",
+      "filename": "en/14.3.2.mp3",
+      "textSha256": "3621b4d71025fb3b15c33f0181266c8e845b8f07166ae4c32b0d6ec588c55c94",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.3",
+      "filename": "en/14.3.3.mp3",
+      "textSha256": "37745ddb1125a52c63fa81e6b7a63e976eabca87215ea460510ea2069c8b0a76",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.1",
+      "filename": "en/14.4.1.mp3",
+      "textSha256": "c562094291ebcb31685a6d4e533e6a091cf4e953fe1e385ad065d48e7ea3ba4b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.2",
+      "filename": "en/14.4.2.mp3",
+      "textSha256": "4d870e51897cd0d8997b76bdfe884fe6cfffae8b96091625b340e8035bcba346",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "680",
+  "request_id": "O3PG2Q75a7FzYpmkB46i",
+  "master_sha256": "363099b49904d1b2766ef0017e09a34489f0d6ef4084f7192c11a31e5c156a08"
+}

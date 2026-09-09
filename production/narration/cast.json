@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "model_id": "eleven_v3",
+  "languages": {
+    "hi": {
+      "language_code": "hi",
+      "voices": {
+        "Krishna": {
+          "voice_id": "hRHid0k1FJN4S80Kbs5m",
+          "name": "Geeta — Krishna — Hindi",
+          "kind": "designed",
+          "approved": true,
+          "approved_preview_id": "hRHid0k1FJN4S80Kbs5m",
+          "description": "Native Hindi, standard Indian Hindi pronunciation. Male, age 30–40. Studio quality. Persona: divine teacher Krishna. Emotion: serene, compassionate, quietly assured. A smooth, warm, gently melodious voice with a clear middle register and rich natural resonance. Intimate and reassuring as he speaks to his dear friend Arjuna. Measured, flowing delivery, thoughtful pauses and precise Sanskrit-derived Hindi diction. Spiritual presence through grace, warmth and effortless authority."
+        },
+        "Arjun": {
+          "voice_id": "HyhAfYGa3UDZpjb4Ci4k",
+          "name": "Vikrant",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Sanjaya": {
+          "voice_id": "JXjD3Apv5OBjfkhCa3tI",
+          "name": "Geeta — Context — hi",
+          "kind": "designed",
+          "language_code": "hi",
+          "description": "Native Hindi, standard Indian Hindi pronunciation. Male, age 40. Studio quality. A composed storyteller introducing an ancient Indian philosophical drama. Clear, warm middle-register voice, measured flowing speech and precise native diction. Understated and observant, gently inviting the listener into the story. Natural pauses and human warmth. Calm context narration, emotionally distinct from the youthful warrior and the melodious divine teacher.",
+          "selection": "First matching-language preview for production under user authorization; listening review pending",
+          "generated_preview_id": "JXjD3Apv5OBjfkhCa3tI"
+        }
+      }
+    },
+    "en": {
+      "language_code": "en",
+      "voices": {
+        "Krishna": {
+          "voice_id": "j9jfwdrw7BRfcR43Qohk",
+          "name": "Frederick Surrey",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Arjun": {
+          "voice_id": "10NkTYmU7tSz3Kkl3Lex",
+          "name": "Kaelen",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Sanjaya": {
+          "voice_id": "8JVbfL6oEdmuxKn5DK2C",
+          "name": "Johnny Kid — Serious and Calm Narrator",
+          "kind": "library",
+          "source": "https://elevenlabs.io/voice-library/narrator-voices"
+        }
+      }
+    },
+    "ja": {
+      "language_code": "ja",
+      "voices": {
+        "Krishna": {
+          "voice_id": "3JDquces8E8bkmvbh6Bc",
+          "name": "Otani",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Arjun": {
+          "voice_id": "Mv8AjrYZCBkdsmDHNwcB",
+          "name": "Ishibashi",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Sanjaya": {
+          "voice_id": "w5WuszXzuKLYFrNBH2kY",
+          "name": "Geeta — Context — ja",
+          "kind": "designed",
+          "language_code": "ja",
+          "description": "Native Japanese, standard Tokyo pronunciation. Male, age 40. Studio quality. A composed storyteller introducing an ancient Indian philosophical drama. Clear, warm middle-register voice, measured flowing speech and precise native diction. Understated and observant, gently inviting the listener into the story. Natural pauses and human warmth. Calm context narration, emotionally distinct from the youthful warrior and the melodious divine teacher.",
+          "selection": "First matching-language preview for production under user authorization; listening review pending",
+          "generated_preview_id": "w5WuszXzuKLYFrNBH2kY"
+        }
+      }
+    },
+    "zh-Hans": {
+      "language_code": "zh",
+      "voices": {
+        "Krishna": {
+          "voice_id": "hZTuv9Zqrq4yHYrEmF1r",
+          "name": "Adam Li",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Arjun": {
+          "voice_id": "WuLq5z7nEcrhppO0ZQJw",
+          "name": "Martin Li",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Sanjaya": {
+          "voice_id": "H9aY8kOUrDpSQdCRVQo5",
+          "name": "Geeta — Context — zh-Hans",
+          "kind": "designed",
+          "language_code": "zh",
+          "description": "Native Mandarin Chinese, standard Putonghua pronunciation. Male, age 40. Studio quality. A composed storyteller introducing an ancient Indian philosophical drama. Clear, warm middle-register voice, measured flowing speech and precise native diction. Understated and observant, gently inviting the listener into the story. Natural pauses and human warmth. Calm context narration, emotionally distinct from the youthful warrior and the melodious divine teacher.",
+          "selection": "First matching-language preview for production under user authorization; listening review pending",
+          "generated_preview_id": "H9aY8kOUrDpSQdCRVQo5"
+        }
+      }
+    },
+    "fr": {
+      "language_code": "fr",
+      "voices": {
+        "Krishna": {
+          "voice_id": "a5n9pJUnAhX4fn7lx3uo",
+          "name": "Martin Dupont",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Arjun": {
+          "voice_id": "4p5WXd3ZuWR9pPtRQuxC",
+          "name": "Jean Petit",
+          "kind": "library",
+          "selection": "Production casting under user authorization; independent listening review pending"
+        },
+        "Sanjaya": {
+          "voice_id": "ieDBPVAoZrvjyZ7n7z8y",
+          "name": "Geeta — Context — fr",
+          "kind": "designed",
+          "language_code": "fr",
+          "description": "Native French, standard metropolitan French pronunciation. Male, age 40. Studio quality. A composed storyteller introducing an ancient Indian philosophical drama. Clear, warm middle-register voice, measured flowing speech and precise native diction. Understated and observant, gently inviting the listener into the story. Natural pauses and human warmth. Calm context narration, emotionally distinct from the youthful warrior and the melodious divine teacher.",
+          "selection": "First matching-language preview for production under user authorization; listening review pending",
+          "generated_preview_id": "ieDBPVAoZrvjyZ7n7z8y"
+        }
+      }
+    }
+  }
+}

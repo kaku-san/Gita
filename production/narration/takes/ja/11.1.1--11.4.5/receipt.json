@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "20b83844d39f3a35c8d20956dfa60a2eedf87183131f55bfa34c034dd93846e7",
+  "submitted_at": "2026-09-09T11:28:46.215915+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "あなたの教えで、私の迷いはずいぶん晴れました。生きものがどのように生まれ、去っていくかも聞きました。私は、万物を統べるあなたの姿を見たいのです。私に耐えられるとお考えなら、どうかお見せください。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "数えきれない色と種類をもつ、私の姿を見るがよい。ここに集まる全世界と、かつて見たことのない驚異を見なさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "普通の眼では、この光景を捉えることはできない。お前に、神の眼を授けよう。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "そしてクリシュナは、宇宙を包含する姿を現しました。その輝きは、この戦場がそれまでに知るどんな光をも超えていました。",
+        "voice_id": "w5WuszXzuKLYFrNBH2kY"
+      },
+      {
+        "text": "あなたの内に、生きものや神々の力が見えます。始まりも、中ほども、終わりも見つかりません。その輝きは、あらゆる方角を満たしています。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "そして、私たちの戦士が滅びへ入っていくのが見えます。ビーシュマ、ドローナ、ドリタラーシュトラの息子たち。川が海へ向かうように、そこへなだれ込んでいきます。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "心が安まりません。この恐ろしい姿のあなたは、何者なのですか。どうか教えてください。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "私は、諸世界を終わりへ導く時である。ここに並ぶ戦士たちは、お前がいなくとも、生き残ることはない。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "立ち上がりなさい、アルジュナ。その働きを担う者となれ。この戦士たちは、すでにその終わりの内にいる。目の前の戦いに向き合うのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "目の前の偉大さを知らず、あなたを友と呼び、気軽に話してきました。理解の及ばなかった私を、お許しください。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "驚異に満たされると同時に、恐れに震えています。もう一度、私が耐えられる姿をお見せください。冠を戴き、棍棒と円盤を持つ、四本の腕のお姿を。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "恐れを鎮めなさい。お前が求めた姿を、再び見るがよい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "穏やかな人のお姿を見て、ようやく自分を取り戻せます。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "ひたむきな信愛を通じてこそ、人は私を真に知り、見て、私の内へ入ることができる。私のために行為しなさい。私を最高の目標とするのだ。執着と、生きものへの敵意から自由でありなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "11.1.1",
+      "filename": "ja/11.1.1.mp3",
+      "textSha256": "50a3a5f14e2aa770e8046248029289fc1c6d8542837c10ad1949872523ac7fb5",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.1.2",
+      "filename": "ja/11.1.2.mp3",
+      "textSha256": "a7e495791918938d832dc01717df4b8378e70611ffe74c3e8f67dcbf97a56267",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.3",
+      "filename": "ja/11.1.3.mp3",
+      "textSha256": "6b76675228b9674b99ca6844de6099eb1c2fc73a1926f9c75b50c12f4b30b0ee",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.4",
+      "filename": "ja/11.1.4.mp3",
+      "textSha256": "e0bd134a6acabc634a971a7aa2b75bc959c85d4ae8be06b395b4441838295395",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "11.2.1",
+      "filename": "ja/11.2.1.mp3",
+      "textSha256": "1edbd46712f3800a8ee05990d9f8790bda3278bf85a19cd6e6fae4fa6f3da355",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.2",
+      "filename": "ja/11.2.2.mp3",
+      "textSha256": "acce56b84e1a2d5283e99e6f612f8b834b056ecc8198e08aad49ac6f3859c8ad",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.3",
+      "filename": "ja/11.2.3.mp3",
+      "textSha256": "590e02983289f22ceb30af89d115aa00de952393cf274fc253b0fb5741700e2d",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.3.1",
+      "filename": "ja/11.3.1.mp3",
+      "textSha256": "4de3fbe7124427f832dcb2d26f3b91dfdce053bfbb3b0fce5158efa1f241d1b5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.3.2",
+      "filename": "ja/11.3.2.mp3",
+      "textSha256": "3db0a30eb38fb566b9a3f3cc13b568784e400c514523bfb9a61ff0868625062b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.1",
+      "filename": "ja/11.4.1.mp3",
+      "textSha256": "3f06e48d36efbb8dbc19f65218ac32ec3bc12b41810a6632659c4197b112d188",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.2",
+      "filename": "ja/11.4.2.mp3",
+      "textSha256": "033a96694d7471217ca3c5cc8e149f24c28e07389986d6a6bf9fc5264d8be01e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.3",
+      "filename": "ja/11.4.3.mp3",
+      "textSha256": "7d9ba092abeb2896aac2adfb0f0a61d9879a8fc6f46f8cfb52588c296de7248c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.4",
+      "filename": "ja/11.4.4.mp3",
+      "textSha256": "7e25e066117b5ccb6605e652720a897b80b7c08793397d5e011d924f346777fa",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.5",
+      "filename": "ja/11.4.5.mp3",
+      "textSha256": "a3c0c5e388b1b0c01592d788c7b757b87890c60148a36ca259601729779abff7",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "438",
+  "request_id": "QZp3Nc28PRKI6ASBr3Gp",
+  "master_sha256": "d357799b2c663f4e58f71a62ef97ef0ba05767ace6b2993eb6807aba60da3772"
+}

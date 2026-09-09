@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "1c63a3765150f123adb25f4af46e3a5e467cc11887b81536fa6edf468544ff82",
+  "submitted_at": "2026-09-09T11:18:50.167724+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "如果智慧如此重要，为什么还要引导我去做这件可怕的事？你的话仿佛指向不同的方向。请为我指出一条清楚的路。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "智慧的修行与行动的修行，各有其位置。但仅仅放下工作，并不能带来自由。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "没有人能够完全不行动。身体克制不动，心却仍紧抓欲望，这不是自由。从眼前应做的事开始，改变你承担它的方式。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "生命靠给予与承接而维系。众生依赖食物，食物依赖雨水；献祭的秩序，将人的行动与一个大于个体的世界联结起来。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "把一切都据为己有的人，忘记了这种依存。去做必要的工作，不要只把它看作谋取私利的手段。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "受人敬重者的行为，会成为榜样。行动能够帮助维系世界。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我并没有什么需要获取，却仍持续行动。如果我放弃行动，别人也会效仿，支撑他们生活的秩序就会受损。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "把你的工作奉献给我。放下占有之心，以及对结果的焦灼期待。专注于自己的责任，即使别人的道路看起来更轻松。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "是什么让一个人明明不愿作恶，却仍去作恶，仿佛被什么力量逼迫？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "是欲望，以及从欲望中生出的愤怒。它们如烟遮火，能够蒙蔽智慧。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "从感官入手，培养明辨。要认识到，你并不只是那些在内心涌动的冲动。学习面对这股力量，而不向它屈服。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "3.1.1",
+      "filename": "zh-Hans/3.1.1.mp3",
+      "textSha256": "f283431350ee5b3e2e197788bd25738d0951fa76c90d9b9829af5dab16fdff2a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "3.1.2",
+      "filename": "zh-Hans/3.1.2.mp3",
+      "textSha256": "594839ecbbe92bf36c0c3b637f04aff4cee071758f3a612850eb562fd537201f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.1.3",
+      "filename": "zh-Hans/3.1.3.mp3",
+      "textSha256": "5edfd483d6474e311063c543588a8a3c91acf2e3316def0671fedcfbb52fa575",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.2.1",
+      "filename": "zh-Hans/3.2.1.mp3",
+      "textSha256": "a91b4f0f2964fcc78b5ce8c2304af8fc51a12d5781837b33d51a9d5f5befef4b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.2.2",
+      "filename": "zh-Hans/3.2.2.mp3",
+      "textSha256": "17eb2bb8ecf0077705b369caa1f1415a0a912df75de4bc27944cd283e16ef620",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.1",
+      "filename": "zh-Hans/3.3.1.mp3",
+      "textSha256": "1bb3b773399f658f270f8f4364066b1412d0a957a0944247ee843dd041958547",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.2",
+      "filename": "zh-Hans/3.3.2.mp3",
+      "textSha256": "03514bfe7d4bca3f4371d913e1c6b242fa177e6497dcfef2e0a30cd1cf8a2cc4",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.3.3",
+      "filename": "zh-Hans/3.3.3.mp3",
+      "textSha256": "38470752b506908b8064318c195629c0154d5cdfb45102fabfec2047873717b3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.4.1",
+      "filename": "zh-Hans/3.4.1.mp3",
+      "textSha256": "c072206441817f9f46ea5dc24f7deacfa62b2b993dfbcc50670d3b8ce97dfcd0",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "3.4.2",
+      "filename": "zh-Hans/3.4.2.mp3",
+      "textSha256": "8460b8166622ba21a6aed90a1341b01f383b353ce5ae8ad0709848bc4586ee31",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "3.4.3",
+      "filename": "zh-Hans/3.4.3.mp3",
+      "textSha256": "fd01338c085f0545f7e4876a8377e26cc8154c77d6077d316fc0ca455f618cd3",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "255",
+  "request_id": "XGXN47i6l9Lzq4jKcGyk",
+  "master_sha256": "39044c0cdfdbf31ccddfd55f096371fcd9cbfcc2fe5e0889740c2c752161d69a"
+}

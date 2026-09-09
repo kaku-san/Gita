@@ -1,0 +1,13 @@
+{
+  "id": "opening.1",
+  "language": "en",
+  "src": "./audio/en/opening-1.mp3",
+  "duration": 8.515918,
+  "textSha256": "2ccd37c8cf8916dd36dae2345e940974be3e670b45592158f0ef16d5572730b0",
+  "audioSha256": "913dd0890e42a407fdb37ab7cab11bd76b0d8ad934ff0330bf4780adb085b6d5",
+  "voice_id": "8JVbfL6oEdmuxKn5DK2C",
+  "model_id": "eleven_v3",
+  "source_take": "takes/en/opening.1--opening.5",
+  "start": 0,
+  "end": 8.48
+}

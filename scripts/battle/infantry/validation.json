@@ -1,0 +1,108 @@
+{
+  "passed": true,
+  "method": "Numeric geometry, placement, animation and API checks only; no rendered QA.",
+  "results": [
+    {
+      "quality": "high",
+      "activeFighters": 144,
+      "distantSoldiers": 1440,
+      "triangles": 835474,
+      "draws": 20,
+      "finiteMatrices": true,
+      "exclusionViolations": [],
+      "shinLengths": [
+        0.39367465322053924,
+        0.4202837712201439
+      ],
+      "forearmLengths": [
+        0.259225570585836,
+        0.27674705660528287
+      ],
+      "footGroundRange": [
+        0.004393587049096828,
+        0.09105833022296428
+      ],
+      "focalShieldContact": {
+        "radialDistance": 0.0005601498938211051,
+        "signedDepth": 0.05909709064065738
+      },
+      "outwardTorsoNormals": 52,
+      "focalPair": {
+        "id": 0,
+        "center": [
+          -14,
+          0,
+          8
+        ],
+        "aim": [
+          -14,
+          1.14,
+          8
+        ],
+        "recommendedCamera": {
+          "position": [
+            -6.6,
+            3.8,
+            16.5
+          ],
+          "aim": [
+            -14,
+            1.14,
+            8
+          ]
+        }
+      }
+    },
+    {
+      "quality": "low",
+      "activeFighters": 104,
+      "distantSoldiers": 1000,
+      "triangles": 443342,
+      "draws": 20,
+      "finiteMatrices": true,
+      "exclusionViolations": [],
+      "shinLengths": [
+        0.39367465322053924,
+        0.4194114639971418
+      ],
+      "forearmLengths": [
+        0.259225570585836,
+        0.276172661436242
+      ],
+      "footGroundRange": [
+        0.004393587049096828,
+        0.09090527883172035
+      ],
+      "focalShieldContact": {
+        "radialDistance": 0.0005601498938211051,
+        "signedDepth": 0.05909709064065738
+      },
+      "outwardTorsoNormals": 28,
+      "focalPair": {
+        "id": 0,
+        "center": [
+          -14,
+          0,
+          8
+        ],
+        "aim": [
+          -14,
+          1.14,
+          8
+        ],
+        "recommendedCamera": {
+          "position": [
+            -6.6,
+            3.8,
+            16.5
+          ],
+          "aim": [
+            -14,
+            1.14,
+            8
+          ]
+        }
+      }
+    }
+  ]
+}

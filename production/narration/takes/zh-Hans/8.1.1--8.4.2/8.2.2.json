@@ -1,0 +1,13 @@
+{
+  "id": "8.2.2",
+  "language": "zh-Hans",
+  "src": "./audio/zh-Hans/8.2.2.mp3",
+  "duration": 17.005714,
+  "textSha256": "04f3e17199680381bfaaf414cf119ce8e7f6d1f4b5781787f0546108d631ad45",
+  "audioSha256": "99e13409625383b7f21e8981dc2b90339749eb6f4024e8ffc7da4862e54263c7",
+  "voice_id": "hZTuv9Zqrq4yHYrEmF1r",
+  "model_id": "eleven_v3",
+  "source_take": "takes/zh-Hans/8.1.1--8.4.2",
+  "start": 55.52,
+  "end": 72.47999999999999
+}

@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "layers": [
+    {
+      "bus": "wind",
+      "loop": true,
+      "gain": 0.38,
+      "src": "./audio/field/field-wind.mp3",
+      "spatial": false
+    },
+    {
+      "bus": "field",
+      "loop": true,
+      "gain": 0.28,
+      "position": [
+        38,
+        2,
+        60
+      ],
+      "src": "./audio/field/army-murmur.mp3"
+    },
+    {
+      "bus": "combat",
+      "loop": false,
+      "gain": 0.38,
+      "position": [
+        -25,
+        2,
+        30
+      ],
+      "interval": [
+        2,
+        6
+      ],
+      "src": "./audio/field/combat-left.mp3",
+      "startAfter": [
+        2,
+        4
+      ]
+    },
+    {
+      "bus": "combat",
+      "loop": false,
+      "gain": 0.32,
+      "position": [
+        34,
+        2,
+        45
+      ],
+      "interval": [
+        4,
+        9
+      ],
+      "src": "./audio/field/combat-right.mp3",
+      "startAfter": [
+        8,
+        12
+      ]
+    },
+    {
+      "bus": "travel",
+      "loop": true,
+      "gain": 0.5,
+      "position": [
+        0,
+        1,
+        7
+      ],
+      "src": "./audio/field/horse-walk.mp3"
+    },
+    {
+      "bus": "combat",
+      "loop": false,
+      "gain": 0.23,
+      "position": [
+        0,
+        2,
+        7
+      ],
+      "interval": [
+        16,
+        29
+      ],
+      "src": "./audio/field/horse-breath.mp3",
+      "near": true,
+      "startAfter": [
+        10,
+        18
+      ]
+    },
+    {
+      "bus": "signal",
+      "loop": false,
+      "gain": 0.18,
+      "position": [
+        -65,
+        3,
+        95
+      ],
+      "interval": [
+        30,
+        48
+      ],
+      "src": "./audio/field/conch.mp3",
+      "startAfter": [
+        18,
+        28
+      ]
+    },
+    {
+      "bus": "signal",
+      "loop": false,
+      "gain": 0.22,
+      "position": [
+        70,
+        2,
+        110
+      ],
+      "interval": [
+        18,
+        32
+      ],
+      "src": "./audio/field/war-drum.mp3",
+      "startAfter": [
+        10,
+        16
+      ]
+    }
+  ]
+}

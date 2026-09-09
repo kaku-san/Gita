@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "b7f6203359929d1473cd7a7d3c4bd605fcce5b518b2b02aa58ddd157ae8e2400",
+  "submitted_at": "2026-09-09T11:14:09.329712+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Hear more, Arjun. I speak for your good. I am the source from which everything proceeds.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Those who recognise this turn toward me with love. Remembering me together, they find joy. To those devoted in love, I give the discernment that leads them toward me; I dispel the darkness of ignorance with the light of knowledge.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I accept what you tell me. You alone know yourself fully. Tell me the expressions of your presence through which I can keep remembering you.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "I am the self within the hearts of beings, their beginning, middle and end. Among lights, see the radiance of the sun; among the senses, the mind; in living beings, consciousness.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Recognise my expressions in the Himalayas, in the sacred syllable, in the peepal tree, in the Ganga, in the lion's strength.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I am also time, wisdom, memory and the powers by which life unfolds. These are ways to turn your attention toward me.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "There is no end to these manifestations. Whatever has splendour, beauty or power arises from a portion of my radiance.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "But why multiply examples? With one portion of myself, I sustain this entire universe.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I have heard you describe it. Can I see?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "10.1.1",
+      "filename": "en/10.1.1.mp3",
+      "textSha256": "aa8bca96a076e703be38c323bc8590307b0b4b87498a1c2cf4bc22b3df71dd8c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.1.2",
+      "filename": "en/10.1.2.mp3",
+      "textSha256": "f5da134c3522ffe746f6d29c207d1b8327f7b668a97bf73f2f5ee65473e87b78",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.2.1",
+      "filename": "en/10.2.1.mp3",
+      "textSha256": "ba1555c898e3883498b878429ff4d0695f6b7dfcb28fac27db6d01c345ba5861",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "10.2.2",
+      "filename": "en/10.2.2.mp3",
+      "textSha256": "6067afdca0a4f85c8746ef1761d08c746944044a09fa6c88272f97670327fb0a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.1",
+      "filename": "en/10.3.1.mp3",
+      "textSha256": "e1bd8070bf08daf805b5a9a902906bd7305b06d1ea25442d09928f864486666b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.3.2",
+      "filename": "en/10.3.2.mp3",
+      "textSha256": "920581b9347791a763c03ba2e9cafa57dd0ffa5ae834b4f1c2bbe6b431aed8e1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.1",
+      "filename": "en/10.4.1.mp3",
+      "textSha256": "ce78a62c97ff3b0500cb6f27e5eff68cba6ad7eb39ee7f64150c64c5c4dc3024",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.2",
+      "filename": "en/10.4.2.mp3",
+      "textSha256": "9bb7f793749d7caf6b58b31676163d9467158b0211cd2a99452340315a21b8bd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "10.4.3",
+      "filename": "en/10.4.3.mp3",
+      "textSha256": "e53aa3fd756ad72a73f3e9338c1221b77ba7506f86f0229b1034e8174a61a9a2",
+      "speakerKey": "Arjun"
+    }
+  ],
+  "character_cost": "617",
+  "request_id": "Q6tzwQn1zVBen6cDUS2v",
+  "master_sha256": "02d723e4f6dff55269d1951b1dfbf7018cc6d0740d45ceddb46bd0119661cef6"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "generated",
+  "fingerprint": "c54ecf70cc0713944d6d9f9acdb05e7122e7fe4c7ce342103e1ae421f50a4793",
+  "submitted_at": "2026-09-09T11:30:47.423855+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Vois également dans les êtres la présence suprême, qui demeure au milieu de ce qui périt. Apprends à distinguer le champ de celui qui le connaît, et à discerner la voie qui mène au-delà de l’asservissement.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "13.4.3",
+      "filename": "fr/13.4.3.mp3",
+      "textSha256": "f47a905738e117fdbdd8e3ffc574ca9b230cc0807f6f6062d1cb071b2d12bc73",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "113",
+  "request_id": "MaMjxVEvRdEfaCmHYhTQ",
+  "master_sha256": "97da82345637755f7a6a41c83da0fd9ab288141ec9a861bdb18e2f0949721998"
+}

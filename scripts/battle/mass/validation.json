@@ -1,0 +1,692 @@
+{
+  "passed": true,
+  "method": "Numerical coverage, geometry, capacity, pause/reset and shader-source checks; no rendered QA.",
+  "results": [
+    {
+      "version": 1,
+      "quality": "high",
+      "units": "metres",
+      "representedSoldiers": 1909376,
+      "distinctNearSoldiers": 52501,
+      "distantRepresentedSoldiers": 1856875,
+      "distantFormationStrips": 89368,
+      "flags": 1142,
+      "dustPatches": 143,
+      "draws": 4,
+      "triangles": 286308,
+      "bufferBytes": 5726528,
+      "perSoldierMatrices": 0,
+      "fieldExtents": {
+        "minX": -1099.489944287601,
+        "maxX": 1099.7599473628545,
+        "minZ": -1098.8566968831706,
+        "maxZ": 1098.9950384292677
+      },
+      "worldBoundingBox": {
+        "min": [
+          -1100.0999442876011,
+          -0.3818898445776137,
+          -1113.4966968831707
+        ],
+        "max": [
+          1100.3699473628546,
+          7.406532739238092,
+          1113.6350384292678
+        ]
+      },
+      "nearestRadius": 46.38198395353603,
+      "farthestRadius": 1550.3552069497875,
+      "nominalSoldierHeight": 1.8,
+      "soldierHeightRange": [
+        1.725,
+        1.898
+      ],
+      "spearHeightRange": [
+        2.51,
+        2.76
+      ],
+      "spacing": {
+        "acrossRank": 1.22,
+        "betweenRanks": 2
+      },
+      "detailRadius": 220,
+      "stripCapacity": 24,
+      "formation": "Broad staggered Cartesian ranks with narrow company lanes, irregular side fronts near x ±50, front and rear closure near z ±95; no circular ranks.",
+      "centralExclusionRadius": 42,
+      "reserves": [
+        {
+          "x": -58,
+          "z": -6,
+          "radius": 8
+        },
+        {
+          "x": 64,
+          "z": 14,
+          "radius": 8
+        }
+      ],
+      "centerViolations": 0,
+      "reserveViolations": 0,
+      "angularSectors": [
+        {
+          "sector": 0,
+          "fromDegrees": 0,
+          "toDegrees": 22.5,
+          "representedSoldiers": 98930,
+          "bands": [
+            3482,
+            15391,
+            58254,
+            21803
+          ],
+          "nearestRadius": 51.05344149940974,
+          "farthestRadius": 1183.0351100060634
+        },
+        {
+          "sector": 1,
+          "fromDegrees": 22.5,
+          "toDegrees": 45,
+          "representedSoldiers": 139659,
+          "bands": [
+            3338,
+            15836,
+            58278,
+            62207
+          ],
+          "nearestRadius": 57.662517841090406,
+          "farthestRadius": 1544.6730830667932
+        },
+        {
+          "sector": 2,
+          "fromDegrees": 45,
+          "toDegrees": 67.5,
+          "representedSoldiers": 139596,
+          "bands": [
+            3147,
+            15703,
+            58314,
+            62432
+          ],
+          "nearestRadius": 76.53774252764211,
+          "farthestRadius": 1550.3552069497875
+        },
+        {
+          "sector": 3,
+          "fromDegrees": 67.5,
+          "toDegrees": 90,
+          "representedSoldiers": 98894,
+          "bands": [
+            3001,
+            15823,
+            58491,
+            21579
+          ],
+          "nearestRadius": 95.20463657233388,
+          "farthestRadius": 1182.9804516296415
+        },
+        {
+          "sector": 4,
+          "fromDegrees": 90,
+          "toDegrees": 112.5,
+          "representedSoldiers": 98139,
+          "bands": [
+            2996,
+            15661,
+            58068,
+            21414
+          ],
+          "nearestRadius": 91.77775526366385,
+          "farthestRadius": 1180.435991069323
+        },
+        {
+          "sector": 5,
+          "fromDegrees": 112.5,
+          "toDegrees": 135,
+          "representedSoldiers": 139592,
+          "bands": [
+            3180,
+            15692,
+            58182,
+            62538
+          ],
+          "nearestRadius": 76.67494600901047,
+          "farthestRadius": 1544.1937887054426
+        },
+        {
+          "sector": 6,
+          "fromDegrees": 135,
+          "toDegrees": 157.5,
+          "representedSoldiers": 140292,
+          "bands": [
+            3357,
+            15639,
+            58440,
+            62856
+          ],
+          "nearestRadius": 58.18958984226671,
+          "farthestRadius": 1534.7172896016214
+        },
+        {
+          "sector": 7,
+          "fromDegrees": 157.5,
+          "toDegrees": 180,
+          "representedSoldiers": 99364,
+          "bands": [
+            3556,
+            15528,
+            58626,
+            21654
+          ],
+          "nearestRadius": 51.42176253311961,
+          "farthestRadius": 1174.539231569638
+        },
+        {
+          "sector": 8,
+          "fromDegrees": 180,
+          "toDegrees": 202.5,
+          "representedSoldiers": 98927,
+          "bands": [
+            3413,
+            15438,
+            58410,
+            21666
+          ],
+          "nearestRadius": 46.485187077161484,
+          "farthestRadius": 1173.9484544623851
+        },
+        {
+          "sector": 9,
+          "fromDegrees": 202.5,
+          "toDegrees": 225,
+          "representedSoldiers": 140265,
+          "bands": [
+            3540,
+            15687,
+            58338,
+            62700
+          ],
+          "nearestRadius": 53.090638253084315,
+          "farthestRadius": 1533.2142019745784
+        },
+        {
+          "sector": 10,
+          "fromDegrees": 225,
+          "toDegrees": 247.5,
+          "representedSoldiers": 140027,
+          "bands": [
+            3245,
+            15654,
+            58140,
+            62988
+          ],
+          "nearestRadius": 59.958379258193254,
+          "farthestRadius": 1544.5685935889455
+        },
+        {
+          "sector": 11,
+          "fromDegrees": 247.5,
+          "toDegrees": 270,
+          "representedSoldiers": 98339,
+          "bands": [
+            3026,
+            15514,
+            58248,
+            21551
+          ],
+          "nearestRadius": 91.78547295145209,
+          "farthestRadius": 1180.5532302518068
+        },
+        {
+          "sector": 12,
+          "fromDegrees": 270,
+          "toDegrees": 292.5,
+          "representedSoldiers": 98981,
+          "bands": [
+            3029,
+            15606,
+            58648,
+            21698
+          ],
+          "nearestRadius": 97.08932616541668,
+          "farthestRadius": 1182.6028164662107
+        },
+        {
+          "sector": 13,
+          "fromDegrees": 292.5,
+          "toDegrees": 315,
+          "representedSoldiers": 139979,
+          "bands": [
+            3140,
+            15732,
+            58284,
+            62823
+          ],
+          "nearestRadius": 60.598844900327016,
+          "farthestRadius": 1549.7821112519425
+        },
+        {
+          "sector": 14,
+          "fromDegrees": 315,
+          "toDegrees": 337.5,
+          "representedSoldiers": 139692,
+          "bands": [
+            3530,
+            15727,
+            58248,
+            62187
+          ],
+          "nearestRadius": 53.76013719631714,
+          "farthestRadius": 1545.9648420013575
+        },
+        {
+          "sector": 15,
+          "fromDegrees": 337.5,
+          "toDegrees": 360,
+          "representedSoldiers": 98700,
+          "bands": [
+            3505,
+            15431,
+            58050,
+            21714
+          ],
+          "nearestRadius": 46.38198395353603,
+          "farthestRadius": 1182.329088197257
+        }
+      ],
+      "radialBands": [
+        [
+          42,
+          220
+        ],
+        [
+          220,
+          500
+        ],
+        [
+          500,
+          1000
+        ],
+        [
+          1000,
+          1600
+        ]
+      ],
+      "coverageMethod": "All represented strip counts are accumulated by world-center angular sector and radial band; individual near soldiers use their true jittered centers.",
+      "vision": "1 = near-black figures and zero dust; 0 = exact original uniforms.",
+      "haze": {
+        "start": 250,
+        "end": 1800,
+        "maximumBlend": 0.34,
+        "usesHostFog": false
+      },
+      "capacities": [
+        {
+          "name": "Individual near army ranks",
+          "instances": 52501,
+          "triangles": 105002
+        },
+        {
+          "name": "Repeated distant army ranks",
+          "instances": 89368,
+          "triangles": 178736
+        },
+        {
+          "name": "Army standards",
+          "instances": 1142,
+          "triangles": 2284
+        },
+        {
+          "name": "Subtle distant dust",
+          "instances": 143,
+          "triangles": 286
+        }
+      ],
+      "finiteShaderGeometryValues": 1431620,
+      "pauseResetPassed": true,
+      "buildMilliseconds": 1309
+    },
+    {
+      "version": 1,
+      "quality": "low",
+      "units": "metres",
+      "representedSoldiers": 1446816,
+      "distinctNearSoldiers": 21428,
+      "distantRepresentedSoldiers": 1425388,
+      "distantFormationStrips": 46991,
+      "flags": 895,
+      "dustPatches": 143,
+      "draws": 4,
+      "triangles": 138914,
+      "bufferBytes": 2778648,
+      "perSoldierMatrices": 0,
+      "fieldExtents": {
+        "minX": -1099.399944287601,
+        "maxX": 1099.4999473628548,
+        "minZ": -1098.7066968831705,
+        "maxZ": 1097.767853842512
+      },
+      "worldBoundingBox": {
+        "min": [
+          -1100.0999442876011,
+          -0.3818898445776137,
+          -1121.1066968831706
+        ],
+        "max": [
+          1100.1999473628546,
+          7.406532739238092,
+          1120.1678538425122
+        ]
+      },
+      "nearestRadius": 46.39743416998796,
+      "farthestRadius": 1552.7465165712636,
+      "nominalSoldierHeight": 1.8,
+      "soldierHeightRange": [
+        1.725,
+        1.898
+      ],
+      "spearHeightRange": [
+        2.51,
+        2.76
+      ],
+      "spacing": {
+        "acrossRank": 1.4,
+        "betweenRanks": 2.3
+      },
+      "detailRadius": 170,
+      "stripCapacity": 32,
+      "formation": "Broad staggered Cartesian ranks with narrow company lanes, irregular side fronts near x ±50, front and rear closure near z ±95; no circular ranks.",
+      "centralExclusionRadius": 42,
+      "reserves": [
+        {
+          "x": -58,
+          "z": -6,
+          "radius": 8
+        },
+        {
+          "x": 64,
+          "z": 14,
+          "radius": 8
+        }
+      ],
+      "centerViolations": 0,
+      "reserveViolations": 0,
+      "angularSectors": [
+        {
+          "sector": 0,
+          "fromDegrees": 0,
+          "toDegrees": 22.5,
+          "representedSoldiers": 74638,
+          "bands": [
+            2396,
+            12226,
+            44276,
+            15740
+          ],
+          "nearestRadius": 51.48332056330581,
+          "farthestRadius": 1188.1474033462853
+        },
+        {
+          "sector": 1,
+          "fromDegrees": 22.5,
+          "toDegrees": 45,
+          "representedSoldiers": 105949,
+          "bands": [
+            2604,
+            12070,
+            44036,
+            47239
+          ],
+          "nearestRadius": 57.95057336540803,
+          "farthestRadius": 1552.6642737925226
+        },
+        {
+          "sector": 2,
+          "fromDegrees": 45,
+          "toDegrees": 67.5,
+          "representedSoldiers": 105660,
+          "bands": [
+            2251,
+            11727,
+            44198,
+            47484
+          ],
+          "nearestRadius": 76.8382630187254,
+          "farthestRadius": 1535.4357941333542
+        },
+        {
+          "sector": 3,
+          "fromDegrees": 67.5,
+          "toDegrees": 90,
+          "representedSoldiers": 74883,
+          "bands": [
+            2403,
+            12028,
+            44313,
+            16139
+          ],
+          "nearestRadius": 97.01765631805189,
+          "farthestRadius": 1185.0340190218335
+        },
+        {
+          "sector": 4,
+          "fromDegrees": 90,
+          "toDegrees": 112.5,
+          "representedSoldiers": 74089,
+          "bands": [
+            2191,
+            11828,
+            44171,
+            15899
+          ],
+          "nearestRadius": 92.79723714044032,
+          "farthestRadius": 1186.2952696166835
+        },
+        {
+          "sector": 5,
+          "fromDegrees": 112.5,
+          "toDegrees": 135,
+          "representedSoldiers": 105995,
+          "bands": [
+            2497,
+            11846,
+            44090,
+            47562
+          ],
+          "nearestRadius": 77.14493353296365,
+          "farthestRadius": 1537.771470358335
+        },
+        {
+          "sector": 6,
+          "fromDegrees": 135,
+          "toDegrees": 157.5,
+          "representedSoldiers": 106339,
+          "bands": [
+            2653,
+            11846,
+            44226,
+            47614
+          ],
+          "nearestRadius": 58.31522343263791,
+          "farthestRadius": 1523.620045231346
+        },
+        {
+          "sector": 7,
+          "fromDegrees": 157.5,
+          "toDegrees": 180,
+          "representedSoldiers": 74940,
+          "bands": [
+            2404,
+            12194,
+            44232,
+            16110
+          ],
+          "nearestRadius": 50.784318377068544,
+          "farthestRadius": 1165.08362678814
+        },
+        {
+          "sector": 8,
+          "fromDegrees": 180,
+          "toDegrees": 202.5,
+          "representedSoldiers": 75312,
+          "bands": [
+            2430,
+            12318,
+            44360,
+            16204
+          ],
+          "nearestRadius": 47.05605381312806,
+          "farthestRadius": 1166.1219675117518
+        },
+        {
+          "sector": 9,
+          "fromDegrees": 202.5,
+          "toDegrees": 225,
+          "representedSoldiers": 106197,
+          "bands": [
+            2731,
+            11942,
+            44068,
+            47456
+          ],
+          "nearestRadius": 52.88072829544255,
+          "farthestRadius": 1522.6479188736273
+        },
+        {
+          "sector": 10,
+          "fromDegrees": 225,
+          "toDegrees": 247.5,
+          "representedSoldiers": 106275,
+          "bands": [
+            2587,
+            11688,
+            44150,
+            47850
+          ],
+          "nearestRadius": 62.86394620166408,
+          "farthestRadius": 1539.0180336675642
+        },
+        {
+          "sector": 11,
+          "fromDegrees": 247.5,
+          "toDegrees": 270,
+          "representedSoldiers": 74465,
+          "bands": [
+            2173,
+            11764,
+            44235,
+            16293
+          ],
+          "nearestRadius": 91.74924472130024,
+          "farthestRadius": 1187.476092796002
+        },
+        {
+          "sector": 12,
+          "fromDegrees": 270,
+          "toDegrees": 292.5,
+          "representedSoldiers": 75160,
+          "bands": [
+            2416,
+            11912,
+            44456,
+            16376
+          ],
+          "nearestRadius": 95.88769269204842,
+          "farthestRadius": 1185.594264904148
+        },
+        {
+          "sector": 13,
+          "fromDegrees": 292.5,
+          "toDegrees": 315,
+          "representedSoldiers": 105877,
+          "bands": [
+            2287,
+            11687,
+            44202,
+            47701
+          ],
+          "nearestRadius": 60.35512075225762,
+          "farthestRadius": 1552.7465165712636
+        },
+        {
+          "sector": 14,
+          "fromDegrees": 315,
+          "toDegrees": 337.5,
+          "representedSoldiers": 105906,
+          "bands": [
+            2621,
+            12100,
+            43944,
+            47241
+          ],
+          "nearestRadius": 53.42912290060244,
+          "farthestRadius": 1551.6604547751435
+        },
+        {
+          "sector": 15,
+          "fromDegrees": 337.5,
+          "toDegrees": 360,
+          "representedSoldiers": 75131,
+          "bands": [
+            2584,
+            12345,
+            44400,
+            15802
+          ],
+          "nearestRadius": 46.39743416998796,
+          "farthestRadius": 1187.616449921375
+        }
+      ],
+      "radialBands": [
+        [
+          42,
+          220
+        ],
+        [
+          220,
+          500
+        ],
+        [
+          500,
+          1000
+        ],
+        [
+          1000,
+          1600
+        ]
+      ],
+      "coverageMethod": "All represented strip counts are accumulated by world-center angular sector and radial band; individual near soldiers use their true jittered centers.",
+      "vision": "1 = near-black figures and zero dust; 0 = exact original uniforms.",
+      "haze": {
+        "start": 250,
+        "end": 1800,
+        "maximumBlend": 0.34,
+        "usesHostFog": false
+      },
+      "capacities": [
+        {
+          "name": "Individual near army ranks",
+          "instances": 21428,
+          "triangles": 42856
+        },
+        {
+          "name": "Repeated distant army ranks",
+          "instances": 46991,
+          "triangles": 93982
+        },
+        {
+          "name": "Army standards",
+          "instances": 895,
+          "triangles": 1790
+        },
+        {
+          "name": "Subtle distant dust",
+          "instances": 143,
+          "triangles": 286
+        }
+      ],
+      "finiteShaderGeometryValues": 694650,
+      "pauseResetPassed": true,
+      "buildMilliseconds": 391
+    }
+  ]
+}

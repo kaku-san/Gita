@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "languages": [
+    "en",
+    "hi",
+    "ja",
+    "zh-Hans",
+    "fr"
+  ],
+  "checks": [
+    "real app module boot",
+    "unique runtime IDs",
+    "moved control handlers",
+    "expanded reading survives next",
+    "Escape respects modal focus",
+    "read/listen switch",
+    "missing narration recovery",
+    "source and meaning together",
+    "verse navigation",
+    "localized chapter destinations",
+    "finish and restart"
+  ],
+  "method": "JSDOM event integration with media, modal and RAF doubles; no browser rendering or device QA"
+}

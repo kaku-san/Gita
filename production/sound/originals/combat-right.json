@@ -1,0 +1,18 @@
+{
+  "file": "combat-right.mp3",
+  "requested_at": "2026-09-09T10:32:38.875109+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "A small cluster of distant hand-to-hand sword and shield exchanges on dusty ground, overlapping metal impacts and short wordless effort sounds, open-air battlefield perspective. Irregular timing, no music, no gunfire, no explosions.",
+    "duration_seconds": 12,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "132",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 193141,
+  "sha256": "c6e92db583b959f14a5e6c52c4704f13d468933782df05c42a8d91ca148416e0"
+}

@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "0a046331d8beedec5250d4697b4f94c30db031976d4cb55d03a538fbaf2e31c0",
+  "submitted_at": "2026-09-09T11:17:09.871458+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Explain nature and spirit, the field and its knower. What is knowledge, and what is to be known?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "This body is called the field. The one who knows it is the knower of the field. Know me also as the knower in all fields.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Body, senses, mind, desire, aversion, pleasure and pain belong to the changing field. Distinguishing the field and its knower is central to knowledge.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Humility, sincerity, non-harming, patience, self-restraint, steadiness and care for the teacher belong to knowledge.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "So do reflection on birth, age, illness and death; freedom from possessiveness; devotion; and sustained inquiry into the self. These shape the person who seeks to understand.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Hear of what is to be known, through knowing which one reaches the deathless: beginningless, supreme Brahman, beyond the usual division of being and non-being.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "It is within and outside beings, moving and unmoving, near and far. Undivided, it appears among divided forms. It is the light of lights, present in the heart.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Nature brings forth the changing instruments and actions. The conscious principle experiences pleasure and pain; attachment to nature's qualities binds it to embodiment.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Some approach understanding through meditation, some through knowledge, some through action, and others by listening and practising what they hear.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "See the supreme presence equally in beings, enduring amid what perishes. Learn to distinguish the field from its knower, and the way beyond bondage.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "13.1.1",
+      "filename": "en/13.1.1.mp3",
+      "textSha256": "72d1dc447ff0e8baaf7f5f1f89073de72f649e387f5673097d52d7a01b6663ac",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "13.1.2",
+      "filename": "en/13.1.2.mp3",
+      "textSha256": "89d60be6a108a4efc329f57c8a8e56989e6a9bde50d95b9ada9e4d2e848dc3a2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.1.3",
+      "filename": "en/13.1.3.mp3",
+      "textSha256": "418ed12dbb1074d142b445284fa5fd05461541132ec6c3598b360ae388579e19",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.1",
+      "filename": "en/13.2.1.mp3",
+      "textSha256": "eb1ab62cc78f6fc47310cbe4d339f7382c2b1623470f0e3f189c99906f813f3e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.2",
+      "filename": "en/13.2.2.mp3",
+      "textSha256": "5313ae6f20a9a2baad8adc6ee465001c32f12cada01e986e547f788abb5b7463",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.1",
+      "filename": "en/13.3.1.mp3",
+      "textSha256": "d0480a6e3dfff1c3adcab5d84c8632a32f5d18245c3e70aaa9b581f2482a7652",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.2",
+      "filename": "en/13.3.2.mp3",
+      "textSha256": "d4ef04b901ef72831139c96504fc537d839861ac0ec32c7c541da78b86f7aeee",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.1",
+      "filename": "en/13.4.1.mp3",
+      "textSha256": "bb062ab98414925c410f061687d1d3fe386d2e1e6e787bdaa2e8c245393464ee",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.2",
+      "filename": "en/13.4.2.mp3",
+      "textSha256": "2f0e99f97068a92ad69d4acbc5de7663ac3682effb9174157a084d5870815141",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.3",
+      "filename": "en/13.4.3.mp3",
+      "textSha256": "423ad931996dba7839a5fd7f79e128e4ffc71948232bce868ae68ad4eafdfd90",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "791",
+  "request_id": "N0X509r0Qu76hmLczFQ0",
+  "master_sha256": "a0718e567e54f580e95771206670393a58a68b194d492e923a4f55b0782f324b"
+}

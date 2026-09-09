@@ -1,0 +1,323 @@
+{
+  "passed": true,
+  "handRecoveryError": 6.705522537231445e-8,
+  "reports": [
+    {
+      "weight": 0,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.150728312066801,
+        4.06,
+        -2.596353586452781
+      ],
+      "leftWristWorld": [
+        4.992110848655619,
+        3.8200000000000003,
+        -3.0715119044094035
+      ],
+      "torsoDrop": 0.38
+    },
+    {
+      "weight": 0.25,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.291950163128359,
+        3.9948413929235027,
+        -2.636568479701259
+      ],
+      "leftWristWorld": [
+        4.899500706074735,
+        3.8117196581070094,
+        -2.9716111289208262
+      ],
+      "torsoDrop": 0.38
+    },
+    {
+      "weight": 0.5,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.4164317012883,
+        3.9484767305809023,
+        -2.6903142368024024
+      ],
+      "leftWristWorld": [
+        4.81381702783065,
+        3.82778979521378,
+        -2.90146310351472
+      ],
+      "torsoDrop": 0.38
+    },
+    {
+      "weight": 0.75,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.520326021287212,
+        3.918099470435096,
+        -2.7540352153578973
+      ],
+      "leftWristWorld": [
+        4.7411991269819005,
+        3.860284197156229,
+        -2.864185974184114
+      ],
+      "torsoDrop": 0.38
+    },
+    {
+      "weight": 1,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.600896582878274,
+        3.9001388772297014,
+        -2.824045904416448
+      ],
+      "leftWristWorld": [
+        4.686923679718143,
+        3.900138877229701,
+        -2.8604175775880756
+      ],
+      "torsoDrop": 0.38,
+      "minimumPalmGap": 0.00017336603403091122
+    },
+    {
+      "weight": 1,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.600896582878274,
+        3.9001388772297014,
+        -2.824045904416448
+      ],
+      "leftWristWorld": [
+        4.686923679718143,
+        3.900138877229701,
+        -2.8604175775880756
+      ],
+      "torsoDrop": 0.38,
+      "minimumPalmGap": 0.00017336603403091122
+    },
+    {
+      "weight": 0,
+      "leftWeightedVertices": 11377,
+      "armourVertexCount": 18353,
+      "originalBodyVertices": 58044,
+      "bodyVertices": 58044,
+      "recoveredHandVertices": 16733,
+      "kneeTargets": [
+        [
+          -0.3,
+          0.29,
+          0.3
+        ],
+        [
+          0.3,
+          0.29,
+          0.3
+        ]
+      ],
+      "ankleTargets": [
+        [
+          -0.25,
+          0.235,
+          -0.448
+        ],
+        [
+          0.25,
+          0.235,
+          -0.448
+        ]
+      ],
+      "minClothY": 0.11999999731779099,
+      "floorY": 0.12,
+      "rightWristWorld": [
+        4.150826590279172,
+        4.059351558902981,
+        -2.5961211366214796
+      ],
+      "leftWristWorld": [
+        4.9921064568151605,
+        3.819472573701253,
+        -3.071522292088922
+      ],
+      "torsoDrop": 0.38
+    }
+  ]
+}

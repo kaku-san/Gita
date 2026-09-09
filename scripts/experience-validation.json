@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "languages": 5,
+  "introAndContextStringsPerLanguage": 84,
+  "passages": 194,
+  "framing": [
+    {
+      "width": 390,
+      "height": 844,
+      "readingReserve": 355,
+      "minimumSpaceBelowFaces": 0.28919985724122144
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "readingReserve": 260,
+      "minimumSpaceBelowFaces": 0.21166097018648233
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "readingReserve": 180,
+      "minimumSpaceBelowFaces": 0.13453757840100322
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "readingReserve": 320,
+      "minimumSpaceBelowFaces": 0.13700328330584388
+    }
+  ],
+  "controls": [
+    "full orbit",
+    "ground-plane pan",
+    "two-finger pan and pinch",
+    "pointer cancellation",
+    "camera reset"
+  ],
+  "choreography": [
+    "nine-metre arrival",
+    "wheel travel",
+    "connected reins",
+    "unchanged horse positions",
+    "kneeling deck contact",
+    "face-to-face orientation",
+    "restoration"
+  ],
+  "maximumReachError": 0,
+  "browserQA": "not performed",
+  "audioAudition": "not performed"
+}

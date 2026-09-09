@@ -1,0 +1,13 @@
+{
+  "id": "18.2.3",
+  "language": "zh-Hans",
+  "src": "./audio/zh-Hans/18.2.3.mp3",
+  "duration": 12.486531,
+  "textSha256": "da7f9c6cc9096ab7b62ff72b49bf298aa2a8ed08081c3f80c129847663fb0906",
+  "audioSha256": "04bdabac3afa6bf78c1da91fb1d08163ab3ba296d8c89078c45755181f38209b",
+  "voice_id": "H9aY8kOUrDpSQdCRVQo5",
+  "model_id": "eleven_v3",
+  "source_take": "takes/zh-Hans/18.1.1--18.4.4",
+  "start": 88.319,
+  "end": 100.75999999999999
+}

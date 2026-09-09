@@ -1,0 +1,28 @@
+{
+  "status": "generated",
+  "fingerprint": "2d48aaa28c68dde9b9604ebff22636e5e87ad99bac6b1d3a88455c605d3517e4",
+  "submitted_at": "2026-09-09T11:28:18.314600+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Par une dévotion sans partage, on peut véritablement me connaître, me voir et entrer en moi. Œuvre pour moi. Fais de moi ton but suprême. Sois libre de tout attachement avide et de toute hostilité envers les êtres.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "11.4.5",
+      "filename": "fr/11.4.5.mp3",
+      "textSha256": "5614be095c0b73f3f4773df4553efaa17cffa38287660c458c03a395b52ef18d",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "118",
+  "request_id": "6AGQi99NifFcOeAQzJoj",
+  "master_sha256": "2c39531f2b83abdd8b33e7c01a3104510dba591dd4c3fe3e320b6788452cdc34"
+}

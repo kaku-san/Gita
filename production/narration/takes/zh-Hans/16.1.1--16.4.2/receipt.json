@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "c0d2afb36078dd937a1e2bbd0de382cf7b8bf0d5bf7246edb38a99c95612e00f",
+  "submitted_at": "2026-09-09T11:32:47.791742+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "无畏、心灵纯净、在智慧中坚定、慷慨与自我约束，都属于神圣的品质。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "诚实、不伤害、不受愤怒支配、慈悲、温柔、谦逊，以及没有恶意，也同样如此。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "这些品质，引人走向自由。骄傲、傲慢、愤怒、苛刻和无知，则带来束缚。不要灰心，阿周那；你具有神圣的品质。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "当人们放弃分辨什么该做、什么不该做时，欲望就可能成为唯一的准则。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "他们心想：我已经得到这些，还要得到更多。这个对手已被击败，我还要击败下一个。他们被焦虑纠缠，被无数期待束缚，以不正当的手段追求财富。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "自大，甚至能把祭献变成炫耀。欲望、愤怒与贪婪，是三道通向毁败的门。放下它们。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "摆脱它们，一个人就能够为了自身真正的善而行动，走向至高的目标。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "抛开教导的指引，只凭欲望行动的人，无法获得圆满、幸福或至高的目标。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "让教导帮助你明辨，什么应当去做，什么应当避免。理解之后，就去行动。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "16.1.1",
+      "filename": "zh-Hans/16.1.1.mp3",
+      "textSha256": "7de65435f42abd644d12fe94a56523af9a67206a2265188cc9cb9a7f3d251fdc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.1.2",
+      "filename": "zh-Hans/16.1.2.mp3",
+      "textSha256": "2e04c6440c29a79f476f9cd15d9313245560df3b8c1de09ced268814e52e7583",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.1.3",
+      "filename": "zh-Hans/16.1.3.mp3",
+      "textSha256": "95ff77e2d4fdb047ecc333e113dd1dc40dc0fdfacbe8c2569a7fa658a6f2d40b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.2.1",
+      "filename": "zh-Hans/16.2.1.mp3",
+      "textSha256": "29b3e68db95d2d121758a79cef59257355b70cbb0f6905d8d73d9ea9c2dabf35",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.2.2",
+      "filename": "zh-Hans/16.2.2.mp3",
+      "textSha256": "78f2905449ebbd4c2301103bcb9a6207768d340723c2980fbf8e289c349811a5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.3.1",
+      "filename": "zh-Hans/16.3.1.mp3",
+      "textSha256": "41f2cbbdefbef9fca7f34d62e220efcfc60f6c8eb2715e1f8bb90dcd3800089d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.3.2",
+      "filename": "zh-Hans/16.3.2.mp3",
+      "textSha256": "a656761861fee363b972b07ea8de4833142853c11ff26130fbf2cffd275339e2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.4.1",
+      "filename": "zh-Hans/16.4.1.mp3",
+      "textSha256": "f9e7080ffcc406d71faea933274779aedb3d3eee9f1d37ef824add1ad5d79fdd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "16.4.2",
+      "filename": "zh-Hans/16.4.2.mp3",
+      "textSha256": "3128d2953608060fe1a83adb9035ab8e969064821c626118d91fd358daefac6a",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "194",
+  "request_id": "fP4rbXUk2q8TCzWSHS08",
+  "master_sha256": "aceb243dd6e456e9eaebb80602617d35a7148f3b1a98c96ef8db695dbccd2e14"
+}

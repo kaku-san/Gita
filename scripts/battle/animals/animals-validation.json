@@ -1,0 +1,40 @@
+[
+  {
+    "quality": "high",
+    "elephants": 8,
+    "cavalry": 32,
+    "riders": 48,
+    "vertices": 114273,
+    "meshes": 5,
+    "drawCalls": 5,
+    "renderedTriangles": 1357898,
+    "maxContactError": 6.730727086790012e-16,
+    "maxStanceSkate": 9.10631969331369e-14,
+    "maxLegSolveError": 0.013081460790187847,
+    "rigWeightError": 2.9802322387695312e-8,
+    "finiteGeometry": true,
+    "finiteTransforms": true,
+    "shaderHooks": true,
+    "motionFreeze": "exact",
+    "protectedLanes": "clear"
+  },
+  {
+    "quality": "low",
+    "elephants": 6,
+    "cavalry": 24,
+    "riders": 36,
+    "vertices": 33326,
+    "meshes": 3,
+    "drawCalls": 3,
+    "renderedTriangles": 687354,
+    "maxContactError": 6.591949208711867e-16,
+    "maxStanceSkate": 9.10631969331369e-14,
+    "maxLegSolveError": 0.013081460790187847,
+    "rigWeightError": 2.9802322387695312e-8,
+    "finiteGeometry": true,
+    "finiteTransforms": true,
+    "shaderHooks": true,
+    "motionFreeze": "exact",
+    "protectedLanes": "clear"
+  }
+]

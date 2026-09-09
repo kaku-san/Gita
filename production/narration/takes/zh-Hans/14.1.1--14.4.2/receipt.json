@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "f7c528e0004c592c89e92932283baee76a21bf7da38bc3daf313325833b73445",
+  "submitted_at": "2026-09-09T11:30:36.066260+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "自然的三种性质，将长存的真我束缚于有形的生命。它们是萨特瓦、拉贾斯和塔马斯。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "萨特瓦带来光明与清晰，却通过对快乐和知识的执著形成束缚。拉贾斯带来渴求与躁动不息的活动，通过行动形成束缚。塔马斯则借疏忽、昏滞与沉睡，遮蔽理解。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "三种性质彼此影响，此消彼长。清明显示萨特瓦，贪欲和无休止的奔逐显示拉贾斯，迷乱与疏忽显示塔马斯。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "它们的影响，会塑造行为及其后果，也包括此后生命的走向。学会辨认：你内心的哪一种性质，正在变强。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "超越了这些性质的人，会怎样行事？他们怎样才能跨越这些性质？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "这样的人，不会在清明、活动或迷乱出现时厌弃它们，也不会在它们离去时渴求它们。他看见各种性质正在起作用，自己却保持安定。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "他较少受缚于快乐和痛苦、赞扬和责备、友善和敌意，也较少需要把每一项事业，都变成自我占有的东西。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "以不动摇的虔敬侍奉我的人，能够超越三德，具备趋入梵的条件。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我是不朽之梵的根基，也是不死、长存的达摩，以及圆满幸福的根基。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "14.1.1",
+      "filename": "zh-Hans/14.1.1.mp3",
+      "textSha256": "f18f43893c7b4706edecb735b6fa25cda61d82938642f7ab0e59316135018ceb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.1.2",
+      "filename": "zh-Hans/14.1.2.mp3",
+      "textSha256": "651b2d710d5ebb9fedd5990586f7b449aedcb6a643eebff9833b524e9cb0ab1f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.1",
+      "filename": "zh-Hans/14.2.1.mp3",
+      "textSha256": "45b2cbffdb112cdc6af8b380e22e66cc728fe4a98fa97afb519d06cfb8779c9b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.2",
+      "filename": "zh-Hans/14.2.2.mp3",
+      "textSha256": "f66d8f6f2cb36d25774d254b91850248807d1ffdf0bc28f2b72101c5ca1be62e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.1",
+      "filename": "zh-Hans/14.3.1.mp3",
+      "textSha256": "1cc8f3dbfe6cd6a09b807cc65f4fa3cac7b877e4170662a0398667eeef0aa93c",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "14.3.2",
+      "filename": "zh-Hans/14.3.2.mp3",
+      "textSha256": "202032dfc07ef8f28df16cc2ceff6cb553077f3ca3d4e62999a23ff6306fc3cc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.3",
+      "filename": "zh-Hans/14.3.3.mp3",
+      "textSha256": "0c2477b1b3a63a03e92490d6aabc885e733ce1837700ab2d53911b3d7652cee7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.1",
+      "filename": "zh-Hans/14.4.1.mp3",
+      "textSha256": "28ea477f36b1ff9dfc609a5d29b4ea5d02714441cb3672572bdc9213f1050d5b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.2",
+      "filename": "zh-Hans/14.4.2.mp3",
+      "textSha256": "6cc5c3cdff4689167517d440a6cdc6f29ae86bc27041d28eba08e1dae57ac7a6",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "220",
+  "request_id": "zXt6twKjP7WQ41RhesgM",
+  "master_sha256": "41919064201d748846674d7b4562e63d5fb8bf41b3db239a3f39095de7cb5a7f"
+}

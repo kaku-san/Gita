@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "e683fbfa3d49514a3a706c518efe04e42c69c814ec80564b6f3b02466555186e",
+  "submitted_at": "2026-09-09T11:21:47.318471+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Tell me clearly the difference between renunciation and relinquishment.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Renunciation is understood as leaving actions driven by desire. Relinquishment is giving up attachment to the fruits of action.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Sacrifice, giving and discipline should not simply be abandoned. Perform them without possessiveness or the demand for reward. Leaving a duty only because it is difficult is not the highest relinquishment.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "An action has several conditions: its setting, the agent, the instruments, the different efforts and the divine factor. To see the isolated self as the sole cause is to see incompletely.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Knowledge can recognise one enduring reality across many beings, or see only their separateness, or cling to a fragment as though it were the whole.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Action, the one who acts, understanding, determination and happiness are also shaped by the qualities. What seems pleasing at first may bind later; what asks effort at first may lead toward clarity.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Krishna speaks within the social order of the epic, describing duties of its four varnas. He then returns Arjun to the responsibility that is his to meet.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      },
+      {
+        "text": "Through one's own work, one can worship the source from which beings arise. Better one's own duty, imperfectly carried out, than another's performed well. Every undertaking has some fault, as fire is accompanied by smoke.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "With purified understanding, restraint, freedom from pride and possessiveness, and a heart no longer ruled by craving, the seeker becomes ready for Brahman. Through devotion, I am known in truth.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Offer your actions to me. Take refuge in me. If pride makes you refuse to listen, it will lead you astray; your own nature will still press upon you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I have opened this teaching to you. Consider it thoroughly. Then act as you choose.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "18.1.1",
+      "filename": "en/18.1.1.mp3",
+      "textSha256": "2b68ac7687b7c39c848a8a35b3113256b7569ab122a6e2f9021cc3c9cbefa796",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "18.1.2",
+      "filename": "en/18.1.2.mp3",
+      "textSha256": "981258b3d8f23cfe88be00216df4e3ad7ff86e05d38eed6b377108a8cffc366e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.3",
+      "filename": "en/18.1.3.mp3",
+      "textSha256": "08428e20f23f9aa01f59fb7b142b418408c57fd45de6566c336350776ac3071d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.1.4",
+      "filename": "en/18.1.4.mp3",
+      "textSha256": "f16bb74c4a21ad62e7cc013e6f4295e2ca3a67d83f8b44e79c233d055ef6de14",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.1",
+      "filename": "en/18.2.1.mp3",
+      "textSha256": "14d6581d359c92a700ac0c3000061ac66a43c5e6126bf16d67b9fb01e7fbc3c8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.2",
+      "filename": "en/18.2.2.mp3",
+      "textSha256": "3e2e83f3e9591c3f3dc7f3c96adfa162b34d1abe1f7643a5f31f71bdbc828942",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.2.3",
+      "filename": "en/18.2.3.mp3",
+      "textSha256": "eaf11453528691f048ceff6aae6ddd70a9f02d0a24e3b02d46ceb49b0d4c73a2",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "18.2.4",
+      "filename": "en/18.2.4.mp3",
+      "textSha256": "af1fd545d4110d93172965c917d4e0ceeb79294bf9193d71c687655f277a117b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.1",
+      "filename": "en/18.3.1.mp3",
+      "textSha256": "e813f466e512f2d6572cf66c94e05bde9480513ebe6f3d3a3ab9322be4c1f735",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.2",
+      "filename": "en/18.3.2.mp3",
+      "textSha256": "6620ce4ebc13ab3ff712060f01bf2683853bc4e685f0255640fe8a01f41d8861",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "18.3.3",
+      "filename": "en/18.3.3.mp3",
+      "textSha256": "58fe0505fc517ca60897b6dc90affb70b63f505529cec6c9b0b77f9bfc43064a",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "955",
+  "request_id": "Zbu0UfLVW0QqASue9moO",
+  "master_sha256": "15b0e9e8068f911c032063769a57cf327923d62b20ce0cefb3068734d255b61a"
+}

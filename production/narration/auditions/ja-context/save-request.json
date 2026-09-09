@@ -1,0 +1,10 @@
+{
+  "voice_name": "Geeta — Context — ja",
+  "voice_description": "Native Japanese, standard Tokyo pronunciation. Male, age 40. Studio quality. A composed storyteller introducing an ancient Indian philosophical drama. Clear, warm middle-register voice, measured flowing speech and precise native diction. Understated and observant, gently inviting the listener into the story. Natural pauses and human warmth. Calm context narration, emotionally distinct from the youthful warrior and the melodious divine teacher.",
+  "generated_voice_id": "w5WuszXzuKLYFrNBH2kY",
+  "labels": {
+    "language": "ja",
+    "project": "Geeta",
+    "character": "context"
+  }
+}

@@ -1,0 +1,2228 @@
+{
+  "version": 2,
+  "prologue": [
+    {
+      "speaker": "桑贾亚",
+      "text": "同一家族的两个分支，已来到俱卢之野，准备开战。",
+      "bridge": false
+    },
+    {
+      "speaker": "桑贾亚",
+      "text": "阿周那与他的四位兄弟，也就是般度五子，站在一方。他们的堂兄弟则站在战场另一边。多年的争斗、失去的王国、流放，以及一次次未能促成和平的努力，终于把他们带到了这里。",
+      "bridge": false
+    },
+    {
+      "speaker": "桑贾亚",
+      "text": "曾为双方寻求和平的克里希纳，此刻驾着阿周那的战车。",
+      "bridge": false
+    },
+    {
+      "speaker": "持国王",
+      "text": "桑贾亚，我的儿子们和般度的儿子们，聚集在俱卢之野、准备交战时，发生了什么？",
+      "bridge": false
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "当弓落下",
+      "sanskrit": "अर्जुनविषादयोग",
+      "subtitle": "承认困惑的勇气",
+      "mood": "dawn",
+      "scenes": [
+        {
+          "id": "1.1",
+          "title": "两军之间",
+          "ref": 21,
+          "range": "1.2–27",
+          "source": "1.2–27. The commanders' catalogue is compressed; the chariot request follows 1.21–23.",
+          "beats": [
+            {
+              "speaker": "桑贾亚",
+              "text": "将领们打量着对方的阵势。海螺号声在战场上彼此呼应。随后，阿周那开口了。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "克里希纳，把战车驶到两军之间。让我看看，前来与我们交战的都有谁。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "看吧，阿周那。俱卢族的人都聚集在这里。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "站在那里的是毗湿摩，他家族中的长辈。旁边是他的老师德罗纳。在他们周围，阿周那认出了亲人、朋友，以及许多相识多年的面孔。",
+              "bridge": false
+            }
+          ],
+          "simple": "当抽象的责任变成切身的痛苦，阿周那的冲突就开始了。在尝试理解克里希纳的回答之前，我们需要先理解他的悲伤。",
+          "example": "远远看去，一个艰难的决定或许显得简单。可当受影响的人正是你所爱的人，代价就真切起来。",
+          "context": "",
+          "staging": [
+            "Wheels cross uneven ground. The camera travels with the chariot, not past it. We stop facing two distant figures."
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": "颤抖的手",
+          "ref": 28,
+          "range": "1.28–31",
+          "source": "1.28–31.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "这些都是我的亲人。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我的力气正在消失，口中干渴。我的手握不稳这张弓。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我来这里时，已经准备好作战。可如今看清了站在面前的人，我看不出杀死他们能带来什么好处。",
+              "bridge": false
+            }
+          ],
+          "simple": "承受不住眼前的一切，是阿周那经历的一部分。他的痛苦得到了认真对待；正因为承认了痛苦，对话才得以开始。",
+          "example": "在一场艰难的谈话之前，留意自己的呼吸和身体的紧绷。说清自己的感受，能帮助你解释正在经历什么，而不是假装一切都好。",
+          "context": "",
+          "staging": [
+            "Arjun's grip changes. His fingers strain, then loosen. Krishna remains present without filling the silence.",
+            "The armies remain visible, but our attention narrows to the small movement of his hand."
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "胜利之后，还会剩下什么？",
+          "ref": 35,
+          "range": "1.32–44",
+          "source": "1.32–44.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "用这种方式赢得的王国，我拿来做什么？那些本该与我们共享它的人，此刻都站在那里，冒着生命危险。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "他们或许被贪欲蒙蔽了。难道我们也必须跟着犯下同样的错吗？",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "家族毁灭之后，留下的人怎么办？谁来维持他们的生计、延续他们的习俗，让他们继续祭奠逝者？",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "他惧怕眼前的死亡，也惧怕死亡之后可能接踵而来的崩解。",
+              "bridge": false
+            }
+          ],
+          "simple": "阿周那提出的是一个道德问题，并非只想逃避危险：我们渴望的结果，能否使为此付出的人命代价变得正当？",
+          "example": "在追求升职或争辩获胜之前，问问自己：这样的追求，正在怎样影响你的关系和为人？回报只是决定的一部分。",
+          "context": "这里呈现的是阿周那的论点，其中一些忧虑来自史诗所处的社会与礼仪秩序。开篇并不意味着，他话语中的每一个前提都属于克里希纳的教导。请参阅关于第一章第四十至四十四节的注释。",
+          "staging": []
+        },
+        {
+          "id": "1.4",
+          "title": "答案尚未到来",
+          "ref": 47,
+          "range": "1.45–47",
+          "source": "1.45–47.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "如果我不拿武器，也不抵抗，任由他们杀死我，似乎都比这样更好。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "悲伤压倒了阿周那。他放下弓箭，坐了下来。",
+              "bridge": false
+            }
+          ],
+          "simple": "第一章结束时，并没有一个现成的答案。承认眼下的思路无法解决问题，可能正是学习的起点。",
+          "example": "你不必勉强装出确定的样子。你可以说：“这件事很重要，我需要有人帮我把它想清楚。”",
+          "context": "",
+          "staging": [
+            "Arjun lowers himself into the chariot. The bow rests beside him. Hold the shot long enough to notice that the confident posture from the entrance is gone.",
+            "Stay beside him. Chapter II begins in the same silence."
+          ]
+        }
+      ],
+      "understand": "阿周那的危机，交织着悲伤、道德上的忧虑、执著，以及对责任的困惑。正因为他无法独自解开这个结，克里希纳的教导才开始了。",
+      "reflection": "对你来说，一个选择之所以艰难，是因为行动本身、它的后果，还是它可能伤害的人？"
+    },
+    {
+      "n": 2,
+      "title": "作出决定之前",
+      "sanskrit": "सांख्ययोग",
+      "subtitle": "真我、行动与内心的平衡",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "2.1",
+          "title": "请教导我",
+          "ref": 7,
+          "range": "2.1–10",
+          "source": "2.1–10.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "阿周那，这样消沉，不应是你的样子。站起来，面对眼前的一切。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我怎么能向毗湿摩和德罗纳举起武器？他们值得我敬重。我甚至不知道，胜利和失败，哪一个会更糟。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我已经分辨不清，自己的责任究竟要求我做什么。请告诉我，什么才是真正的善。我愿向你求教。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "他说自己不会作战。随后，他在两军之间沉默下来。",
+              "bridge": false
+            }
+          ],
+          "simple": "阿周那不再一味捍卫已有的结论，而是开始寻求指引。这里的谦逊，是愿意重新审视自己的理解。",
+          "example": "当一个反复出现的问题让你无计可施时，请一位善于思考的人来质疑你的假设，而不只是赞同你想听的答案。",
+          "context": "",
+          "staging": [
+            "Arjun looks toward Krishna instead of the opposing army."
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "什么在变，什么长存",
+          "ref": 20,
+          "range": "2.11–30",
+          "source": "2.11–30.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "你的话语里满是关切，但悲伤使你尚未看见完整的真相。你、我，以及这些君王，并非凭空出现，也不会彻底归于无有。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "寄身于肉体的真我，经历童年、青春和衰老；身体死亡之后，它仍将继续前行。真我并不随肉体诞生，也不随肉体毁灭。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "快乐和痛苦来而复去。学习承受它们的变化，同时不忘那长存不变的存在。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳讲述的是长存的真我，也称阿特曼。这是关于我们本性的灵性主张，并不是说身体的痛苦或他人的生命不重要。",
+          "example": "你的年龄、容貌和身份都在改变。试着思考：经历这些变化的那个主体，如何具有延续性？这可以成为探问真我的起点。",
+          "context": "",
+          "staging": [
+            "Light crosses Arjun's hand. Fleeting changes of scale and texture suggest age without introducing a literal memory sequence."
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "你的行动与行动的果实",
+          "ref": 47,
+          "range": "2.31–53",
+          "source": "2.31–53.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "也要想想，你身为战士，此刻承担着什么责任。在这场冲突中，仅仅退出，并不能让你免除责任。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "全心投入属于你的行动。不要让回报成为你做每一件事的理由。也不要执著于什么都不做。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "练习在成功和失败中保持平稳。让明辨来引导行动，不要一心要求结果必须归你所有。",
+              "bridge": false
+            }
+          ],
+          "simple": "不执著，并不意味着敷衍行事。负责任地选择并完成行动，然后承认：结果取决于许多因素，不只取决于你一个人的努力。",
+          "example": "认真准备考试或面试。准备是你的责任，最终结果却并非完全由你决定。从中学习，但不要让它定义你的全部。",
+          "context": "",
+          "staging": [
+            "His hand opens over the reins. The bow stays where Arjun placed it; the story does not resolve his conflict prematurely."
+          ]
+        },
+        {
+          "id": "2.4",
+          "title": "内心更坚定的人",
+          "ref": 70,
+          "range": "2.54–72",
+          "source": "2.54–72.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "拥有这种坚定的人，会怎样生活？我又该怎样辨认？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "这样的人，较少受渴求驱使，较少被痛苦动摇，也较少因快乐而忘乎所以。感官可以收摄回来，就像乌龟收回四肢。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "反复想着某个对象，可能生出执著；欲望受挫，可能化为愤怒；而愤怒会遮蔽判断。要学会看清这一过程，不让它把你卷走。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "百川汇入大海，大海依然充盈而安定。能够接纳各种经历，却不受它们带来的每一种欲望支配，这样的人才能获得安宁。",
+              "bridge": false
+            }
+          ],
+          "simple": "理解内心接连发生的反应，能使你逐渐坚定。你仍然会遇到快乐和痛苦，但不必让它们替你决定每一个行动。",
+          "example": "一条消息让你恼火时，先停一停再回复。留意自己围绕它生出的解读和要求。留出一点空间，就能避免让短暂的情绪替你作答。",
+          "context": "",
+          "staging": [
+            "A quiet ocean appears beyond the rail as a teaching image."
+          ]
+        }
+      ],
+      "understand": "在这项教导中，阿特曼指真我，克里希纳将它描述为超越肉体死亡而长存的存在。不执著，是放松对结果的抓取，并不抹去我们对自身行为的责任。他对作战的呼吁，针对的是阿周那在史诗中的特定处境。",
+      "reflection": "在哪件事上，你可以全心尽力，同时放松对某一种回报的强求？"
+    },
+    {
+      "n": 3,
+      "title": "眼前的工作",
+      "sanskrit": "कर्मयोग",
+      "subtitle": "以行动作为灵性修行",
+      "mood": "earth",
+      "scenes": [
+        {
+          "id": "3.1",
+          "title": "我可以什么都不做吗？",
+          "ref": 5,
+          "range": "3.1–9",
+          "source": "3.1–9.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "如果智慧如此重要，为什么还要引导我去做这件可怕的事？你的话仿佛指向不同的方向。请为我指出一条清楚的路。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "智慧的修行与行动的修行，各有其位置。但仅仅放下工作，并不能带来自由。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "没有人能够完全不行动。身体克制不动，心却仍紧抓欲望，这不是自由。从眼前应做的事开始，改变你承担它的方式。",
+              "bridge": false
+            }
+          ],
+          "simple": "业瑜伽是一种行动之道。仅仅退出看得见的工作，并不会消除欲望或责任。",
+          "example": "躲着不回一封难以处理的邮件，也是一种会产生后果的选择。问清自己：负责任的行动是什么？然后去做，不必没完没了地预演别人的赞扬或责备。",
+          "context": "",
+          "staging": [
+            "The horses breathe. Cloth shifts. Even the apparently still scene is alive with movement."
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "给予与承接的世界",
+          "ref": 13,
+          "range": "3.10–19",
+          "source": "3.10–19.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "生命靠给予与承接而维系。众生依赖食物，食物依赖雨水；献祭的秩序，将人的行动与一个大于个体的世界联结起来。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "把一切都据为己有的人，忘记了这种依存。去做必要的工作，不要只把它看作谋取私利的手段。",
+              "bridge": false
+            }
+          ],
+          "simple": "耶若意为祭献或奉献。在这里，它让工作的意义超越了只为自己索取。",
+          "example": "吃饭时，想想这顿饭背后的人们与自然过程。通过减少浪费、公平待人，以及为他人尽一份力，把这份觉察落实到行动中。",
+          "context": "",
+          "staging": [
+            "The turning form of a chariot wheel opens into a restrained image of rain, grain and hands offering food."
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "他人也在看",
+          "ref": 21,
+          "range": "3.20–35",
+          "source": "3.20–35.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "受人敬重者的行为，会成为榜样。行动能够帮助维系世界。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我并没有什么需要获取，却仍持续行动。如果我放弃行动，别人也会效仿，支撑他们生活的秩序就会受损。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "把你的工作奉献给我。放下占有之心，以及对结果的焦灼期待。专注于自己的责任，即使别人的道路看起来更轻松。",
+              "bridge": false
+            }
+          ],
+          "simple": "洛迦僧格罗诃，意为维系世界。成熟的行动，会顾及自己树立的榜样，以及受到影响的人。",
+          "example": "一位愿意承认错误的团队负责人，会让所有人更容易坦诚。即使你没有开口劝导别人，日常举止也一直在传递某种教导。",
+          "context": "",
+          "staging": [
+            "Arjun sees people behind his own ranks, not only the opponents ahead."
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "什么让我们违背自己的判断？",
+          "ref": 37,
+          "range": "3.36–43",
+          "source": "3.36–43.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "是什么让一个人明明不愿作恶，却仍去作恶，仿佛被什么力量逼迫？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "是欲望，以及从欲望中生出的愤怒。它们如烟遮火，能够蒙蔽智慧。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "从感官入手，培养明辨。要认识到，你并不只是那些在内心涌动的冲动。学习面对这股力量，而不向它屈服。",
+              "bridge": false
+            }
+          ],
+          "simple": "渴求并不是命令。趁它尚未为自己编出一整套理由，及早觉察它。",
+          "example": "如果你总是买下事后后悔的东西，就在付款前留出一次停顿。利用这段空隙，问问自己：这次购买究竟想满足哪一种感受？",
+          "context": "",
+          "staging": [
+            "The smoke becomes the flame of an offering. Chapter IV asks what understanding brings to action."
+          ]
+        }
+      ],
+      "understand": "业，意为行动；业瑜伽，是在行动时不以占有之心执著其果实的修行。耶若始于祭献或奉献，并在本章对相互依存的阐述中，展开更广的意义。",
+      "reflection": "你一天中的哪一个行动，在支持那些你很少留意其贡献的人？"
+    },
+    {
+      "n": 4,
+      "title": "行动中的智慧",
+      "sanskrit": "ज्ञानकर्मसंन्यासयोग",
+      "subtitle": "明辨、奉献与更新",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "4.1",
+          "title": "教导者与时间",
+          "ref": 7,
+          "range": "4.1–10",
+          "source": "4.1–10.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "这瑜伽之道，早已有人传授，代代相承。后来它逐渐被遮蔽，如今我再次将它教给你，因为你既是我的虔信者，也是我的朋友。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "你说你在出生很久以前的时代，就传授过这项教导。我该怎样理解？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "你我都经历过许多次出生。我记得，你却不记得。虽然我本来无生，也不朽灭，却借自身的力量显现。当达摩衰微时，我便出现，保护善者、克服恶行，重建达摩。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳在这里讲述神的化身，以及达摩的更新。达摩包含维系生命的秩序与责任。这是《薄伽梵歌》的一项核心神学教导。",
+          "example": "在人类生活的较小范围内，价值也要靠人们践行和更新，才能延续。这只是对更新的类比，并不等同于神的化身。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "4.2",
+          "title": "行动的内里",
+          "ref": 18,
+          "range": "4.11–23",
+          "source": "4.11–23.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "行动的道理十分微妙。静止的身体里，可能藏着一颗充满抓取的心；忙于工作的人，也可以不认定一切都属于自己。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "当对回报的渴求消退，当行动成为奉献，并由智慧引导，工作就不必以同样的方式束缚你。要学会看见身体动作之外的东西。",
+              "bridge": false
+            }
+          ],
+          "simple": "自由不能只凭外表忙碌或安静来衡量。行动背后的动机与理解，同样重要。",
+          "example": "两个人可以志愿承担同一项工作：一个主要寻求认可，另一个主要想帮助别人。任务相同，内心与任务的关系却不同。",
+          "context": "",
+          "staging": [
+            "The offering flame reveals hands doing necessary work. The images remain openly symbolic."
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "奉献的种种方式",
+          "ref": 28,
+          "range": "4.24–33",
+          "source": "4.24–33.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "人们以许多方式奉献：物质上的给予、节制、研习、有规律的调息，以及智慧。这些修行能够净化实践者自身。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "在最深的观照中，供物、奉献的行为，以及奉献所归向的存在，都属于梵。智慧让行动的意义显现出来。",
+              "bridge": false
+            }
+          ],
+          "simple": "灵性修行可以涉及你的财物、注意力、习惯和理解。仪式，是更广阔的修行中的一种表达。",
+          "example": "全心全意地倾听一场谈话。放下打断对方或查看手机的冲动，也能成为一次小小的奉献练习。",
+          "context": "",
+          "staging": [
+            "Separate shapes in the flame become a single continuous field of light, then settle back into the small fire."
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "提问与求学",
+          "ref": 34,
+          "range": "4.34–42",
+          "source": "4.34–42.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "以谦逊、真诚的提问，以及愿在侍奉中学习的态度，走近那些看得清明的人。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "智慧能够带你渡过罪错与迷惑。在修持中扎根的信心，以及持续的实践，都很重要。斩断无知所生的疑惑，安住于瑜伽之道，然后起身。",
+              "bridge": false
+            }
+          ],
+          "simple": "《薄伽梵歌》为探问留出了空间。学习包括提问、实践，以及愿意改变自己的生活方式。",
+          "example": "学习一项技能时，找一位有能力的老师，提出具体问题，并练习所学。只收集名言，并不能带来理解。",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "达摩涵盖维系世界的秩序、正当行为，以及特定处境中的责任；没有一个单独的词能够囊括它的全部含义。梵指终极实在。关于四种社会等级的第四章第十三节，可在原文中查阅，相关背景注释也作了说明；这里并未将它悄然改写为现代职业体系。",
+      "reflection": "在迈出下一步之前，你需要诚实地提出什么问题？"
+    },
+    {
+      "n": 5,
+      "title": "另一种自由",
+      "sanskrit": "कर्मसंन्यासयोग",
+      "subtitle": "舍离，而不冷漠",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "5.1",
+          "title": "我必须离开吗？",
+          "ref": 2,
+          "range": "5.1–6",
+          "source": "5.1–6.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "你赞许舍离，也赞许行动。我应该遵循哪一条路？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "两者都能通向至善，但在这里，行动的修行是更切实可行的道路。真正舍离的人，不会被贪恋和厌恶吞没。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "智慧与有修持的行动，并不必然通向不同的终点。在你正在过的生活中，学会看清什么才是必须放下的。",
+              "bridge": false
+            }
+          ],
+          "simple": "你不必等到生活焕然一新，才开始修行。先改变自己与欲望、厌恶，以及眼前工作的关系。",
+          "example": "换一份工作或一座城市，也许会有帮助，却不会自动消除怨愤。你可以从当下的处境，开始审视这个反复出现的模式。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "5.2",
+          "title": "荷叶",
+          "ref": 10,
+          "range": "5.7–12",
+          "source": "5.7–12.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "用身体、心念与明辨去行动，放下占有式的执著。将行动奉献给神。就像水落在荷叶上，行动也可以不沾着于你。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "紧抓行动的果实，会带来束缚。松开这份抓取，便带来安宁。",
+              "bridge": false
+            }
+          ],
+          "simple": "荷叶比喻的是身在行动之中，内心仍能自由。它并不是要求你在情感上拒人于外。",
+          "example": "用心投入一个项目，同时允许同事贡献想法，也允许决定有所改变。尽心尽力，并不要求每个细节都由你掌控。",
+          "context": "",
+          "staging": [
+            "A lotus leaf forms within the teaching landscape. Water gathers and rolls away. It is a visual metaphor, not an object Krishna has conjured into the historical battlefield."
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "同样的灵性临在",
+          "ref": 18,
+          "range": "5.13–21",
+          "source": "5.13–21.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "智者以平等的眼光，看待有学问的人、牛、象、狗，以及被社会视为贱民的人。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "他们的形体和处境各不相同，智慧却不困于这些差别。当理解安住于神，外在的快乐就不必再独自承担幸福的全部重量。",
+              "bridge": false
+            }
+          ],
+          "simple": "平等的眼光，承认不同地位、不同物种所共有的灵性尊严。这不必意味着，假装每个人的需求或能力都完全相同。",
+          "example": "留意自己是否会因为对方的头衔，而改变基本的尊重。试着以你对待主管的那份礼貌，对待一位清洁工。",
+          "context": "",
+          "staging": [
+            "Each is given equal space and attention; none is an exotic decorative figure."
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "安宁与友谊",
+          "ref": 29,
+          "range": "5.22–29",
+          "source": "5.22–29.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "由感官接触而生的快乐，有开始，也有结束。学习承受欲望和愤怒，而不成为它们的仆人。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "那些向内探求、为众生福祉而行动，并认识到我是祭献的承受者、诸世界之主、所有众生之友的人，能够获得安宁。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳将自律与虔敬的眼光相连，把神视为所有众生的朋友。安宁既关乎内在的自由，也关乎关系。",
+          "example": "享受一顿美餐或一句赞美，同时留意：享受何时变成了要求这种感受持续下去？你可以欣赏某样事物，而不要求它永远存在。",
+          "context": "",
+          "staging": [
+            "We return to Arjun's restless hand. He has heard what steadiness means. He must now ask how to practise it."
+          ]
+        }
+      ],
+      "understand": "这里的舍离，并不只是离开某个地方。本章将有修持的行动、平等的眼光，以及对克里希纳的认识结合起来。它的灵性目标，超出了让日常生活过得舒适。",
+      "reflection": "在哪些时候，一个人的地位或外表，会决定你愿意给予多少关注？"
+    },
+    {
+      "n": 6,
+      "title": "回到内心",
+      "sanskrit": "ध्यानयोग",
+      "subtitle": "练习、平衡与一次次回归",
+      "mood": "blue",
+      "scenes": [
+        {
+          "id": "6.1",
+          "title": "朋友，还是对手",
+          "ref": 5,
+          "range": "6.1–9",
+          "source": "6.1–9.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "不依赖回报而完成必要工作的人，正在践行舍离与瑜伽。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "以自己的修持来提升自己。心可以成为你的盟友；任其失去约束，也可能与你作对。当它不再那么受制于快乐、痛苦、赞扬和轻蔑，内心就会逐渐坚定。",
+              "bridge": false
+            }
+          ],
+          "simple": "心会形成习惯。耐心的训练，能改变你与这些习惯的关系；苛刻的自我评判，往往只是又添一层挣扎。",
+          "example": "当注意力散开时，觉察它，不必辱骂自己。回到眼前的下一个小行动。一次次回来，本就是训练的一部分。",
+          "context": "",
+          "staging": [
+            "Arjun's hand rests against the rail. He remains seated in the encounter, not transported to an unrelated meditation tutorial."
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "让生活支撑修行",
+          "ref": 17,
+          "range": "6.10–23",
+          "source": "6.10–23.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "找一个合适的地方，安稳地坐下，收拢注意力。让心转向我。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "吃得太多或太少，睡得太多或总是不睡，都无益于这瑜伽之道。在饮食、休息、活动和努力之间，保持平衡。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "安定的心，就像那簇火焰。通过修行，它能发现一种不依赖感官的喜悦。",
+              "bridge": false
+            }
+          ],
+          "simple": "能够持续的生活节律，有助于静坐。照顾好日常生活，是修行的一部分，并非对修行的干扰。",
+          "example": "从短暂而规律的静坐开始。可以做到、又有充分休息的练习，比无法坚持的高强度安排，更能长久持续。",
+          "context": "",
+          "staging": [
+            "A lamp appears in the teaching space. For a moment its flame is sheltered from the wind."
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "像要握住风",
+          "ref": 35,
+          "range": "6.24–36",
+          "source": "6.24–36.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "每当心念游走，就把它带回来。学习在其他众生中看见自己，也在自己中看见其他众生。认真对待他们的快乐和痛苦，就像对待自己的感受一样。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "可是心躁动不安，强劲而固执。要控制它，就像试图握住风。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "这确实困难。但通过练习，以及逐渐放松执著，心是可以训练的。",
+              "bridge": false
+            }
+          ],
+          "simple": "静坐并不要求你从此没有念头。觉察心念游走，松开对念头的紧抓，再轻轻地回来。",
+          "example": "听别人说话时，你可能开始盘算自己该怎样回答。觉察这个变化，再回到对方此刻真正说的话上。",
+          "context": "",
+          "staging": [
+            "The flame moves. Its movement is allowed to be part of the scene; steadiness is not presented as instant perfection."
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "如果我半途失落呢？",
+          "ref": 40,
+          "range": "6.37–47",
+          "source": "6.37–47.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "怀着信心开始，却没能走完整条道路的人，会怎样？他们会不会迷失，无处归属？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "任何真诚向善的努力，都不会消失。这样的修行会延续下去，甚至穿越此后的多次生命，再次牵引求道者走向理解。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "继续前行吧。在瑜伽修行者中，我尤其珍重那内心安住于我、以信心和爱敬拜我的人。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳从轮回与虔敬的灵性视野来回答。落实到实践中，这份鼓励是让我们继续前行，不把不完美视为彻底失败。",
+          "example": "中断一周练习，并不会抹去你已经学到的东西。下一次有机会就重新开始，不必等待一个完美的重启时刻。",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "瑜伽指一种灵性修行，也指它所追求的整合与安定，并不限于身体姿势。克里希纳的宽慰包含轮回转生的含义，并非仅仅保证一个有用的习惯明天还会回来。",
+      "reflection": "你可以练习怎样的一次小小回归，而不要求自己立刻熟练掌握？"
+    },
+    {
+      "n": 7,
+      "title": "维系万有的力量",
+      "sanskrit": "ज्ञानविज्ञानयोग",
+      "subtitle": "认识生命的源头",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "7.1",
+          "title": "贯穿万物的一根线",
+          "ref": 7,
+          "range": "7.1–7",
+          "source": "7.1–7.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "将你的心转向我，以我为归依来修行。听我说，你如何能够更完整地认识我。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "地、水、火、风、空间、心念、理解力，以及“我”的意识，属于我较低层面的本性。超出这一层面的，是维系世界的生命本原。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "万物都依托于我，如同珠子由一根线串起。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳将神描述为物质世界与生命存在背后的源头和支撑。那根线，将初看似乎分离的事物联结起来。",
+          "example": "一串项链让人注意到珠子，但让它成为项链的，是那根线。借助这个意象，思考是什么支撑着你生活中的各个部分。",
+          "context": "",
+          "staging": [
+            "Separate beads appear along a fine thread of light; the thread continues beyond the frame."
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "水的滋味",
+          "ref": 8,
+          "range": "7.8–12",
+          "source": "7.8–12.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "我是水中的滋味，日月的光明，吠陀中的神圣声音。我是大地的芬芳，也是众生的生命。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我是不受渴求和执著污染的力量。自然借以显现的种种性质，都从我而来，却不能涵盖我的全部。",
+              "bridge": false
+            }
+          ],
+          "simple": "这项教导邀请我们留意熟悉的经验，从中体会神的临在。感受神圣，不必从惊天动地的事开始。",
+          "example": "慢慢喝一杯水。留意这个简单的事实：它在滋养你。让感恩打断那种把日常事物视为理所当然的习惯。",
+          "context": "",
+          "staging": [
+            "A small bowl of water catches daylight within the symbolic landscape. Let this be simpler than the preceding vision."
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "什么遮住了源头",
+          "ref": 14,
+          "range": "7.13–19",
+          "source": "7.13–19.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "人们困于自然的种种性质，认不出超越它们的存在。这使万象显现的力量，称为摩耶，难以跨越。归依于我的人，能够渡过它。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "有人因痛苦而转向我，有人为求知，有人为求获益，也有人出于智慧。每一种转向都有意义。有智慧的虔信者，终将认识到：一切都依托于神。",
+              "bridge": false
+            }
+          ],
+          "simple": "摩耶关乎这样一种力量：变化的表象与执著，能够借此遮蔽实在。克里希纳的回答，将理解与虔敬结合起来。",
+          "example": "害怕时，你可能只注意到证实恐惧的证据。认识到视野正在变窄，能帮助你更开放地面对真实存在的情况。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "7.4",
+          "title": "超越短暂的回报",
+          "ref": 23,
+          "range": "7.20–30",
+          "source": "7.20–30.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "欲望常使敬拜指向某一种回报。但这样的回报，终有尽头。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "你眼下所能看见的，并不能穷尽我的真实。贪恋和厌恶，会遮蔽理解。摆脱它们的控制后，坚定的求道者便转向我，寻求从衰老与死亡中解脱。",
+              "bridge": false
+            }
+          ],
+          "simple": "本章从向神求取事物，逐渐转向寻求神本身。短暂的回报，无法带来最终的圆满。",
+          "example": "为一个难题寻求帮助，是自然的。也可以问问自己：解决了这一个问题，能否触及内心更深的不安？那种不安，是否总在寻找新的对象？",
+          "context": "",
+          "staging": [
+            "The bowl's reflected light reaches the horizon. Arjun's next question concerns what lies beyond a lifetime."
+          ]
+        }
+      ],
+      "understand": "摩耶指一种神圣力量，变化的表象可借此遮蔽其源头。本章并非简单地宣称日常生活是假的。它引导我们从有限的欲求，走向对克里希纳的认识。",
+      "reflection": "对于哪一种平常的经验，你可以多一分专注或感恩？"
+    },
+    {
+      "n": 8,
+      "title": "长存的存在",
+      "sanskrit": "अक्षरब्रह्मयोग",
+      "subtitle": "忆念、死亡与不朽",
+      "mood": "blue",
+      "scenes": [
+        {
+          "id": "8.1",
+          "title": "请说清这些词的含义",
+          "ref": 3,
+          "range": "8.1–4",
+          "source": "8.1–4.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "你说的梵、真我，以及业，究竟是什么意思？你如何临在于有形的生命世界，又如何能在临终时被认识？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "梵是不朽的、至高的实在。阿迪亚特玛关乎一个人内在的灵性本质。这里的业，指使有形生命产生的创造性行动。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "变化的世界终会消逝。此外，还有具有意识、起主导作用的本原；而我作为祭献之主，临在于身体之中。",
+              "bridge": false
+            }
+          ],
+          "simple": "《薄伽梵歌》中的一些词，有精确且依语境而定的含义。梵指向不朽的实在；阿迪亚特玛，则将探问引向真我。",
+          "example": "当一场讨论变得混乱时，先澄清核心词语的意思。共同的定义，有助于看清分歧究竟来自观念，还是来自语言。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "8.2",
+          "title": "忆念，并且行动",
+          "ref": 7,
+          "range": "8.5–10",
+          "source": "8.5–10.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "临终时意识所朝向的方向，十分重要。一个人反复存于心中的事物，会塑造那最后的归向。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "因此，要时刻忆念我，同时完成眼前应做的行动。将心念与理解奉献给我。这样的忆念，需要在实践中逐渐培养。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳将临终时的忆念，与整个人生的归向相连。虔敬与负责任的行动，应当共同成长。",
+          "example": "你反复回到什么，注意力就会被什么塑造。每天留一点空间，给那些你希望在压力之下仍能指引你的价值，以及灵性上的承诺。",
+          "context": "",
+          "staging": [
+            "Arjun's bow is briefly visible beneath the widening sky. Contemplation has not erased the circumstance in which he must act."
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "超越漫长的循环",
+          "ref": 20,
+          "range": "8.11–22",
+          "source": "8.11–22.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "求道者修持感官与心念，忆念那不朽的存在，以及神圣的嗡音。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "在无比漫长的时间里，世界不断显现，又不断收归隐寂。超越这些变化，有一个永恒的实在，不随众生的消亡而消亡。那是至高的归宿，要以专一的虔敬来趋近。",
+              "bridge": false
+            }
+          ],
+          "simple": "本章讲述宇宙的时间，以及超越反复生死的解脱。它请我们分辨：什么会变，什么不朽。",
+          "example": "日历能帮你安排一周，而更宽广的视野，会改变你对轻重缓急的判断。这里的宇宙尺度，邀请你更深入地重新思考自己的目标。",
+          "context": "",
+          "staging": [
+            "The imagined sky moves through immense cycles of arising and dissolution. The chariot remains a steady foreground reference."
+          ]
+        },
+        {
+          "id": "8.4",
+          "title": "此刻就是修行之时",
+          "ref": 27,
+          "range": "8.23–28",
+          "source": "8.23–28.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "教导中描述了一条不再返回的光明之路，以及另一条旅人还会归来的道路。明白这些道路，瑜伽修行者就不必迷惑。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "时刻安住于瑜伽之道。这份理解，引人超越仪式、研习、苦修与布施所带来的有限回报，走向至高的本源。",
+              "bridge": false
+            }
+          ],
+          "simple": "本章的宇宙观，是其宗教教导的一部分。它对当下的邀请，是在你正在过的生活中，持续而稳定地修行。",
+          "example": "不必把重要的事推迟到退休或危机来临时。今天，就作出一个适度而能够反复践行的承诺。",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "本章讲述忆念、轮回、宇宙循环与解脱。死后的道路，是这一宗教论述的一部分。关于注意力的现代类比，不能取代这些主张。莫克沙意为从灵性束缚与反复生死中获得解脱。",
+      "reflection": "你反复回到什么？那是否正是你希望用来指引人生的东西？"
+    },
+    {
+      "n": 9,
+      "title": "一份小小的奉献",
+      "sanskrit": "राजविद्याराजगुह्ययोग",
+      "subtitle": "虔敬中的亲近",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "9.1",
+          "title": "既临在，也超越",
+          "ref": 4,
+          "range": "9.1–10",
+          "source": "9.1–10.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "我要告诉你深邃的智慧，以及能够在生活中践行的理解。请以开放的心来聆听。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我无形的临在，遍及世界。众生依赖于我，但我并不局限于他们之中。在我的观照下，自然生出一切能动与不动的存在。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳将神的临在与超越放在一起：世界依赖于神，而神并不局限于世界。",
+          "example": "一个源头，可以表达为多种形式，却不被其中任何一种形式穷尽。这只是一个有限的类比，帮助我们靠近远为宏大的神学主张。",
+          "context": "",
+          "staging": [
+            "The universe from the last chapter becomes a reflection in the small bowl. The source exceeds either image."
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "我们究竟在寻求什么？",
+          "ref": 22,
+          "range": "9.11–25",
+          "source": "9.11–25.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "有些人只看见我人的外表，错过了我更深的本性。另一些人则以坚定的虔敬转向我，不断忆念与敬拜。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "即使天堂的欢悦，也会在支撑它的功德耗尽之后消退。那些全心专注于我的人，寻求的是另一种归宿。我会照料维系那虔敬生活所需的一切。",
+              "bridge": false
+            }
+          ],
+          "simple": "虔敬意味着重新安顿信任与人生目的。这一节不应被视为对物质成功的保证，也不意味着可以免于所有困难。",
+          "example": "一份长久的承诺，能让你在不确定的处境中更为安定。因为它重要而践行，不必把它变成一场索取确定回报的交易。",
+          "context": "第九章第二十二节中，神给予照料的承诺，是虔敬关系的一部分。它并不承诺敬拜能够避免一切损失，或带来经济上的成功。",
+          "staging": []
+        },
+        {
+          "id": "9.3",
+          "title": "一片叶子就足够",
+          "ref": 26,
+          "range": "9.26–29",
+          "source": "9.26–29.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "一片叶、一朵花、一枚果实，或一点水，只要怀着虔敬献上，我都会接受。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "无论你做什么、吃什么、给予什么，或从事什么修行，都把它奉献给我。让行动成为奉献，卸下它对你的牵缠与束缚。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我平等对待一切众生。爱我的人，安住于我，我也安住于他们。",
+              "bridge": false
+            }
+          ],
+          "simple": "虔敬可以通过日常行动来实践。财富与盛大的仪式，并不是真诚奉献的前提。",
+          "example": "怀着感恩准备一顿简单的饭，或用心做好一件必要的事。实践真诚，不需要一个惊人的举动。",
+          "context": "",
+          "staging": [
+            "One leaf, softly lit. Arjun and Krishna remain present behind it. Resist the temptation to make every teaching visually immense."
+          ]
+        },
+        {
+          "id": "9.4",
+          "title": "转变仍有可能",
+          "ref": 30,
+          "range": "9.30–34",
+          "source": "9.30–34.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "即使一个人曾有极其错误的行为，也能够以专一的虔敬转向我，走向正道。我的虔信者，不会失落。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "克里希纳谈到的归依，能够跨越教导中提及的社会区隔。这份邀请，也向那个世界中处于不利地位的人敞开。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "把你的心转向我。以虔敬与敬意对待我。以我为你的至高目标，你就会来到我这里。",
+              "bridge": false
+            }
+          ],
+          "simple": "对转变怀有希望，并不取消应负的责任。真正的改变，必须在一个人的生活方式和待人行为中显现。",
+          "example": "道歉的意义，要通过弥补和行为上的改变来落实。不要把一句宣布改变的话，等同于耐心完成真正转变的过程。",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "巴克提，是对神怀有爱意的虔敬。经文对转变的盼望，并不为持续的伤害开脱。第九章第三十二节还使用了涉及出生、性别和地位的语言，需要诚实说明其背景；请阅读相关注释，不要直接将它视为一份关于社会平等的现代宣言。",
+      "reflection": "哪一个日常行动，可以成为你献出真诚关注的方式？"
+    },
+    {
+      "n": 10,
+      "title": "瞥见无限",
+      "sanskrit": "विभूतियोग",
+      "subtitle": "辨认神的彰显",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "10.1",
+          "title": "逐渐加深的关系",
+          "ref": 8,
+          "range": "10.1–11",
+          "source": "10.1–11.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "阿周那，再听我说。我是为你的益处而说。一切都从我这里发出，我是它们的源头。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "认识到这一点的人，会怀着爱转向我。他们一同忆念我，从中获得喜悦。对于怀着爱虔敬于我的人，我赐予他们明辨，引他们走近我；我以智慧之光，驱散无知的黑暗。",
+              "bridge": false
+            }
+          ],
+          "simple": "在《薄伽梵歌》中，智慧与虔敬能够相互支持。理解神这一源头，会重塑心的朝向。",
+          "example": "你深刻理解的事物，常会改变你所爱的对象，以及你的行动方式。让思考与实践彼此启发。",
+          "context": "",
+          "staging": [
+            "Warmth returns to the space between teacher and listener."
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "帮助我常常忆念",
+          "ref": 20,
+          "range": "10.12–23",
+          "source": "10.12–23.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "我接受你告诉我的话。只有你，才完全了解你自己。请告诉我，你的临在以哪些方式彰显，让我能够不断忆念你。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我是众生心中的真我，是他们的开始、延续与终结。在光明之中，看太阳的光辉；在感官之中，看心；在众生之中，看意识。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳提供的是观想的切入点，并非一份囊括神之全部的目录。熟悉的经验，也能成为忆念的提醒。",
+          "example": "选择一个反复出现的时刻，比如初见晨光，或开始工作前的一次呼吸，忆起是什么为你的人生指明方向。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "10.3",
+          "title": "世界成为提醒",
+          "ref": 32,
+          "range": "10.24–38",
+          "source": "10.24–38.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "在喜马拉雅山、神圣的音节、菩提树、恒河，以及狮子的力量中，辨认我的彰显。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我也是时间、智慧、记忆，以及让生命展开的种种力量。这些都能使你的注意力转向我。",
+              "bridge": false
+            }
+          ],
+          "simple": "毗布提，指神圣卓越或力量的彰显。赞叹由此成为观想，不再只是想要占有。",
+          "example": "看见别人出色时，先试着欣赏，再去比较。他们的能力，可以启发你，不必成为你不够好的证据。",
+          "context": "",
+          "staging": [
+            "Himalayas, a peepal tree, a river and a lion appear as successive teaching images, connected by light. They are contemplative examples, not stops on a geographical chariot journey."
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "超出列举所能及",
+          "ref": 42,
+          "range": "10.39–42",
+          "source": "10.39–42. The last line is an authored bridge into Arjun's request in 11.3–4.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "这些彰显，无穷无尽。凡有光彩、美丽或力量之处，都源于我光辉的一部分。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "但何必再增添例子？只以自身的一部分，我就维系着整个宇宙。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我已经听你描述了。我能亲眼看见吗？",
+              "bridge": true
+            }
+          ],
+          "simple": "这份列举，最终指向了列举之外。任何一个具体的意象，都只是让我们瞥见比意象本身更宏大的实在。",
+          "example": "一片美景，能让你的注意力停驻。让这次经验开启好奇与感恩，不必觉得每个细节都必须捕捉下来。",
+          "context": "",
+          "staging": [
+            "The last image becomes too expansive to fit within its frame. We return to Krishna's near, familiar hand."
+          ]
+        }
+      ],
+      "understand": "毗布提，指神的光辉或力量的彰显。这些例子引导观想；任何清单或图像，都无法容纳它们所指向的神。",
+      "reflection": "赞叹能否带你走向感恩，而不变成占有的欲望？"
+    },
+    {
+      "n": 11,
+      "title": "目光无法尽收",
+      "sanskrit": "विश्वरूपदर्शनयोग",
+      "subtitle": "惊叹、时间与宇宙之相",
+      "mood": "cosmic",
+      "scenes": [
+        {
+          "id": "11.1",
+          "title": "获赐神圣的视野",
+          "ref": 8,
+          "range": "11.1–14",
+          "source": "11.1–14.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "你的教导，已经消除了我许多困惑。我听到了众生如何生起，又如何消逝。我想看见你至高无上的形相。如果你认为我能够承受，就请让我看见。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "看我的种种形相，色彩与样貌，无量无数。看整个世界聚集于此，看你从未见过的奇观。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "你平常的双眼，无法容纳这景象。我赐予你神圣的视野。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "随后，克里希纳显露了宇宙之相。它的光辉，超越了这片战场上曾有过的一切光明。",
+              "bridge": false
+            }
+          ],
+          "simple": "毗湿瓦鲁帕，即宇宙之相，是故事中的神圣启示。我们的画面是一种象征性的诠释，并非对那景象的精确再现。",
+          "example": "有时，新的理解需要一种不同的观看方式，而不只是更多同类的信息。这是关于视角的类比，并不等同于神圣的视野。",
+          "context": "",
+          "staging": [
+            "Krishna's familiar outline is still near. The horizon begins to open around it."
+          ]
+        },
+        {
+          "id": "11.2",
+          "title": "惊叹化为恐惧",
+          "ref": 16,
+          "range": "11.15–31",
+          "source": "11.15–31.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "我看见众生与神圣力量，都在你之中。我找不到你的开始、你的中间，也找不到你的尽头。你的光辉，充满每一个方向。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我也看见我们的战士，走向毁灭。毗湿摩、德罗纳、持国王的儿子们，都奔向那里，如同河流奔向大海。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我无法平静。请告诉我，你以这可怕的形相显现，究竟是谁？",
+              "bridge": false
+            }
+          ],
+          "simple": "宇宙之相，同时包含创造与毁灭。阿周那的恐惧，是启示的一部分，并非他不懂得欣赏这启示。",
+          "example": "诚实地观看自然，能够同时发现美与脆弱。成熟，是为两者都留出位置，而不要求真实世界只包含令我们安心的东西。",
+          "context": "",
+          "staging": [
+            "Many faceless forms, arms and crowns unfold through immense space. Worlds seem held within worlds. The near rail stays legible as Arjun bends in reverence. Gradually, the vision includes dissolution. Figures of warriors move into an overwhelming blaze; no graphic injury.",
+            "His hand reaches for the rail. The awe has become difficult to bear."
+          ]
+        },
+        {
+          "id": "11.3",
+          "title": "时间",
+          "ref": 32,
+          "range": "11.32–34",
+          "source": "11.32–34.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "我是时间，使诸世界走向终结。即使没有你，列阵于此的战士，也不会长存。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "起来，阿周那。成为成就此事的器具。这些战士，已经置身于那终结之中。面对你眼前的战斗。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳把阿周那的行动能力，置于宇宙时间的视野之中。这段话属于史诗中特定的道德与神学处境。",
+          "example": "你无法阻止周围的一切变化。但在变化之中，你仍能审视自己的责任，不必宣称自己可以完全掌控，也不必认为自己毫无责任。",
+          "context": "这道难以理解的命令，属于克里希纳的启示，以及阿周那在史诗中的特定角色。它并不允许人把自己的敌人与那些战士等同起来，也不能用来借宗教为暴力开脱。",
+          "staging": [
+            "Hold. Let the line land before another transition. The teaching image presents destruction as a dimension of the vision, not an exciting reward for the reader."
+          ]
+        },
+        {
+          "id": "11.4",
+          "title": "浩瀚之中的朋友",
+          "ref": 54,
+          "range": "11.35–55",
+          "source": "11.35–55.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "我曾称你为朋友，言语轻率，却不知道眼前的你何等伟大。请原谅我的无知。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "我满怀惊叹，也被恐惧震动。请再向我显现一种我能够承受的形相：头戴冠冕，手持权杖与飞轮，具有四臂。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "让恐惧平息。再看看你所祈求的形相。",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "看见你温和的人形，我终于能够重新安定下来。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "通过专一的虔敬，人才能真正认识我、看见我，并进入我。为我行动，以我为至高目标。摆脱执著，也放下对众生的敌意。",
+              "bridge": false
+            }
+          ],
+          "simple": "宏大的景象，最终回到关系与生活之道。敬畏，需要通过虔敬、行动，以及摆脱敌意来表达。",
+          "example": "经历一次强烈的体验之后，问问它会怎样改变你明天的行为。它的意义，不必取决于你能否重现同样的强度。",
+          "context": "",
+          "staging": [
+            "The universal vision draws inward. A restrained four-armed, crowned divine form bridges the transition. Then Krishna is once more the familiar figure on the chariot. Arjun's grip eases."
+          ]
+        }
+      ],
+      "understand": "毗湿瓦鲁帕，意为宇宙之相。这启示包含光辉与恐怖、创造与毁灭。场景最终回到关系与行为；看见它，并不意味着阿周那的学习已经结束。",
+      "reflection": "当一次经历改变了你的视角，这种改变会怎样在日后的行动中显现？"
+    },
+    {
+      "n": 12,
+      "title": "让爱成为生活",
+      "sanskrit": "भक्तियोग",
+      "subtitle": "在行为中显现的爱",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "12.1",
+          "title": "关系之路",
+          "ref": 2,
+          "range": "12.1–7",
+          "source": "12.1–7.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "虔敬地敬拜你的人，与观照那不朽、无形实在的人，哪一类更坚定地安住于瑜伽之道？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "心安住于我、以坚定信心敬拜我的人，深深契合于瑜伽之道。追随无形实在的人，也能抵达目标；不过，对于有形的生命，那条道路更难行。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "对于虔敬于我的人，我会成为带领他们渡过生死之海的解救者。",
+              "bridge": false
+            }
+          ],
+          "simple": "本章承认不止一种途径，同时着重强调与神建立关系的虔敬。它说明一条容易切入的道路，不要求每个人都从抽象观念开始。",
+          "example": "有些人从一个观念开始，有些人从爱与关系开始。留意哪种修行方式，能让你真诚而稳定地坚持。",
+          "context": "",
+          "staging": [
+            "Stay close. Cloth, carved wood, Krishna's hand. No new spectacle at the opening of this chapter."
+          ]
+        },
+        {
+          "id": "12.2",
+          "title": "从你能做到的地方开始",
+          "ref": 9,
+          "range": "12.8–12",
+          "source": "12.8–12.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "把你的心念与理解安放于我。如果还不能安稳地停留，就练习一次次回来。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "如果这样的练习也有困难，就为我而工作。如果连这一点也做不到，就放下对行动果实的占有式执著，并修持自身。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "在这样的放下之中，有安宁。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳提供了不同层次、可以切入的练习。遇到困难时，可以寻找另一个真诚的起点。",
+          "example": "如果长时间的每日修行总是难以坚持，就选择一个更短、你能做到的练习。持续性，可以从微小的开始逐渐长成。",
+          "context": "",
+          "staging": [
+            "A short flight of steps appears as a teaching image, then resolves into the chariot step. The reader is not assigned a spiritual rank."
+          ]
+        },
+        {
+          "id": "12.3",
+          "title": "虔敬是什么模样",
+          "ref": 13,
+          "range": "12.13–16",
+          "source": "12.13–16.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "不怀仇恨、友善而慈悲、没有占有之心和自大、耐心而坚定的人，是我所珍爱的。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "这样的人，不会无端扰乱世界，也不会总被世界的扰动所支配。虔敬会塑造他与他人相处的方式。",
+              "bridge": false
+            }
+          ],
+          "simple": "虔敬不只是一种情绪或仪式。慈悲、耐心，以及较少以自我为中心，都是它的表现。",
+          "example": "当别人给你带来不便时，留意自己的举止。这一平常时刻，或许比仪式中的感受，更能显出你的修行。",
+          "context": "",
+          "staging": [
+            "Arjun's gaze returns to people on both sides of the field. They have not become anonymous after the cosmic vision."
+          ]
+        },
+        {
+          "id": "12.4",
+          "title": "走过赞扬与责备",
+          "ref": 18,
+          "range": "12.17–20",
+          "source": "12.17–20.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "学习在荣辱、褒贬、舒适与痛苦中保持坚定。放下那种要求：一切都必须对你有利。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "怀着信心遵循这滋养生命的教导、以我为至高目标的人，是我深深珍爱的。",
+              "bridge": false
+            }
+          ],
+          "simple": "平衡并不要求你忽略有用的批评。它意味着作出回应时，不让赞扬使你膨胀，也不让责备抹去你的价值。",
+          "example": "阅读反馈时，找出能够改善工作的内容。把这些有用的信息，与急着捍卫整个自我形象的冲动分开。",
+          "context": "",
+          "staging": [
+            "The ordinary body and its shifting sensations become the subject of chapter XIII."
+          ]
+        }
+      ],
+      "understand": "虔敬包括与克里希纳的关系、对注意力的修持，以及对待众生的方式。本章给出切实可行的入门途径，却不把灵性生活缩减为一种愉快的感受。",
+      "reflection": "今天，在一次平常的交往中，你可以怎样让关怀显现出来？"
+    },
+    {
+      "n": 13,
+      "title": "田与知田者",
+      "sanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+      "subtitle": "身体、觉知与明辨",
+      "mood": "blue",
+      "scenes": [
+        {
+          "id": "13.1",
+          "title": "被认识的是什么？",
+          "ref": 2,
+          "range": "13.1–7",
+          "source": "13.1–7 in this project's edition, which includes Arjun's opening question. See the numbering note before linking other editions.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "请解释自然与精神、田与知田者。什么是知识？什么又是应当被认识的？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "这身体，称为田。认识它的，便是知田者。也要认识到：我是一切田中的知田者。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "身体、感官、心念、欲望、厌恶、快乐和痛苦，都属于变化着的田。分辨田与知田者，是知识的核心。",
+              "bridge": false
+            }
+          ],
+          "simple": "梵语克舍特拉，意为田；克舍特拉吉纳，意为知田者。这一区分，邀请我们探问经验与觉知，超越只将自己认作身体的理解。",
+          "example": "你能觉察一种感官体验、一种心情，或一个念头。花一点时间，分辨被觉察到的内容，与觉察正在发生这一事实。",
+          "context": "",
+          "staging": [
+            "The view opens from Arjun's hand to the changing sensations and thoughts represented around it. The observer is not drawn as a miniature person inside his head."
+          ]
+        },
+        {
+          "id": "13.2",
+          "title": "我们如何学会看见",
+          "ref": 8,
+          "range": "13.8–12",
+          "source": "13.8–12.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "谦逊、真诚、不伤害、耐心、自我约束、坚定，以及对老师的关怀，都属于知识。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "思考生、老、病、死，摆脱占有之心，怀有虔敬，以及持续探问真我，也都属于知识。这些会塑造那个寻求理解的人。",
+              "bridge": false
+            }
+          ],
+          "simple": "《薄伽梵歌》把求知与求知者的品格联系起来。你的生活方式，可以帮助明辨，也可以阻碍明辨。",
+          "example": "想要理解一场分歧时，练习耐心，也诚实面对自己在其中的利害关系。单靠聪明，可能只会加强自我辩护。",
+          "context": "",
+          "staging": [
+            "The shifting images settle enough to be observed. Clarity comes through attention, not the accumulation of labels."
+          ]
+        },
+        {
+          "id": "13.3",
+          "title": "近在眼前，也超乎其外",
+          "ref": 17,
+          "range": "13.13–19",
+          "source": "13.13–19.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "听我讲述那应当被认识的存在。认识它，便能抵达不死之境：它是无始、至高的梵，超越通常所说的有与无的分别。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "它在众生之内，也在众生之外；既动，也不动；既近，也远。它本来不可分，却显现于彼此分离的形态之中。它是光中之光，临在于心。",
+              "bridge": false
+            }
+          ],
+          "simple": "经文借助悖论，指向一种超越了可单独划定之对象的存在。它邀请我们观照，而不只是添上一个新标签。",
+          "example": "当一种描述显得矛盾时，先停一停，不要急着把它塞进熟悉的类别。问问自己：会不会是这个类别本身太狭窄？",
+          "context": "",
+          "staging": [
+            "A single light appears through many surfaces without splitting into rival sources. The image is suggestive, not a scientific model."
+          ]
+        },
+        {
+          "id": "13.4",
+          "title": "透过差异去看见",
+          "ref": 28,
+          "range": "13.20–35",
+          "source": "13.20–35.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "自然生出不断变化的器官、能力与行动。意识本原体验快乐和痛苦；对自然诸性质的执著，使它受缚于有形的生命。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "有人通过静坐走近理解，有人通过求知，有人通过行动，也有人通过聆听，并实践自己所听见的教导。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "平等地看见众生中的至高临在：它在消逝者之中长存。学习分辨田与知田者，也认识超越束缚的道路。",
+              "bridge": false
+            }
+          ],
+          "simple": "本章让明辨回到平等的眼光。看见众生共有的灵性临在，会对冷漠和轻蔑提出挑战。",
+          "example": "在把一个人简化为某个标签或某一次行为之前，记住：你眼下对他的看法，无法穷尽他的内心世界。",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "克舍特拉意为田，克舍特拉吉纳意为知田者。这是对身体、经验与觉知的灵性探问。个体知田者与神之间究竟是什么关系，不同传统有不同理解；视觉呈现不应在无声中替这场争论作出定论。",
+      "reflection": "你能否觉察一个念头或一种感受，而不让它成为对你是谁的全部说明？"
+    },
+    {
+      "n": 14,
+      "title": "内在的力量",
+      "sanskrit": "गुणत्रयविभागयोग",
+      "subtitle": "清明、躁动与昏滞",
+      "mood": "earth",
+      "scenes": [
+        {
+          "id": "14.1",
+          "title": "三种性质",
+          "ref": 5,
+          "range": "14.1–9",
+          "source": "14.1–9.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "自然的三种性质，将长存的真我束缚于有形的生命。它们是萨特瓦、拉贾斯和塔马斯。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "萨特瓦带来光明与清晰，却通过对快乐和知识的执著形成束缚。拉贾斯带来渴求与躁动不息的活动，通过行动形成束缚。塔马斯则借疏忽、昏滞与沉睡，遮蔽理解。",
+              "bridge": false
+            }
+          ],
+          "simple": "三德，是相互作用的三种性质，并非三种永远固定的人格。观察这些模式，但不要把它们变成不变的身份。",
+          "example": "休息充分后，你可能思路清晰；承受压力时，可能躁动不安；精力耗尽时，可能退缩。这些观察，可以帮助你辨认不断变化的状态。",
+          "context": "",
+          "staging": [
+            "The same landscape passes through clear light, agitated movement and obscuring haze. No quality is assigned permanently to a character's skin, identity or social group."
+          ]
+        },
+        {
+          "id": "14.2",
+          "title": "辨认内在的变化",
+          "ref": 11,
+          "range": "14.10–18",
+          "source": "14.10–18.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "三种性质彼此影响，此消彼长。清明显示萨特瓦，贪欲和无休止的奔逐显示拉贾斯，迷乱与疏忽显示塔马斯。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "它们的影响，会塑造行为及其后果，也包括此后生命的走向。学会辨认：你内心的哪一种性质，正在变强。",
+              "bridge": false
+            }
+          ],
+          "simple": "问问自己，此刻是什么性质在塑造你的注意力？觉察，可以为更审慎的回应留出空间。",
+          "example": "作决定之前，留意自己是清明、焦躁，还是疲惫得无法思考。如果可能，先改善这些条件，再作决定。",
+          "context": "",
+          "staging": [
+            "The effects overlap. They never become three sealed rooms or fixed personality categories."
+          ]
+        },
+        {
+          "id": "14.3",
+          "title": "不再随之漂流",
+          "ref": 19,
+          "range": "14.19–25",
+          "source": "14.19–25.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "超越了这些性质的人，会怎样行事？他们怎样才能跨越这些性质？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "这样的人，不会在清明、活动或迷乱出现时厌弃它们，也不会在它们离去时渴求它们。他看见各种性质正在起作用，自己却保持安定。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "他较少受缚于快乐和痛苦、赞扬和责备、友善和敌意，也较少需要把每一项事业，都变成自我占有的东西。",
+              "bridge": false
+            }
+          ],
+          "simple": "目标并不是控制每一种来去的情绪，而是放松那种认同：不再把一种情绪，当成对自己的完整说明。",
+          "example": "不要急着说“我是个失败者”，可以觉察到“此刻有沮丧的感受”。这份感受依然值得重视，却不必再定义整个人。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "14.4",
+          "title": "连清明也要超越",
+          "ref": 26,
+          "range": "14.26–27",
+          "source": "14.26–27.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "以不动摇的虔敬侍奉我的人，能够超越三德，具备趋入梵的条件。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我是不朽之梵的根基，也是不死、长存的达摩，以及圆满幸福的根基。",
+              "bridge": false
+            }
+          ],
+          "simple": "《薄伽梵歌》的目标是灵性自由，并非只是感觉平静。虔敬让这项教导，超出了情绪管理的范围。",
+          "example": "珍惜一个平静的日子，但不要求每一天都感觉相同。让你的承诺，经得起内心阴晴的变化。",
+          "context": "",
+          "staging": [
+            "The coloured movements gather into the branches of a tree. The next chapter asks what holds that whole structure in place."
+          ]
+        }
+      ],
+      "understand": "三德，是自然的性质，在这项教导中具有伦理、心理与宇宙论上的作用。它们并非医学诊断，也不是三种不可改变的人格类型。目标是超越它们而获得解脱，并非永远保持好心情。",
+      "reflection": "此刻，是什么在塑造你的注意力：清明、躁动的欲求，还是难以投入的昏滞？"
+    },
+    {
+      "n": 15,
+      "title": "看不见的根",
+      "sanskrit": "पुरुषोत्तमयोग",
+      "subtitle": "生命之树与至上者",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "15.1",
+          "title": "倒悬的树",
+          "ref": 1,
+          "range": "15.1–4",
+          "source": "15.1–4.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "想象一棵长存的树，根在上，枝在下。它的叶子是吠陀赞歌，枝干受自然诸性质滋养，嫩芽伸向感官的对象。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "更多的根，通过行动将众生束缚。在这里，人不容易看清它的开端与全貌。以坚定的不执著，斩断它的缠缚，寻找这古老流转最初发出的源头。",
+              "bridge": false
+            }
+          ],
+          "simple": "这棵树，是受条件制约之存在的灵性比喻。斩断执著，意味着松开束缚，并非破坏自然世界，或放弃关怀。",
+          "example": "一个渴求，可能长出攀比、消费与焦虑的枝杈。试着沿着这个模式追溯根源，而不只是修剪某一个后果。",
+          "context": "",
+          "staging": [
+            "A vast peepal tree unfolds with roots above and branches below. It surrounds the chariot as a teaching image; its leaves bear light rather than a mass of unreadable text."
+          ]
+        },
+        {
+          "id": "15.2",
+          "title": "旅人",
+          "ref": 7,
+          "range": "15.5–11",
+          "source": "15.5–11.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "求道者摆脱骄傲与迷妄，克服占有式的执著，转向不朽的归宿。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "长存的个体真我，是我的一部分。它把心念与感官带入有形的生命，又携着它们继续前行，如同风把芬芳从它的源头带走。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "经过修持的明辨，能够看见未经训练的目光所遗漏的事物。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳在这里描述个体真我与神的关系，以及真我在有形生命中的历程。不同传统，对这一关系有不同解释。",
+          "example": "无论走到哪里，你的习惯都会影响你注意到什么。作为一个实践层面的类比，换了环境，并不会自动改变你随身带来的模式。",
+          "context": "",
+          "staging": [
+            "A trace of fragrance passes through the branches. It does not become a literal glowing human soul flying out of a body."
+          ]
+        },
+        {
+          "id": "15.3",
+          "title": "生命的支撑",
+          "ref": 15,
+          "range": "15.12–15",
+          "source": "15.12–15.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "太阳、月亮与火的光辉，都是我的。我进入大地，维系众生。我滋养植物，也支持那消化食物的火。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我住在每一颗心中。记忆、知识，以及对它们的遗忘，都从我而来。通过吠陀，人所要认识的正是我。",
+              "bridge": false
+            }
+          ],
+          "simple": "这项教导，将注意力引向身体与心智生活背后的神圣支撑。它邀请我们感恩，而不只是机械地看待存在。",
+          "example": "用餐之前，停一停，体会食物的滋养、身体的消化，以及许多并非由你亲手创造的支撑。",
+          "context": "",
+          "staging": [
+            "Light travels from the large tree to a small leaf, then returns us to the living figures on the chariot."
+          ]
+        },
+        {
+          "id": "15.4",
+          "title": "至上者",
+          "ref": 18,
+          "range": "15.16–20",
+          "source": "15.16–20.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "有会消逝的，也有不朽的。超越两者的，是进入并维系诸世界的至上者。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "因为我超越会消逝的，也高于不朽的，所以我被称为普鲁绍塔玛，也就是至上者。这样认识我的人，会以整个生命敬拜我。",
+              "bridge": false
+            }
+          ],
+          "simple": "普鲁绍塔玛，意为至高或至上的存在者。本章将种种意象汇集起来，从神学上阐述克里希纳的终极实在。",
+          "example": "有些问题，寻求一种有用的方法；另一些问题，则追问你的人生最终立足于什么。也给第二类问题留一点空间。",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "这棵树关乎受条件制约的存在与束缚，并不是命令人排斥自然世界。关于个体真我、不朽者与克里希纳之间的关系，不同传统有不同解释；仔细阅读时，应保留这些区别。",
+      "reflection": "哪一种执著，已经在你的生活中伸展出许多枝杈，远比你最初意识到的更多？"
+    },
+    {
+      "n": 16,
+      "title": "我们在培育什么",
+      "sanskrit": "दैवासुरसम्पद्विभागयोग",
+      "subtitle": "引向自由与带来束缚的品质",
+      "mood": "earth",
+      "scenes": [
+        {
+          "id": "16.1",
+          "title": "引向自由的品质",
+          "ref": 1,
+          "range": "16.1–5",
+          "source": "16.1–5.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "无畏、心灵纯净、在智慧中坚定、慷慨与自我约束，都属于神圣的品质。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "诚实、不伤害、不受愤怒支配、慈悲、温柔、谦逊，以及没有恶意，也同样如此。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "这些品质，引人走向自由。骄傲、傲慢、愤怒、苛刻和无知，则带来束缚。不要灰心，阿周那；你具有神圣的品质。",
+              "bridge": false
+            }
+          ],
+          "simple": "品格需要实践。这份列举，为行为的成长指出了具体的方向。",
+          "example": "在一个平常的日子，选择一种品质，比如诚实、耐心或慷慨。寻找一个小小的情境，真正将它付诸实践。",
+          "context": "",
+          "staging": [
+            "Our attention returns to human gestures: an open hand, a lowered fist, someone listening. This is a contemplative montage, not invented events within the armies."
+          ]
+        },
+        {
+          "id": "16.2",
+          "title": "没有尽头的饥渴",
+          "ref": 12,
+          "range": "16.6–16",
+          "source": "16.6–16.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "当人们放弃分辨什么该做、什么不该做时，欲望就可能成为唯一的准则。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "他们心想：我已经得到这些，还要得到更多。这个对手已被击败，我还要击败下一个。他们被焦虑纠缠，被无数期待束缚，以不正当的手段追求财富。",
+              "bridge": false
+            }
+          ],
+          "simple": "本章批评的是具有破坏性的思维与行为模式，并非邀请我们把某些群体标记为天生邪恶。",
+          "example": "留意一个目标是否总在你刚刚抵达时，又向前挪走。问问自己：这份追求还有真正的意义，还是已经变成了一味想要更多的习惯？",
+          "context": "",
+          "staging": [
+            "A hand closes around more than it can hold. The material falls, but the grip tightens."
+          ]
+        },
+        {
+          "id": "16.3",
+          "title": "三道门",
+          "ref": 21,
+          "range": "16.17–22",
+          "source": "16.17–22.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "自大，甚至能把祭献变成炫耀。欲望、愤怒与贪婪，是三道通向毁败的门。放下它们。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "摆脱它们，一个人就能够为了自身真正的善而行动，走向至高的目标。",
+              "bridge": false
+            }
+          ],
+          "simple": "这里的欲望，指吞噬心灵的渴求，并非每一种普通的喜好。要留意那些使判断变窄、忽视后果的冲动。",
+          "example": "在发送愤怒的消息、占取不公的便宜，或追逐高风险收益之前，先停一下，说清是哪一种冲动正在催逼你。",
+          "context": "",
+          "staging": [
+            "Three narrowing passages are suggested through shadow, not built as a literal new underworld level. The return is to a hand opening."
+          ]
+        },
+        {
+          "id": "16.4",
+          "title": "冲动之外的指引",
+          "ref": 24,
+          "range": "16.23–24",
+          "source": "16.23–24.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "抛开教导的指引，只凭欲望行动的人，无法获得圆满、幸福或至高的目标。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "让教导帮助你明辨，什么应当去做，什么应当避免。理解之后，就去行动。",
+              "bridge": false
+            }
+          ],
+          "simple": "《薄伽梵歌》请我们参照沙斯特拉，也就是具有权威性的教导，而不是把眼前的欲望当作最终标准。",
+          "example": "当一个选择充满诱惑时，将它与你在头脑清晰时认同的承诺和伦理原则作比较。如果冲突仍在，就寻求审慎的指引。",
+          "context": "",
+          "staging": [
+            "Arjun raises the question that follows naturally: what about sincere faith that does not follow those prescriptions?"
+          ]
+        }
+      ],
+      "understand": "本章描述的是品质与行为模式。我们的改编，不应借用它的语言，将现实中的族群、宗教或社会群体标记为恶魔。它对沙斯特拉，也就是权威教导的诉求，得到了保留，并未被替换为“觉得怎样对，就怎样做”。",
+      "reflection": "你反复做出的行动，正在强化哪一种品质？"
+    },
+    {
+      "n": 17,
+      "title": "奉献的本心",
+      "sanskrit": "श्रद्धात्रयविभागयोग",
+      "subtitle": "信心、言语、修持与给予",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "17.1",
+          "title": "是什么塑造信心？",
+          "ref": 3,
+          "range": "17.1–10",
+          "source": "17.1–10.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "那些怀着信心敬拜，却搁置了规定教导的人呢？他们的信心，具有怎样的性质？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "信心反映一个人的本性，也受三德塑造。一个人把信心寄托于什么，也会帮助塑造他将成为什么样的人。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "即使饮食上的偏好，也反映这些性质。由虚荣和欲望驱使、折磨身体及其中神圣临在的严酷修行，并不会因为严酷，就成为神圣。",
+              "bridge": false
+            }
+          ],
+          "simple": "什拉达，指内心深处信任的朝向。审视你的修行，究竟正在培养什么品质。",
+          "example": "问问自己，一项日常练习，是让你更清明、更仁厚，还是只让你更为自己的忍耐力骄傲？困难本身，并不能证明价值。",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "17.2",
+          "title": "身体、言语与心念的修持",
+          "ref": 15,
+          "range": "17.11–19",
+          "source": "17.11–19.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "奉献，可以出于责任而不渴求回报；也可以出于获利与炫耀的欲望；还可以在缺乏用心、不顾指引的情况下进行。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "身体的修持，包括纯净、真诚、节制与不伤害。言语的修持，把真实、体贴、有益与研习结合起来。心念的修持，包括平静、温柔、自我约束与真诚。",
+              "bridge": false
+            }
+          ],
+          "simple": "真实、善意与有益，应当相伴。这并不意味着要避开每一场艰难的谈话。",
+          "example": "提出批评之前，问一问：它是否准确、是否有用、表达时是否顾及对方？你可以直截了当，而不附加羞辱。",
+          "context": "",
+          "staging": [
+            "One figure prepares to speak; the gesture slows before the words are released. The scene invites attention to intention without asking the reader to perform a breathing exercise."
+          ]
+        },
+        {
+          "id": "17.3",
+          "title": "同样的礼物，不同的行动",
+          "ref": 20,
+          "range": "17.20–22",
+          "source": "17.20–22.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "因为应当给予，而在适当的时间和地点，送给无法回报之人的礼物，具有萨特瓦的性质。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "不情愿地给予，或期待回报的给予，具有拉贾斯的性质。在不合适的时间或地点给予，缺乏尊重与用心，则具有塔马斯的性质。",
+              "bridge": false
+            }
+          ],
+          "simple": "慷慨包括动机、时机与尊重。接受者不应该因为你渴望被赞赏，就背上一份人情债。",
+          "example": "以对方真正用得上的方式给予帮助。不要把这份好意，变成将来索取其时间、忠诚或赞美的凭据。",
+          "context": "",
+          "staging": [
+            "Three brief images show an offering given respectfully, given while waiting for repayment, and tossed carelessly toward its recipient. No version uses a humiliating depiction of poverty."
+          ]
+        },
+        {
+          "id": "17.4",
+          "title": "嗡，塔特，萨特",
+          "ref": 23,
+          "range": "17.23–28",
+          "source": "17.23–28.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "嗡、塔特、萨特：这些对梵的神圣称谓，伴随着祭献、布施与修持。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "塔特，使行动超越个人对回报的索求。萨特，与存在、善，以及在有价值的行动中保持坚定相关。没有信心的奉献，缺少它看似宣称拥有的灵性根基。",
+              "bridge": false
+            }
+          ],
+          "simple": "神圣的语句，不能代替真诚。本章在结尾，从外在的表现回到行动内在的朝向。",
+          "example": "做一件有意义的事之前，花一点时间，记起它的目的。清楚的意图，可以让任务不至于沦为表演。",
+          "context": "",
+          "staging": [
+            "The three words may appear once in Sanskrit with a short English explanation. They are not buttons that trigger a magical reward."
+          ]
+        }
+      ],
+      "understand": "什拉达，是通过人生表达出来的信心，或深深持有的信任。本章借三德来审视饮食、敬拜、修持与给予；其中的食物分类，并非现代营养建议。",
+      "reflection": "当你不再暗中记账，计算应该得到多少回报，一份礼物会发生什么变化？"
+    },
+    {
+      "n": 18,
+      "title": "选择仍在你手中",
+      "sanskrit": "मोक्षसंन्यासयोग",
+      "subtitle": "责任、归依与清明",
+      "mood": "dawn",
+      "scenes": [
+        {
+          "id": "18.1",
+          "title": "究竟要放下什么？",
+          "ref": 9,
+          "range": "18.1–18",
+          "source": "18.1–18.",
+          "beats": [
+            {
+              "speaker": "阿周那",
+              "text": "请清楚告诉我，舍离与放下之间，有什么区别？",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "舍离，被理解为舍去由欲望驱使的行动。放下，则是舍去对行动果实的执著。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "祭献、布施与修持，不应轻易放弃。践行它们时，要放下占有之心，不强求回报。仅仅因为责任难以承担，就将它舍弃，并非最高的放下。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "一个行动，需要多种条件：它发生的处境、行动者、所用的工具、不同的努力，以及神圣的因素。把孤立的自我视为唯一原因，是看得不完整。",
+              "bridge": false
+            }
+          ],
+          "simple": "蒂亚迦，意为放下。克里希纳把放下执著，与单纯拒绝必要的行动区分开来。",
+          "example": "去作出你应当作出的弥补或道歉。你无法控制它是否换来赞扬，或立刻得到原谅，但这种不确定，不必成为阻止你行动的理由。",
+          "context": "",
+          "staging": [
+            "The original battlefield begins to return around the teaching landscape."
+          ]
+        },
+        {
+          "id": "18.2",
+          "title": "明辨属于你的工作",
+          "ref": 47,
+          "range": "18.19–48",
+          "source": "18.19–48.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "知识，可以在众多生命中认出同一个长存的实在，也可以只看见他们彼此分离，或执著于一个片段，把它当成全部。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "行动、行动者、理解、决心与幸福，也都受三德塑造。起初令人愉快的，日后可能带来束缚；起初需要努力的，则可能引向清明。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "克里希纳立足于史诗中的社会秩序，讲述四种瓦尔那各自的职责。随后，他又引导阿周那，回到自己应当承担的责任。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "通过自身的工作，人能够敬拜众生由之生起的源头。自己的责任，即使做得不完美，也胜过把别人的责任做得出色。每一项事业，都有某种缺憾，如同火总伴着烟。",
+              "bridge": false
+            }
+          ],
+          "simple": "经文在其历史性的社会框架中讨论工作。这一讲述强调明辨责任与禀赋，并不把社会地位当作衡量人的价值的尺度。",
+          "example": "向别人学习，但不必复制他们的整个人生。问清哪些责任和能力真正属于你，并接受有意义的工作仍会伴随困难。",
+          "context": "第十八章第四十一至四十八节，在经文的社会框架中讨论瓦尔那与责任。它并不只是现代意义上的“追随热爱”。请参阅关于社会等级与自身达摩的背景注释。",
+          "staging": []
+        },
+        {
+          "id": "18.3",
+          "title": "思考你已经听到的",
+          "ref": 63,
+          "range": "18.49–63",
+          "source": "18.49–63.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "求道者以净化的理解、自我约束、摆脱骄傲和占有之心，以及不再受渴求支配的内心，具备了趋入梵的条件。通过虔敬，人能够真正认识我。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "将你的行动奉献给我，归依于我。如果骄傲使你拒绝聆听，它会将你引入歧途；你自身的本性，仍会催促着你。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "我已经向你展开这项教导。请充分思考。然后，依你的选择去行动。",
+              "bridge": false
+            }
+          ],
+          "simple": "克里希纳明确地请阿周那思考并选择。指引应当深化明辨，而不是用不假思索的服从来取代它。",
+          "example": "当一项建议十分重要时，仔细审视它，理解它的理由。然后，为自己作出的决定承担责任。",
+          "context": "",
+          "staging": [
+            "Krishna and Arjun are once again at the ordinary scale of two figures speaking. The armies are fully visible. There is no animated \"correct answer\" waiting above Arjun.",
+            "Leave space after the line. Do not end the chapter here; Krishna speaks again."
+          ]
+        },
+        {
+          "id": "18.4",
+          "title": "我准备好了",
+          "ref": 73,
+          "range": "18.64–78",
+          "source": "18.64–78. Lifting the bow is authored visual staging of Arjun's resolve in 18.73, not an additional quoted event.",
+          "beats": [
+            {
+              "speaker": "克里希纳",
+              "text": "你是我所珍爱的，所以，再听一次我最深切的话。让你的心安住于我。虔敬于我，敬拜我，向我俯首。你会来到我这里；因为我珍爱你，所以向你作出这一承诺。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "放下一切达摩，只归依于我。我会使你从一切罪中解脱。不要悲伤。",
+              "bridge": false
+            },
+            {
+              "speaker": "克里希纳",
+              "text": "阿周那，你是否专心聆听了？无知所生的困惑，是否已经消除？",
+              "bridge": false
+            },
+            {
+              "speaker": "阿周那",
+              "text": "蒙你的恩典，我的困惑已经消散。我重新找回了理解。我已坚定，不再疑惑。我会遵照你的话去行动。",
+              "bridge": false
+            },
+            {
+              "speaker": "桑贾亚",
+              "text": "这就是我所听见的对话。那份奇妙，至今忆起，仍让我感动。在瑜伽之主克里希纳与弓箭手阿周那并肩之处，我看见福祉、胜利、兴盛，以及坚定的正行。",
+              "bridge": false
+            }
+          ],
+          "simple": "结尾将虔敬、清明与负责任的行动结合起来。这段旅程，并不许诺人生从此没有困难；它呈现的是我们与困难之间关系的转变。",
+          "example": "把一项教导，带进你接下来真正面对的决定中。让领悟化为经过思考的行动，无论它多么微小。",
+          "context": "",
+          "staging": [
+            "No burst of light. Krishna's familiar hand rests near the reins. The word about surrender is allowed its weight.",
+            "Arjun reaches for the bow. Match the opening composition: the same hand, now steady. The people across the field remain recognisable. Readiness does not erase the cost of what follows."
+          ]
+        }
+      ],
+      "understand": "结尾让明辨、行动、虔敬与归依相互贯通。第十八章第六十三节邀请阿周那选择，随后还有克里希纳进一步的教导，以及阿周那的回应。对于第六十六节“放下一切达摩”的理解，各有不同；不要把它简化为随意破坏规则，也不要将它当作放弃关怀他人的命令。",
+      "reflection": "在眼前的人生中，以更清明的理解去行动，对你意味着什么？"
+    }
+  ]
+}

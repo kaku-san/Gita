@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "c97c0d677196cc239af481d3984f05be518eae3d05ed35d13a1abc59760afbf2",
+  "submitted_at": "2026-09-09T11:19:10.276344+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Think of an enduring tree with roots above and branches below. Its leaves are the Vedic hymns. Its branches are nourished by the qualities of nature; its shoots reach toward the objects of the senses.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Further roots bind beings through action. Its beginning and full extent are not easily seen here. Cut its binding hold with firm non-attachment, and seek the source from which this ancient movement came.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Free from pride and delusion, overcoming possessive attachment, the seeker turns toward the imperishable destination.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "The enduring living self is a portion of me. It draws the mind and senses into embodied life and carries them onward, as wind carries fragrance from its source.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Disciplined discernment sees what an untrained view misses.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "The radiance of sun, moon and fire is mine. Entering the earth, I sustain beings. I nourish plants and support the fire by which food is digested.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I dwell in every heart. Memory, knowledge and their loss arise from me. Through the Vedas, it is I who am to be known.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "There is the perishable and the imperishable. Beyond them is the supreme person, who enters and sustains the worlds.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Because I transcend the perishable and am beyond the imperishable, I am called Purushottama, the highest person. One who knows me in this way worships with their whole being.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "15.1.1",
+      "filename": "en/15.1.1.mp3",
+      "textSha256": "855d0d96c344a9e5bba2c1dff8b567b2b0bbd41b9b041c9c1e851b8a0ff443e7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.1.2",
+      "filename": "en/15.1.2.mp3",
+      "textSha256": "18bbda0dd54abc67b6274764c07d8c7f97bbad2b4d707340a3f1ee668b053338",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.1",
+      "filename": "en/15.2.1.mp3",
+      "textSha256": "8a1a26bcf7422bfeb38842494e2aed8dfc46f427e5d02cc37976c9b9e6ba1b9e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.2",
+      "filename": "en/15.2.2.mp3",
+      "textSha256": "461b816c5fdc5d050e98211af564b6c1bc46378504815be3b4deccabdd861d8f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.3",
+      "filename": "en/15.2.3.mp3",
+      "textSha256": "e0efab0a476ace34e8a9cb708d415edb1fc110aada5d4f6f61bf85638039a66d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.1",
+      "filename": "en/15.3.1.mp3",
+      "textSha256": "2bd093712c8eaa34930e68a288b629ac02e0deb30f38410151be9be218684846",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.2",
+      "filename": "en/15.3.2.mp3",
+      "textSha256": "11cb204be46ad408d6b02b11885ff92e62caad287b3524352bfa2df92e8bf7c8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.1",
+      "filename": "en/15.4.1.mp3",
+      "textSha256": "27eb761df283bf3bd374eed69dae3364acc1fd276275715f793c1d04346c2a99",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.2",
+      "filename": "en/15.4.2.mp3",
+      "textSha256": "b953081ef202f5111623c2632b4a165b08db80e2ca35e84f5f5035c6ae7a014b",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "711",
+  "request_id": "LRoOfjRjaBXF4RUkEepT",
+  "master_sha256": "b7cdf2d07c680378322fee1ae3190eab9432ce5cda831f4ce363cb2f1a5b6bfc"
+}

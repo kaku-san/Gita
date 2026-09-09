@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "c284ecf08d728aa8c0574d415639cc78b80c4377b47e26b889e918c2c5adca1d",
+  "submitted_at": "2026-09-09T11:22:58.440440+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Tourne ton esprit vers moi et pratique en prenant refuge en moi. Écoute comment tu peux parvenir à me connaître plus pleinement.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La terre, l’eau, le feu, l’air, l’espace, l’esprit, l’intelligence et le sentiment du « je » appartiennent à ma nature inférieure. Au-delà se trouve le principe vivant qui soutient le monde.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Tout repose sur moi, comme les perles sont maintenues par un fil.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je suis la saveur de l’eau, la lumière du soleil et de la lune, le son sacré des Védas. Je suis le parfum de la terre et la vie des êtres vivants.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je suis la force libérée du désir avide et de l’attachement. Les qualités à travers lesquelles la nature apparaît naissent de moi, mais ne contiennent pas tout ce que je suis.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Pris dans les qualités de la nature, les êtres ne reconnaissent pas ce qui les dépasse. Ce pouvoir d’apparence, la maya, est difficile à traverser. Ceux qui prennent refuge en moi peuvent le traverser.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les êtres se tournent vers moi dans la souffrance, en quête de connaissance, dans l’espoir d’un gain ou par sagesse. Chacun de ces mouvements compte. Le fidèle sage en vient à reconnaître que tout repose dans le divin.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Le désir oriente souvent l’adoration vers une récompense particulière. Ces récompenses ont une fin.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ma réalité ne se réduit pas à ce que tu peux voir à présent. L’attirance et l’aversion obscurcissent la compréhension. Libérés de leur emprise, les chercheurs persévérants se tournent vers moi et cherchent à se délivrer de la vieillesse et de la mort.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "7.1.1",
+      "filename": "fr/7.1.1.mp3",
+      "textSha256": "e1549754fd7c415c6848719021bd3113a49cf30e81e7e88b6af50acd698cd5bb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.2",
+      "filename": "fr/7.1.2.mp3",
+      "textSha256": "ad15a67e9661dcb31dd484398ec4289d2573907ba54cb84bceb0a537f39520f1",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.1.3",
+      "filename": "fr/7.1.3.mp3",
+      "textSha256": "046641b80d69345143312227068154922126a11663a9cd998f7f1fc9e9311e79",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.1",
+      "filename": "fr/7.2.1.mp3",
+      "textSha256": "bc2cf8df289538feafbabf547faeb751b1cfd69e045422d5d2456486db41d34a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.2.2",
+      "filename": "fr/7.2.2.mp3",
+      "textSha256": "f564d11cd41afe391bfb77aff82ea2216bc525ec1fc93b9c2c6816e6e384dbcf",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.1",
+      "filename": "fr/7.3.1.mp3",
+      "textSha256": "e5ed7100360b7b89f8fc1b81cc59f60e49f24595ed16a053e2bc2d59b402a49c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.3.2",
+      "filename": "fr/7.3.2.mp3",
+      "textSha256": "bee29bcb1cea83e05d8c5185a96592c6239b95141a227de16dfadc01b5ff5986",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.1",
+      "filename": "fr/7.4.1.mp3",
+      "textSha256": "5e3eba25498f0523313e3b2d9c86b4d6a736d777fe59ff7d4f1d171d6489eb1c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "7.4.2",
+      "filename": "fr/7.4.2.mp3",
+      "textSha256": "d497e5fde2d39be323dc66b5863cc5f224d37bcea64e87b55128a5cc897bdf94",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "810",
+  "request_id": "T9vLhtfUWnRxrB10X1jY",
+  "master_sha256": "8ef7919d00a8f1cea03bbf6aeb0bd9f8a6a43ecc0ad2bd692eb7271066ef8702"
+}

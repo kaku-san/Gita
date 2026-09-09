@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "5799cda462f08cec77134c37ce509e88f2758f03ad3c04d8b2a3568b24fe5896",
+  "submitted_at": "2026-09-09T11:15:15.279789+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "What you have taught me has lifted much of my confusion. I have heard how beings arise and pass away. I want to behold your sovereign form. If you think I can bear it, show me.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Behold my forms in their countless colours and kinds. See the whole world gathered here, and wonders you have never seen.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Your ordinary eyes cannot take in this vision. I grant you divine sight.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Then Krishna revealed the universal form. Its radiance was beyond the light the field had known.",
+        "voice_id": "8JVbfL6oEdmuxKn5DK2C"
+      },
+      {
+        "text": "I see beings and divine powers within you. I cannot find your beginning, your middle or your end. Your radiance fills every direction.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "And I see our warriors entering destruction. Bhishma, Drona, the sons of Dhritarashtra—rushing toward it like rivers toward the sea.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "I cannot find peace. Tell me who you are in this terrible form.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "I am Time, bringing worlds to their end. The warriors arrayed here will not remain, even without you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Rise, Arjun. Become an instrument. These warriors stand already within that ending. Meet the battle before you.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "I have called you my friend and spoken lightly, not knowing the greatness before me. Forgive what I failed to understand.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "I am filled with wonder, and shaken by fear. Show me again a form I can bear: crowned, with mace and discus, with four arms.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Let this fear subside. See again the form you have asked for.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Seeing your gentle human form, I can gather myself again.",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "Through undivided devotion I can be truly known, seen and entered. Work for me. Make me your highest aim. Be free of clinging and of hostility toward beings.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "11.1.1",
+      "filename": "en/11.1.1.mp3",
+      "textSha256": "15568e941169b5a76a83556c99b7c7fa9bda10407b9ecfdae8f95b63149551a2",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.1.2",
+      "filename": "en/11.1.2.mp3",
+      "textSha256": "c0eb6952f733d9e102514142463a8d581802a8c1b9ae99b7d4022d575ab85e7b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.3",
+      "filename": "en/11.1.3.mp3",
+      "textSha256": "285badafa5950769dcfdab0709b4227a9ae8818300488e73d9acfdc2a0ff8154",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.4",
+      "filename": "en/11.1.4.mp3",
+      "textSha256": "9f4c5a3021ab52aea4641c76158e8978fc91e6929c98c674f55dc93fcbd59ca2",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "11.2.1",
+      "filename": "en/11.2.1.mp3",
+      "textSha256": "b9248e3bfcb4dd21fbaac275e3f33edf1083b5e80821131787e176d1fc009e50",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.2",
+      "filename": "en/11.2.2.mp3",
+      "textSha256": "4316b45312fead0b467052a3c64cca4f46ed92bbb41632ba61f302c43881180f",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.3",
+      "filename": "en/11.2.3.mp3",
+      "textSha256": "e91645947a66483dc58219dc8afd00c10f76d9e3ee072a354334253c28b8b7a8",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.3.1",
+      "filename": "en/11.3.1.mp3",
+      "textSha256": "694d48442da35bf2564110e477a8b5b1917d0166c9e92a521bc56e331e48bb44",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.3.2",
+      "filename": "en/11.3.2.mp3",
+      "textSha256": "9dad35ad4beadf9ce12600f90cf676c56de71abf7f12bcf73af44ed70e0f8646",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.1",
+      "filename": "en/11.4.1.mp3",
+      "textSha256": "ba40ad532f8d79eacbc154962dc224b89cff207b594c778fb79309fcb51fda0f",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.2",
+      "filename": "en/11.4.2.mp3",
+      "textSha256": "24ed8ec223a1b7191d5089f2f188142d8ada4971c7a99f0dc3f4c48491175c42",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.3",
+      "filename": "en/11.4.3.mp3",
+      "textSha256": "7393c0c0d8406ad9c0d75c0bc000e9c1d3c08ee741632dd86a07c104f4f44711",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.4",
+      "filename": "en/11.4.4.mp3",
+      "textSha256": "0c7c702d22f5e14e4e29834abe77af8daa24c6130219eea4c4bca5ec9f6b80e5",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.5",
+      "filename": "en/11.4.5.mp3",
+      "textSha256": "5c9e8513f824293b9abb7a482ffba8ce88c7659dc7f3c44e24eba466d63a058e",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "839",
+  "request_id": "QIb0qY5du84Lu87qIfFH",
+  "master_sha256": "0915721fa5536df601229ba3c78703b29e3defd054ca23dcaf156ad03c8234d6"
+}

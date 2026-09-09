@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "1caac7575cf862099b5bda643645e6935b3f3394cb40af4988700b6dec873837",
+  "submitted_at": "2026-09-09T11:14:40.776156+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "तुमने जो सिखाया है, उससे मेरा बहुत-सा भ्रम दूर हुआ है। मैंने सुना है कि प्राणी कैसे उत्पन्न होते हैं और कैसे लीन हो जाते हैं। मैं तुम्हारा ऐश्वर्यपूर्ण रूप देखना चाहता हूँ। अगर तुम्हें लगता है कि मैं उसे सह सकूँगा, तो मुझे दिखाओ।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मेरे अनगिनत रंगों और प्रकारों वाले रूपों को देखो। यहाँ एक साथ समाया हुआ पूरा संसार देखो, और वे अद्भुत दृश्य जिन्हें तुमने कभी नहीं देखा।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "तुम्हारी साधारण आँखें इस दर्शन को नहीं देख सकतीं। मैं तुम्हें दिव्य दृष्टि देता हूँ।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "तब कृष्ण ने विश्वरूप प्रकट किया। उसका तेज उस प्रकाश से कहीं परे था जिसे उस मैदान ने कभी जाना था।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "मैं तुम्हारे भीतर प्राणियों और दैवी शक्तियों को देखता हूँ। तुम्हारा आदि, मध्य या अंत नहीं मिल रहा। तुम्हारा तेज हर दिशा में फैला है।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "और मैं अपने योद्धाओं को विनाश में प्रवेश करते देख रहा हूँ। भीष्म, द्रोण, धृतराष्ट्र के पुत्र, सब उसकी ओर दौड़ रहे हैं, जैसे नदियाँ समुद्र की ओर।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मुझे शांति नहीं मिल रही। बताओ, इस भयानक रूप में तुम कौन हो?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मैं काल हूँ, लोकों को उनके अंत तक ले जाने वाला। तुम्हारे बिना भी यहाँ खड़े ये योद्धा जीवित नहीं रहेंगे।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "उठो, अर्जुन। निमित्त बनो। ये योद्धा पहले ही उस अंत के भीतर खड़े हैं। अपने सामने के युद्ध का सामना करो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "सामने की इस महानता को जाने बिना मैंने तुम्हें अपना मित्र कहा और सहज हँसी-मज़ाक में बातें कीं। जो मैं समझ न सका, उसके लिए मुझे क्षमा करो।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "मैं विस्मय से भरा हूँ और भय से काँप रहा हूँ। फिर वह रूप दिखाओ जिसे मैं सह सकूँ: मुकुट, गदा और चक्र से युक्त, चार भुजाओं वाला रूप।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "इस भय को शांत होने दो। तुमने जो रूप माँगा है, उसे फिर देखो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "तुम्हारा सौम्य मानवीय रूप देखकर मैं फिर अपने आप को सँभाल पा रहा हूँ।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "अनन्य भक्ति से मुझे सचमुच जाना, देखा और मुझमें प्रवेश किया जा सकता है। मेरे लिए कर्म करो। मुझे अपना परम लक्ष्य बनाओ। आसक्ति और प्राणियों के प्रति वैर से मुक्त रहो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "11.1.1",
+      "filename": "hi/11.1.1.mp3",
+      "textSha256": "fe7c0f2d23b3663b3dcd50e8a410f3dbb0133d69dee1e3bf2e0633cf4eecd304",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.1.2",
+      "filename": "hi/11.1.2.mp3",
+      "textSha256": "deb0092fa8eb39dbaf878d6efb953d32fdbd2650bb7cb73e9348cd38a6637b60",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.3",
+      "filename": "hi/11.1.3.mp3",
+      "textSha256": "06368bd7e7bd264c542bd3cd5454d91cc26da18dfac0973c7faee62b7f023644",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.4",
+      "filename": "hi/11.1.4.mp3",
+      "textSha256": "4e4d3429d2356bce21d606060c290a64ace8e08ba433daf9333f675c6508f72f",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "11.2.1",
+      "filename": "hi/11.2.1.mp3",
+      "textSha256": "1686bc7bf7c0e10ad0bfe4c1c9bff4d1e7fbc531400981b1edd78f2334f94950",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.2",
+      "filename": "hi/11.2.2.mp3",
+      "textSha256": "9dddeb824af0c4fdb968ce6175922461f4e7d75cbe2e783713f6b82084e2e131",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.3",
+      "filename": "hi/11.2.3.mp3",
+      "textSha256": "fbfd32ef632d68625627c2e2981d3b10f77ddc7714cea988265ba33dc37b9910",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.3.1",
+      "filename": "hi/11.3.1.mp3",
+      "textSha256": "6367173ca49dc362521dbfa58a4fd96ebe9082b5a1edfe9c3d07b4dadef19c56",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.3.2",
+      "filename": "hi/11.3.2.mp3",
+      "textSha256": "d5b1e5ba8f40b1088efaaa2020914bd76c94a3521d65db81df88c402a2ed1b6c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.1",
+      "filename": "hi/11.4.1.mp3",
+      "textSha256": "ed8160446acf7e1501610cb066b3f92da6a22e8ef2a5cc3ef9f03784e4b433eb",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.2",
+      "filename": "hi/11.4.2.mp3",
+      "textSha256": "f739bdb0a3f5114e95c1a7908028bedc9ca25de743813546aeb101624cccbb1e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.3",
+      "filename": "hi/11.4.3.mp3",
+      "textSha256": "7e5b49e75413888a283de1441753190f1d24bdc1f5c775b0621b18254298eec2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.4",
+      "filename": "hi/11.4.4.mp3",
+      "textSha256": "2d3e5b6a867e327c158605c7e26e0a09c46f9e0bbb3f0f651de14e82e182028a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.5",
+      "filename": "hi/11.4.5.mp3",
+      "textSha256": "682453f94eebf86da45e40d508767bd8fa42f5fe7765e959d2bd6074f1e6a685",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "902",
+  "request_id": "tokW2zntK3Q0JpYWFKkt",
+  "master_sha256": "b2e165d5363d20df202068917efb99dc7d5bd5179321c1e04d19082b3ec712f8"
+}

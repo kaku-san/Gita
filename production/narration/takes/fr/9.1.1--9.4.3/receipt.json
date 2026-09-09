@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "4bb548a6deabd0b593623a31ce8c217d397a4f13df1151efdfaeee0f95b605cf",
+  "submitted_at": "2026-09-09T11:24:56.741524+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Je vais te transmettre une connaissance profonde, unie à une compréhension qui peut se vivre. Accueille-la avec un esprit ouvert.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Ma présence non manifestée imprègne le monde. Les êtres dépendent de moi, et pourtant je ne suis pas enfermé en eux. Sous ma vigilance, la nature fait naître ce qui se meut et ce qui demeure immobile.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Certains ne voient que mon apparence humaine et ne perçoivent pas ma nature profonde. D’autres se tournent vers moi dans une dévotion constante, en se souvenant de moi et en m’adorant.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Même les joies du ciel passent lorsque le mérite qui les soutient est épuisé. Ceux dont l’attention repose entièrement en moi cherchent une autre destination. Je veille à ce qui soutient cette vie de dévotion.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Une feuille, une fleur, un fruit ou de l’eau : si on me les offre avec dévotion, je les reçois.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Quoi que tu fasses, quoi que tu manges, quoi que tu donnes, quelle que soit la discipline que tu entreprennes, offre-le-moi. Que l’action devienne une offrande, libérée de l’emprise qui t’enchaîne à elle.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Je suis égal envers tous les êtres. Ceux qui m’aiment demeurent en moi, et moi en eux.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Même une personne dont la conduite a été profondément mauvaise peut se tourner vers moi avec une dévotion sans partage et avancer vers la droiture. Mon fidèle n’est pas perdu.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Krishna parle d’un refuge qui traverse les divisions sociales nommées dans cet enseignement. Son invitation rejoint aussi ceux que ce monde plaçait dans une situation défavorisée.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Tourne ton esprit vers moi. Accorde-moi ta dévotion et ton respect. Fais de moi ton but suprême, et tu viendras à moi.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "9.1.1",
+      "filename": "fr/9.1.1.mp3",
+      "textSha256": "67d7b396547686139c138555c5bb02d9ab49f6aea51dfe87e430b7fdf2b38f00",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.1.2",
+      "filename": "fr/9.1.2.mp3",
+      "textSha256": "b994a754b2d2dfad91274b43d80f38ab9ef377e677ef4060759293f2e8b13a2b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.1",
+      "filename": "fr/9.2.1.mp3",
+      "textSha256": "95a2f86609e2290516d9654312556df166c53b15910fc9615e1b9b0fd158aea6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.2.2",
+      "filename": "fr/9.2.2.mp3",
+      "textSha256": "aa1776537a2c8428948cab7b51fa6d152c5d8cca2f47f2f82d56a3b5bfcb3f6c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.1",
+      "filename": "fr/9.3.1.mp3",
+      "textSha256": "a7d7f5423ad22c2a1de6ba221d8dc1c78d64b21186854c29a7f987d6f6f77509",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.2",
+      "filename": "fr/9.3.2.mp3",
+      "textSha256": "54b36a7a823f1ce8739fea363e88283f23e497fba0012b9cf01851903d5fbf91",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.3.3",
+      "filename": "fr/9.3.3.mp3",
+      "textSha256": "a890bf738348de86696c64ecedbb0d2763d72675c4aee60e2b605568ae15cffb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.1",
+      "filename": "fr/9.4.1.mp3",
+      "textSha256": "a53a0411275f8c5882abf5ca06869976a5e952fe0a4036f7b3cac090423f3221",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "9.4.2",
+      "filename": "fr/9.4.2.mp3",
+      "textSha256": "1d98595aa74caaf7b3f14b27a523b4347ab8dcf1acc435f56563d052577baa86",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "9.4.3",
+      "filename": "fr/9.4.3.mp3",
+      "textSha256": "41c947d385cf230befbc45b0b04f7883c0867e205abee901b229063e8b5ba7f1",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "868",
+  "request_id": "9wGS8t4PLkANt5PpfECk",
+  "master_sha256": "dae79192feafba9898e3b927100295511baa6e6074567fef37fdacf590a7b0b0"
+}

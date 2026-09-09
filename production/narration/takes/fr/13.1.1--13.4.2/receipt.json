@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "ea5e0d079f4403cbfafa71bc103d887d1ccd886ec97b479d720505cc72058c3f",
+  "submitted_at": "2026-09-09T11:29:43.659351+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Explique-moi la nature et le principe spirituel, le champ et celui qui le connaît. Qu’est-ce que la connaissance, et qu’est-ce qui doit être connu ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Ce corps est appelé le champ. Celui qui le connaît est le connaisseur du champ. Sache que je suis aussi le connaisseur dans tous les champs.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Le corps, les sens, l’esprit, le désir, l’aversion, le plaisir et la douleur appartiennent au champ changeant. Distinguer le champ de celui qui le connaît est au cœur de la connaissance.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "L’humilité, la sincérité, le refus de nuire, la patience, la maîtrise de soi, la stabilité et l’attention portée au maître appartiennent à la connaissance.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Il en va de même de la réflexion sur la naissance, la vieillesse, la maladie et la mort ; de la liberté à l’égard de la possessivité ; de la dévotion ; et d’une recherche soutenue sur le Soi. Tout cela façonne la personne qui cherche à comprendre.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Écoute ce qui doit être connu, et dont la connaissance permet d’atteindre ce qui est sans mort : Brahman, suprême et sans commencement, au-delà de la division habituelle entre l’être et le non-être.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Il est à l’intérieur et à l’extérieur des êtres, en mouvement et immobile, proche et lointain. Indivis, il apparaît parmi des formes divisées. Il est la lumière des lumières, présent dans le cœur.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "La nature fait naître les instruments changeants et les actions. Le principe conscient éprouve le plaisir et la douleur ; l’attachement aux qualités de la nature le lie à l’incarnation.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Certains approchent la compréhension par la méditation, d’autres par la connaissance, d’autres par l’action, et d’autres encore en écoutant puis en mettant en pratique ce qu’ils entendent.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "13.1.1",
+      "filename": "fr/13.1.1.mp3",
+      "textSha256": "34a3b0c43f2c452ae72b0b11c3f9976f4da9395be5df3356f856da672039a55b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "13.1.2",
+      "filename": "fr/13.1.2.mp3",
+      "textSha256": "e1fbdbfa2503e6c43f675c10877dee3ad5c0e946e9023b895425dcc2d5f1c286",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.1.3",
+      "filename": "fr/13.1.3.mp3",
+      "textSha256": "fc976fb0c28e784a20746c77ec7aa21f3108b6a24dbf54ab10660590de9854a0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.1",
+      "filename": "fr/13.2.1.mp3",
+      "textSha256": "664f502791e03a9f915ed2b18d2fe1bc0adfc757c6f298a43b7b724aa5008092",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.2",
+      "filename": "fr/13.2.2.mp3",
+      "textSha256": "9dd91b71a34671132772578d4efa03f95386fc0f178e23c67c93d78395adf011",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.1",
+      "filename": "fr/13.3.1.mp3",
+      "textSha256": "eb7cc587577571bf2c15bb285217c64fd672f8b77d3f9837cee3a8f865e3e3fd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.2",
+      "filename": "fr/13.3.2.mp3",
+      "textSha256": "4d8c21471560fd3a59a8499b3221746908637670e0c1bfa5ca1e4b21c3f17486",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.1",
+      "filename": "fr/13.4.1.mp3",
+      "textSha256": "e5c9a879dfe828bc36c1359ea8e7a4a9843d56f2745344241d0973ed240ef7c6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.2",
+      "filename": "fr/13.4.2.mp3",
+      "textSha256": "1adbf7f7d0d2a11c8278660facd010e48de3c40ce3adc4a9189d8d1927587b4a",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "904",
+  "request_id": "yk98egXdfkL6UABo0jgm",
+  "master_sha256": "9a7afd02a2126dd2d8dc2bc24f6891c4f8e4f61ab3b260a489bef32942a21a7d"
+}

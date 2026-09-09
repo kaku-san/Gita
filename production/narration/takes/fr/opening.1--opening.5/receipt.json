@@ -1,0 +1,68 @@
+{
+  "status": "generated",
+  "fingerprint": "f01ae65575d05bead85edffb3ffb098ee2ea4c51320f09661d2d1273d8297d66",
+  "submitted_at": "2026-09-09T11:32:12.228694+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Les Pandava et les Kaurava se font face à Kurukshetra. Dans les deux camps se trouvent des proches, des maîtres et des amis.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Un prince et un maître archer. Il était prêt à combattre, jusqu’à ce qu’il reconnaisse ceux qui se tenaient devant lui.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Son ami, son cocher, son guide. Celui vers qui il se tourne quand la force ne suffit plus à lui montrer ce qui est juste.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Un dialogue avant la bataille.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      },
+      {
+        "text": "Arjuna demande à Krishna de conduire leur char entre les deux armées. Ici, avant la bataille, leur conversation commence.",
+        "voice_id": "ieDBPVAoZrvjyZ7n7z8y"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "opening.1",
+      "filename": "fr/opening-1.mp3",
+      "textSha256": "80ca69769129a6ca122613afee8aca7918728f041e98ce55786538b4ec428874",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.2",
+      "filename": "fr/opening-2.mp3",
+      "textSha256": "6b0a4401dd427c7036f30136e98e960571284155de932ee30f845874383e99a4",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.3",
+      "filename": "fr/opening-3.mp3",
+      "textSha256": "1df5a46e22e57a9945578d0611b6c3859085553daa6ad4a8b7ce80a285e91c72",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.4",
+      "filename": "fr/opening-4.mp3",
+      "textSha256": "a1a3d35c0944651b9300fb1fea08ac30166dd655862bf74657a267944e490ac9",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "opening.5",
+      "filename": "fr/opening-5.mp3",
+      "textSha256": "f778ae20120a53196ef153cc51c1760b906d5805c010d7fa9e210c65ce27abe2",
+      "speakerKey": "Sanjaya"
+    }
+  ],
+  "character_cost": "283",
+  "request_id": "6kZTfRAVezAQJ7tPvvss",
+  "master_sha256": "eb70487c47e90ea6456d46e5c36f8f576559083f3a3686566449cb0e1a9ba37b"
+}

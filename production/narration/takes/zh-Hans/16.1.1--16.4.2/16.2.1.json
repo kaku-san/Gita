@@ -1,0 +1,13 @@
+{
+  "id": "16.2.1",
+  "language": "zh-Hans",
+  "src": "./audio/zh-Hans/16.2.1.mp3",
+  "duration": 7.810612,
+  "textSha256": "29b3e68db95d2d121758a79cef59257355b70cbb0f6905d8d73d9ea9c2dabf35",
+  "audioSha256": "c575e805fc801f385ee030674c9522b7a3d2616d0eb617f3c3d0fa4741afb57d",
+  "voice_id": "hZTuv9Zqrq4yHYrEmF1r",
+  "model_id": "eleven_v3",
+  "source_take": "takes/zh-Hans/16.1.1--16.4.2",
+  "start": 35.04,
+  "end": 42.8
+}

@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "59be3d9fec0a769d633c47ebe8b45b39a4cec20cf95dd811b89204b8530fec6d",
+  "submitted_at": "2026-09-09T11:19:56.784024+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "这瑜伽之道，早已有人传授，代代相承。后来它逐渐被遮蔽，如今我再次将它教给你，因为你既是我的虔信者，也是我的朋友。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "你说你在出生很久以前的时代，就传授过这项教导。我该怎样理解？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "你我都经历过许多次出生。我记得，你却不记得。虽然我本来无生，也不朽灭，却借自身的力量显现。当达摩衰微时，我便出现，保护善者、克服恶行，重建达摩。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "行动的道理十分微妙。静止的身体里，可能藏着一颗充满抓取的心；忙于工作的人，也可以不认定一切都属于自己。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "当对回报的渴求消退，当行动成为奉献，并由智慧引导，工作就不必以同样的方式束缚你。要学会看见身体动作之外的东西。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "人们以许多方式奉献：物质上的给予、节制、研习、有规律的调息，以及智慧。这些修行能够净化实践者自身。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "在最深的观照中，供物、奉献的行为，以及奉献所归向的存在，都属于梵。智慧让行动的意义显现出来。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "以谦逊、真诚的提问，以及愿在侍奉中学习的态度，走近那些看得清明的人。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "智慧能够带你渡过罪错与迷惑。在修持中扎根的信心，以及持续的实践，都很重要。斩断无知所生的疑惑，安住于瑜伽之道，然后起身。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "4.1.1",
+      "filename": "zh-Hans/4.1.1.mp3",
+      "textSha256": "e7d055b2bd7acfec63b4e33aeed1ff9b80e67f05b8dcb9b48281fb9f148e4a13",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.1.2",
+      "filename": "zh-Hans/4.1.2.mp3",
+      "textSha256": "af2117538b8979a20b5ca965256ea19cd812ec96a60b96fdb3c82d025f57da80",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "4.1.3",
+      "filename": "zh-Hans/4.1.3.mp3",
+      "textSha256": "6747de376857fb686ce93e4b8aa73328a05c2bdfda74ae9c38846d097b700423",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.1",
+      "filename": "zh-Hans/4.2.1.mp3",
+      "textSha256": "1b57d5a992103031c1f95b801c61a5c8e4055a1d2b2edd7e06f1c0668d026120",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.2",
+      "filename": "zh-Hans/4.2.2.mp3",
+      "textSha256": "b6ac67d517394355640cfe6fd6089781eb04872662bcdac88fa9a9ba454d63e2",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.1",
+      "filename": "zh-Hans/4.3.1.mp3",
+      "textSha256": "c0a110d2b5a2ca4dfc354e88c5d7b74daf2e7b47fd2c31184e75b8b394df7e4e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.2",
+      "filename": "zh-Hans/4.3.2.mp3",
+      "textSha256": "d31043cf054a6c02dba7cfed40001eb16cee7201429c7b2d42de720538545de3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.1",
+      "filename": "zh-Hans/4.4.1.mp3",
+      "textSha256": "926e06cc25e64dfe2ee449709ad0a73a3cc22b8c361aa1589b185e3fba3ef017",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.2",
+      "filename": "zh-Hans/4.4.2.mp3",
+      "textSha256": "4820a7529331742000b66dfc4c680360837ae39baf439d0eae4b0299a09d9cbf",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "249",
+  "request_id": "fKssb4wkyJtvGaTW9HBu",
+  "master_sha256": "64aa50871e50fc974de08ebf0221d16042b012afc778a3d04d91d753ecab8201"
+}

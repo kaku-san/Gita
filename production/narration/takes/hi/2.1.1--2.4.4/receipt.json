@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "18455e6942a2e8fff7950ba1d95293c128112531855c103797c13a2dd52d9ea5",
+  "submitted_at": "2026-09-09T11:01:06.408010+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "अर्जुन, इस तरह टूट जाना तुम्हें शोभा नहीं देता। उठो और जो सामने है, उसका सामना करो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "मैं भीष्म और द्रोण पर शस्त्र कैसे उठाऊँ? वे मेरे आदर के पात्र हैं। मैं नहीं जानता कि जीतना अधिक बुरा होगा या हारना।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "अब मैं समझ नहीं पा रहा कि मेरा कर्तव्य मुझसे क्या चाहता है। बताओ कि सचमुच कल्याण किसमें है। मैं तुमसे सीखना चाहता हूँ।",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "अर्जुन ने कहा कि वे युद्ध नहीं करेंगे। फिर दोनों सेनाओं के बीच वे चुप हो गए।",
+        "voice_id": "JXjD3Apv5OBjfkhCa3tI"
+      },
+      {
+        "text": "तुम्हारे शब्दों में चिंता है, फिर भी तुम्हारा शोक पूरी सच्चाई नहीं देख पा रहा। ऐसा नहीं है कि तुम, मैं और ये राजा कभी थे ही नहीं। न ही आगे हमारा अस्तित्व पूरी तरह समाप्त हो जाएगा।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "शरीर में रहने वाली आत्मा बचपन, युवावस्था और बुढ़ापे से गुज़रती है, और शरीर की मृत्यु के बाद भी आगे बढ़ती है। आत्मा शरीर के साथ जन्म नहीं लेती, और न उसके साथ नष्ट होती है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "सुख और दुख आते हैं और चले जाते हैं। जो सदा बना रहता है, उसे न भूलते हुए इन बदलावों को सहना सीखो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "एक योद्धा के रूप में अपने सामने खड़े दायित्व पर भी विचार करो। इस संघर्ष से पीछे हट जाना भर तुम्हें कर्तव्य से मुक्त नहीं करता।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "जो कर्म तुम्हारा है, उसमें अपना पूरा मन लगाओ। हर काम के पीछे केवल उसके फल को कारण मत बनाओ। और कुछ न करने से भी चिपके मत रहो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "सफलता और असफलता, दोनों में स्थिर रहने का अभ्यास करो। अपने काम को समझ से दिशा दो, इस ज़िद से नहीं कि उसका परिणाम तुम्हारे ही अधिकार में हो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "ऐसी स्थिरता वाला व्यक्ति कैसे जीता है? मैं उसे कैसे पहचानूँगा?",
+        "voice_id": "HyhAfYGa3UDZpjb4Ci4k"
+      },
+      {
+        "text": "ऐसा व्यक्ति लालसा से कम चलता है, दुख से कम डगमगाता है और सुख में कम बहता है। जैसे कछुआ अपने अंग समेट लेता है, वैसे ही इंद्रियों को वापस समेटा जा सकता है।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "किसी विषय में बार-बार मन लगाने से आसक्ति बढ़ सकती है; इच्छा पूरी न होने पर क्रोध उठ सकता है, और क्रोध विवेक को ढक सकता है। यह क्रम तुम्हें बहा ले जाए, उससे पहले इसे पहचानना सीखो।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      },
+      {
+        "text": "समुद्र में जल आता रहता है, फिर भी वह भरा हुआ और स्थिर रहता है। शांति उसे मिलती है जो अनुभवों को आने दे, लेकिन उनसे उठने वाली हर इच्छा के वश में न हो जाए।",
+        "voice_id": "hRHid0k1FJN4S80Kbs5m"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "hi",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "2.1.1",
+      "filename": "hi/2.1.1.mp3",
+      "textSha256": "eb4af7752619196bb1082c1e5d25deae17afdd08147c2d524dc536e978f23b39",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.1.2",
+      "filename": "hi/2.1.2.mp3",
+      "textSha256": "bfd06c7c65cae05c05e424cd6ced6732a94f0fb13bb21303829f08a88f15b733",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.3",
+      "filename": "hi/2.1.3.mp3",
+      "textSha256": "6ca997007d6da22667c07975d5d03cb96b38455053e598db6c49ffb3dde134a5",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.1.4",
+      "filename": "hi/2.1.4.mp3",
+      "textSha256": "11595431a9ba6590e1e02cbdcdb06171166b37d8b75470a41514a68100664144",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "2.2.1",
+      "filename": "hi/2.2.1.mp3",
+      "textSha256": "a872ed623192209a539f9f929884beaab44326e8102cb9434981e112a9673aff",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.2",
+      "filename": "hi/2.2.2.mp3",
+      "textSha256": "62a4c8d5feee285277bb1848e756a0a60008aa05d0ef056368e6bf7a900a80c0",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.2.3",
+      "filename": "hi/2.2.3.mp3",
+      "textSha256": "ca0c2f44dcc6a6e70046eb976aba3becbbda0f5558351b665a1483c005bec664",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.1",
+      "filename": "hi/2.3.1.mp3",
+      "textSha256": "8e43bc14a9fd8502b4712fb271ff3966fbd3dc76e7dcc9f96e0e37c5797dee56",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.2",
+      "filename": "hi/2.3.2.mp3",
+      "textSha256": "f2f2494084b798adc52d1dcf395e371d280d024d57dd03c03c053278bb8896c7",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.3.3",
+      "filename": "hi/2.3.3.mp3",
+      "textSha256": "d87c037d7375f3e003a788b9403313cfe978707c9eb2f0601d0482b96ca29826",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.1",
+      "filename": "hi/2.4.1.mp3",
+      "textSha256": "8b36284f70b2c0c15e8a950dd8c0fe168b1c3a2b047e7fb9f391d6f3e12595a1",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "2.4.2",
+      "filename": "hi/2.4.2.mp3",
+      "textSha256": "fd6e3b91817e31e22b061d639f3d264af8a807e5395f7209295442ffcdbc8bf6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.3",
+      "filename": "hi/2.4.3.mp3",
+      "textSha256": "eb2274c7ca86633ca43dee4aec508ecab3b2b378e6e9d94acfe876f2319c1919",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "2.4.4",
+      "filename": "hi/2.4.4.mp3",
+      "textSha256": "222d6ae17940cf88e74c506f63bc6abe6f9e4642ed047056aa390d406d560696",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "974",
+  "request_id": "yOVpYDS16UrHcWmDPxFr",
+  "master_sha256": "b1e469a0575b02d6b2f502796a5e789a14d561b66e75591ef868736d93f26e39"
+}

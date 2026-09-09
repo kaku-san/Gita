@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "c66db0c23a816ca97bdc8f418e259746c3691022b88965bf6023fae76ed8a063",
+  "submitted_at": "2026-09-09T11:07:47.565994+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "This yoga has been taught before, handed onward through generations. As it became obscured, I am teaching it to you again, because you are my devotee and friend.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "You speak of teaching in an age long before your birth. How am I to understand that?",
+        "voice_id": "10NkTYmU7tSz3Kkl3Lex"
+      },
+      {
+        "text": "You and I have passed through many births. I know them; you do not. Though unborn and imperishable, I manifest through my own power. When dharma declines, I appear to protect the good, overcome wrongdoing and restore it.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Action is subtle. A motionless body can conceal a mind full of grasping. Work can be undertaken without the claim that everything is mine.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "When craving for reward falls away, when the act is offered and guided by knowledge, work need not bind in the same way. Learn to see more than the body's movement.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "People make offerings in many ways: through material gifts, restraint, study, disciplined breath and knowledge. These practices can purify the one who undertakes them.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "In the deepest vision, the offering, the act of offering and its destination belong to Brahman. Knowledge brings the meaning of action into view.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Approach those who see clearly with humility, sincere questions and a willingness to learn through service.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      },
+      {
+        "text": "Knowledge can carry you across wrongdoing and confusion. Disciplined trust and steady practice matter. Cut through the doubt born of ignorance; establish yourself in yoga, and rise.",
+        "voice_id": "j9jfwdrw7BRfcR43Qohk"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "en",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "4.1.1",
+      "filename": "en/4.1.1.mp3",
+      "textSha256": "d73ffeb55f22659dd5db892f644d11486ff075c050f2430ca9eee11342822b9a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.1.2",
+      "filename": "en/4.1.2.mp3",
+      "textSha256": "4ab1e31b25c120207528ae94d18348e8afc5e286c4eda087259e7a908410f2aa",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "4.1.3",
+      "filename": "en/4.1.3.mp3",
+      "textSha256": "d187640e303df514c45d83622c75e27945cb3acea0b0e2ba3c1ca975f60b93ea",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.1",
+      "filename": "en/4.2.1.mp3",
+      "textSha256": "8b30abbed34e47b06601846cc6bc64531530d7f390baa3ba590eadb72ef99912",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.2.2",
+      "filename": "en/4.2.2.mp3",
+      "textSha256": "c90da12a1969065aa55eacdbf90ab6bfaf5e2c09b15fb71b56421b27ca1ecffc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.1",
+      "filename": "en/4.3.1.mp3",
+      "textSha256": "ef8afe97ca0994602ae75032ea8eb16ccc3f28aea0f29ec06695ed92d8def123",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.3.2",
+      "filename": "en/4.3.2.mp3",
+      "textSha256": "0ac8731e273535a75f3dc759e65a6b11d6cad246e5cd202846f91232cda1af8c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.1",
+      "filename": "en/4.4.1.mp3",
+      "textSha256": "1d5d28b7f21dee707872cbf6e8e40d0a75240146d1dee3aff42d1600421c5205",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "4.4.2",
+      "filename": "en/4.4.2.mp3",
+      "textSha256": "5b2e68f7d57a328fe3d468ededc8a91a204ba285b486700df5871300a7911d7e",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "752",
+  "request_id": "DXDPg9hUY619k6TZShZr",
+  "master_sha256": "c2bdd77353d102fafb284541ac88e58de96fdf863051a6c15694437693f3777f"
+}

@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "9269a9e40c4c5e6851fb26f9e7a5d1ea77a7c3c51fc2b84b83d2d2e7452e1474",
+  "submitted_at": "2026-09-09T11:20:51.953292+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "你赞许舍离，也赞许行动。我应该遵循哪一条路？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "两者都能通向至善，但在这里，行动的修行是更切实可行的道路。真正舍离的人，不会被贪恋和厌恶吞没。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "智慧与有修持的行动，并不必然通向不同的终点。在你正在过的生活中，学会看清什么才是必须放下的。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "用身体、心念与明辨去行动，放下占有式的执著。将行动奉献给神。就像水落在荷叶上，行动也可以不沾着于你。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "紧抓行动的果实，会带来束缚。松开这份抓取，便带来安宁。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "智者以平等的眼光，看待有学问的人、牛、象、狗，以及被社会视为贱民的人。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "他们的形体和处境各不相同，智慧却不困于这些差别。当理解安住于神，外在的快乐就不必再独自承担幸福的全部重量。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "由感官接触而生的快乐，有开始，也有结束。学习承受欲望和愤怒，而不成为它们的仆人。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "那些向内探求、为众生福祉而行动，并认识到我是祭献的承受者、诸世界之主、所有众生之友的人，能够获得安宁。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "5.1.1",
+      "filename": "zh-Hans/5.1.1.mp3",
+      "textSha256": "3e70ab1f4e40d682314ff781ae2c8ff06cedfb4d6e8a9d3c581f93b70689540b",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "5.1.2",
+      "filename": "zh-Hans/5.1.2.mp3",
+      "textSha256": "d0071f8ed8113eb221c97849707e1f6c57d630e254382068997b82c40a535df6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.1.3",
+      "filename": "zh-Hans/5.1.3.mp3",
+      "textSha256": "f203fd96aa798a411e0ec7d0df42055c474466ebf96cd2401c379c921cbaf8e8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.2.1",
+      "filename": "zh-Hans/5.2.1.mp3",
+      "textSha256": "a77ff0df63d076542056902e6dba72a2d2c8aa611680bdd0e538d072bfbc9022",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.2.2",
+      "filename": "zh-Hans/5.2.2.mp3",
+      "textSha256": "82e42ca6bee7b6ac604f4f7fa63d14a1c04517b2716ba0ec83e917b8cb45322b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.3.1",
+      "filename": "zh-Hans/5.3.1.mp3",
+      "textSha256": "906cbe189ee466a510aa1574ce1f52bab6c6663e09f9f1044876817556a30a47",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.3.2",
+      "filename": "zh-Hans/5.3.2.mp3",
+      "textSha256": "1d5427f8288108df4a701d87566a789eed8096d7bf3972b1f827922e2be1702b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.4.1",
+      "filename": "zh-Hans/5.4.1.mp3",
+      "textSha256": "cfbea97a50131d472f67d8d688557457af6ca46e4bbcfc90126854f239c4c31a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "5.4.2",
+      "filename": "zh-Hans/5.4.2.mp3",
+      "textSha256": "db3bedaf6b68f26b9ed70f22c4f8d5bdb1ef8fa26bbadc04d0b0420bbca91f89",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "204",
+  "request_id": "eZhVoIB0RJkC570Q4kRQ",
+  "master_sha256": "11a9d262ace6b796d67e689488f7c478c85eede9657ac3548e7422bae905f2df"
+}

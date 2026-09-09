@@ -1,0 +1,118 @@
+{
+  "status": "generated",
+  "fingerprint": "746a4a4aa85730b2b6c96f1ad9b5f22479e6660cf9fb209daa1d2c0eea653704",
+  "submitted_at": "2026-09-09T11:31:19.214156+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "自然と精神、場と、その場を知る者について説明してください。知とは何で、知るべきものとは何ですか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "この身体は、場と呼ばれる。それを知る者が、場を知る者である。そして私もまた、すべての場における、知る者であると知りなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "身体、感覚、心、欲望、嫌悪、快楽、苦痛は、変わりゆく場に属する。場と、それを知る者を見分けることが、知の中心にある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "謙虚さ、誠実さ、害を与えないこと、忍耐、自制、揺るがなさ、師を大切にすること。これらは、知に属する。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "生まれること、老いること、病むこと、死ぬことを省みることもそうだ。所有欲からの自由、信愛、自己への絶え間ない探求もそうである。これらが、理解を求める人を形づくる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "それを知ることによって死を超える、その知るべきものを聞きなさい。それは、始まりのない至高のブラフマンであり、通常の、有ることと無いことの区別を超えている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "それは、生きものの内にも外にもあり、動きながら動かず、近くにも遠くにもある。分かたれていないのに、分かたれた姿の中に現れる。それは光の中の光であり、心の内にある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "自然は、変わりゆく働きの道具と行為を生み出す。意識の原理は快楽と苦痛を経験し、自然の性質への執着によって、身体をもつ生に縛られる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "瞑想を通じて理解に近づく者も、知を通じる者も、行為を通じる者もいる。また、聞いて、その教えを実践することによって近づく者もいる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "滅びゆくものの中で存続する至高の存在を、生きものの中に等しく見なさい。場と、それを知る者を見分け、束縛を超える道を学ぶのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "13.1.1",
+      "filename": "ja/13.1.1.mp3",
+      "textSha256": "4b9ee7bfbcc5769d01f15ccb682df8f422afc7069d95488a60959258ab3d706a",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "13.1.2",
+      "filename": "ja/13.1.2.mp3",
+      "textSha256": "cfbbec4df694d1c5f19a03827cb132c0d77e6e3c64d7741085cdb7c7acb8a8e3",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.1.3",
+      "filename": "ja/13.1.3.mp3",
+      "textSha256": "47df00accf7ae5d42fc75e79f2aa890a6cea7a6a0e0febf1ab00dbb999f16110",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.1",
+      "filename": "ja/13.2.1.mp3",
+      "textSha256": "c97c0ab1f69bdfb0195b707dd2d1afec0d80212d6879392d5fa5a5c10b08d89f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.2.2",
+      "filename": "ja/13.2.2.mp3",
+      "textSha256": "e3dda0a1227d66d8f8c30637f91c8b07814fc9925152d39b8b946b7c28b8be26",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.1",
+      "filename": "ja/13.3.1.mp3",
+      "textSha256": "d989a91bcd10f80701727312225981a64ed0be3ffbf6d9fbc6380a9848beaf4e",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.3.2",
+      "filename": "ja/13.3.2.mp3",
+      "textSha256": "46b23349d422bece3b400e3460bef1297dade7e2c368831fe38cf2167b5331fd",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.1",
+      "filename": "ja/13.4.1.mp3",
+      "textSha256": "febc88473fa77ea99fe45a267b497fe399125ddf053c5aae5614b01621e47693",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.2",
+      "filename": "ja/13.4.2.mp3",
+      "textSha256": "557a7f4443d50379f5eab4f763f6fc4e0eb76322ee55d45456dfbedfd177d5bc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "13.4.3",
+      "filename": "ja/13.4.3.mp3",
+      "textSha256": "9bddbeee3d4786a61cf847b8d0994890fda9c64fdbbef31e249b8150c6173392",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "356",
+  "request_id": "ILP0Jj2J2j9b8SEvgz2Q",
+  "master_sha256": "ae46184bba7f46d52510b5bef43fa1ac32944ebfb77d65dfd54d6c3c4239e243"
+}

@@ -1,0 +1,2228 @@
+{
+  "version": 2,
+  "prologue": [
+    {
+      "speaker": "Sanjaya",
+      "text": "Deux branches d’une même famille sont venues à Kurukshetra, prêtes à faire la guerre.",
+      "bridge": false
+    },
+    {
+      "speaker": "Sanjaya",
+      "text": "Arjuna se tient aux côtés des Pandavas, ses quatre frères. Leurs cousins leur font face, de l’autre côté du champ de bataille. Des années de rivalité, un royaume perdu, l’exil et des tentatives de paix infructueuses les ont conduits ici.",
+      "bridge": false
+    },
+    {
+      "speaker": "Sanjaya",
+      "text": "Krishna, qui a cherché à établir la paix entre eux, conduit maintenant le char d’Arjuna.",
+      "bridge": false
+    },
+    {
+      "speaker": "Dhritarashtra",
+      "text": "Sanjaya, que s’est-il passé lorsque mes fils et les fils de Pandu se sont rassemblés à Kurukshetra, prêts à combattre ?",
+      "bridge": false
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Quand l’arc tombe",
+      "sanskrit": "अर्जुनविषादयोग",
+      "subtitle": "Le courage d’avouer son désarroi",
+      "mood": "dawn",
+      "scenes": [
+        {
+          "id": "1.1",
+          "title": "Entre les armées",
+          "ref": 21,
+          "range": "1.2–27",
+          "source": "1.2–27. The commanders' catalogue is compressed; the chariot request follows 1.21–23.",
+          "beats": [
+            {
+              "speaker": "Sanjaya",
+              "text": "Les chefs observaient leurs adversaires. Les conques se répondaient à travers le champ de bataille. Puis Arjuna prit la parole.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Conduis le char entre les armées, Krishna. Laisse-moi voir ceux qui sont venus nous combattre.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Regarde, Arjuna. Voici les Kurus rassemblés.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Bhishma se tenait là, un ancien de sa famille. À ses côtés se trouvait Drona, son maître. Autour d’eux, Arjuna reconnaissait des parents, des amis et des hommes qu’il connaissait depuis des années.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le conflit d’Arjuna commence lorsqu’un devoir abstrait devient douloureusement personnel. Il est essentiel de comprendre sa peine avant de chercher à comprendre la réponse de Krishna.",
+          "example": "Une décision difficile peut sembler simple lorsqu’on la considère de loin. Quand les personnes touchées sont celles que vous aimez, son coût devient réel.",
+          "context": "",
+          "staging": [
+            "Wheels cross uneven ground. The camera travels with the chariot, not past it. We stop facing two distant figures."
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": "La main qui tremble",
+          "ref": 28,
+          "range": "1.28–31",
+          "source": "1.28–31.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Ce sont les miens.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Mes forces m’abandonnent. Ma bouche est sèche. Je n’arrive plus à tenir mon arc d’une main ferme.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Je suis venu ici prêt à combattre. Maintenant que je vois ceux qui se tiennent devant moi, je ne vois aucun bien à les tuer.",
+              "bridge": false
+            }
+          ],
+          "simple": "Se sentir submergé fait partie de l’histoire d’Arjuna. Sa détresse est prise au sérieux ; l’avouer ouvre le dialogue.",
+          "example": "Avant une conversation difficile, prêtez attention à votre respiration et aux tensions dans votre corps. Mettre des mots sur ce que vous ressentez peut vous aider à expliquer ce qui se passe, au lieu de faire comme si tout allait bien.",
+          "context": "",
+          "staging": [
+            "Arjun's grip changes. His fingers strain, then loosen. Krishna remains present without filling the silence.",
+            "The armies remain visible, but our attention narrows to the small movement of his hand."
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "Que resterait-il après la victoire ?",
+          "ref": 35,
+          "range": "1.32–44",
+          "source": "1.32–44.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Que ferais-je d’un royaume gagné de cette façon ? Ceux pour qui nous pourrions le désirer se tiennent là, au péril de leur vie.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Ils sont peut-être aveuglés par l’avidité. Devons-nous les suivre dans la même faute ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Lorsque les familles sont détruites, qu’advient-il de ceux qui restent ? Qui assurera leur subsistance, perpétuera leurs coutumes et entretiendra le souvenir de leurs morts ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Il redoutait les morts qui s’annonçaient, et l’effondrement qui pourrait les suivre.",
+              "bridge": false
+            }
+          ],
+          "simple": "Arjuna pose une question morale ; il ne cherche pas simplement à échapper au danger : un résultat souhaité peut-il justifier son coût humain ?",
+          "example": "Avant de poursuivre une promotion ou de vouloir remporter une dispute, demandez-vous ce que cette quête fait à vos relations et à votre intégrité. La récompense n’est qu’une partie de la décision.",
+          "context": "Ce sont les arguments d’Arjuna, y compris des inquiétudes façonnées par l’ordre social et rituel de l’épopée. Cette ouverture ne fait pas de toutes les idées qu’il exprime un enseignement de Krishna. Voir la note sur les versets 1.40–44.",
+          "staging": []
+        },
+        {
+          "id": "1.4",
+          "title": "Pas encore de réponse",
+          "ref": 47,
+          "range": "1.45–47",
+          "source": "1.45–47.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "S’ils me frappent alors que je suis sans armes et que je ne résiste pas, cela me semble préférable à ce qui nous attend.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Accablé de chagrin, Arjuna posa son arc et ses flèches, puis s’assit.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le premier chapitre se termine sans réponse toute faite. Reconnaître que votre manière actuelle de penser ne permet pas de résoudre un problème peut être le début d’un apprentissage.",
+          "example": "Vous n’avez pas besoin de vous forcer à être certain. Vous pouvez dire : « Cela compte pour moi, et j’ai besoin d’aide pour y réfléchir. »",
+          "context": "",
+          "staging": [
+            "Arjun lowers himself into the chariot. The bow rests beside him. Hold the shot long enough to notice that the confident posture from the entrance is gone.",
+            "Stay beside him. Chapter II begins in the same silence."
+          ]
+        }
+      ],
+      "understand": "La crise d’Arjuna mêle chagrin, préoccupation morale, attachement et incertitude face à sa responsabilité. L’enseignement de Krishna commence parce qu’Arjuna ne peut pas résoudre cette crise seul.",
+      "reflection": "Qu’est-ce qui rend un choix difficile pour vous : l’acte lui-même, ses conséquences, ou les personnes qu’il pourrait blesser ?"
+    },
+    {
+      "n": 2,
+      "title": "Avant de décider",
+      "sanskrit": "सांख्ययोग",
+      "subtitle": "Le Soi, l’action et l’équilibre intérieur",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "2.1",
+          "title": "Enseigne-moi",
+          "ref": 7,
+          "range": "2.1–10",
+          "source": "2.1–10.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Arjuna, cet abattement n’est pas digne de toi. Relève-toi et fais face à ce qui t’attend.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Comment pourrais-je lever une arme contre Bhishma et Drona ? Ils méritent mon respect. Je ne sais pas ce qui serait le pire : gagner ou perdre.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Je ne parviens plus à discerner ce que mon devoir exige de moi. Dis-moi ce qui est véritablement bon. Je te demande de m’enseigner.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Il déclara qu’il ne combattrait pas. Puis il se tut, entre les armées.",
+              "bridge": false
+            }
+          ],
+          "simple": "Arjuna cesse de défendre une conclusion pour demander à être guidé. L’humilité consiste ici à accepter d’examiner sa propre compréhension.",
+          "example": "Lorsqu’un problème récurrent vous met en échec, demandez à une personne réfléchie de remettre en question vos présupposés, plutôt que de simplement approuver la réponse que vous préférez.",
+          "context": "",
+          "staging": [
+            "Arjun looks toward Krishna instead of the opposing army."
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Ce qui change, ce qui demeure",
+          "ref": 20,
+          "range": "2.11–30",
+          "source": "2.11–30.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Tes paroles témoignent de ta préoccupation, mais ton chagrin ne voit pas encore toute la vérité. Toi, moi et ces souverains ne sommes pas simplement sortis du néant, et nous ne cesserons pas totalement d’exister.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le Soi incarné traverse l’enfance, la jeunesse et la vieillesse, puis poursuit son chemin lorsque le corps meurt. Le Soi ne naît pas avec le corps et n’est pas détruit avec lui.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le plaisir et la douleur viennent et passent. Apprends à supporter leurs changements sans perdre de vue ce qui demeure.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna enseigne l’existence du Soi qui demeure, ou atman. C’est une affirmation spirituelle sur notre nature, et non une manière de dire que la douleur physique ou la vie d’autrui n’a pas d’importance.",
+          "example": "Votre âge, votre apparence et vos rôles changent. Réfléchissez à la continuité de celui qui fait l’expérience de ces changements ; c’est une porte d’entrée vers la question du Soi.",
+          "context": "",
+          "staging": [
+            "Light crosses Arjun's hand. Fleeting changes of scale and texture suggest age without introducing a literal memory sequence."
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "Ton action et son fruit",
+          "ref": 47,
+          "range": "2.31–53",
+          "source": "2.31–53.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Considère aussi la responsabilité qui t’incombe en tant que guerrier. Dans cette lutte, te retirer ne te libère pas, à lui seul, de ton devoir.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Consacre-toi à l’action qui te revient. Ne fais pas de sa récompense la raison de tout ce que tu entreprends. Et ne t’attache pas à l’inaction.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Exerce-toi à rester stable dans la réussite comme dans l’échec. Laisse la compréhension guider ton travail, plutôt que l’exigence d’en posséder le résultat.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le détachement ne signifie pas travailler sans soin. Choisissez et accomplissez votre action de manière responsable, puis reconnaissez que son résultat dépend de bien plus que de votre seul effort.",
+          "example": "Préparez-vous avec soin à un examen ou à un entretien. Votre préparation relève de votre responsabilité ; la décision finale ne vous appartient pas entièrement. Tirez-en des enseignements sans en faire toute votre identité.",
+          "context": "",
+          "staging": [
+            "His hand opens over the reins. The bow stays where Arjun placed it; the story does not resolve his conflict prematurely."
+          ]
+        },
+        {
+          "id": "2.4",
+          "title": "Une personne plus stable",
+          "ref": 70,
+          "range": "2.54–72",
+          "source": "2.54–72.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Comment vit une personne qui possède cette stabilité ? À quoi pourrais-je la reconnaître ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Une telle personne est moins gouvernée par les désirs avides, moins ébranlée par la souffrance, moins emportée par le plaisir. Les sens peuvent être ramenés vers l’intérieur, comme une tortue rentre ses membres.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "S’attarder sur un objet peut devenir de l’attachement ; un désir contrarié peut devenir de la colère, et la colère peut obscurcir le discernement. Apprends à voir ce mouvement avant qu’il ne t’emporte.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Les eaux se déversent dans l’océan, et pourtant il demeure plein et stable. La paix appartient à celui qui peut accueillir l’expérience sans être gouverné par chacun des désirs qu’elle suscite.",
+              "bridge": false
+            }
+          ],
+          "simple": "La stabilité grandit lorsqu’on comprend l’enchaînement des réactions. Vous rencontrez toujours le plaisir et la douleur ; ils n’ont pas à décider de chacun de vos actes.",
+          "example": "Lorsqu’un message vous irrite, marquez une pause avant de répondre. Remarquez l’histoire que vous vous racontez et l’exigence qui se forme autour d’elle. Un peu de recul peut empêcher un sentiment passager de choisir votre réponse à votre place.",
+          "context": "",
+          "staging": [
+            "A quiet ocean appears beyond the rail as a teaching image."
+          ]
+        }
+      ],
+      "understand": "Dans cet enseignement, atman désigne le Soi, que Krishna décrit comme demeurant au-delà de la mort du corps. Le détachement concerne notre tendance à nous agripper aux résultats ; il n’efface pas notre responsabilité quant à notre manière d’agir. L’appel de Krishna à combattre s’adresse à la situation particulière d’Arjuna dans l’épopée.",
+      "reflection": "Dans quelle situation pourriez-vous apporter tout votre soin à une action, tout en relâchant votre exigence d’une récompense précise ?"
+    },
+    {
+      "n": 3,
+      "title": "Le travail qui t’attend",
+      "sanskrit": "कर्मयोग",
+      "subtitle": "L’action comme pratique spirituelle",
+      "mood": "earth",
+      "scenes": [
+        {
+          "id": "3.1",
+          "title": "Puis-je ne rien faire ?",
+          "ref": 5,
+          "range": "3.1–9",
+          "source": "3.1–9.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Si la compréhension est si importante, pourquoi m’orienter vers cette action terrible ? Tes paroles semblent me conduire dans des directions différentes. Montre-moi une voie claire.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La discipline de la connaissance et celle de l’action ont chacune leur place. Mais la liberté ne vient pas simplement du fait de laisser le travail inaccompli.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Personne ne demeure entièrement sans agir. Retenir le corps alors que l’esprit reste accroché à ses désirs, ce n’est pas la liberté. Commence par le travail qui t’attend, et change ta manière de l’entreprendre.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le karma yoga est une manière d’agir. Se retirer simplement du travail visible ne fait disparaître ni le désir ni la responsabilité.",
+          "example": "Éviter un courriel difficile reste un choix qui a des conséquences. Demandez-vous quelle action responsable s’impose, puis accomplissez-la sans anticiper sans fin les éloges ou les reproches.",
+          "context": "",
+          "staging": [
+            "The horses breathe. Cloth shifts. Even the apparently still scene is alive with movement."
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Un monde de dons",
+          "ref": 13,
+          "range": "3.10–19",
+          "source": "3.10–19.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "La vie se maintient grâce au don et à ce qui est reçu. Les êtres dépendent de la nourriture, la nourriture de la pluie, et l’ordre de l’offrande relie l’action humaine à un monde plus vaste que l’individu.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Celui qui prend tout pour lui-même oublie cette dépendance. Accomplis le travail nécessaire sans le réserver uniquement à ton propre profit.",
+              "bridge": false
+            }
+          ],
+          "simple": "Yajna signifie sacrifice ou offrande. Ici, il élargit la finalité du travail au-delà du seul bénéfice personnel.",
+          "example": "Lorsque vous mangez, pensez aux personnes et aux processus naturels qui ont rendu ce repas possible. Exprimez cette conscience en gaspillant moins, en agissant équitablement et en apportant quelque chose aux autres.",
+          "context": "",
+          "staging": [
+            "The turning form of a chariot wheel opens into a restrained image of rain, grain and hands offering food."
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Les autres observent",
+          "ref": 21,
+          "range": "3.20–35",
+          "source": "3.20–35.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Ce que fait une personne respectée devient un exemple. L’action peut contribuer à soutenir le monde.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je n’ai rien à obtenir, et pourtant je continue d’agir. Si j’abandonnais l’action, d’autres me suivraient, et l’ordre qui soutient leur vie en souffrirait.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Offre-moi ton travail. Lâche la possessivité et la fièvre de l’attente. Veille à ta propre responsabilité, même lorsque le chemin d’un autre paraît plus facile.",
+              "bridge": false
+            }
+          ],
+          "simple": "Lokasangraha désigne le fait de soutenir le monde. Une action mûre prend en compte l’exemple qu’elle donne et les personnes qu’elle touche.",
+          "example": "Un responsable d’équipe qui reconnaît ses erreurs permet à chacun d’être plus facilement honnête. Votre conduite quotidienne enseigne quelque chose, même lorsque vous ne donnez pas de conseils.",
+          "context": "",
+          "staging": [
+            "Arjun sees people behind his own ranks, not only the opponents ahead."
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Qu’est-ce qui nous pousse contre notre jugement ?",
+          "ref": 37,
+          "range": "3.36–43",
+          "source": "3.36–43.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Qu’est-ce qui pousse une personne à mal agir, même lorsqu’elle ne le veut pas, comme si quelque chose l’y forçait ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le désir, et la colère qui en naît. Comme la fumée qui recouvre le feu, il peut voiler la connaissance.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Commence par les sens. Affermis ton discernement. Reconnais que tu ne te réduis pas aux impulsions qui te traversent, et apprends à faire face à cette force sans t’y soumettre.",
+              "bridge": false
+            }
+          ],
+          "simple": "Une envie pressante n’est pas un ordre. Remarquez-la tôt, avant qu’elle ne prenne la force d’une justification complète.",
+          "example": "Si vous faites régulièrement des achats que vous regrettez, imposez-vous une pause avant de payer. Profitez de ce moment pour vous demander quel sentiment cet achat est censé combler.",
+          "context": "",
+          "staging": [
+            "The smoke becomes the flame of an offering. Chapter IV asks what understanding brings to action."
+          ]
+        }
+      ],
+      "understand": "Karma signifie action ; le karma yoga est une discipline qui consiste à agir sans attachement possessif aux fruits de l’action. Yajna désigne d’abord le sacrifice ou l’offrande, puis son sens s’élargit à travers la description de la dépendance mutuelle dans ce chapitre.",
+      "reflection": "Quelle action de votre journée soutient des personnes dont vous remarquez rarement la contribution ?"
+    },
+    {
+      "n": 4,
+      "title": "La sagesse dans l’action",
+      "sanskrit": "ज्ञानकर्मसंन्यासयोग",
+      "subtitle": "Discernement, offrande et renouveau",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "4.1",
+          "title": "Le maître et le temps",
+          "ref": 7,
+          "range": "4.1–10",
+          "source": "4.1–10.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Ce yoga a déjà été enseigné et transmis de génération en génération. Comme il s’est obscurci, je te l’enseigne à nouveau, parce que tu es mon fidèle et mon ami.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Tu parles d’un enseignement donné à une époque bien antérieure à ta naissance. Comment dois-je le comprendre ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Toi et moi avons traversé de nombreuses naissances. Je les connais ; toi, tu ne les connais pas. Bien que sans naissance et impérissable, je me manifeste par ma propre puissance. Lorsque le dharma décline, j’apparais pour protéger le bien, surmonter les actes mauvais et rétablir le dharma.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna décrit l’incarnation divine et le renouvellement du dharma, l’ordre et la responsabilité qui soutiennent la vie. C’est un enseignement théologique central de la Gita.",
+          "example": "À l’échelle humaine, plus modeste, les valeurs survivent lorsque les personnes les mettent en pratique et les renouvellent. C’est une analogie du renouveau, et non un équivalent de l’incarnation divine.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "4.2",
+          "title": "Au cœur de l’action",
+          "ref": 18,
+          "range": "4.11–23",
+          "source": "4.11–23.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’action est subtile. Un corps immobile peut cacher un esprit plein d’avidité. On peut travailler sans revendiquer que tout nous appartient.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Lorsque tombe le désir avide de récompense, lorsque l’acte est offert et guidé par la connaissance, le travail peut cesser d’enchaîner de la même manière. Apprends à voir au-delà du mouvement du corps.",
+              "bridge": false
+            }
+          ],
+          "simple": "La liberté ne se mesure pas seulement à l’agitation ou au calme que vous montrez. L’intention et la compréhension qui sous-tendent l’action comptent.",
+          "example": "Deux personnes peuvent se porter volontaires pour le même travail : l’une cherche surtout la reconnaissance, l’autre souhaite aider. La tâche est identique, mais la relation intérieure à cette tâche est différente.",
+          "context": "",
+          "staging": [
+            "The offering flame reveals hands doing necessary work. The images remain openly symbolic."
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Les façons d’offrir",
+          "ref": 28,
+          "range": "4.24–33",
+          "source": "4.24–33.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Les êtres font des offrandes de bien des manières : par des dons matériels, la maîtrise de soi, l’étude, la discipline du souffle et la connaissance. Ces pratiques peuvent purifier celui qui les entreprend.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Dans la vision la plus profonde, l’offrande, l’acte d’offrir et son destinataire appartiennent à Brahman. La connaissance révèle le sens de l’action.",
+              "bridge": false
+            }
+          ],
+          "simple": "La pratique spirituelle peut engager vos possessions, votre attention, vos habitudes et votre compréhension. Le rituel est une expression de cette discipline plus vaste.",
+          "example": "Accordez toute votre attention à une conversation. Renoncer à l’envie d’interrompre ou de consulter votre téléphone peut devenir une petite pratique de l’offrande.",
+          "context": "",
+          "staging": [
+            "Separate shapes in the flame become a single continuous field of light, then settle back into the small fire."
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Questionner et apprendre",
+          "ref": 34,
+          "range": "4.34–42",
+          "source": "4.34–42.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Approche ceux qui voient clairement avec humilité, des questions sincères et la volonté d’apprendre en servant.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La connaissance peut te faire traverser les fautes et la confusion. Une confiance disciplinée et une pratique constante comptent. Tranche le doute né de l’ignorance ; établis-toi dans le yoga, et relève-toi.",
+              "bridge": false
+            }
+          ],
+          "simple": "La Gita fait place au questionnement. Apprendre implique des questions, de la pratique et la volonté de changer sa manière de vivre.",
+          "example": "Pour apprendre une compétence, trouvez un maître capable, posez des questions précises et mettez en pratique ce que vous apprenez. Accumuler des citations ne suffit pas à faire naître la compréhension.",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "Le dharma comprend l’ordre qui soutient la vie, la conduite juste et la responsabilité propre à une situation ; aucun mot français ne le recouvre à lui seul. Brahman est la réalité ultime. Le verset 4.13, qui évoque quatre ordres sociaux, est accessible dans le texte source et abordé dans les notes de contexte ; il n’est pas discrètement réécrit comme un système moderne de carrières.",
+      "reflection": "Quelle question auriez-vous besoin de poser honnêtement avant de pouvoir faire le prochain pas ?"
+    },
+    {
+      "n": 5,
+      "title": "Une autre forme de liberté",
+      "sanskrit": "कर्मसंन्यासयोग",
+      "subtitle": "Le renoncement sans l’indifférence",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "5.1",
+          "title": "Dois-je partir ?",
+          "ref": 2,
+          "range": "5.1–6",
+          "source": "5.1–6.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Tu fais l’éloge du renoncement, et tu fais aussi l’éloge de l’action. Quelle voie dois-je suivre ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Les deux peuvent conduire au bien suprême, mais la discipline de l’action est ici la voie la plus praticable. Celui qui renonce véritablement n’est pas dévoré par l’attirance et l’aversion.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La sagesse et l’action disciplinée ne conduisent pas nécessairement à des destinations différentes. Apprends à reconnaître ce qu’il faut abandonner au sein de la vie que tu mènes.",
+              "bridge": false
+            }
+          ],
+          "simple": "Vous n’avez pas besoin d’attendre une autre vie pour pratiquer. Commencez par changer votre relation au désir, à l’aversion et au travail qui vous attend.",
+          "example": "Un nouvel emploi ou une nouvelle ville peut aider, mais ne fera pas automatiquement disparaître le ressentiment. Vous pouvez commencer à examiner ce mécanisme là où vous êtes.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "5.2",
+          "title": "La feuille de lotus",
+          "ref": 10,
+          "range": "5.7–12",
+          "source": "5.7–12.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Agis avec ton corps, ton esprit et ta compréhension, en abandonnant l’attachement possessif. Offre l’action au divin. Comme l’eau sur une feuille de lotus, elle peut ne pas adhérer à toi.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "S’agripper au fruit enchaîne. Relâcher cette emprise apporte la paix.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le lotus est une métaphore de la liberté intérieure au milieu de l’activité. Il ne vous invite pas à devenir émotionnellement inaccessible.",
+          "example": "Prenez profondément soin d’un projet tout en laissant vos collègues y contribuer et les décisions évoluer. L’engagement n’exige pas de posséder chaque détail.",
+          "context": "",
+          "staging": [
+            "A lotus leaf forms within the teaching landscape. Water gathers and rolls away. It is a visual metaphor, not an object Krishna has conjured into the historical battlefield."
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "La même présence spirituelle",
+          "ref": 18,
+          "range": "5.13–21",
+          "source": "5.13–21.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Les sages portent un regard égal sur une personne instruite, une vache, un éléphant, un chien et une personne que la société traite en paria.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Leurs formes et leurs conditions diffèrent. La sagesse ne se laisse pas enfermer dans ces différences. Lorsque la compréhension repose dans le divin, le plaisir extérieur n’a plus à porter tout le poids du bonheur.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le regard égal reconnaît la dignité spirituelle par-delà le statut social et l’espèce. Il n’exige pas de prétendre que tous ont des besoins ou des capacités identiques.",
+          "example": "Remarquez si votre respect fondamental varie selon le titre de la personne. Témoignez à une personne chargée du ménage la même courtoisie qu’à une personne à la direction.",
+          "context": "",
+          "staging": [
+            "Each is given equal space and attention; none is an exotic decorative figure."
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "Paix et amitié",
+          "ref": 29,
+          "range": "5.22–29",
+          "source": "5.22–29.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Les plaisirs nés du contact ont un commencement et une fin. Apprends à supporter le désir et la colère sans devenir leur serviteur.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ceux qui se tournent vers l’intérieur, qui œuvrent au bien-être des êtres, qui me connaissent comme celui qui reçoit le sacrifice, le seigneur des mondes et l’ami de tous les êtres, trouvent la paix.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna unit la discipline de soi à une vision dévotionnelle du divin comme ami de tous. La paix engage à la fois la liberté intérieure et la relation.",
+          "example": "Savourez un bon repas ou un compliment, mais remarquez le moment où le plaisir devient une exigence de prolonger ce sentiment. Vous pouvez apprécier quelque chose sans exiger que cela dure toujours.",
+          "context": "",
+          "staging": [
+            "We return to Arjun's restless hand. He has heard what steadiness means. He must now ask how to practise it."
+          ]
+        }
+      ],
+      "understand": "Le renoncement n’est pas ici un simple retrait géographique. Le chapitre unit l’action disciplinée, le regard égal et la connaissance de Krishna. Son but spirituel va au-delà du fait de se sentir à l’aise dans la vie quotidienne.",
+      "reflection": "Dans quelles situations le statut ou l’apparence déterminent-ils l’attention que vous accordez à une autre personne ?"
+    },
+    {
+      "n": 6,
+      "title": "Revenir à l’esprit",
+      "sanskrit": "ध्यानयोग",
+      "subtitle": "Pratique, équilibre et retour",
+      "mood": "blue",
+      "scenes": [
+        {
+          "id": "6.1",
+          "title": "Ami ou adversaire",
+          "ref": 5,
+          "range": "6.1–9",
+          "source": "6.1–9.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Celui qui accomplit le travail nécessaire sans dépendre de sa récompense pratique le renoncement et le yoga.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Élève-toi par ta propre discipline. L’esprit peut devenir ton allié ; livré à lui-même, il peut agir contre toi. La stabilité grandit à mesure qu’il devient moins captif du plaisir, de la douleur, des éloges et du mépris.",
+              "bridge": false
+            }
+          ],
+          "simple": "L’esprit développe des habitudes. Un entraînement patient peut transformer votre relation à ces habitudes ; se juger durement ajoute souvent une lutte supplémentaire.",
+          "example": "Lorsque vous perdez votre concentration, remarquez-le sans vous insulter. Revenez à la prochaine petite action. Ces retours répétés font partie de l’entraînement.",
+          "context": "",
+          "staging": [
+            "Arjun's hand rests against the rail. He remains seated in the encounter, not transported to an unrelated meditation tutorial."
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Une vie qui soutient la pratique",
+          "ref": 17,
+          "range": "6.10–23",
+          "source": "6.10–23.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Trouve un lieu approprié, assieds-toi dans une posture stable et rassemble ton attention. Laisse ton esprit se tourner vers moi.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ce yoga n’est favorisé ni par une nourriture trop abondante ou insuffisante, ni par un excès de sommeil ou une veille permanente. Apporte de l’équilibre à ton alimentation, à ton repos, à ton activité et à tes efforts.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Un esprit stable est comme cette flamme. Par la pratique, il peut découvrir une joie qui ne dépend pas des sens.",
+              "bridge": false
+            }
+          ],
+          "simple": "Un rythme durable soutient la méditation. Prendre soin de la vie quotidienne fait partie de la pratique ; ce n’est pas une distraction qui vous en éloigne.",
+          "example": "Commencez par une courte période régulière où vous restez assis en silence. Une pratique réalisable, accompagnée d’un repos suffisant, est plus durable qu’une routine intense que vous ne pouvez pas maintenir.",
+          "context": "",
+          "staging": [
+            "A lamp appears in the teaching space. For a moment its flame is sheltered from the wind."
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Comme vouloir retenir le vent",
+          "ref": 35,
+          "range": "6.24–36",
+          "source": "6.24–36.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Chaque fois que l’esprit s’égare, ramène-le. Apprends à te voir dans les autres êtres et à voir les autres êtres en toi, et à prendre leur joie et leur souffrance aussi au sérieux que les tiennes.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Mais l’esprit est agité, puissant et obstiné. Le maîtriser me semble aussi difficile que de retenir le vent.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "C’est difficile. Pourtant, la pratique et le relâchement de l’attachement peuvent l’éduquer.",
+              "bridge": false
+            }
+          ],
+          "simple": "Méditer n’exige pas de ne jamais avoir de pensée. Remarquez que l’esprit s’égare, relâchez l’emprise de la pensée et revenez doucement.",
+          "example": "En écoutant quelqu’un, vous pouvez commencer à préparer votre réponse. Remarquez ce mouvement et revenez à ce que la personne dit réellement.",
+          "context": "",
+          "staging": [
+            "The flame moves. Its movement is allowed to be part of the scene; steadiness is not presented as instant perfection."
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "Et si je n’y arrive pas ?",
+          "ref": 40,
+          "range": "6.37–47",
+          "source": "6.37–47.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Qu’advient-il de celui qui commence avec foi, mais ne peut pas aller au bout du chemin ? Est-il perdu, sans appartenir à rien ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Aucun effort sincère vers le bien n’est détruit. Une telle pratique continue de porter ses fruits, même au fil de nouvelles naissances, et ramène le chercheur vers la compréhension.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Continue. Parmi les yogis, je tiens particulièrement près de moi celui dont la vie intérieure repose en moi, et qui m’honore avec foi et amour.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna répond dans l’horizon spirituel de la renaissance et de la dévotion. L’encouragement pratique consiste à poursuivre, plutôt qu’à considérer l’imperfection comme un échec total.",
+          "example": "Manquer une semaine de pratique n’efface pas ce que vous avez appris. Reprenez à la prochaine occasion, au lieu d’attendre un recommencement parfait.",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "Yoga désigne une discipline spirituelle ainsi que l’unité ou la stabilité qu’elle recherche ; il ne se limite pas aux postures du corps. Les paroles rassurantes de Krishna incluent la renaissance, plutôt que la simple promesse qu’une habitude utile reviendra demain.",
+      "reflection": "Quel petit geste de retour pourriez-vous pratiquer sans exiger de le maîtriser immédiatement ?"
+    },
+    {
+      "n": 7,
+      "title": "Le monde relié",
+      "sanskrit": "ज्ञानविज्ञानयोग",
+      "subtitle": "Connaître la source de la vie",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "7.1",
+          "title": "Un fil à travers toute chose",
+          "ref": 7,
+          "range": "7.1–7",
+          "source": "7.1–7.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Tourne ton esprit vers moi et pratique en prenant refuge en moi. Écoute comment tu peux parvenir à me connaître plus pleinement.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La terre, l’eau, le feu, l’air, l’espace, l’esprit, l’intelligence et le sentiment du « je » appartiennent à ma nature inférieure. Au-delà se trouve le principe vivant qui soutient le monde.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Tout repose sur moi, comme les perles sont maintenues par un fil.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna décrit le divin comme la source sous-jacente et le soutien de l’existence matérielle et vivante. Le fil relie ce qui semble d’abord séparé.",
+          "example": "Un collier attire l’attention sur ses perles, mais c’est le fil qui en fait un collier. Utilisez cette image pour réfléchir à ce qui soutient les nombreuses dimensions de votre vie.",
+          "context": "",
+          "staging": [
+            "Separate beads appear along a fine thread of light; the thread continues beyond the frame."
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "La saveur de l’eau",
+          "ref": 8,
+          "range": "7.8–12",
+          "source": "7.8–12.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Je suis la saveur de l’eau, la lumière du soleil et de la lune, le son sacré des Védas. Je suis le parfum de la terre et la vie des êtres vivants.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je suis la force libérée du désir avide et de l’attachement. Les qualités à travers lesquelles la nature apparaît naissent de moi, mais ne contiennent pas tout ce que je suis.",
+              "bridge": false
+            }
+          ],
+          "simple": "Cet enseignement invite à considérer les expériences familières comme des expressions de la présence divine. Le sacré n’a pas besoin de commencer par quelque chose de spectaculaire.",
+          "example": "Buvez lentement un verre d’eau. Remarquez ce simple fait : il vous fait vivre. Laissez la gratitude interrompre l’habitude de tenir les choses ordinaires pour acquises.",
+          "context": "",
+          "staging": [
+            "A small bowl of water catches daylight within the symbolic landscape. Let this be simpler than the preceding vision."
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "Ce qui voile la source",
+          "ref": 14,
+          "range": "7.13–19",
+          "source": "7.13–19.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Pris dans les qualités de la nature, les êtres ne reconnaissent pas ce qui les dépasse. Ce pouvoir d’apparence, la maya, est difficile à traverser. Ceux qui prennent refuge en moi peuvent le traverser.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Les êtres se tournent vers moi dans la souffrance, en quête de connaissance, dans l’espoir d’un gain ou par sagesse. Chacun de ces mouvements compte. Le fidèle sage en vient à reconnaître que tout repose dans le divin.",
+              "bridge": false
+            }
+          ],
+          "simple": "La maya désigne le pouvoir par lequel les apparences changeantes et les attachements peuvent obscurcir la réalité. La réponse de Krishna associe la compréhension à la dévotion.",
+          "example": "Lorsque vous avez peur, vous pouvez ne remarquer que les éléments qui confirment votre crainte. Reconnaître ce rétrécissement du regard peut vous aider à vous ouvrir davantage à ce qui est réellement là.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "7.4",
+          "title": "Au-delà d’une récompense passagère",
+          "ref": 23,
+          "range": "7.20–30",
+          "source": "7.20–30.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Le désir oriente souvent l’adoration vers une récompense particulière. Ces récompenses ont une fin.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ma réalité ne se réduit pas à ce que tu peux voir à présent. L’attirance et l’aversion obscurcissent la compréhension. Libérés de leur emprise, les chercheurs persévérants se tournent vers moi et cherchent à se délivrer de la vieillesse et de la mort.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le chapitre fait passer de la demande de choses au divin à la recherche du divin lui-même. Les récompenses temporaires ne peuvent apporter un accomplissement ultime.",
+          "example": "Il est naturel de chercher de l’aide face à un problème. Demandez-vous aussi si résoudre ce seul problème répondra à l’agitation plus profonde qui ne cesse de trouver un nouvel objet.",
+          "context": "",
+          "staging": [
+            "The bowl's reflected light reaches the horizon. Arjun's next question concerns what lies beyond a lifetime."
+          ]
+        }
+      ],
+      "understand": "La maya désigne une puissance divine par laquelle les apparences changeantes peuvent voiler leur source. Le chapitre n’affirme pas simplement que la vie quotidienne est fausse. Il conduit des désirs limités vers la connaissance de Krishna.",
+      "reflection": "Quelle expérience ordinaire pourriez-vous accueillir avec davantage d’attention ou de gratitude ?"
+    },
+    {
+      "n": 8,
+      "title": "Ce qui demeure",
+      "sanskrit": "अक्षरब्रह्मयोग",
+      "subtitle": "Le souvenir du divin, la mort et l’impérissable",
+      "mood": "blue",
+      "scenes": [
+        {
+          "id": "8.1",
+          "title": "Précise le sens de tes mots",
+          "ref": 3,
+          "range": "8.1–4",
+          "source": "8.1–4.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Qu’entends-tu par Brahman, par le Soi et par karma ? Comment es-tu présent dans le monde incarné, et comment peut-on te connaître au moment de la mort ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Brahman est la réalité suprême, impérissable. Adhyatma concerne la nature spirituelle intérieure de chacun. Karma désigne ici l’action créatrice par laquelle naissent les êtres incarnés.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le monde changeant est périssable. Il existe aussi un principe conscient qui le gouverne, et je suis présent dans le corps comme le seigneur du sacrifice.",
+              "bridge": false
+            }
+          ],
+          "simple": "La Gita emploie certains mots dans un sens précis, qui dépend du contexte. Brahman désigne la réalité impérissable ; adhyatma oriente la recherche vers le Soi.",
+          "example": "Lorsqu’une discussion devient confuse, commencez par clarifier les mots essentiels. Des définitions partagées peuvent révéler si le désaccord porte sur l’idée ou sur le langage.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "8.2",
+          "title": "Souviens-toi, et agis",
+          "ref": 7,
+          "range": "8.5–10",
+          "source": "8.5–10.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’orientation de la conscience au moment de la mort compte. Ce qu’une personne a régulièrement gardé à l’esprit façonne cette orientation finale.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "C’est pourquoi, souviens-toi de moi en tout temps, et accomplis l’action qui t’attend. Offre-moi ton esprit et ta compréhension. Ce souvenir grandit par la pratique.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna relie le souvenir du divin au moment de la mort à l’orientation d’une vie entière. La dévotion et l’action responsable sont destinées à se développer ensemble.",
+          "example": "Ce vers quoi vous revenez régulièrement façonne votre attention. Faites chaque jour une place aux valeurs et aux engagements spirituels dont vous espérez qu’ils vous guideront sous la pression.",
+          "context": "",
+          "staging": [
+            "Arjun's bow is briefly visible beneath the widening sky. Contemplation has not erased the circumstance in which he must act."
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "Au-delà des longs cycles",
+          "ref": 20,
+          "range": "8.11–22",
+          "source": "8.11–22.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Les chercheurs disciplinent leurs sens et leur esprit, en se souvenant de l’impérissable et du son sacré Om.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Les mondes apparaissent et se retirent au fil d’immenses périodes. Au-delà de ces changements existe une réalité éternelle qui ne périt pas lorsque les êtres périssent. C’est la destination suprême, que l’on approche par une dévotion sans partage.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le chapitre décrit le temps cosmique et la libération au-delà des naissances et des morts répétées. Il nous invite à distinguer ce qui change de l’impérissable.",
+          "example": "Un calendrier aide à organiser une semaine, mais une perspective plus large peut changer ce que vous jugez urgent. L’échelle cosmique invite ici à réexaminer vos buts encore plus profondément.",
+          "context": "",
+          "staging": [
+            "The imagined sky moves through immense cycles of arising and dissolution. The chariot remains a steady foreground reference."
+          ]
+        },
+        {
+          "id": "8.4",
+          "title": "La pratique, c’est maintenant",
+          "ref": 27,
+          "range": "8.23–28",
+          "source": "8.23–28.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’enseignement décrit une voie lumineuse dont on ne revient pas, et une autre par laquelle le voyageur revient. Connaissant ces voies, le yogi n’a pas à se laisser désorienter.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Demeure établi dans le yoga en tout temps. Cette compréhension conduit au-delà des récompenses limitées du rituel, de l’étude, de l’ascèse et du don, vers l’origine suprême.",
+              "bridge": false
+            }
+          ],
+          "simple": "La cosmologie de ce chapitre fait partie de son enseignement religieux. Son invitation immédiate est de pratiquer avec constance dans la vie que vous menez.",
+          "example": "Au lieu de remettre ce qui compte à la retraite ou à une crise, prenez aujourd’hui un engagement modeste que vous pourrez tenir régulièrement.",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "Le chapitre enseigne le souvenir du divin, la renaissance, les cycles cosmiques et la libération. Les voies après la mort font partie de cette vision religieuse. Une analogie moderne sur l’attention ne peut pas remplacer ces affirmations. Moksha signifie la libération de l’asservissement spirituel et des naissances et des morts répétées.",
+      "reflection": "Vers quoi revenez-vous régulièrement, et est-ce bien ce que vous voulez voir guider votre vie ?"
+    },
+    {
+      "n": 9,
+      "title": "Une petite offrande",
+      "sanskrit": "राजविद्याराजगुह्ययोग",
+      "subtitle": "L’intimité de la dévotion",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "9.1",
+          "title": "Présent, et au-delà",
+          "ref": 4,
+          "range": "9.1–10",
+          "source": "9.1–10.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Je vais te transmettre une connaissance profonde, unie à une compréhension qui peut se vivre. Accueille-la avec un esprit ouvert.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ma présence non manifestée imprègne le monde. Les êtres dépendent de moi, et pourtant je ne suis pas enfermé en eux. Sous ma vigilance, la nature fait naître ce qui se meut et ce qui demeure immobile.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna unit la présence divine et la transcendance : le monde dépend du divin, tandis que le divin ne se limite pas au monde.",
+          "example": "Une source peut s’exprimer sous de nombreuses formes sans se réduire à une seule. Cette analogie limitée aide à approcher une affirmation théologique bien plus vaste.",
+          "context": "",
+          "staging": [
+            "The universe from the last chapter becomes a reflection in the small bowl. The source exceeds either image."
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "Que cherchons-nous ?",
+          "ref": 22,
+          "range": "9.11–25",
+          "source": "9.11–25.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Certains ne voient que mon apparence humaine et ne perçoivent pas ma nature profonde. D’autres se tournent vers moi dans une dévotion constante, en se souvenant de moi et en m’adorant.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Même les joies du ciel passent lorsque le mérite qui les soutient est épuisé. Ceux dont l’attention repose entièrement en moi cherchent une autre destination. Je veille à ce qui soutient cette vie de dévotion.",
+              "bridge": false
+            }
+          ],
+          "simple": "La dévotion réoriente la confiance et le but de la vie. Ce verset ne doit pas être considéré comme une garantie de réussite matérielle ou de protection contre toute difficulté.",
+          "example": "Un engagement durable peut vous donner de la stabilité dans des circonstances incertaines. Cultivez-le parce qu’il compte, sans en faire une transaction contre des récompenses garanties.",
+          "context": "La promesse d’une sollicitude divine au verset 9.22 s’inscrit dans une relation de dévotion. Elle ne promet pas que l’adoration empêchera toute perte ou apportera la réussite financière.",
+          "staging": []
+        },
+        {
+          "id": "9.3",
+          "title": "Une feuille suffit",
+          "ref": 26,
+          "range": "9.26–29",
+          "source": "9.26–29.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Une feuille, une fleur, un fruit ou de l’eau : si on me les offre avec dévotion, je les reçois.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Quoi que tu fasses, quoi que tu manges, quoi que tu donnes, quelle que soit la discipline que tu entreprennes, offre-le-moi. Que l’action devienne une offrande, libérée de l’emprise qui t’enchaîne à elle.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je suis égal envers tous les êtres. Ceux qui m’aiment demeurent en moi, et moi en eux.",
+              "bridge": false
+            }
+          ],
+          "simple": "La dévotion est accessible à travers les actes ordinaires. La richesse et les cérémonies ne sont pas des conditions préalables à une offrande sincère.",
+          "example": "Préparez un repas simple avec gratitude, ou accomplissez avec soin une tâche nécessaire. Vous n’avez pas besoin d’un geste impressionnant pour pratiquer la sincérité.",
+          "context": "",
+          "staging": [
+            "One leaf, softly lit. Arjun and Krishna remain present behind it. Resist the temptation to make every teaching visually immense."
+          ]
+        },
+        {
+          "id": "9.4",
+          "title": "La possibilité de se tourner vers le divin",
+          "ref": 30,
+          "range": "9.30–34",
+          "source": "9.30–34.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Même une personne dont la conduite a été profondément mauvaise peut se tourner vers moi avec une dévotion sans partage et avancer vers la droiture. Mon fidèle n’est pas perdu.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Krishna parle d’un refuge qui traverse les divisions sociales nommées dans cet enseignement. Son invitation rejoint aussi ceux que ce monde plaçait dans une situation défavorisée.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Tourne ton esprit vers moi. Accorde-moi ta dévotion et ton respect. Fais de moi ton but suprême, et tu viendras à moi.",
+              "bridge": false
+            }
+          ],
+          "simple": "L’espoir d’une transformation n’efface pas la responsabilité. Un changement véritable doit devenir visible dans la façon de vivre et de traiter les autres.",
+          "example": "Des excuses prennent leur sens grâce à la réparation et au changement de conduite. Ne confondez pas une déclaration de changement avec le travail patient qui consiste à devenir différent.",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "La bhakti est la dévotion aimante envers le divin. L’espoir de transformation porté par le texte n’excuse pas le fait de continuer à faire du mal. Le verset 9.32 emploie aussi un langage sur la naissance, le genre et le statut qui demande une mise en contexte honnête ; lisez la note plutôt que de le traiter comme une déclaration moderne sur l’égalité sociale.",
+      "reflection": "Quel acte ordinaire pourrait devenir une offrande d’attention sincère ?"
+    },
+    {
+      "n": 10,
+      "title": "Aperçus de l’infini",
+      "sanskrit": "विभूतियोग",
+      "subtitle": "Reconnaître les expressions du divin",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "10.1",
+          "title": "Une relation qui s’approfondit",
+          "ref": 8,
+          "range": "10.1–11",
+          "source": "10.1–11.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Écoute encore, Arjuna. Je parle pour ton bien. Je suis la source dont tout procède.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ceux qui le reconnaissent se tournent vers moi avec amour. En se souvenant de moi ensemble, ils trouvent la joie. À ceux qui me sont dévoués avec amour, je donne le discernement qui les conduit vers moi ; je dissipe les ténèbres de l’ignorance par la lumière de la connaissance.",
+              "bridge": false
+            }
+          ],
+          "simple": "Dans la Gita, la connaissance et la dévotion peuvent se soutenir mutuellement. Comprendre la source divine transforme l’orientation du cœur.",
+          "example": "Ce que vous comprenez profondément change souvent ce que vous aimez et votre manière d’agir. Laissez la réflexion et la pratique s’éclairer mutuellement.",
+          "context": "",
+          "staging": [
+            "Warmth returns to the space between teacher and listener."
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "Aide-moi à me souvenir",
+          "ref": 20,
+          "range": "10.12–23",
+          "source": "10.12–23.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "J’accepte ce que tu me dis. Toi seul te connais pleinement. Dis-moi par quelles expressions de ta présence je peux continuer à me souvenir de toi.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je suis le Soi au cœur des êtres, leur commencement, leur milieu et leur fin. Parmi les lumières, vois l’éclat du soleil ; parmi les sens, l’esprit ; dans les êtres vivants, la conscience.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna propose des points de contemplation, et non un catalogue qui contiendrait la totalité du divin. Les expériences familières peuvent devenir des rappels.",
+          "example": "Choisissez un moment qui revient, la première lumière du jour ou une respiration avant le travail, pour vous souvenir de ce qui donne une direction à votre vie.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "10.3",
+          "title": "Le monde devient un rappel",
+          "ref": 32,
+          "range": "10.24–38",
+          "source": "10.24–38.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Reconnais mes expressions dans l’Himalaya, dans la syllabe sacrée, dans le figuier des pagodes, dans le Gange, dans la force du lion.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je suis aussi le temps, la sagesse, la mémoire et les puissances par lesquelles la vie se déploie. Ce sont des façons de tourner ton attention vers moi.",
+              "bridge": false
+            }
+          ],
+          "simple": "Vibhuti signifie une manifestation de l’excellence ou de la puissance divine. L’admiration devient contemplation, plutôt qu’une exigence de posséder.",
+          "example": "Lorsqu’une autre personne excelle, essayez d’apprécier avant de comparer. Ses capacités peuvent vous inspirer sans devenir la preuve de votre insuffisance.",
+          "context": "",
+          "staging": [
+            "Himalayas, a peepal tree, a river and a lion appear as successive teaching images, connected by light. They are contemplative examples, not stops on a geographical chariot journey."
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "Au-delà de la liste",
+          "ref": 42,
+          "range": "10.39–42",
+          "source": "10.39–42. The last line is an authored bridge into Arjun's request in 11.3–4.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Ces manifestations sont sans fin. Tout ce qui possède splendeur, beauté ou puissance naît d’une part de mon éclat.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Mais pourquoi multiplier les exemples ? D’une seule part de moi-même, je soutiens cet univers tout entier.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Je t’ai entendu le décrire. Puis-je le voir ?",
+              "bridge": true
+            }
+          ],
+          "simple": "La liste se termine en indiquant ce qui dépasse les listes. Toute image particulière offre un aperçu d’une réalité plus grande qu’elle.",
+          "example": "Un beau paysage peut capter votre attention. Laissez cette expérience éveiller la curiosité et la gratitude, sans vous sentir obligé d’en saisir chaque détail.",
+          "context": "",
+          "staging": [
+            "The last image becomes too expansive to fit within its frame. We return to Krishna's near, familiar hand."
+          ]
+        }
+      ],
+      "understand": "Vibhuti signifie une manifestation de la splendeur ou de la puissance divine. Les exemples orientent la contemplation ; aucune liste ni aucune image ne peut contenir le divin qu’ils désignent.",
+      "reflection": "L’admiration peut-elle vous conduire vers la gratitude sans devenir un désir de posséder ?"
+    },
+    {
+      "n": 11,
+      "title": "Au-delà de ce que les yeux peuvent saisir",
+      "sanskrit": "विश्वरूपदर्शनयोग",
+      "subtitle": "Émerveillement, temps et forme universelle",
+      "mood": "cosmic",
+      "scenes": [
+        {
+          "id": "11.1",
+          "title": "Le don de la vision",
+          "ref": 8,
+          "range": "11.1–14",
+          "source": "11.1–14.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Ce que tu m’as enseigné a dissipé une grande part de ma confusion. J’ai entendu comment les êtres apparaissent et disparaissent. Je veux contempler ta forme souveraine. Si tu penses que je peux la supporter, montre-la-moi.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Contemple mes formes, dans leurs innombrables couleurs et variétés. Vois le monde entier rassemblé ici, et des merveilles que tu n’as jamais vues.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Tes yeux ordinaires ne peuvent accueillir cette vision. Je t’accorde la vision divine.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Alors Krishna révéla la forme universelle. Son éclat dépassait toute lumière que le champ de bataille avait connue.",
+              "bridge": false
+            }
+          ],
+          "simple": "La Vishvarupa est une révélation divine au sein du récit. Notre création visuelle en est une interprétation symbolique, et non une représentation exacte de cette vision.",
+          "example": "Une nouvelle compréhension exige parfois une autre façon de regarder, et pas simplement davantage d’informations du même type. C’est une analogie du changement de perspective, non de la vision divine.",
+          "context": "",
+          "staging": [
+            "Krishna's familiar outline is still near. The horizon begins to open around it."
+          ]
+        },
+        {
+          "id": "11.2",
+          "title": "L’émerveillement devient peur",
+          "ref": 16,
+          "range": "11.15–31",
+          "source": "11.15–31.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Je vois en toi des êtres et des puissances divines. Je ne peux trouver ton commencement, ton milieu ni ta fin. Ton éclat emplit toutes les directions.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Et je vois nos guerriers entrer dans la destruction. Bhishma, Drona, les fils de Dhritarashtra se précipitent vers elle comme les fleuves vers la mer.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Je ne trouve pas la paix. Dis-moi qui tu es sous cette forme terrible.",
+              "bridge": false
+            }
+          ],
+          "simple": "La forme universelle contient à la fois la création et la destruction. La peur d’Arjuna fait partie de la révélation ; elle n’est pas une incapacité à l’apprécier.",
+          "example": "Regarder honnêtement la nature peut révéler ensemble la beauté et la vulnérabilité. La maturité leur fait une place à toutes deux, sans exiger que la réalité ne contienne que ce qui nous réconforte.",
+          "context": "",
+          "staging": [
+            "Many faceless forms, arms and crowns unfold through immense space. Worlds seem held within worlds. The near rail stays legible as Arjun bends in reverence. Gradually, the vision includes dissolution. Figures of warriors move into an overwhelming blaze; no graphic injury.",
+            "His hand reaches for the rail. The awe has become difficult to bear."
+          ]
+        },
+        {
+          "id": "11.3",
+          "title": "Le Temps",
+          "ref": 32,
+          "range": "11.32–34",
+          "source": "11.32–34.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Je suis le Temps, qui conduit les mondes à leur fin. Les guerriers rangés ici ne demeureront pas, même sans toi.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Relève-toi, Arjuna. Deviens un instrument. Ces guerriers sont déjà pris dans cette fin. Fais face au combat qui t’attend.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna situe la capacité d’agir d’Arjuna dans une vision cosmique du temps. Ce passage appartient au cadre moral et théologique particulier de l’épopée.",
+          "example": "Vous ne pouvez pas arrêter tous les changements autour de vous. Vous pouvez néanmoins examiner votre responsabilité au sein du changement, sans prétendre tout maîtriser ni être dépourvu de toute responsabilité.",
+          "context": "Ce commandement difficile appartient à la révélation de Krishna et au rôle particulier d’Arjuna dans l’épopée. Il n’autorise pas à identifier ses propres ennemis à ces guerriers, ni à utiliser la religion pour justifier la violence.",
+          "staging": [
+            "Hold. Let the line land before another transition. The teaching image presents destruction as a dimension of the vision, not an exciting reward for the reader."
+          ]
+        },
+        {
+          "id": "11.4",
+          "title": "L’ami au cœur de l’immensité",
+          "ref": 54,
+          "range": "11.35–55",
+          "source": "11.35–55.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Je t’ai appelé mon ami et je t’ai parlé avec légèreté, sans connaître la grandeur qui se tenait devant moi. Pardonne ce que je n’ai pas su comprendre.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Je suis rempli d’émerveillement et ébranlé par la peur. Montre-moi à nouveau une forme que je puisse supporter : couronnée, avec une massue et un disque, et quatre bras.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Laisse cette peur s’apaiser. Contemple à nouveau la forme que tu as demandée.",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "En voyant ta douce forme humaine, je peux retrouver mes esprits.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Par une dévotion sans partage, on peut véritablement me connaître, me voir et entrer en moi. Œuvre pour moi. Fais de moi ton but suprême. Sois libre de tout attachement avide et de toute hostilité envers les êtres.",
+              "bridge": false
+            }
+          ],
+          "simple": "La vision immense revient à la relation et à une manière de vivre. La révérence émerveillée doit s’exprimer dans la dévotion, l’action et la libération de l’inimitié.",
+          "example": "Après une expérience puissante, demandez-vous comment elle change votre conduite le lendemain. Son importance n’a pas besoin de dépendre du retour de la même intensité.",
+          "context": "",
+          "staging": [
+            "The universal vision draws inward. A restrained four-armed, crowned divine form bridges the transition. Then Krishna is once more the familiar figure on the chariot. Arjun's grip eases."
+          ]
+        }
+      ],
+      "understand": "Vishvarupa désigne la forme universelle. La révélation contient l’éclat et la terreur, la création et la destruction. La scène revient à la relation et à la conduite ; l’avoir vue ne marque pas la fin de l’apprentissage d’Arjuna.",
+      "reflection": "Lorsqu’une expérience change votre perspective, comment ce changement pourrait-il devenir visible dans vos actes par la suite ?"
+    },
+    {
+      "n": 12,
+      "title": "Comment l’amour devient une vie",
+      "sanskrit": "भक्तियोग",
+      "subtitle": "L’amour rendu visible dans la conduite",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "12.1",
+          "title": "La voie de la relation",
+          "ref": 2,
+          "range": "12.1–7",
+          "source": "12.1–7.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Qui est le plus fermement établi dans le yoga : ceux qui t’adorent avec dévotion, ou ceux qui contemplent la réalité impérissable et non manifestée ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ceux dont l’esprit repose en moi et qui m’adorent avec une foi constante sont profondément unis dans le yoga. Ceux qui suivent le non-manifesté atteignent aussi le but, bien que cette voie soit plus difficile pour les êtres incarnés.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Pour ceux qui me sont dévoués, je deviens celui qui les délivre de l’océan des naissances et des morts.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le chapitre reconnaît plusieurs approches tout en mettant l’accent sur la dévotion personnelle. Il explique une voie accessible, plutôt que d’exiger que chacun commence par l’abstraction.",
+          "example": "Certaines personnes commencent par une idée ; d’autres, par l’amour et la relation. Remarquez quelle forme de pratique vous permet d’être sincère et constant.",
+          "context": "",
+          "staging": [
+            "Stay close. Cloth, carved wood, Krishna's hand. No new spectacle at the opening of this chapter."
+          ]
+        },
+        {
+          "id": "12.2",
+          "title": "Commence là où tu le peux",
+          "ref": 9,
+          "range": "12.8–12",
+          "source": "12.8–12.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Place en moi ton esprit et ta compréhension. Si tu ne peux pas encore demeurer stable, exerce-toi à revenir.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Si cette pratique est difficile, accomplis ton travail pour moi. Si tu ne parviens même pas à cela, abandonne l’attachement possessif aux fruits de l’action et discipline-toi.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La paix se trouve dans ce renoncement.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna propose une progression de pratiques accessibles. À la difficulté répond une autre porte d’entrée sincère.",
+          "example": "Si vous échouez sans cesse à maintenir une longue pratique quotidienne, choisissez-en une plus courte que vous pouvez tenir. La constance peut naître d’un début modeste.",
+          "context": "",
+          "staging": [
+            "A short flight of steps appears as a teaching image, then resolves into the chariot step. The reader is not assigned a spiritual rank."
+          ]
+        },
+        {
+          "id": "12.3",
+          "title": "À quoi ressemble la dévotion",
+          "ref": 13,
+          "range": "12.13–16",
+          "source": "12.13–16.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "M’est cher celui qui ne hait pas, qui est amical et compatissant, libre de possessivité et de l’importance qu’il s’accorde, patient et stable.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Une telle personne ne trouble pas inutilement le monde et n’est pas constamment gouvernée par les troubles du monde. La dévotion façonne sa manière de vivre parmi les autres.",
+              "bridge": false
+            }
+          ],
+          "simple": "La dévotion est plus qu’une émotion ou un rituel. La compassion, la patience et un moindre égocentrisme figurent parmi ses signes.",
+          "example": "Observez votre comportement lorsque quelqu’un vous dérange. Ce moment ordinaire peut en dire davantage sur votre pratique que ce que vous ressentez pendant une cérémonie.",
+          "context": "",
+          "staging": [
+            "Arjun's gaze returns to people on both sides of the field. They have not become anonymous after the cosmic vision."
+          ]
+        },
+        {
+          "id": "12.4",
+          "title": "À travers les éloges et les reproches",
+          "ref": 18,
+          "range": "12.17–20",
+          "source": "12.17–20.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Apprends la stabilité dans l’honneur et le déshonneur, les éloges et les reproches, le confort et la douleur. Renonce à exiger que tout te soit favorable.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ceux qui suivent avec foi cet enseignement qui donne la vie, en faisant de moi leur but suprême, me sont profondément chers.",
+              "bridge": false
+            }
+          ],
+          "simple": "L’équilibre n’exige pas d’ignorer les critiques utiles. Il consiste à répondre sans laisser les éloges vous gonfler d’orgueil ni les reproches effacer votre valeur.",
+          "example": "Lisez les retours en cherchant ce qui peut améliorer votre travail. Distinguez ces informations utiles de l’impulsion de défendre toute votre identité.",
+          "context": "",
+          "staging": [
+            "The ordinary body and its shifting sensations become the subject of chapter XIII."
+          ]
+        }
+      ],
+      "understand": "La dévotion comprend une relation avec Krishna, une discipline de l’attention et une manière de traiter les êtres. Ce chapitre propose des portes d’entrée pratiques sans réduire la vie spirituelle à un sentiment agréable.",
+      "reflection": "Comment votre sollicitude pourrait-elle devenir visible dans une interaction ordinaire aujourd’hui ?"
+    },
+    {
+      "n": 13,
+      "title": "Le champ et celui qui le connaît",
+      "sanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+      "subtitle": "Corps, conscience et discernement",
+      "mood": "blue",
+      "scenes": [
+        {
+          "id": "13.1",
+          "title": "Qu’est-ce qui est connu ?",
+          "ref": 2,
+          "range": "13.1–7",
+          "source": "13.1–7 in this project's edition, which includes Arjun's opening question. See the numbering note before linking other editions.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Explique-moi la nature et le principe spirituel, le champ et celui qui le connaît. Qu’est-ce que la connaissance, et qu’est-ce qui doit être connu ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ce corps est appelé le champ. Celui qui le connaît est le connaisseur du champ. Sache que je suis aussi le connaisseur dans tous les champs.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le corps, les sens, l’esprit, le désir, l’aversion, le plaisir et la douleur appartiennent au champ changeant. Distinguer le champ de celui qui le connaît est au cœur de la connaissance.",
+              "bridge": false
+            }
+          ],
+          "simple": "Kshetra signifie champ ; kshetrajna signifie connaisseur du champ. Cette distinction invite à explorer l’expérience et la conscience, au-delà d’une identification au seul corps.",
+          "example": "Vous pouvez remarquer une sensation, une humeur ou une pensée. Prenez un moment pour distinguer ce qui est remarqué du fait même de le remarquer.",
+          "context": "",
+          "staging": [
+            "The view opens from Arjun's hand to the changing sensations and thoughts represented around it. The observer is not drawn as a miniature person inside his head."
+          ]
+        },
+        {
+          "id": "13.2",
+          "title": "Comment nous devenons capables de voir",
+          "ref": 8,
+          "range": "13.8–12",
+          "source": "13.8–12.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’humilité, la sincérité, le refus de nuire, la patience, la maîtrise de soi, la stabilité et l’attention portée au maître appartiennent à la connaissance.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Il en va de même de la réflexion sur la naissance, la vieillesse, la maladie et la mort ; de la liberté à l’égard de la possessivité ; de la dévotion ; et d’une recherche soutenue sur le Soi. Tout cela façonne la personne qui cherche à comprendre.",
+              "bridge": false
+            }
+          ],
+          "simple": "La Gita relie le fait de connaître au caractère de celui qui connaît. Votre manière de vivre peut soutenir ou entraver le discernement.",
+          "example": "Lorsque vous cherchez à comprendre un désaccord, exercez-vous à la patience et soyez honnête sur ce qui vous y engage personnellement. L’intelligence seule pourrait ne faire que renforcer votre défense.",
+          "context": "",
+          "staging": [
+            "The shifting images settle enough to be observed. Clarity comes through attention, not the accumulation of labels."
+          ]
+        },
+        {
+          "id": "13.3",
+          "title": "Proche, et au-delà",
+          "ref": 17,
+          "range": "13.13–19",
+          "source": "13.13–19.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Écoute ce qui doit être connu, et dont la connaissance permet d’atteindre ce qui est sans mort : Brahman, suprême et sans commencement, au-delà de la division habituelle entre l’être et le non-être.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Il est à l’intérieur et à l’extérieur des êtres, en mouvement et immobile, proche et lointain. Indivis, il apparaît parmi des formes divisées. Il est la lumière des lumières, présent dans le cœur.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le texte recourt au paradoxe pour désigner ce qui dépasse un simple objet que vous pourriez isoler. Il demande une contemplation, et pas seulement une nouvelle étiquette.",
+          "example": "Lorsqu’une description semble contradictoire, faites une pause avant de la forcer à entrer dans une catégorie familière. Demandez-vous si la catégorie elle-même n’est pas trop étroite.",
+          "context": "",
+          "staging": [
+            "A single light appears through many surfaces without splitting into rival sources. The image is suggestive, not a scientific model."
+          ]
+        },
+        {
+          "id": "13.4",
+          "title": "Voir par-delà les différences",
+          "ref": 28,
+          "range": "13.20–35",
+          "source": "13.20–35.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "La nature fait naître les instruments changeants et les actions. Le principe conscient éprouve le plaisir et la douleur ; l’attachement aux qualités de la nature le lie à l’incarnation.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Certains approchent la compréhension par la méditation, d’autres par la connaissance, d’autres par l’action, et d’autres encore en écoutant puis en mettant en pratique ce qu’ils entendent.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Vois également dans les êtres la présence suprême, qui demeure au milieu de ce qui périt. Apprends à distinguer le champ de celui qui le connaît, et à discerner la voie qui mène au-delà de l’asservissement.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le chapitre ramène le discernement au regard égal. Voir une présence spirituelle commune remet en question l’indifférence et le mépris.",
+          "example": "Avant de réduire quelqu’un à une étiquette ou à un seul acte, rappelez-vous que sa vie intérieure ne se réduit pas au regard que vous portez actuellement sur lui.",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "Kshetra signifie champ ; kshetrajna désigne celui qui le connaît. Il s’agit d’une recherche spirituelle sur le corps, l’expérience et la conscience. Les traditions diffèrent quant à la relation précise entre le connaisseur individuel et le divin ; la représentation visuelle ne doit pas trancher discrètement ce débat.",
+      "reflection": "Pouvez-vous remarquer une pensée ou un sentiment sans en faire toute la définition de qui vous êtes ?"
+    },
+    {
+      "n": 14,
+      "title": "Les forces en nous",
+      "sanskrit": "गुणत्रयविभागयोग",
+      "subtitle": "Clarté, agitation et inertie",
+      "mood": "earth",
+      "scenes": [
+        {
+          "id": "14.1",
+          "title": "Trois qualités",
+          "ref": 5,
+          "range": "14.1–9",
+          "source": "14.1–9.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Les trois qualités de la nature lient le Soi qui demeure à la vie incarnée. Ce sont sattva, rajas et tamas.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Sattva apporte lumière et clarté, mais lie par l’attachement au bonheur et à la connaissance. Rajas apporte le désir avide et l’activité agitée, et lie par l’action. Tamas obscurcit la compréhension par la négligence, l’inertie et le sommeil.",
+              "bridge": false
+            }
+          ],
+          "simple": "Les gunas sont des qualités qui interagissent, et non trois types permanents de personnes. Observez les tendances sans les transformer en identités fixes.",
+          "example": "Après un bon repos, vous pouvez penser clairement ; sous la pression, vous pouvez devenir agité ; une fois épuisé, vous pouvez vous replier. Ces observations peuvent vous aider à reconnaître des conditions changeantes.",
+          "context": "",
+          "staging": [
+            "The same landscape passes through clear light, agitated movement and obscuring haze. No quality is assigned permanently to a character's skin, identity or social group."
+          ]
+        },
+        {
+          "id": "14.2",
+          "title": "Reconnaître le mouvement",
+          "ref": 11,
+          "range": "14.10–18",
+          "source": "14.10–18.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Les qualités prennent et perdent de la force les unes par rapport aux autres. La clarté signale sattva ; l’avidité et l’effort incessant signalent rajas ; la confusion et la négligence signalent tamas.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Leur influence façonne la conduite et ses conséquences, y compris le cours des naissances futures. Apprends à reconnaître ce qui prend de la force en toi.",
+              "bridge": false
+            }
+          ],
+          "simple": "Demandez-vous quelle qualité façonne votre attention en ce moment. La prise de conscience laisse une place à une réponse plus réfléchie.",
+          "example": "Avant de prendre une décision, remarquez si vous avez les idées claires, si vous êtes agité ou trop épuisé pour réfléchir. Dans la mesure du possible, améliorez les conditions avant de décider.",
+          "context": "",
+          "staging": [
+            "The effects overlap. They never become three sealed rooms or fixed personality categories."
+          ]
+        },
+        {
+          "id": "14.3",
+          "title": "Ne plus se laisser emporter",
+          "ref": 19,
+          "range": "14.19–25",
+          "source": "14.19–25.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Comment se comporte celui qui a dépassé ces qualités ? Comment peut-on les dépasser ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Une telle personne ne déteste ni la clarté, ni l’activité, ni la confusion lorsqu’elles apparaissent, et ne les désire pas avidement lorsqu’elles s’en vont. Elle reconnaît les qualités à l’œuvre et demeure stable.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Elle est moins liée par le plaisir et la douleur, les éloges et les reproches, l’amitié et l’hostilité, ou le besoin de faire de chaque entreprise une possession de l’ego.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le but n’est pas de maîtriser chaque humeur passagère. Il est de relâcher l’identification qui transforme une humeur en une définition complète de vous-même.",
+          "example": "Au lieu de dire : « Je suis un échec », remarquez : « Le découragement est présent. » Ce sentiment compte toujours, mais il n’a plus à définir la personne tout entière.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "14.4",
+          "title": "Au-delà même de la clarté",
+          "ref": 26,
+          "range": "14.26–27",
+          "source": "14.26–27.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Celui qui me sert avec une dévotion inébranlable dépasse les trois qualités et devient apte à atteindre Brahman.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je suis le fondement de Brahman impérissable, de l’immortalité, du dharma qui demeure et du bonheur complet.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le but de la Gita est la liberté spirituelle, et pas simplement le calme. La dévotion conduit l’enseignement au-delà de la gestion des humeurs.",
+          "example": "Appréciez une journée paisible sans exiger que toutes les journées procurent le même sentiment. Laissez votre engagement résister aux changements du climat émotionnel.",
+          "context": "",
+          "staging": [
+            "The coloured movements gather into the branches of a tree. The next chapter asks what holds that whole structure in place."
+          ]
+        }
+      ],
+      "understand": "Les gunas sont des qualités de la nature qui jouent des rôles éthiques, psychologiques et cosmologiques dans l’enseignement. Ce ne sont ni des diagnostics médicaux ni trois types de personnalité immuables. Le but est une libération au-delà de ces qualités, et non une bonne humeur permanente.",
+      "reflection": "Qu’est-ce qui façonne votre attention en ce moment : la clarté, un désir agité, ou la difficulté à vous engager ?"
+    },
+    {
+      "n": 15,
+      "title": "Des racines au-delà du regard",
+      "sanskrit": "पुरुषोत्तमयोग",
+      "subtitle": "L’arbre de la vie et la Personne suprême",
+      "mood": "green",
+      "scenes": [
+        {
+          "id": "15.1",
+          "title": "L’arbre inversé",
+          "ref": 1,
+          "range": "15.1–4",
+          "source": "15.1–4.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Imagine un arbre qui demeure, avec ses racines en haut et ses branches en bas. Ses feuilles sont les hymnes védiques. Ses branches sont nourries par les qualités de la nature ; ses pousses s’étendent vers les objets des sens.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "D’autres racines lient les êtres par l’action. Son commencement et toute son étendue ne se laissent pas facilement voir ici. Tranche l’emprise qui enchaîne par un ferme détachement, et cherche la source d’où est né ce mouvement ancien.",
+              "bridge": false
+            }
+          ],
+          "simple": "L’arbre est une métaphore spirituelle de l’existence conditionnée. Trancher l’attachement signifie desserrer les liens de l’asservissement, et non détruire la nature ou abandonner la sollicitude.",
+          "example": "Un désir avide peut faire pousser des branches de comparaison, de dépenses et d’anxiété. Remontez vers la racine de ce mécanisme au lieu de n’en tailler qu’une seule conséquence.",
+          "context": "",
+          "staging": [
+            "A vast peepal tree unfolds with roots above and branches below. It surrounds the chariot as a teaching image; its leaves bear light rather than a mass of unreadable text."
+          ]
+        },
+        {
+          "id": "15.2",
+          "title": "Le voyageur",
+          "ref": 7,
+          "range": "15.5–11",
+          "source": "15.5–11.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Libre d’orgueil et d’illusion, surmontant l’attachement possessif, le chercheur se tourne vers la destination impérissable.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le Soi vivant qui demeure est une part de moi. Il attire l’esprit et les sens dans la vie incarnée et les emporte ensuite, comme le vent emporte un parfum depuis sa source.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le discernement exercé voit ce qui échappe à un regard non formé.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna décrit la relation du Soi individuel au divin et son passage à travers l’incarnation. Les traditions interprètent cette relation de différentes manières.",
+          "example": "Vos habitudes influencent ce que vous remarquez, où que vous alliez. À titre d’analogie pratique, changer de cadre ne modifie pas automatiquement les schémas que vous emportez avec vous.",
+          "context": "",
+          "staging": [
+            "A trace of fragrance passes through the branches. It does not become a literal glowing human soul flying out of a body."
+          ]
+        },
+        {
+          "id": "15.3",
+          "title": "Ce qui soutient la vie",
+          "ref": 15,
+          "range": "15.12–15",
+          "source": "15.12–15.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’éclat du soleil, de la lune et du feu est mien. En pénétrant la terre, je soutiens les êtres. Je nourris les plantes et je soutiens le feu par lequel les aliments sont digérés.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je demeure dans chaque cœur. La mémoire, la connaissance et leur perte viennent de moi. À travers les Védas, c’est moi qui dois être connu.",
+              "bridge": false
+            }
+          ],
+          "simple": "L’enseignement dirige l’attention vers le soutien divin de la vie corporelle et mentale. Il invite à la gratitude, plutôt qu’à une vision purement mécanique de l’existence.",
+          "example": "Avant un repas, faites une pause pour apprécier la nourriture, la digestion et les nombreux soutiens que vous n’avez pas créés vous-même.",
+          "context": "",
+          "staging": [
+            "Light travels from the large tree to a small leaf, then returns us to the living figures on the chariot."
+          ]
+        },
+        {
+          "id": "15.4",
+          "title": "La Personne suprême",
+          "ref": 18,
+          "range": "15.16–20",
+          "source": "15.16–20.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Il y a le périssable et l’impérissable. Au-delà d’eux se trouve la Personne suprême, qui pénètre les mondes et les soutient.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Parce que je transcende le périssable et que je suis au-delà de l’impérissable, on m’appelle Purushottama, la Personne suprême. Celui qui me connaît ainsi m’adore de tout son être.",
+              "bridge": false
+            }
+          ],
+          "simple": "Purushottama signifie la Personne suprême, ou la plus haute. Le chapitre rassemble ses images dans une présentation théologique de la réalité ultime de Krishna.",
+          "example": "Certaines questions cherchent une technique utile ; d’autres demandent sur quoi votre vie repose en dernier ressort. Faites aussi une place à ce second type de question.",
+          "context": "",
+          "staging": []
+        }
+      ],
+      "understand": "L’arbre concerne l’existence conditionnée et l’asservissement ; ce n’est pas un ordre de rejeter la nature. Les relations entre le Soi individuel, l’impérissable et Krishna reçoivent différentes explications selon les traditions ; préservez ces distinctions dans une lecture attentive.",
+      "reflection": "Quel attachement a étendu ses branches dans une plus grande part de votre vie que vous ne l’aviez d’abord compris ?"
+    },
+    {
+      "n": 16,
+      "title": "Ce que nous cultivons",
+      "sanskrit": "दैवासुरसम्पद्विभागयोग",
+      "subtitle": "Les qualités qui libèrent et celles qui enchaînent",
+      "mood": "earth",
+      "scenes": [
+        {
+          "id": "16.1",
+          "title": "Les qualités qui libèrent",
+          "ref": 1,
+          "range": "16.1–5",
+          "source": "16.1–5.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’absence de peur, la pureté du cœur, la constance dans la connaissance, la générosité et la maîtrise de soi font partie des qualités divines.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Il en va de même de la véracité, du refus de nuire, de l’absence de colère, de la compassion, de la douceur, de la modestie et de l’absence de malveillance.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ces qualités conduisent vers la liberté. L’orgueil, l’arrogance, la colère, la dureté et l’ignorance enchaînent. Ne désespère pas, Arjuna ; tu es pourvu de qualités divines.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le caractère se cultive par la pratique. Cette liste donne des directions concrètes dans lesquelles votre conduite peut progresser.",
+          "example": "Choisissez une qualité pour une journée ordinaire, la véracité, la patience ou la générosité, et cherchez une petite situation dans laquelle vous pourrez réellement la pratiquer.",
+          "context": "",
+          "staging": [
+            "Our attention returns to human gestures: an open hand, a lowered fist, someone listening. This is a contemplative montage, not invented events within the armies."
+          ]
+        },
+        {
+          "id": "16.2",
+          "title": "Une faim sans fin",
+          "ref": 12,
+          "range": "16.6–16",
+          "source": "16.6–16.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Lorsque les êtres abandonnent le discernement de ce qu’il faut faire et ne pas faire, le désir peut devenir leur seule règle.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Ils pensent : j’ai obtenu ceci ; j’obtiendrai davantage. Ce rival est vaincu ; j’en vaincrai un autre. Ils s’empêtrent dans l’anxiété, liés par d’innombrables attentes, et cherchent la richesse par des moyens injustes.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le chapitre critique des schémas destructeurs de pensée et de conduite. Il n’invite pas à qualifier des groupes humains de mauvais par nature.",
+          "example": "Remarquez quand un objectif se déplace dès que vous l’atteignez. Demandez-vous si cette poursuite a un sens ou si elle est devenue une habitude de toujours vouloir davantage.",
+          "context": "",
+          "staging": [
+            "A hand closes around more than it can hold. The material falls, but the grip tightens."
+          ]
+        },
+        {
+          "id": "16.3",
+          "title": "Trois portes",
+          "ref": 21,
+          "range": "16.17–22",
+          "source": "16.17–22.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "L’importance que l’on s’accorde peut même transformer le sacrifice en spectacle. Le désir, la colère et l’avidité sont trois portes qui mènent à la ruine. Abandonne-les.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Libérée de ces forces, une personne peut agir pour son véritable bien et avancer vers le but suprême.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le désir désigne ici une convoitise dévorante, et non chaque préférence ordinaire. Surveillez les impulsions qui rétrécissent le jugement et négligent les conséquences.",
+          "example": "Avant d’envoyer un message de colère, de prendre un avantage injuste ou de poursuivre un gain risqué, faites une pause et nommez l’impulsion qui vous presse.",
+          "context": "",
+          "staging": [
+            "Three narrowing passages are suggested through shadow, not built as a literal new underworld level. The return is to a hand opening."
+          ]
+        },
+        {
+          "id": "16.4",
+          "title": "Un guide au-delà de l’impulsion",
+          "ref": 24,
+          "range": "16.23–24",
+          "source": "16.23–24.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Celui qui rejette la direction donnée par l’enseignement et n’agit que selon le désir n’atteint ni l’accomplissement, ni le bonheur, ni le but suprême.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Laisse l’enseignement guider ton discernement de ce qu’il faut faire et de ce qu’il faut éviter. Après l’avoir compris, agis.",
+              "bridge": false
+            }
+          ],
+          "simple": "La Gita vous demande de consulter le shastra, l’enseignement qui fait autorité, plutôt que de traiter le désir immédiat comme la mesure ultime.",
+          "example": "Lorsqu’un choix vous tente, comparez-le aux engagements et aux principes éthiques que vous approuvez quand vous avez les idées claires. Si le conflit demeure, cherchez un conseil réfléchi.",
+          "context": "",
+          "staging": [
+            "Arjun raises the question that follows naturally: what about sincere faith that does not follow those prescriptions?"
+          ]
+        }
+      ],
+      "understand": "Le chapitre décrit des qualités et des schémas de conduite. Notre adaptation ne doit pas utiliser son langage pour qualifier de démoniaques une ethnie, une religion ou un groupe social du monde réel. Son appel au shastra, l’enseignement qui fait autorité, est préservé, plutôt que remplacé par : « Suivez tout ce qui vous semble juste. »",
+      "reflection": "Quelle qualité vos actes répétés renforcent-ils ?"
+    },
+    {
+      "n": 17,
+      "title": "Le cœur d’une offrande",
+      "sanskrit": "श्रद्धात्रयविभागयोग",
+      "subtitle": "Foi, parole, discipline et don",
+      "mood": "gold",
+      "scenes": [
+        {
+          "id": "17.1",
+          "title": "Qu’est-ce qui façonne la foi ?",
+          "ref": 3,
+          "range": "17.1–10",
+          "source": "17.1–10.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Qu’en est-il des personnes qui pratiquent leur culte avec foi, mais laissent de côté l’enseignement prescrit ? Quelle est la nature de leur foi ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La foi reflète la nature de la personne et est façonnée par les trois qualités. Ce en quoi l’on place sa foi contribue à façonner ce que l’on devient.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Même les préférences alimentaires reflètent ces qualités. Les pratiques sévères animées par la vanité et le désir, qui tourmentent le corps et le divin en lui, ne deviennent pas saintes par leur sévérité.",
+              "bridge": false
+            }
+          ],
+          "simple": "Shraddha est une orientation profonde de la confiance. Examinez les qualités que vos pratiques cultivent réellement.",
+          "example": "Demandez-vous si une routine vous rend plus lucide et plus bienveillant, ou simplement plus fier de votre endurance. La difficulté seule ne prouve pas la valeur.",
+          "context": "",
+          "staging": []
+        },
+        {
+          "id": "17.2",
+          "title": "La discipline du corps, de la parole et de l’esprit",
+          "ref": 15,
+          "range": "17.11–19",
+          "source": "17.11–19.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Une offrande peut être faite par devoir sans désir avide de récompense, ou par désir de gain et d’ostentation, ou sans se soucier du soin et des indications à respecter.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "La discipline du corps comprend la pureté, la sincérité, la maîtrise de soi et le refus de nuire. La discipline de la parole unit la vérité à ce qui est attentionné et bénéfique, ainsi qu’à l’étude. La discipline de l’esprit comprend le calme, la douceur, la maîtrise de soi et la sincérité.",
+              "bridge": false
+            }
+          ],
+          "simple": "La vérité et la bienveillance vont de pair avec l’utilité. Cela n’exige pas d’éviter toute conversation difficile.",
+          "example": "Avant de formuler une critique, demandez-vous : est-elle exacte, utile et exprimée avec soin ? Vous pouvez être direct sans ajouter d’humiliation.",
+          "context": "",
+          "staging": [
+            "One figure prepares to speak; the gesture slows before the words are released. The scene invites attention to intention without asking the reader to perform a breathing exercise."
+          ]
+        },
+        {
+          "id": "17.3",
+          "title": "Le même don, un acte différent",
+          "ref": 20,
+          "range": "17.20–22",
+          "source": "17.20–22.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Un don fait parce qu’il doit être fait, au moment et au lieu appropriés, à une personne qui ne peut rien rendre en retour, est façonné par sattva.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Donner à contrecœur ou dans l’attente d’un retour est façonné par rajas. Donner à un moment ou dans un lieu inapproprié, sans respect ni soin, est façonné par tamas.",
+              "bridge": false
+            }
+          ],
+          "simple": "La générosité comprend l’intention, le moment et le respect. Celui qui reçoit ne devrait pas devenir le débiteur de votre besoin d’admiration.",
+          "example": "Aidez quelqu’un d’une manière qui lui soit utile. Évitez de transformer ce service en un droit futur sur son temps, sa loyauté ou ses éloges.",
+          "context": "",
+          "staging": [
+            "Three brief images show an offering given respectfully, given while waiting for repayment, and tossed carelessly toward its recipient. No version uses a humiliating depiction of poverty."
+          ]
+        },
+        {
+          "id": "17.4",
+          "title": "Om, Tat, Sat",
+          "ref": 23,
+          "range": "17.23–28",
+          "source": "17.23–28.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Om, Tat, Sat : ces désignations sacrées de Brahman accompagnent le sacrifice, le don et la discipline.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Tat oriente l’acte au-delà d’une revendication personnelle sur sa récompense. Sat est associé à l’être, à la bonté et à la constance dans une action digne. Une offrande vide de foi manque du fondement spirituel dont elle semble se réclamer.",
+              "bridge": false
+            }
+          ],
+          "simple": "Une formule sacrée ne remplace pas la sincérité. Le chapitre se clôt en revenant de l’accomplissement extérieur à l’orientation intérieure de l’acte.",
+          "example": "Avant de faire quelque chose qui compte, prenez un moment pour vous rappeler sa finalité. Une intention claire peut empêcher la tâche de devenir une simple mise en scène.",
+          "context": "",
+          "staging": [
+            "The three words may appear once in Sanskrit with a short English explanation. They are not buttons that trigger a magical reward."
+          ]
+        }
+      ],
+      "understand": "Shraddha est la foi, ou une confiance profondément ancrée, qui s’exprime à travers une vie. Le chapitre examine la nourriture, le culte, la discipline et le don à travers les gunas ; les catégories alimentaires ne sont pas présentées comme des conseils nutritionnels modernes.",
+      "reflection": "Qu’est-ce qui change dans un don lorsque vous cessez de tenir un compte invisible de ce qui devrait vous revenir ?"
+    },
+    {
+      "n": 18,
+      "title": "Le choix demeure",
+      "sanskrit": "मोक्षसंन्यासयोग",
+      "subtitle": "Responsabilité, abandon au divin et clarté",
+      "mood": "dawn",
+      "scenes": [
+        {
+          "id": "18.1",
+          "title": "Que faut-il abandonner ?",
+          "ref": 9,
+          "range": "18.1–18",
+          "source": "18.1–18.",
+          "beats": [
+            {
+              "speaker": "Arjuna",
+              "text": "Explique-moi clairement la différence entre le renoncement et le détachement.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le renoncement est compris comme le fait de délaisser les actions motivées par le désir. Le détachement consiste à abandonner l’attachement aux fruits de l’action.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Le sacrifice, le don et la discipline ne doivent pas être simplement abandonnés. Accomplis-les sans possessivité ni exigence de récompense. Délaisser un devoir uniquement parce qu’il est difficile n’est pas le détachement le plus élevé.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Une action dépend de plusieurs conditions : son cadre, celui qui agit, les instruments, les différents efforts et le facteur divin. Voir le Soi isolé comme l’unique cause, c’est voir de manière incomplète.",
+              "bridge": false
+            }
+          ],
+          "simple": "Tyaga signifie détachement, au sens de lâcher prise. Krishna distingue l’abandon de l’attachement du simple refus d’une action nécessaire.",
+          "example": "Effectuez la réparation ou présentez les excuses qui vous reviennent. Vous ne pouvez pas maîtriser le fait d’en recevoir des éloges ou un pardon immédiat, mais cette incertitude n’a pas à vous en empêcher.",
+          "context": "",
+          "staging": [
+            "The original battlefield begins to return around the teaching landscape."
+          ]
+        },
+        {
+          "id": "18.2",
+          "title": "Discerner le travail qui te revient",
+          "ref": 47,
+          "range": "18.19–48",
+          "source": "18.19–48.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "La connaissance peut reconnaître une seule réalité qui demeure à travers de nombreux êtres, ou ne voir que leur séparation, ou s’accrocher à un fragment comme s’il était le tout.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "L’action, celui qui agit, la compréhension, la détermination et le bonheur sont eux aussi façonnés par les qualités. Ce qui semble agréable au début peut enchaîner plus tard ; ce qui demande d’abord un effort peut conduire vers la clarté.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Krishna s’exprime dans l’ordre social de l’épopée et décrit les devoirs de ses quatre varnas. Il ramène ensuite Arjuna à la responsabilité à laquelle il lui revient de faire face.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Par son propre travail, chacun peut honorer la source d’où naissent les êtres. Mieux vaut accomplir imparfaitement son propre devoir que bien accomplir celui d’un autre. Toute entreprise comporte une part de défaut, comme le feu s’accompagne de fumée.",
+              "bridge": false
+            }
+          ],
+          "simple": "Le texte aborde le travail dans son cadre social historique. Ce récit met l’accent sur le discernement de la responsabilité et des aptitudes ; il ne fait pas du statut social une mesure de la valeur humaine.",
+          "example": "Apprenez des autres sans copier leur vie entière. Demandez-vous quelles responsabilités et quelles capacités sont réellement les vôtres, et acceptez qu’un travail qui a du sens comporte toujours des difficultés.",
+          "context": "Les versets 18.41–48 concernent le varna et le devoir au sein du cadre social du texte. Il ne s’agit pas simplement d’une consigne moderne invitant à « suivre sa passion ». Voir la note de contexte sur la hiérarchie sociale et le svadharma.",
+          "staging": []
+        },
+        {
+          "id": "18.3",
+          "title": "Réfléchis à ce que tu as entendu",
+          "ref": 63,
+          "range": "18.49–63",
+          "source": "18.49–63.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Avec une compréhension purifiée, la maîtrise de soi, la liberté à l’égard de l’orgueil et de la possessivité, et un cœur qui n’est plus gouverné par le désir avide, le chercheur devient prêt pour Brahman. Par la dévotion, je suis connu en vérité.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Offre-moi tes actions. Prends refuge en moi. Si l’orgueil te fait refuser d’écouter, il t’égarera ; ta propre nature continuera de te pousser.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Je t’ai ouvert cet enseignement. Examine-le à fond. Puis agis selon ton choix.",
+              "bridge": false
+            }
+          ],
+          "simple": "Krishna demande explicitement à Arjuna de réfléchir et de choisir. Être guidé devrait approfondir le discernement plutôt que le remplacer par une obéissance irréfléchie.",
+          "example": "Lorsqu’un conseil compte, examinez-le soigneusement et comprenez ses raisons. Acceptez ensuite la responsabilité de la décision que vous prenez.",
+          "context": "",
+          "staging": [
+            "Krishna and Arjun are once again at the ordinary scale of two figures speaking. The armies are fully visible. There is no animated \"correct answer\" waiting above Arjun.",
+            "Leave space after the line. Do not end the chapter here; Krishna speaks again."
+          ]
+        },
+        {
+          "id": "18.4",
+          "title": "Je suis prêt",
+          "ref": 73,
+          "range": "18.64–78",
+          "source": "18.64–78. Lifting the bow is authored visual staging of Arjun's resolve in 18.73, not an additional quoted event.",
+          "beats": [
+            {
+              "speaker": "Krishna",
+              "text": "Tu m’es cher, alors écoute encore ma parole la plus profonde. Que ton esprit repose en moi. Sois-moi dévoué, adore-moi et incline-toi devant moi. Tu viendras à moi ; je te le promets parce que tu m’es cher.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "Abandonne tous les dharmas et prends refuge en moi seul. Je te délivrerai de tout péché. Ne t’afflige pas.",
+              "bridge": false
+            },
+            {
+              "speaker": "Krishna",
+              "text": "As-tu écouté avec attention, Arjuna ? La confusion née de l’ignorance s’est-elle dissipée ?",
+              "bridge": false
+            },
+            {
+              "speaker": "Arjuna",
+              "text": "Par ta grâce, ma confusion s’est dissipée. J’ai retrouvé ma compréhension. Je me tiens fermement, libre de doute. J’agirai selon ta parole.",
+              "bridge": false
+            },
+            {
+              "speaker": "Sanjaya",
+              "text": "Voilà la conversation que j’ai entendue, une merveille qui m’émeut encore lorsque je m’en souviens. Là où Krishna, maître du yoga, et Arjuna, l’archer, se tiennent ensemble, je vois la fortune, la victoire, l’épanouissement et une conduite juste et constante.",
+              "bridge": false
+            }
+          ],
+          "simple": "La fin unit la dévotion, la clarté et l’action responsable. Le chemin ne promet pas une vie sans difficulté ; il montre une relation transformée à celle-ci.",
+          "example": "Emportez un enseignement dans la prochaine décision réelle qui se présente à vous. Laissez cette compréhension devenir une action réfléchie, aussi petite soit-elle.",
+          "context": "",
+          "staging": [
+            "No burst of light. Krishna's familiar hand rests near the reins. The word about surrender is allowed its weight.",
+            "Arjun reaches for the bow. Match the opening composition: the same hand, now steady. The people across the field remain recognisable. Readiness does not erase the cost of what follows."
+          ]
+        }
+      ],
+      "understand": "La conclusion unit le discernement, l’action, la dévotion et l’abandon au divin. L’invitation à choisir au verset 18.63 est suivie d’un enseignement supplémentaire de Krishna et de la réponse d’Arjuna. Les interprétations de « abandonne tous les dharmas », au verset 18.66, diffèrent ; ne réduisez cette parole ni à une désinvolture envers les règles, ni à un ordre de cesser de prendre soin d’autrui.",
+      "reflection": "Que signifierait agir avec davantage de clarté dans la vie qui s’offre à vous ?"
+    }
+  ]
+}

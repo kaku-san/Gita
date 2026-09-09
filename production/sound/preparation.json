@@ -1,0 +1,110 @@
+{
+  "method": "32 kHz; stereo wind, mono positional layers; 160 ms loop overlap; RMS normalization with peak ceiling",
+  "listening_review": "pending",
+  "files": [
+    {
+      "file": "field-wind.mp3",
+      "source_sha256": "d3e4d233ba4f5847bb87a0e28d243e075d195d20fbf2c7af5b01c13e74e18811",
+      "runtime_sha256": "c22f7b786bca71808ea0677494751c0a7c6fcfe764a34ec2da108bd5f62ab91f",
+      "channels": 2,
+      "sample_rate": 32000,
+      "seconds": 29.84,
+      "bytes": 478701,
+      "loop_overlap_seconds": 0.16,
+      "rms_dbfs": -25.44,
+      "peak_dbfs": -6.12,
+      "wrap_step": 0.008473638445138931
+    },
+    {
+      "file": "army-murmur.mp3",
+      "source_sha256": "591382a1431ebae2741c1a2ed4bba7ea274f5b31a90303683886b7c4fc994acb",
+      "runtime_sha256": "e2ab1032c85ca4945d3bc39103da6328c2e973d745bdda6c96c9da4fdda09b4e",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 29.84,
+      "bytes": 359037,
+      "loop_overlap_seconds": 0.16,
+      "rms_dbfs": -25.44,
+      "peak_dbfs": -6.92,
+      "wrap_step": 0.004258329980075359
+    },
+    {
+      "file": "combat-left.mp3",
+      "source_sha256": "b91779facdd219acae2fecdf505789e1f3fdf1c3b5e2d5d816d42361529f50f7",
+      "runtime_sha256": "f418701391d9e3e75fef9de02323abb87d668a0fa2c87ce32095151b6cf8d06f",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 12.0,
+      "bytes": 145197,
+      "loop_overlap_seconds": 0.0,
+      "rms_dbfs": -25.43,
+      "peak_dbfs": -5.04,
+      "wrap_step": null
+    },
+    {
+      "file": "combat-right.mp3",
+      "source_sha256": "c6e92db583b959f14a5e6c52c4704f13d468933782df05c42a8d91ca148416e0",
+      "runtime_sha256": "9865ced93c16781a9fff1a24964f6640f3e4adf8121d3de704d92aa38e8b8e6f",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 12.0,
+      "bytes": 145197,
+      "loop_overlap_seconds": 0.0,
+      "rms_dbfs": -29.32,
+      "peak_dbfs": -4.15,
+      "wrap_step": null
+    },
+    {
+      "file": "horse-walk.mp3",
+      "source_sha256": "36b39e29f02e03bf42cbd261d94e918af96da2b016474b7071646ed07a8b5dc3",
+      "runtime_sha256": "9919ce966863709655bb60c08b169948efff9a29f3ad4b771b806bdb28fe3417",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 19.84,
+      "bytes": 239373,
+      "loop_overlap_seconds": 0.16,
+      "rms_dbfs": -30.07,
+      "peak_dbfs": -4.48,
+      "wrap_step": 0.0008595632389187813
+    },
+    {
+      "file": "horse-breath.mp3",
+      "source_sha256": "e352283d10a38dda435ee96c264069b1445b63a9206e013019e0b1dbc3b2c6f1",
+      "runtime_sha256": "625f66a752d3c5c13c54cad414528b1a0600ab161da38cf15ce0192ca2eceb33",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 5.0,
+      "bytes": 60957,
+      "loop_overlap_seconds": 0.0,
+      "rms_dbfs": -32.41,
+      "peak_dbfs": -4.45,
+      "wrap_step": null
+    },
+    {
+      "file": "conch.mp3",
+      "source_sha256": "2a7a0449ace0269ef031140e41db47bb93a7f6fc4d1218fa5e507883ca661294",
+      "runtime_sha256": "7322cbc177cfe56a18fa205f6ec04755b59d788f6d445477fb5a3683e568610f",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 7.0,
+      "bytes": 85149,
+      "loop_overlap_seconds": 0.0,
+      "rms_dbfs": -25.45,
+      "peak_dbfs": -19.41,
+      "wrap_step": null
+    },
+    {
+      "file": "war-drum.mp3",
+      "source_sha256": "fa458f763af19103b7cd7c40429f4c38e1d9b3470f364530fd35d70f15c59b08",
+      "runtime_sha256": "f9719f6f298654b74c884d57edaaaab91c16faef14fb77fc168c7a6f694b636f",
+      "channels": 1,
+      "sample_rate": 32000,
+      "seconds": 8.0,
+      "bytes": 97245,
+      "loop_overlap_seconds": 0.0,
+      "rms_dbfs": -25.45,
+      "peak_dbfs": -6.14,
+      "wrap_step": null
+    }
+  ]
+}

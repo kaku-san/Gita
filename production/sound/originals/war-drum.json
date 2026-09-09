@@ -1,0 +1,18 @@
+{
+  "file": "war-drum.mp3",
+  "requested_at": "2026-09-09T10:33:11.978072+00:00",
+  "provider": "ElevenLabs",
+  "request": {
+    "text": "A few irregular distant deep ancient war drum strikes, skin and wooden body resonance in open air, restrained short signal, no continuous musical rhythm, no orchestra, no modern effects.",
+    "duration_seconds": 8,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2",
+    "prompt_influence": 0.4
+  },
+  "status": "generated",
+  "character_cost": "88",
+  "request_id": null,
+  "content_type": "audio/mpeg",
+  "bytes": 129193,
+  "sha256": "fa458f763af19103b7cd7c40429f4c38e1d9b3470f364530fd35d70f15c59b08"
+}

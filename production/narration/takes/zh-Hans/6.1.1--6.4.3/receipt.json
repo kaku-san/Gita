@@ -1,0 +1,128 @@
+{
+  "status": "generated",
+  "fingerprint": "1a2bcec5c78a33dbb710b86d50a3403f762a6c9e718094d499b1bf8a4a833b80",
+  "submitted_at": "2026-09-09T11:21:55.096421+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "不依赖回报而完成必要工作的人，正在践行舍离与瑜伽。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "以自己的修持来提升自己。心可以成为你的盟友；任其失去约束，也可能与你作对。当它不再那么受制于快乐、痛苦、赞扬和轻蔑，内心就会逐渐坚定。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "找一个合适的地方，安稳地坐下，收拢注意力。让心转向我。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "吃得太多或太少，睡得太多或总是不睡，都无益于这瑜伽之道。在饮食、休息、活动和努力之间，保持平衡。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "安定的心，就像那簇火焰。通过修行，它能发现一种不依赖感官的喜悦。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "每当心念游走，就把它带回来。学习在其他众生中看见自己，也在自己中看见其他众生。认真对待他们的快乐和痛苦，就像对待自己的感受一样。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "可是心躁动不安，强劲而固执。要控制它，就像试图握住风。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "这确实困难。但通过练习，以及逐渐放松执著，心是可以训练的。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "怀着信心开始，却没能走完整条道路的人，会怎样？他们会不会迷失，无处归属？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "任何真诚向善的努力，都不会消失。这样的修行会延续下去，甚至穿越此后的多次生命，再次牵引求道者走向理解。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "继续前行吧。在瑜伽修行者中，我尤其珍重那内心安住于我、以信心和爱敬拜我的人。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "6.1.1",
+      "filename": "zh-Hans/6.1.1.mp3",
+      "textSha256": "3dec61a541eb1fc70e0b4d27cafc5a04fa35d288ecdfff6add6e75224b5bb520",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.1.2",
+      "filename": "zh-Hans/6.1.2.mp3",
+      "textSha256": "c9d10b3b9ddc0cac0dac318db8b98b53cb1ba27b292d566b5c25baf0ad17b9f6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.1",
+      "filename": "zh-Hans/6.2.1.mp3",
+      "textSha256": "baf31a98b31e70e495248480e239ca4edc7ea5c8cc900b99ef8aab049c5cf241",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.2",
+      "filename": "zh-Hans/6.2.2.mp3",
+      "textSha256": "47ff28af653733df7274e498a4cd7fd487e31168d774ef664eebcaa8db9d3c31",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.2.3",
+      "filename": "zh-Hans/6.2.3.mp3",
+      "textSha256": "372be0d56478a01b237548a33abdbe0811ab2ef3744e2c524d678c9ba8968289",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.1",
+      "filename": "zh-Hans/6.3.1.mp3",
+      "textSha256": "f9683c551ccc15e2b529c2c51a8b720f551a61d593d1e3cab25cfb9fa94964e6",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.3.2",
+      "filename": "zh-Hans/6.3.2.mp3",
+      "textSha256": "e083dd639039f9080567b45e2acbc7b25d7eeda9ee7d40255c61f88b1a63f306",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.3.3",
+      "filename": "zh-Hans/6.3.3.mp3",
+      "textSha256": "9debba40a342f9046bab769558e78cf5684388eeea7b43f6128ca361a34271c5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.1",
+      "filename": "zh-Hans/6.4.1.mp3",
+      "textSha256": "4ce47ffd5e95235564812e68f6bbc3202d3c33e4d81ae82df933a6adfb383f23",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "6.4.2",
+      "filename": "zh-Hans/6.4.2.mp3",
+      "textSha256": "4a990834d241f738462c096242b9f4841af35633d8f1cc88cc2baf3e0f6b5683",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "6.4.3",
+      "filename": "zh-Hans/6.4.3.mp3",
+      "textSha256": "d5fe4ca0910eca67e4825382db3e8396cb2790c07ea47b0dcf511d57eecc4d7b",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "244",
+  "request_id": "I6LfkeRlZe0oBD5ZLXcI",
+  "master_sha256": "9d847b89e0c05a732981fef621a505cbaa8668f20db92ff3a47bfd48502ff064"
+}

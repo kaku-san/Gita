@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "fb5d29c02236e43eb26468c9f63f86a16cd294bcf52d8153a8f517fd3ca3b20d",
+  "submitted_at": "2026-09-09T11:23:58.737808+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "Qu’entends-tu par Brahman, par le Soi et par karma ? Comment es-tu présent dans le monde incarné, et comment peut-on te connaître au moment de la mort ?",
+        "voice_id": "4p5WXd3ZuWR9pPtRQuxC"
+      },
+      {
+        "text": "Brahman est la réalité suprême, impérissable. Adhyatma concerne la nature spirituelle intérieure de chacun. Karma désigne ici l’action créatrice par laquelle naissent les êtres incarnés.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Le monde changeant est périssable. Il existe aussi un principe conscient qui le gouverne, et je suis présent dans le corps comme le seigneur du sacrifice.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "L’orientation de la conscience au moment de la mort compte. Ce qu’une personne a régulièrement gardé à l’esprit façonne cette orientation finale.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "C’est pourquoi, souviens-toi de moi en tout temps, et accomplis l’action qui t’attend. Offre-moi ton esprit et ta compréhension. Ce souvenir grandit par la pratique.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les chercheurs disciplinent leurs sens et leur esprit, en se souvenant de l’impérissable et du son sacré Om.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Les mondes apparaissent et se retirent au fil d’immenses périodes. Au-delà de ces changements existe une réalité éternelle qui ne périt pas lorsque les êtres périssent. C’est la destination suprême, que l’on approche par une dévotion sans partage.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "L’enseignement décrit une voie lumineuse dont on ne revient pas, et une autre par laquelle le voyageur revient. Connaissant ces voies, le yogi n’a pas à se laisser désorienter.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      },
+      {
+        "text": "Demeure établi dans le yoga en tout temps. Cette compréhension conduit au-delà des récompenses limitées du rituel, de l’étude, de l’ascèse et du don, vers l’origine suprême.",
+        "voice_id": "a5n9pJUnAhX4fn7lx3uo"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "fr",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "8.1.1",
+      "filename": "fr/8.1.1.mp3",
+      "textSha256": "dc1eed90631e92153ae24adbe0612695e13ef247133fb649b736cc67b2ee2157",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "8.1.2",
+      "filename": "fr/8.1.2.mp3",
+      "textSha256": "8c2eef85f751085c5adcf1f9288cdb710e22deb0f28b141421e246110ba58034",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.1.3",
+      "filename": "fr/8.1.3.mp3",
+      "textSha256": "7e5897fae24f610fb718fa32c795307f725ef1726b1623d3a06249ddb37abef8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.2.1",
+      "filename": "fr/8.2.1.mp3",
+      "textSha256": "d66941fed8258cf983bc1d29781432e143f219a4c803ff8a646dd6372601569f",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.2.2",
+      "filename": "fr/8.2.2.mp3",
+      "textSha256": "30b5e774adfb4c4db0ef92d300844475761e16d2339513658880f058bcf51efe",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.3.1",
+      "filename": "fr/8.3.1.mp3",
+      "textSha256": "fb5c06d7ea1c0b72d1609df81229755588548657ac3e9eb4b95e4ac41d286758",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.3.2",
+      "filename": "fr/8.3.2.mp3",
+      "textSha256": "c40d1b4ed390b1c914742206c2fc798d9a28b1b9da63ac6e5d01158886c1c1d8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.4.1",
+      "filename": "fr/8.4.1.mp3",
+      "textSha256": "7220549ce7c73b0441ecf3c046ef1e484c5ccea69747437cf67cf81977f09087",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "8.4.2",
+      "filename": "fr/8.4.2.mp3",
+      "textSha256": "22a414b9ed17f294f3f37366f9fc307f26bb1d288e10e956389a295230128dfa",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "828",
+  "request_id": "FO6uVydCzpDcLwZHP50Q",
+  "master_sha256": "0a66006e1ce74b3ace323e8c6727ac6904849d1af267e142d4424c79435916e3"
+}

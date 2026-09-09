@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "aacbbbd75046825eb03a49023eaa850027b86a3bff2ab1c26d607b7dbcb0b372",
+  "submitted_at": "2026-09-09T11:32:23.642922+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "自然の三つの性質が、存続する自己を、身体をもつ生に縛る。それらは、サットヴァ、ラジャス、タマスである。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "サットヴァは光と明晰さをもたらすが、幸福と知への執着によって縛る。ラジャスは渇望と落ち着かない活動をもたらし、行為によって縛る。タマスは、怠り、惰性、眠りを通じて、理解を覆い隠す。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "これらの性質は、互いに関わりながら強まり、弱まる。明晰さはサットヴァのしるしであり、貪欲と絶え間ない追求はラジャスのしるし、混乱と怠りはタマスのしるしである。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "それらの影響は、行いとその結果を形づくり、さらに先の生まれ変わりの道筋にも及ぶ。自分の中で何が強まっているか、見分けることを学びなさい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "これらの性質を超えた人は、どのように振る舞うのですか。どうすれば、それらを超えられるのでしょうか。",
+        "voice_id": "Mv8AjrYZCBkdsmDHNwcB"
+      },
+      {
+        "text": "その人は、明晰さ、活動、混乱が現れても憎まず、去っても求めて渇望しない。性質が働いていると認め、揺るがずにいる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "その人は、快楽と苦痛、称賛と非難、友好と敵対に縛られにくい。また、すべての取り組みを自我の所有物にしなければならないという思いにも、とらわれにくい。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "揺るがぬ信愛を通じて私に仕える者は、三つの性質を超え、ブラフマンに至るにふさわしくなる。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私は、不滅のブラフマン、不死、永続するダルマ、そして完全な幸福の基盤である。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "14.1.1",
+      "filename": "ja/14.1.1.mp3",
+      "textSha256": "3a8345189a5fbb31e4abbee8b7c3f89f1abd99169ed37d842d4a51f46f6407cc",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.1.2",
+      "filename": "ja/14.1.2.mp3",
+      "textSha256": "f2e48e45bc2d675f25f6b82c8e30cab9ff09772d917723cec5027e347328b18a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.1",
+      "filename": "ja/14.2.1.mp3",
+      "textSha256": "13235f56255583708dccda4272feaa54d716a70a5003332fcf73e52947681299",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.2.2",
+      "filename": "ja/14.2.2.mp3",
+      "textSha256": "a4a3ed4d69d40c1da34fa6ab611e19df718b6e4edcf46049074a867d7d79014a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.1",
+      "filename": "ja/14.3.1.mp3",
+      "textSha256": "2d634675b167e53d7a0834a2e3593a9f6db733714211a13bd93a3a6ab6c08800",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "14.3.2",
+      "filename": "ja/14.3.2.mp3",
+      "textSha256": "cc7ce923800d00f2c76ea901b6891608f94478bb9b1c3e12d52c9c8e6efff57b",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.3.3",
+      "filename": "ja/14.3.3.mp3",
+      "textSha256": "13d79ba39e33a1d9725cfeae28f8d17ba9bb6640387099ebd49f588c3649e6ce",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.1",
+      "filename": "ja/14.4.1.mp3",
+      "textSha256": "ffe595fe522187eeda6ce5c4e0a2bf149f8a43e103700af3e5396ac9382bc0ac",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "14.4.2",
+      "filename": "ja/14.4.2.mp3",
+      "textSha256": "cf4bd3b4acf16f1fbd505601da6b6e9daf5c56070742e28e91a1df512c04baff",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "302",
+  "request_id": "FpTVjp8klSV4RE24c0ga",
+  "master_sha256": "443313b326d957966c85bf5aadef8a78cf02277c24584d9be230ea95ee708af7"
+}

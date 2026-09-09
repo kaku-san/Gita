@@ -1,0 +1,158 @@
+{
+  "status": "generated",
+  "fingerprint": "11c7839ea5d07aae413ed330b7345751fc93a6c85f07e9e362b113117964dce2",
+  "submitted_at": "2026-09-09T11:27:15.010959+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "你的教导，已经消除了我许多困惑。我听到了众生如何生起，又如何消逝。我想看见你至高无上的形相。如果你认为我能够承受，就请让我看见。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "看我的种种形相，色彩与样貌，无量无数。看整个世界聚集于此，看你从未见过的奇观。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "你平常的双眼，无法容纳这景象。我赐予你神圣的视野。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "随后，克里希纳显露了宇宙之相。它的光辉，超越了这片战场上曾有过的一切光明。",
+        "voice_id": "H9aY8kOUrDpSQdCRVQo5"
+      },
+      {
+        "text": "我看见众生与神圣力量，都在你之中。我找不到你的开始、你的中间，也找不到你的尽头。你的光辉，充满每一个方向。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我也看见我们的战士，走向毁灭。毗湿摩、德罗纳、持国王的儿子们，都奔向那里，如同河流奔向大海。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我无法平静。请告诉我，你以这可怕的形相显现，究竟是谁？",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我是时间，使诸世界走向终结。即使没有你，列阵于此的战士，也不会长存。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "起来，阿周那。成为成就此事的器具。这些战士，已经置身于那终结之中。面对你眼前的战斗。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "我曾称你为朋友，言语轻率，却不知道眼前的你何等伟大。请原谅我的无知。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "我满怀惊叹，也被恐惧震动。请再向我显现一种我能够承受的形相：头戴冠冕，手持权杖与飞轮，具有四臂。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "让恐惧平息。再看看你所祈求的形相。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      },
+      {
+        "text": "看见你温和的人形，我终于能够重新安定下来。",
+        "voice_id": "WuLq5z7nEcrhppO0ZQJw"
+      },
+      {
+        "text": "通过专一的虔敬，人才能真正认识我、看见我，并进入我。为我行动，以我为至高目标。摆脱执著，也放下对众生的敌意。",
+        "voice_id": "hZTuv9Zqrq4yHYrEmF1r"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "zh",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "11.1.1",
+      "filename": "zh-Hans/11.1.1.mp3",
+      "textSha256": "abb40e9f0161d5bed19b678496e33458fee0d8f1e4f0a817b3fe777bd3664ce2",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.1.2",
+      "filename": "zh-Hans/11.1.2.mp3",
+      "textSha256": "5fb839c84f701822885d607eccc9d7cf7a18c222f096be63058d3a42d1b2cd27",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.3",
+      "filename": "zh-Hans/11.1.3.mp3",
+      "textSha256": "5024e5103da2a993593d12a94cfeec5bbca0f41ca0f5fe3b5d92ba34673a39e5",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.1.4",
+      "filename": "zh-Hans/11.1.4.mp3",
+      "textSha256": "1898eb7d1c0250851ed885a92bd823afe2dd6176d08d92871713d12def0d556f",
+      "speakerKey": "Sanjaya"
+    },
+    {
+      "id": "11.2.1",
+      "filename": "zh-Hans/11.2.1.mp3",
+      "textSha256": "6c743ff193a376131d023221fd036eca5f4ee78c20cd19c7085ea297c1cf0f5e",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.2",
+      "filename": "zh-Hans/11.2.2.mp3",
+      "textSha256": "a14338db2cb4c883a2fb7d852f955d173fd1b6671c75e57f5d0dd8efa5fc2489",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.2.3",
+      "filename": "zh-Hans/11.2.3.mp3",
+      "textSha256": "5bb4d5ee7f9d68cf6851156e2b2c978b8a30f3e84881c5590be8b29911857a91",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.3.1",
+      "filename": "zh-Hans/11.3.1.mp3",
+      "textSha256": "635eaec5df23cc32ecd8317fe88efdd333b96c93f018a1a53d932ab5643cd628",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.3.2",
+      "filename": "zh-Hans/11.3.2.mp3",
+      "textSha256": "618ff12dbe962f443df2af2f54b7b67aaccdb638057d31fdc6929e5557cb227a",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.1",
+      "filename": "zh-Hans/11.4.1.mp3",
+      "textSha256": "762e033241b9cff2a0af69e6f16c957e7e7a2ea11acddab9c803229d5ffb8d70",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.2",
+      "filename": "zh-Hans/11.4.2.mp3",
+      "textSha256": "d8cb6e7eb71c8f31e666a11f043698ec8f648bd535fdb8832f3a07175194d472",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.3",
+      "filename": "zh-Hans/11.4.3.mp3",
+      "textSha256": "cd3c4ddf83ea8add46afbe90b4af608d575982d09068feab01acf412e98f404d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "11.4.4",
+      "filename": "zh-Hans/11.4.4.mp3",
+      "textSha256": "51dde13d0bdd35c21b7e3226d278e61d8e61b0aac19d52bbb5999bc06a2b5b7d",
+      "speakerKey": "Arjun"
+    },
+    {
+      "id": "11.4.5",
+      "filename": "zh-Hans/11.4.5.mp3",
+      "textSha256": "a3b187ceb0aea62369a00a2245ab0779c41a8eae3a10d2ce57f7b7094ff39de3",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "298",
+  "request_id": "VSzznDCLK3Wu1VfpmVdN",
+  "master_sha256": "3287be23e4c6411e3bfce03e9cd95a3d83f479fb4ebd0137c9be370c71c5542b"
+}

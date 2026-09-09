@@ -1,0 +1,108 @@
+{
+  "status": "generated",
+  "fingerprint": "8603f894a94955ae49c4211b43b6f6b658230fd5ee3fdfdfb3320335cf9c3d23",
+  "submitted_at": "2026-09-09T11:33:36.317741+00:00",
+  "request": {
+    "inputs": [
+      {
+        "text": "上に根があり、下に枝を伸ばす、存続する樹を思い描きなさい。その葉はヴェーダの讃歌である。枝は自然の性質によって養われ、若芽は感覚の対象へ向かって伸びている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "さらに伸びる根は、行為によって生きものを縛る。この場では、その始まりも、広がりの全体も、容易には見えない。確固として執着を離れ、その縛る力を断ち切りなさい。そして、この太古からの動きが生じた源を求めるのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "誇りと迷妄を離れ、所有への執着を乗り越え、探求者は、不滅の到達点へ向かう。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "存続する、生ける自己は、私の一部である。それは、心と感覚を身体をもつ生へと引き寄せ、さらに先へ運ぶ。風が香りを、その源から運ぶように。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "修練で養われた見分ける力は、鍛えられていないまなざしが見逃すものを見る。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "太陽、月、火の輝きは、私のものである。私は大地に入り、生きものを支える。草木を養い、食べ物を消化する火を支えている。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私は、すべての心に住む。記憶も、知も、それらが失われることも、私から生じる。ヴェーダを通じて、知られるべきものは私なのだ。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "滅びるものと、滅びないものがある。それらを超えて、諸世界に入り、それらを支える、至高の人格がある。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      },
+      {
+        "text": "私は滅びるものを超越し、滅びないもののさらに先にある。それゆえ、プルショーッタマ、至高の人格と呼ばれる。このように私を知る者は、全存在をもって礼拝する。",
+        "voice_id": "3JDquces8E8bkmvbh6Bc"
+      }
+    ],
+    "model_id": "eleven_v3",
+    "language_code": "ja",
+    "seed": 20260909,
+    "apply_text_normalization": "auto"
+  },
+  "passages": [
+    {
+      "id": "15.1.1",
+      "filename": "ja/15.1.1.mp3",
+      "textSha256": "fe3d9a84b51dc0282c34f8f6a4dc730a3bf3c89d8c7caf8d605124c2e963d51d",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.1.2",
+      "filename": "ja/15.1.2.mp3",
+      "textSha256": "6e4510585ca0b4a7d48fe79a3dba802de753795fc3ef339d75f4ac4cfc036781",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.1",
+      "filename": "ja/15.2.1.mp3",
+      "textSha256": "d3f30d671c5c329a71ffc639b33e66b8c1a950ed3469833704ee9377a2662250",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.2",
+      "filename": "ja/15.2.2.mp3",
+      "textSha256": "816066c2796ac7c58a24be9454c094ce92152a88654db2b06916322d40611346",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.2.3",
+      "filename": "ja/15.2.3.mp3",
+      "textSha256": "575e5c190a437788dce0f987fa15d1643abd5e99e98e13c09ad203f87bf61ae8",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.1",
+      "filename": "ja/15.3.1.mp3",
+      "textSha256": "0cd3f5ef13dd82d4f2e26e865e438c50d73f628c8e7a442010dc45f9a9e9a87c",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.3.2",
+      "filename": "ja/15.3.2.mp3",
+      "textSha256": "4b7d62a906701f28ccd754a0511619a6a284745999bda5c7c6ef89695549f8fb",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.1",
+      "filename": "ja/15.4.1.mp3",
+      "textSha256": "703dd0204e366aa6d1b677bb9385515c6fcbe83ce9ad452841f749b270384787",
+      "speakerKey": "Krishna"
+    },
+    {
+      "id": "15.4.2",
+      "filename": "ja/15.4.2.mp3",
+      "textSha256": "c39fcac76cbfa38b94d60cccbb4f88a8800728670b86103de41c10358fd6b2c3",
+      "speakerKey": "Krishna"
+    }
+  ],
+  "character_cost": "311",
+  "request_id": "Y6A1qgGgliatPejQzG5M",
+  "master_sha256": "ea51b3f89379c6cd645e5768e05da53b91b3b351f2a3119b3d8a3e3ed38adf09"
+}
